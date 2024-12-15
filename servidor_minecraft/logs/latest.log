@@ -413,3 +413,218 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 00:27:51.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Command Block] to TheHollowKingMC]
 [15Dec2024 00:28:18.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2169 120 1156 minecraft:zombie_head keep
 [15Dec2024 00:28:30.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian keep
+[15Dec2024 00:28:33.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian keep
+[15Dec2024 00:28:33.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:28:35.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian keep
+[15Dec2024 00:28:36.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian keep
+[15Dec2024 00:28:38.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian replace
+[15Dec2024 00:28:42.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian destroy
+[15Dec2024 00:28:42.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:28:44.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian destroy
+[15Dec2024 00:28:44.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:28:47.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian replace
+[15Dec2024 00:29:51.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:52.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:52.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:54.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:54.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:55.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:29:56.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:04.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:05.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:05.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:11.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:11.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:13.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:13.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:13.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:13.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:17.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:20.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:20.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:30.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock -2173 120 1160 minecraft:obsidian keep
+[15Dec2024 00:30:41.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:41.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:42.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:43.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:44.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:44.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:45.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Changed the block at -2173, 120, 1160]
+[15Dec2024 00:30:54.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tps
+[15Dec2024 00:31:14.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned
+[15Dec2024 00:31:35.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157
+[15Dec2024 00:31:51.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 run summon minecraft:zombie
+[15Dec2024 00:31:51.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:31:54.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 run summon minecraft:zombie
+[15Dec2024 00:31:54.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:31:55.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 run summon minecraft:zombie
+[15Dec2024 00:31:55.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:32:02.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 run summon minecraft:zombie
+[15Dec2024 00:32:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:32:03.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 run summon minecraft:zombie
+[15Dec2024 00:32:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:32:04.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 run summon minecraft:zombie
+[15Dec2024 00:32:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:32:09.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 as summon minecraft:zombie
+[15Dec2024 00:32:10.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 as summon minecraft:zombie
+[15Dec2024 00:32:28.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 as TheHollowKingMC run summon minecraft:zombie
+[15Dec2024 00:32:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:32:30.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 as TheHollowKingMC run summon minecraft:zombie
+[15Dec2024 00:32:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:32:30.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 as TheHollowKingMC run summon minecraft:zombie
+[15Dec2024 00:32:30.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:32:31.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute positioned -2174 121 1157 as TheHollowKingMC run summon minecraft:zombie
+[15Dec2024 00:32:31.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:35:01.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute facing -2174 121 1157 as TheHollowKingMC run summon minecraft:zombie
+[15Dec2024 00:35:01.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:35:05.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute facing -2174 121 1157 as TheHollowKingMC run summon minecraft:zombie
+[15Dec2024 00:35:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 00:35:38.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /me
+[15Dec2024 00:35:54.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /mythicmobs egg give TheHollowKingMC SkeletalKnight
+[15Dec2024 00:35:54.593] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15Dec2024 00:35:57.208] [Server thread/ERROR] [Minecraft/]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mythicmobs' in plugin MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:computing_frames,re:classloading}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin}
+Caused by: java.lang.ArrayStoreException: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+	at io.lumine.mythic.bukkit.utils.text.Text.sendMessage(Text.java:151) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.CommandHelper.sendSuccess(CommandHelper.java:28) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.eggs.GiveCommand.onCommand(GiveCommand.java:71) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:64) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 22 more
+[15Dec2024 00:35:57.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
+[15Dec2024 00:36:02.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /mythicmobs egg give TheHollowKingMC SkeletalKnight
+[15Dec2024 00:36:02.028] [Server thread/ERROR] [Minecraft/]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mythicmobs' in plugin MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:computing_frames,re:classloading}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin}
+Caused by: java.lang.ArrayStoreException: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+	at io.lumine.mythic.bukkit.utils.text.Text.sendMessage(Text.java:151) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.CommandHelper.sendSuccess(CommandHelper.java:28) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.eggs.GiveCommand.onCommand(GiveCommand.java:71) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:64) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 22 more
+[15Dec2024 00:36:16.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /mythicmobs egg give TheHollowKingMC SkeletalMinion
+[15Dec2024 00:36:16.579] [Server thread/ERROR] [Minecraft/]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mythicmobs' in plugin MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:computing_frames,re:classloading}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin}
+Caused by: java.lang.ArrayStoreException: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+	at io.lumine.mythic.bukkit.utils.text.Text.sendMessage(Text.java:151) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.CommandHelper.sendSuccess(CommandHelper.java:28) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.eggs.GiveCommand.onCommand(GiveCommand.java:71) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:64) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 22 more
+[15Dec2024 00:37:12.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /mythicmobs egg give TheHollowKingMC WITHER_SKELETON
+[15Dec2024 00:37:12.874] [Server thread/ERROR] [Minecraft/]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'mythicmobs' in plugin MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,re:computing_frames,re:classloading}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23177!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin}
+Caused by: java.lang.ArrayStoreException: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+	at io.lumine.mythic.bukkit.utils.text.Text.sendMessage(Text.java:151) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.CommandHelper.sendSuccess(CommandHelper.java:28) ~[?:?] {}
+	at io.lumine.mythic.bukkit.commands.eggs.GiveCommand.onCommand(GiveCommand.java:71) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:64) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at io.lumine.mythic.bukkit.utils.commands.Command.onCommand(Command.java:55) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23169!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 22 more
