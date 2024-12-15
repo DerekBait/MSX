@@ -11562,3 +11562,49 @@ java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.Craf
 [15Dec2024 03:41:06.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=
 [15Dec2024 03:41:07.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
 [15Dec2024 03:41:07.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 03:44:22.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title Ahora los flash bangs son inmunes al xd jajasalu2
+[15Dec2024 03:44:22.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 2 entities
+[15Dec2024 03:46:49.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo]
+[15Dec2024 03:46:50.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a title El efecto de la zombificacion se a aplicado a todos los jugadores para desactivarla tienen que echarse una poti de veneno
+[15Dec2024 03:46:50.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 2 entities
+[15Dec2024 03:47:25.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:strength infinite 2
+[15Dec2024 03:47:26.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 03:47:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 03:47:32.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:strength infinite 2
+[15Dec2024 03:47:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Strength to Fantasma Amarillo]
+[15Dec2024 03:47:34.125] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Roberto_RS> asd
+[15Dec2024 03:47:39.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:strength infinite 3
+[15Dec2024 03:47:39.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Strength to Fantasma Amarillo]
+[15Dec2024 03:47:50.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 03:47:50.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 03:48:08.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 03:48:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 03:48:14.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:strength infinite 3
+[15Dec2024 03:48:14.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Strength to Fantasma Amarillo]
+[15Dec2024 03:48:34.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta cyan @a title xd
+[15Dec2024 03:48:37.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:speed infinite 3
+[15Dec2024 03:48:41.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:speed infinite 3
+[15Dec2024 03:48:41.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Speed to Fantasma Amarillo]
+[15Dec2024 03:48:46.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta celeste @a title xd
+[15Dec2024 03:48:52.976] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> ?
+[15Dec2024 03:49:07.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[15Dec2024 03:49:15.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruletas
+[15Dec2024 03:49:16.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta celeste @a title ll
+[15Dec2024 03:49:25.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta celeszte @a title ll
+[15Dec2024 03:49:30.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta celezte @a title ll
+[15Dec2024 03:49:39.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta zeleste @a title ll
+[15Dec2024 03:49:45.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta celeste @a title ll
+[15Dec2024 03:49:49.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta celestes @a title ll
+[15Dec2024 03:49:53.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta morada @a title xd
+[15Dec2024 03:49:53.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada' to 2 entities
+[15Dec2024 03:49:56.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta celestesa @a title ll
+[15Dec2024 03:50:03.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta c @a title ll
+[15Dec2024 03:50:11.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta turqueza @a title ll
+[15Dec2024 03:50:11.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 2 entities
+[15Dec2024 03:50:25.076] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> ,/ruleta turqueza @a title ll
+[15Dec2024 03:50:36.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:speed infinite 3
+[15Dec2024 03:50:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Speed to Fantasma Amarillo]
+[15Dec2024 03:50:40.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[type=dedsafio3:fantasma_amarillo] minecraft:strength infinite 3
+[15Dec2024 03:50:40.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Strength to Fantasma Amarillo]
+[15Dec2024 03:51:34.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 03:51:34.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
