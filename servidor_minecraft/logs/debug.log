@@ -6059,3 +6059,28 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 19:20:15.333] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> lo de abajo tmb?
 [15Dec2024 19:20:17.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
 [15Dec2024 19:20:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:20:19.977] [Async Chat Thread - #30/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> cho
+[15Dec2024 19:20:23.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:20:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:20:26.609] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> chi
+[15Dec2024 19:20:29.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:20:29.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:20:41.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:20:41.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:21:08.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:21:08.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:21:11.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:21:11.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:21:51.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:22:29.564] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> afk
+[15Dec2024 19:23:39.209] [Async Chat Thread - #35/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ta
+[15Dec2024 19:25:41.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:25:41.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:28:09.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2158 122 1316
+[15Dec2024 19:28:22.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2158 122 1316 -2158 121 1185 air
+[15Dec2024 19:28:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 133 block(s)]
+[15Dec2024 19:28:31.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2168 121 1185
+[15Dec2024 19:28:47.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2168 121 1185 -2168 122 1315 air
+[15Dec2024 19:28:47.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 131 block(s)]
+[15Dec2024 19:29:38.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /weather clear
+[15Dec2024 19:29:38.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set the weather to clear]
