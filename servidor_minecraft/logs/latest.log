@@ -643,3 +643,257 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 18:57:01.761] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> q bueno
 [15Dec2024 18:59:23.599] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> che este mod es una verga
 [15Dec2024 18:59:49.831] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pura mamada
+[15Dec2024 19:00:07.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /setblock ~ ~ ~ dedsafio3:bloque_dilitio
+[15Dec2024 19:00:07.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Changed the block at -2052, 131, 1272]
+[15Dec2024 19:00:30.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[15Dec2024 19:00:30.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Changed the block at -2052, 132, 1272]
+[15Dec2024 19:01:24.351] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> hay worldedit?
+[15Dec2024 19:01:34.010] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> nop
+[15Dec2024 19:01:37.303] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> a
+[15Dec2024 19:01:48.636] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> q haces
+[15Dec2024 19:01:56.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:02:21.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[15Dec2024 19:02:21.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[15Dec2024 19:02:22.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 19:02:22.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 19:02:24.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:02:43.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /backup
+[15Dec2024 19:02:52.159] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[15Dec2024 19:02:56.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[15Dec2024 19:02:56.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[15Dec2024 19:02:57.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[15Dec2024 19:02:57.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[15Dec2024 19:03:29.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 19:03:42.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:mobxd
+[15Dec2024 19:03:42.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fantasma Rojo]
+[15Dec2024 19:03:44.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[15Dec2024 19:03:44.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[15Dec2024 19:03:45.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 19:03:45.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 19:03:51.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[15Dec2024 19:03:51.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[15Dec2024 19:03:53.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[15Dec2024 19:03:53.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[15Dec2024 19:04:19.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:fantasmarojo
+[15Dec2024 19:04:19.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fantasma Rojo]
+[15Dec2024 19:04:19.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 19:04:20.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 19:04:34.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[15Dec2024 19:04:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[15Dec2024 19:04:38.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 19:04:38.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 19:04:50.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[15Dec2024 19:04:50.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[15Dec2024 19:04:52.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[15Dec2024 19:04:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[15Dec2024 19:05:10.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:fantasmarojo
+[15Dec2024 19:05:10.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fantasma Rojo]
+[15Dec2024 19:05:10.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 19:05:10.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 19:05:11.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop died whilst trying to escape Fantasma Rojo
+[15Dec2024 19:05:11.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[15Dec2024 19:05:11.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:05:11.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop murió por un Fantasma Rojo
+[15Dec2024 19:05:11.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[15Dec2024 19:05:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop murió por un Fantasma Rojo
+[15Dec2024 19:05:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[15Dec2024 19:05:15.106] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> wtf
+[15Dec2024 19:05:17.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned bosteritomop: Has sido baneado por morir.
+[15Dec2024 19:05:17.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[15Dec2024 19:05:17.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[15Dec2024 19:05:17.272] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 19:05:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player is already banned
+[15Dec2024 19:05:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player is already banned
+[15Dec2024 19:05:19.023] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:05:21.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon bosteritomop
+[15Dec2024 19:05:21.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned bosteritomop]
+[15Dec2024 19:05:25.609] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d35cdb4[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:42845) lost connection: Disconnected
+[15Dec2024 19:05:28.095] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:05:29.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:54881] logged in with entity id 7521 at (-2177.9017140880937, 144.1, 1104.0943393878313)
+[15Dec2024 19:05:29.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[15Dec2024 19:05:29.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:05:38.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 19:05:38.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 19:05:58.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival TheHollowKingMC
+[15Dec2024 19:05:58.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set TheHollowKingMC's game mode to Survival Mode]
+[15Dec2024 19:05:58.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[15Dec2024 19:05:58.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[15Dec2024 19:05:59.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 19:05:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 19:06:05.602] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> QYE CHUPA PIJA
+[15Dec2024 19:06:06.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[15Dec2024 19:06:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[15Dec2024 19:06:06.902] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> ??
+[15Dec2024 19:06:17.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill TheHollowKingMC
+[15Dec2024 19:06:17.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC was killed
+[15Dec2024 19:06:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed TheHollowKingMC]
+[15Dec2024 19:06:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[15Dec2024 19:06:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 19:06:22.509] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 19:06:23.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned TheHollowKingMC: Has sido baneado por morir.
+[15Dec2024 19:06:23.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC lost connection: You are banned from this server
+[15Dec2024 19:06:23.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC left the game.
+[15Dec2024 19:06:23.414] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 19:06:23.758] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 19:06:31.475] [Server thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Dec2024 19:06:48.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /pardon-ip TheHollowKingMC
+[15Dec2024 19:06:52.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /pardon TheHollowKingMC
+[15Dec2024 19:06:52.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Unbanned TheHollowKingMC]
+[15Dec2024 19:06:53.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player isn't banned
+[15Dec2024 19:07:01.108] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheHollowKingMC is cb5caf50-e6e7-30fd-879b-44f748e5dfdf
+[15Dec2024 19:07:02.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHollowKingMC[/127.66.121.7:59961] logged in with entity id 7971 at (-2176.4153697007723, 83.01499231040093, 1403.3234262581684)
+[15Dec2024 19:07:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC joined the game
+[15Dec2024 19:07:05.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 19:07:05.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 19:07:09.376] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> restrasado
+[15Dec2024 19:07:33.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[15Dec2024 19:07:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[15Dec2024 19:07:36.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 19:07:36.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 19:07:49.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ban bosteritomop
+[15Dec2024 19:07:49.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Banned bosteritomop: Banned by an operator.]
+[15Dec2024 19:07:49.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[15Dec2024 19:07:49.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[15Dec2024 19:07:49.408] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 19:07:59.426] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:08:00.914] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@537aa0c8[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:34227): You are banned from this server.
+[15Dec2024 19:08:00.914] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@537aa0c8[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:34227) lost connection: You are banned from this server.
+[15Dec2024 19:08:00.959] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 19:08:12.076] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:08:25.435] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:08:26.909] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1d6851ba[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:40321): You are banned from this server.
+[15Dec2024 19:08:26.909] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d6851ba[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:40321) lost connection: You are banned from this server.
+[15Dec2024 19:08:26.958] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 19:08:41.857] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5565e3a9[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:51975) lost connection: Disconnected
+[15Dec2024 19:08:42.754] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:08:54.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@546d9087[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:35977) lost connection: Disconnected
+[15Dec2024 19:08:54.840] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:08:56.308] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6c558957[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:46553): You are banned from this server.
+[15Dec2024 19:08:56.308] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c558957[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:46553) lost connection: You are banned from this server.
+[15Dec2024 19:08:56.358] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 19:09:27.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon bosteritomop
+[15Dec2024 19:09:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned bosteritomop]
+[15Dec2024 19:09:51.522] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 19:09:53.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:33163] logged in with entity id 8608 at (-2168.7055838282126, 89.41865444545942, 1400.552803116673)
+[15Dec2024 19:09:53.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[15Dec2024 19:09:57.808] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> toy
+[15Dec2024 19:10:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:11:41.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[15Dec2024 19:11:41.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[15Dec2024 19:12:15.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:14:31.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[15Dec2024 19:14:31.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[15Dec2024 19:14:58.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 19:15:11.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:infernal_bull_experimental
+[15Dec2024 19:15:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Infernal Bull (Experimental)]
+[15Dec2024 19:15:58.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:tiki_guardian
+[15Dec2024 19:15:58.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Tiki Guardian]
+[15Dec2024 19:16:01.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 19:16:01.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 19:16:13.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[15Dec2024 19:16:13.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[15Dec2024 19:16:14.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[15Dec2024 19:16:14.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[15Dec2024 19:16:16.090] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ay
+[15Dec2024 19:16:19.148] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> comando equivocado
+[15Dec2024 19:16:22.112] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> como mamad
+[15Dec2024 19:16:30.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:flachbang
+[15Dec2024 19:16:30.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Flashbang]
+[15Dec2024 19:16:36.438] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> ven ayudame
+[15Dec2024 19:16:39.018] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> voy
+[15Dec2024 19:16:46.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 19:16:46.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 19:16:49.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[15Dec2024 19:16:49.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[15Dec2024 19:16:52.154] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> q
+[15Dec2024 19:16:59.183] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> rompe todo esto plz
+[15Dec2024 19:17:24.325] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> no explota nada alv
+[15Dec2024 19:17:34.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:fireball ~ ~ ~
+[15Dec2024 19:17:34.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fireball]
+[15Dec2024 19:17:36.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:fireball ~ ~ ~
+[15Dec2024 19:17:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fireball]
+[15Dec2024 19:18:05.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:fireball ~ ~ ~
+[15Dec2024 19:18:05.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fireball]
+[15Dec2024 19:18:24.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:27.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:fireball ~ ~ ~
+[15Dec2024 19:18:27.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fireball]
+[15Dec2024 19:18:35.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:35.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:38.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:38.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:39.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:39.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:42.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:42.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:43.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:43.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:43.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:43.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:51.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:51.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:18:54.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:18:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:19:18.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:19:18.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:19:25.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:19:25.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:19:32.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:19:32.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:19:46.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:19:46.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:19:49.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:19:49.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:19:52.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:19:52.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:19:56.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:19:56.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:20:01.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:20:01.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
+[15Dec2024 19:20:15.333] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> lo de abajo tmb?
+[15Dec2024 19:20:17.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:tnt_minecart
+[15Dec2024 19:20:17.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Minecart with TNT]
