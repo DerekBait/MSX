@@ -600,5 +600,11 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2024-12-15 03:04:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
