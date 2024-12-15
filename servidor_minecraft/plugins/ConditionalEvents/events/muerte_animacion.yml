@@ -21,4 +21,4 @@ Events:
       - 'to_all: actionbar: &4%death_message%;80'
       - 'wait: 6'
       - 'console_command: ban %player% Has sido baneado por morir.'
-    enabled: false
+    enabled: true
