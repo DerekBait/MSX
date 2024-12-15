@@ -1033,3 +1033,590 @@ Caused by: java.lang.ArrayStoreException: org.bukkit.craftbukkit.v1_20_R1.entity
 [15Dec2024 01:29:57.162] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
 [15Dec2024 01:29:58.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:58161] logged in with entity id 6582 at (-559.5, 203.0, -270.5)
 [15Dec2024 01:29:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[15Dec2024 01:30:16.594] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> ola
+[15Dec2024 01:30:18.681] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> bb
+[15Dec2024 01:30:22.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[15Dec2024 01:30:22.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[15Dec2024 01:30:27.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp TheStranger
+[15Dec2024 01:30:27.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 01:30:37.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 01:30:37.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 01:30:42.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: Disconnected
+[15Dec2024 01:30:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game
+[15Dec2024 01:30:45.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin clear
+[15Dec2024 01:31:18.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:overworld run tp @s -2098.92 158.73 1124.12 -46.04 73.80
+[15Dec2024 01:31:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to -2098.920000, 158.730000, 1124.120000]
+[15Dec2024 01:32:24.143] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 01:32:25.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:45859] logged in with entity id 7001 at (-559.5, 203.0, -270.5)
+[15Dec2024 01:32:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[15Dec2024 01:32:35.244] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheStranger> mierda de server denme op
+[15Dec2024 01:32:41.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /op TheStranger
+[15Dec2024 01:32:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Made TheStranger a server operator]
+[15Dec2024 01:32:47.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp TheStranger @s
+[15Dec2024 01:32:47.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheStranger to TheHollowKingMC]
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:32:50.020] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 01:32:59.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 01:32:59.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:33:07.270] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:33:07.271] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:33:08.170] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 01:33:08.470] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:33:08.470] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:33:08.470] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:33:08.470] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:33:08.470] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:33:08.471] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:33:08.620] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 01:33:19.653] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheStranger> q sesto
+[15Dec2024 01:33:25.558] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> dungeon
+[15Dec2024 01:33:28.261] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> metete a call
+[15Dec2024 01:33:33.293] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheStranger> caga palos
+[15Dec2024 01:34:14.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[15Dec2024 01:34:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[15Dec2024 01:34:15.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 01:34:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 01:35:25.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp TheStranger
+[15Dec2024 01:35:25.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 01:35:50.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode survival
+[15Dec2024 01:35:50.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Survival Mode]
+[15Dec2024 01:35:54.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger was shot by TheHollowKingMC
+[15Dec2024 01:35:54.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[15Dec2024 01:36:00.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned TheStranger: Has sido baneado por morir.
+[15Dec2024 01:36:00.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: You are banned from this server
+[15Dec2024 01:36:00.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[15Dec2024 01:36:00.326] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 01:36:07.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:07.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned TheStranger]
+[15Dec2024 01:36:09.278] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 01:36:10.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:57973] logged in with entity id 7897 at (-2162.2250158723764, 120.36870145465087, 1184.5153846594512)
+[15Dec2024 01:36:10.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[15Dec2024 01:36:11.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon Roberto_RS
+[15Dec2024 01:36:11.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned Roberto_RS]
+[15Dec2024 01:36:14.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode survival
+[15Dec2024 01:36:14.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Survival Mode]
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:36:14.471] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 01:36:19.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger was shot by TheHollowKingMC
+[15Dec2024 01:36:19.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[15Dec2024 01:36:22.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:24.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:24.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 01:36:24.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 01:36:25.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:25.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned TheStranger: Has sido baneado por morir.
+[15Dec2024 01:36:25.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: You are banned from this server
+[15Dec2024 01:36:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[15Dec2024 01:36:25.628] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 01:36:25.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned TheStranger]
+[15Dec2024 01:36:26.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:26.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:27.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:27.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:28.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[15Dec2024 01:36:32.473] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 01:36:33.674] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@625723a4[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:47483) lost connection: Disconnected
+[15Dec2024 01:36:39.284] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 01:36:41.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:33495] logged in with entity id 8003 at (-2161.653388474576, 122.93181143937971, 1184.2630048215672)
+[15Dec2024 01:36:41.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[15Dec2024 01:36:46.122] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:36:46.122] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:36:46.123] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 01:36:50.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /skin gay
+[15Dec2024 01:38:50.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /skin TheAlphaConnor
+[15Dec2024 01:38:58.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin cp
+[15Dec2024 01:39:15.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /skin TheAlphaConnor
+[15Dec2024 01:39:23.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin menu
+[15Dec2024 01:39:23.534] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$Dispenser in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.534] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:18) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.536] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$Dropper in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.536] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:19) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.537] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$Furnace in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.537] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:20) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.538] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$BrewingStand in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.538] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:23) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.539] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$Hopper in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.539] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:30) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.540] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$BlastFurnace in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.540] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:33) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.541] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$Lectern in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.541] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:34) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.542] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter for class org/bukkit/craftbukkit/v1_20_R1/inventory/util/CraftTileInventoryConverter$Smoker in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.542] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftTileInventoryConverter
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<init>(CraftInventoryCreator.java:35) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.<clinit>(CraftInventoryCreator.java:11) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:23.543] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent org/bukkit/craftbukkit/v1_20_R1/inventory/CraftInventory for class org/bukkit/craftbukkit/v1_20_R1/inventory/CraftInventoryCustom in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@30946e09 on thread Thread[ForkJoinPool.commonPool-worker-33,5,SERVER]
+[15Dec2024 01:39:23.543] [ForkJoinPool.commonPool-worker-33/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.CraftInventory
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?] {}
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2386!/:?] {}
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2386!/:6.0.5+6.0.5+master.eb8e549b] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2389!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?] {re:mixin,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftCustomInventoryConverter.createInventory(CraftCustomInventoryConverter.java:25) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.util.CraftInventoryCreator.createInventory(CraftInventoryCreator.java:56) ~[?:?] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.createInventory(CraftServerMixin.java:1939) ~[?:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin,re:mixin}
+	at net.skinsrestorer.bukkit.gui.BukkitGUI.createGUI(BukkitGUI.java:83) ~[?:?] {}
+	at net.skinsrestorer.bukkit.SRBukkitAdapter.openGUI(SRBukkitAdapter.java:163) ~[?:?] {}
+	at net.skinsrestorer.shared.commands.GUICommand.onDefault(GUICommand.java:51) ~[?:?] {}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757) ~[?:?] {re:mixin,re:mixin,re:mixin}
+	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88) ~[?:?] {}
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:mixin}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[15Dec2024 01:39:45.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /skin Ryude1
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 01:40:08.171] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
