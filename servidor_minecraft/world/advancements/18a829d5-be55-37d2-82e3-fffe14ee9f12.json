@@ -189,6 +189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-15 02:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 01:47:28 +0000"
@@ -285,6 +291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-15 02:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-15 01:45:43 +0000"
@@ -363,6 +375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 02:19:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-15 01:52:50 +0000"
@@ -378,6 +396,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-15 01:52:50 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2024-12-15 02:12:06 +0000"
     },
     "done": true
   },

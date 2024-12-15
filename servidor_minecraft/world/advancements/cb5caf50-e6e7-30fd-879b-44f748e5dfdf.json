@@ -13,6 +13,7 @@
       "minecraft:dark_forest": "2024-12-13 04:32:30 +0000",
       "minecraft:sparse_jungle": "2024-12-15 00:22:00 +0000",
       "minecraft:river": "2024-12-13 04:12:09 +0000",
+      "minecraft:dripstone_caves": "2024-12-15 02:20:23 +0000",
       "minecraft:grove": "2024-12-13 04:47:08 +0000",
       "minecraft:jungle": "2024-12-13 03:47:30 +0000",
       "minecraft:frozen_peaks": "2024-12-13 04:47:10 +0000",
@@ -443,9 +444,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_diorite": "2024-12-15 01:35:12 +0000"
+      "has_coal": "2024-12-15 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-15 01:21:52 +0000"
     },
     "done": true
   },
@@ -455,15 +462,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-15 01:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-15 01:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 01:35:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_coal": "2024-12-15 01:21:52 +0000"
+      "has_diorite": "2024-12-15 01:35:12 +0000"
     },
     "done": true
   },
@@ -485,12 +504,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-15 01:24:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 01:35:12 +0000"
@@ -509,12 +522,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-15 01:24:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 01:35:12 +0000"
@@ -524,12 +531,6 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 01:35:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-15 01:21:52 +0000"
     },
     "done": true
   },
