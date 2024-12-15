@@ -1409,3 +1409,174 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 06:51:21.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
 [15Dec2024 06:52:02.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
 [15Dec2024 06:52:02.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 06:54:08.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[15Dec2024 06:54:08.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[15Dec2024 06:54:14.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon Fireball ~ ~3 ~ {ExplosionPower:0,direction:[0.0,0.0,0.0]}
+[15Dec2024 06:54:20.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireballall ~ ~3 ~ {ExplosionPower:0,direction:[0.0,0.0,0.0]}
+[15Dec2024 06:54:27.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[0.0,0.0,0.0]}
+[15Dec2024 06:54:27.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:54:34.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[0.0,0.0,0.0]}
+[15Dec2024 06:54:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:54:41.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[1.0,0.0,0.0]}
+[15Dec2024 06:54:41.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:54:49.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[15Dec2024 06:54:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[15Dec2024 06:54:56.967] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15Dec2024 06:54:59.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[15Dec2024 06:55:03.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:55:03.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:55:16.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:55:16.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:55:29.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:1,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:55:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:55:37.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:55:37.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:55:39.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 06:56:05.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[15Dec2024 06:56:05.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[15Dec2024 06:56:13.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[15Dec2024 06:56:13.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[15Dec2024 06:56:17.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:56:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:56:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS has made the advancement [Stone Age]
+[15Dec2024 06:56:22.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 06:56:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 06:57:04.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[15Dec2024 06:57:04.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[15Dec2024 06:57:10.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[15Dec2024 06:57:13.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[15Dec2024 06:57:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[15Dec2024 06:57:20.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:57:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:57:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 06:57:26.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 06:57:26.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 06:57:37.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:57:37.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:57:57.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:57:57.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:01.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:04.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 06:58:11.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:11.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:11.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:12.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:12.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:12.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:12.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:15.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 06:58:21.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:21.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:21.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:21.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:22.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:22.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:22.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:22.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:26.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 06:58:31.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creatie
+[15Dec2024 06:58:32.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[15Dec2024 06:58:32.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[15Dec2024 06:58:34.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[1.1,1.1,1.1]}
+[15Dec2024 06:58:34.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 06:58:53.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2092 105 1242
+[15Dec2024 06:58:59.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[15Dec2024 06:58:59.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[15Dec2024 06:59:02.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2092 105 1242 -2068 102 1276 minecraft:grass_block
+[15Dec2024 06:59:02.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 3465 block(s)]
+[15Dec2024 06:59:10.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS was kicked for floating too long!
+[15Dec2024 06:59:10.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Flying is not enabled on this server
+[15Dec2024 06:59:10.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game.
+[15Dec2024 06:59:10.642] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 06:59:15.133] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[15Dec2024 06:59:16.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_RS[/127.205.84.171:47173] logged in with entity id 2944 at (-2068.567306058729, 107.25220334025373, 1262.6102187312522)
+[15Dec2024 06:59:16.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS joined the game
+[15Dec2024 06:59:57.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kill Roberto_RS
+[15Dec2024 06:59:57.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Killed Roberto_RS]
+[15Dec2024 06:59:57.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 06:59:59.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kill Roberto_RS
+[15Dec2024 06:59:59.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Killed Roberto_RS]
+[15Dec2024 06:59:59.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 07:00:01.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kill Roberto_RS
+[15Dec2024 07:00:01.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Killed Roberto_RS]
+[15Dec2024 07:00:02.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 07:00:04.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 07:00:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 07:00:08.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 07:00:24.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 07:00:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 07:00:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[15Dec2024 07:00:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS was slain by TheHollowKingMC
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 07:00:37.849] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 07:00:37.851] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 07:00:38.591] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 07:00:40.646] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 07:00:42.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:51359] logged in with entity id 3208 at (-2162.582495395559, 161.0, 1118.925000011921)
+[15Dec2024 07:00:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[15Dec2024 07:00:48.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[15Dec2024 07:00:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[15Dec2024 07:00:48.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC
+[15Dec2024 07:00:48.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheStranger to TheHollowKingMC]
+[15Dec2024 07:00:50.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 07:00:50.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 07:00:51.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 07:00:51.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 07:00:57.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[15Dec2024 07:00:57.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[15Dec2024 07:01:24.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC
+[15Dec2024 07:01:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheStranger to TheHollowKingMC]
+[15Dec2024 07:02:03.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheStranger
+[15Dec2024 07:02:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheStranger]
+[15Dec2024 07:02:08.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[15Dec2024 07:02:08.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[15Dec2024 07:02:17.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode survival
+[15Dec2024 07:02:17.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Survival Mode]
