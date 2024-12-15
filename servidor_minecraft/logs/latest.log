@@ -569,3 +569,77 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 18:49:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
 [15Dec2024 18:49:48.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
 [15Dec2024 18:49:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 727 block(s)]
+[15Dec2024 18:50:00.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2064 99 1279
+[15Dec2024 18:50:01.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[15Dec2024 18:50:01.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[15Dec2024 18:50:02.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:03.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:03.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:04.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:50:09.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2064 99 1279 -2092 106 1243 dirt
+[15Dec2024 18:50:09.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 6473 block(s)]
+[15Dec2024 18:50:30.489] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> che
+[15Dec2024 18:50:35.256] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pero no se me pone la pantalla blanca
+[15Dec2024 18:50:36.060] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> eu
+[15Dec2024 18:50:48.553] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> a mi si
+[15Dec2024 18:50:51.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2064 99 1279 -2092 106 1243 dirt
+[15Dec2024 18:50:51.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 178 block(s)]
+[15Dec2024 18:51:01.441] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ps no
+[15Dec2024 18:51:04.985] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> me aparece algo en chino alv
+[15Dec2024 18:51:11.304] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> akajajaj
+[15Dec2024 18:51:14.855] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> como asi
+[15Dec2024 18:51:18.056] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pon de vuelta
+[15Dec2024 18:52:10.218] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dc
+[15Dec2024 18:52:55.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp 0 -100 0
+[15Dec2024 18:52:55.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to 0.500000, -100.000000, 0.500000]
+[15Dec2024 18:52:57.278] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ay
+[15Dec2024 18:53:01.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:03.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:08.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:11.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:13.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:17.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:20.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:22.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:22.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 18:53:22.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 18:53:24.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:26.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:53:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop fell out of the world
+[15Dec2024 18:53:28.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[15Dec2024 18:53:30.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp bosteritomop @s
+[15Dec2024 18:53:30.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported bosteritomop to TheHollowKingMC]
+[15Dec2024 18:53:34.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned bosteritomop: Has sido baneado por morir.
+[15Dec2024 18:53:34.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[15Dec2024 18:53:34.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[15Dec2024 18:53:34.416] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 18:53:38.385] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[15Dec2024 18:53:38.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon bosteritomop
+[15Dec2024 18:53:38.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned bosteritomop]
+[15Dec2024 18:53:39.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:39109] logged in with entity id 4803 at (-2083.3569999295955, 109.24433500973879, 1262.1733022619612)
+[15Dec2024 18:53:39.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[15Dec2024 18:53:43.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp bosteritomop @s
+[15Dec2024 18:53:43.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported bosteritomop to TheHollowKingMC]
+[15Dec2024 18:53:45.475] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> na
+[15Dec2024 18:53:46.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 18:53:46.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 18:54:02.135] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/1625, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2086.23, y=107.00, z=1260.51](TheHollowKingMC at -2086.2280851551527,107.0,1260.5126711465814) deleted painting immersive_paintings:thehollowkingmc/2024-12-14_19.43.14.png.
+[15Dec2024 18:54:02.135] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/1625, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2086.23, y=107.00, z=1260.51](TheHollowKingMC at -2086.2280851551527,107.0,1260.5126711465814) deleted painting immersive_paintings:thehollowkingmc/2024-12-14_20.17.15.png.
+[15Dec2024 18:54:03.759] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/1625, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2086.23, y=107.00, z=1260.51](TheHollowKingMC at -2086.2280851551527,107.0,1260.5126711465814) deleted painting immersive_paintings:thestranger/2024-12-14_19.17.17.png.
+[15Dec2024 18:54:03.759] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/1625, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2086.23, y=107.00, z=1260.51](TheHollowKingMC at -2086.2280851551527,107.0,1260.5126711465814) deleted painting immersive_paintings:thestranger/oip.
+[15Dec2024 18:54:40.811] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> no carga
+[15Dec2024 18:55:29.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2064 99 1279 -2092 106 1243 dirt
+[15Dec2024 18:55:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 319 block(s)]
+[15Dec2024 18:55:44.316] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> NO ANDA ESTA MIERDA
+[15Dec2024 18:56:32.572] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> q bueno
+[15Dec2024 18:56:40.067] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> no me carga esta mmda
+[15Dec2024 18:57:01.761] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> q bueno
+[15Dec2024 18:59:23.599] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> che este mod es una verga
+[15Dec2024 18:59:49.831] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pura mamada

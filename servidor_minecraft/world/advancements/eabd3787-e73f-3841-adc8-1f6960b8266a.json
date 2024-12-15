@@ -12,6 +12,7 @@
       "minecraft:beach": "2024-12-13 04:33:32 +0000",
       "minecraft:dark_forest": "2024-12-13 04:32:27 +0000",
       "minecraft:river": "2024-12-13 04:12:02 +0000",
+      "minecraft:dripstone_caves": "2024-12-15 18:48:36 +0000",
       "minecraft:grove": "2024-12-13 04:48:25 +0000",
       "minecraft:cold_ocean": "2024-12-13 04:33:37 +0000",
       "minecraft:forest": "2024-12-13 04:48:55 +0000",
@@ -893,6 +894,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 05:00:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2024-12-15 18:54:04 +0000"
     },
     "done": true
   },
