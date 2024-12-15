@@ -124,7 +124,8 @@
       "minecraft:skeleton": "2024-12-13 04:26:49 +0000",
       "minecraft:creeper": "2024-12-15 03:27:36 +0000",
       "minecraft:wither_skeleton": "2024-12-13 06:07:51 +0000",
-      "minecraft:husk": "2024-12-13 04:06:32 +0000"
+      "minecraft:husk": "2024-12-13 04:06:32 +0000",
+      "minecraft:zombie": "2024-12-15 04:29:54 +0000"
     },
     "done": false
   },
@@ -695,6 +696,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-15 03:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-15 04:35:10 +0000"
     },
     "done": true
   },
