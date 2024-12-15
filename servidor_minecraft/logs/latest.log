@@ -918,3 +918,13 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 19:28:47.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 131 block(s)]
 [15Dec2024 19:29:38.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /weather clear
 [15Dec2024 19:29:38.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set the weather to clear]
+[15Dec2024 19:31:34.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2159 119 1184
+[15Dec2024 19:31:42.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2159 119 1184 -2167 119 1144 air
+[15Dec2024 19:31:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 369 block(s)]
+[15Dec2024 19:37:34.913] [Async Chat Thread - #37/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> volvi
+[15Dec2024 19:37:35.984] [Async Chat Thread - #36/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> eu
+[15Dec2024 19:37:52.138] [Async Chat Thread - #37/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> cuanto sera el maximo de personas?
+[15Dec2024 19:38:00.984] [Async Chat Thread - #37/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> 50
+[15Dec2024 19:38:03.129] [Async Chat Thread - #36/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ok
+[15Dec2024 19:39:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:40:02.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
