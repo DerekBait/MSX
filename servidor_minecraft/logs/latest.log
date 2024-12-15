@@ -18007,3 +18007,40 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 20:49:40.158] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
 [15Dec2024 20:49:40.158] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
 [15Dec2024 20:49:40.158] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 20:53:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:25.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:25.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:25.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:25.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:25.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:53:25.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Summoned new Zombie]
+[15Dec2024 20:54:18.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon zombie ~ ~ ~ {HandItems:[{id:"minecraft:emerald",Count:3b}],HandDropChances:[1.0f]}
+[15Dec2024 20:54:18.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 20:54:40.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon zombie ~ ~ ~ {HandItems:[{id:"minecraft:emerald",Count:3b}],HandDropChances:[1.0f]}
+[15Dec2024 20:54:40.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 20:55:07.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:zombie] weapon.mainhand with minecraft:yellow_banner
+[15Dec2024 20:55:07.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Replaced a slot on 25 entities with [Yellow Banner]]
+[15Dec2024 20:56:50.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon zombie ~ ~ ~ {HandItems:[{id:"minecraft:iron_sword",Count:1b},{id:"minecraft:diamond",Count:1b}],HandDropChances:[0.0f,1.0f]}
+[15Dec2024 20:56:50.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Zombie]
+[15Dec2024 20:56:59.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has made the advancement [Diamonds!]
