@@ -6098,3 +6098,20 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 19:38:03.129] [Async Chat Thread - #36/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ok
 [15Dec2024 19:39:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
 [15Dec2024 19:40:02.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:40:41.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:40:41.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:45:41.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:45:41.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:45:57.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:50:41.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:50:41.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:55:41.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 19:55:41.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 20:00:41.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 20:00:41.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 20:05:17.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /weather clear
+[15Dec2024 20:05:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set the weather to clear]
+[15Dec2024 20:05:41.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 20:05:41.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 20:10:41.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 20:10:41.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL

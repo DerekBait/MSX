@@ -928,3 +928,6 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 19:38:03.129] [Async Chat Thread - #36/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ok
 [15Dec2024 19:39:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
 [15Dec2024 19:40:02.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 19:45:57.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[15Dec2024 20:05:17.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /weather clear
+[15Dec2024 20:05:17.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set the weather to clear]
