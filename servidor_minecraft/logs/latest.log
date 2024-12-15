@@ -2113,3 +2113,124 @@ java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_20_R1.inventory.Craf
 [15Dec2024 02:20:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to TheStranger]
 [15Dec2024 02:20:43.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
 [15Dec2024 02:20:43.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 02:21:16.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[15Dec2024 02:21:16.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[15Dec2024 02:21:57.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 02:21:57.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 02:21:57.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp TheStranger
+[15Dec2024 02:21:57.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:22:24.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[15Dec2024 02:22:24.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[15Dec2024 02:22:24.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /kick TheStranger
+[15Dec2024 02:22:24.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: Kicked by an operator
+[15Dec2024 02:22:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[15Dec2024 02:22:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Kicked TheStranger: Kicked by an operator]
+[15Dec2024 02:22:25.029] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 02:22:31.042] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2163.86, y=127.40, z=1147.69](TheHollowKingMC at -2163.8634064648195,127.40237831704738,1147.6899761770808) deleted painting immersive_paintings:thestranger/oip.
+[15Dec2024 02:22:37.623] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 02:23:01.973] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ccbf748[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:34583) lost connection: Disconnected
+[15Dec2024 02:23:08.672] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 02:23:15.369] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e65cced[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:45201) lost connection: Disconnected
+[15Dec2024 02:23:16.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with
+[15Dec2024 02:23:21.314] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 02:23:22.071] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3df23b88[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:53057) lost connection: Disconnected
+[15Dec2024 02:23:28.079] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[15Dec2024 02:23:29.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:49113] logged in with entity id 16646 at (-2164.80069716902, 121.7855438649522, 1189.416508170891)
+[15Dec2024 02:23:29.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[15Dec2024 02:23:33.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:player_head
+[15Dec2024 02:23:33.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Replaced a slot on Husk with [Player Head]]
+[15Dec2024 02:23:33.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 02:23:33.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 02:23:52.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger moved too quickly! 10.089450021645007,3.564540875082173,-0.0020362134271181276
+[15Dec2024 02:24:31.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[15Dec2024 02:24:31.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[15Dec2024 02:24:31.650] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2157.35, y=128.53, z=1148.28](TheHollowKingMC at -2157.345290971262,128.53260085503638,1148.276329182919) deleted painting immersive_paintings:thestranger/lsm-nude-girls-images-2.
+[15Dec2024 02:24:44.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 02:24:44.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 02:25:21.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[15Dec2024 02:25:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[15Dec2024 02:25:21.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Skeletal Knight'/16883, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2153.50, y=-5.00, z=1146.50] died: Skeletal Knight suffocated in a wall
+[15Dec2024 02:25:25.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 02:25:25.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 02:25:26.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:player_head{player:spreen}
+[15Dec2024 02:25:27.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[15Dec2024 02:25:27.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[15Dec2024 02:25:28.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 02:25:28.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 02:25:29.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:player_head{player:spreen}
+[15Dec2024 02:25:29.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Replaced a slot on Husk with [Player Head]]
+[15Dec2024 02:25:35.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:player_head{spreen}
+[15Dec2024 02:25:43.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:player_head{player:spreen}
+[15Dec2024 02:25:43.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Replaced a slot on Husk with [Player Head]]
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 02:25:49.921] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 02:25:59.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:player_head{player:spreen}
+[15Dec2024 02:26:15.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[15Dec2024 02:26:15.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[15Dec2024 02:26:16.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:player_head{player:spreen}
+[15Dec2024 02:26:16.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Player Head] to TheHollowKingMC]
+[15Dec2024 02:26:24.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[15Dec2024 02:26:24.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[15Dec2024 02:26:27.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:player_head{player_spreen}
+[15Dec2024 02:26:38.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:player_head{players:spreen}
+[15Dec2024 02:26:38.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Player Head] to TheHollowKingMC]
+[15Dec2024 02:26:46.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[15Dec2024 02:26:46.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:26:47.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:player_head{name:spreen}
+[15Dec2024 02:26:47.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Player Head] to TheHollowKingMC]
+[15Dec2024 02:26:54.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[15Dec2024 02:26:54.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:26:56.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[15Dec2024 02:26:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:26:56.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[15Dec2024 02:26:56.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:26:57.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[15Dec2024 02:26:57.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:26:57.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[15Dec2024 02:26:57.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:26:58.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[15Dec2024 02:26:58.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[15Dec2024 02:27:17.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:glass
+[15Dec2024 02:27:21.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:glass
+[15Dec2024 02:27:21.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Replaced a slot on Husk with [Glass]]
+[15Dec2024 02:27:33.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /seed
+[15Dec2024 02:28:02.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:red_wool
+[15Dec2024 02:28:06.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item replace entity @e[type=minecraft:husk] armor.head with minecraft:red_wool
+[15Dec2024 02:28:06.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Replaced a slot on Husk with [Red Wool]]
+[15Dec2024 02:28:18.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[15Dec2024 02:28:39.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta amarilla @a title cp
+[15Dec2024 02:28:39.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.amarilla' to 2 entities
+[15Dec2024 02:28:45.678] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2163.66, y=120.00, z=1161.94](TheHollowKingMC at -2163.660421617249,120.0,1161.939444326316) deleted painting immersive_paintings:thestranger/lsm-nude-girls-images-2.
+[15Dec2024 02:28:45.678] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2163.66, y=120.00, z=1161.94](TheHollowKingMC at -2163.660421617249,120.0,1161.939444326316) deleted painting immersive_paintings:thestranger/oip.
+[15Dec2024 02:29:05.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta amarilla @a actionbar cp
+[15Dec2024 02:29:05.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.amarilla.mini.actionbar' to 2 entities
+[15Dec2024 02:29:29.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta amarilla @a scoreboard cp
+[15Dec2024 02:29:29.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.amarilla.mini.scoreboard' to 2 entities
+[15Dec2024 02:29:39.753] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2171.41, y=120.00, z=1171.49](TheHollowKingMC at -2171.4102131633485,120.0,1171.4883394208453) deleted painting immersive_paintings:thestranger/2024-12-14_19.17.17.png.
+[15Dec2024 02:29:39.753] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2171.41, y=120.00, z=1171.49](TheHollowKingMC at -2171.4102131633485,120.0,1171.4883394208453) deleted painting immersive_paintings:thestranger/2024-12-14_19.20.40.png.
+[15Dec2024 02:30:08.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta rosada @a title cp
+[15Dec2024 02:30:08.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.rosada' to 2 entities
+[15Dec2024 02:30:47.121] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2164.10, y=143.54, z=1147.37](TheHollowKingMC at -2164.096429346891,143.54194779760257,1147.3715918661067) deleted painting immersive_paintings:thehollowkingmc/2024-12-14_19.43.06.png.
+[15Dec2024 02:30:47.121] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2164.10, y=143.54, z=1147.37](TheHollowKingMC at -2164.096429346891,143.54194779760257,1147.3715918661067) deleted painting immersive_paintings:thehollowkingmc/2024-12-14_19.43.14.png.
+[15Dec2024 02:30:47.121] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/16042, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2164.10, y=143.54, z=1147.37](TheHollowKingMC at -2164.096429346891,143.54194779760257,1147.3715918661067) deleted painting immersive_paintings:thehollowkingmc/2024-12-14_20.17.15.png.
