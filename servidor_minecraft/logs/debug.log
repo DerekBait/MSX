@@ -4762,3 +4762,131 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [15Dec2024 18:39:24.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
 [15Dec2024 18:39:24.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
 [15Dec2024 18:39:27.494] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> volvi
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[15Dec2024 18:39:54.809] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[15Dec2024 18:40:38.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 18:40:38.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 18:41:18.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[15Dec2024 18:41:18.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[15Dec2024 18:41:20.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 18:41:20.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 18:41:40.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[15Dec2024 18:41:41.816] [Server thread/DEBUG] [mixin/]: Mixing CraftLegacyLegacyMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy
+[15Dec2024 18:41:41.820] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15Dec2024 18:41:44.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2837ms or 56 ticks behind
+[15Dec2024 18:41:51.466] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> volvi
+[15Dec2024 18:41:53.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[15Dec2024 18:41:53.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[15Dec2024 18:41:54.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[15Dec2024 18:41:54.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[15Dec2024 18:41:55.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 18:41:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 18:42:04.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249
+[15Dec2024 18:42:15.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:42:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 902 block(s)]
+[15Dec2024 18:42:48.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[15Dec2024 18:42:48.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[15Dec2024 18:42:50.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 18:42:50.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 18:43:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[15Dec2024 18:43:09.973] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> a la verga
+[15Dec2024 18:43:13.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[15Dec2024 18:43:13.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[15Dec2024 18:43:15.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 18:43:15.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 18:43:18.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:43:18.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 624 block(s)]
+[15Dec2024 18:43:25.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[15Dec2024 18:43:27.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[15Dec2024 18:43:30.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[15Dec2024 18:43:30.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[15Dec2024 18:43:34.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:43:34.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 415 block(s)]
+[15Dec2024 18:43:35.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[15Dec2024 18:43:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[15Dec2024 18:43:43.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[15Dec2024 18:43:48.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:43:48.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 399 block(s)]
+[15Dec2024 18:44:06.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[15Dec2024 18:44:06.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[15Dec2024 18:44:13.085] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> spawneame bichos
+[15Dec2024 18:44:34.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[15Dec2024 18:44:34.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[15Dec2024 18:45:06.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:45:06.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 646 block(s)]
+[15Dec2024 18:45:12.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:45:12.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 218 block(s)]
+[15Dec2024 18:45:20.911] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ArmorStand$1
+[15Dec2024 18:45:30.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:45:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 283 block(s)]
+[15Dec2024 18:45:41.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 18:45:41.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[15Dec2024 18:46:10.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:46:10.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 591 block(s)]
+[15Dec2024 18:46:24.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios nobreathing
+[15Dec2024 18:46:43.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:46:43.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 432 block(s)]
+[15Dec2024 18:47:24.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:47:28.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:47:28.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 675 block(s)]
+[15Dec2024 18:47:28.907] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.brain.BrainUtilMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[15Dec2024 18:47:28.907] [Server thread/DEBUG] [mixin/]: Mixing compat119plus.LookTargetUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[15Dec2024 18:47:55.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:5,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:47:55.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:47:59.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:5,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:47:59.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:11.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:11.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:14.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:48:19.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:25.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:25.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:25.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:25.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:26.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:26.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:26.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:26.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:26.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:27.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:27.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:27.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:27.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:27.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:27.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:28.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:28.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:28.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:10,direction:[0.0,0.0,0.0]}
+[15Dec2024 18:48:28.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Summoned new Fireball]
+[15Dec2024 18:48:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[15Dec2024 18:48:43.054] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> minning
+[15Dec2024 18:49:38.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios dmgdoors true
+[15Dec2024 18:49:40.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[15Dec2024 18:49:40.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[15Dec2024 18:49:48.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2071 105 1249 -2083 102 1269 minecraft:grass_block
+[15Dec2024 18:49:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 727 block(s)]
