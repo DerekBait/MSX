@@ -1073,9 +1073,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_log": "2024-12-16 04:34:21 +0000"
+      "has_bow": "2024-12-16 04:17:16 +0000"
     },
     "done": true
   },
@@ -1085,21 +1085,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-16 04:34:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-16 04:20:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-12-16 04:17:16 +0000"
     },
     "done": true
   },
@@ -1112,6 +1100,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-16 04:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-16 04:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-16 04:34:21 +0000"
     },
     "done": true
   },

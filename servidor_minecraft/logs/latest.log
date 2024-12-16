@@ -16841,3 +16841,334 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [16Dec2024 04:35:07.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2161 54 1323
 [16Dec2024 04:35:07.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
 [16Dec2024 04:35:07.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[16Dec2024 04:35:09.180] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21f5cfd0[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:51287) lost connection: Disconnected
+[16Dec2024 04:35:10.602] [User Authenticator #41/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:35:23.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2161 54 1323 -2160 115 1321 minecraft:deepslate_bricks
+[16Dec2024 04:35:23.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 309 block(s)]
+[16Dec2024 04:35:23.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[16Dec2024 04:35:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Unbanned bosteritomop]
+[16Dec2024 04:35:30.616] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15becaea[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:51493) lost connection: Disconnected
+[16Dec2024 04:35:31.476] [User Authenticator #42/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:35:32.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:56115] logged in with entity id 15143 at (-531.791472823649, 203.0, -257.08519644900747)
+[16Dec2024 04:35:32.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[16Dec2024 04:35:33.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2160 115 1323
+[16Dec2024 04:35:38.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[16Dec2024 04:35:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[16Dec2024 04:35:45.040] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> q rica la mami de hollow
+[16Dec2024 04:35:46.482] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ay
+[16Dec2024 04:35:46.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2160 115 1323 -2160 58 1323 dark_oak_wood
+[16Dec2024 04:35:46.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 58 block(s)]
+[16Dec2024 04:35:53.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2160 54 1321
+[16Dec2024 04:35:53.912] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> disculpen, mi perro escribio eso
+[16Dec2024 04:35:55.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ban bosteritomop
+[16Dec2024 04:35:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Banned bosteritomop: Banned by an operator.]
+[16Dec2024 04:35:55.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[16Dec2024 04:35:55.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[16Dec2024 04:35:56.016] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 04:36:00.915] [User Authenticator #43/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:36:09.559] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1334732d[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:57447) lost connection: Disconnected
+[16Dec2024 04:36:11.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[16Dec2024 04:36:11.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Unbanned bosteritomop]
+[16Dec2024 04:36:11.599] [User Authenticator #44/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:36:13.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:55165] logged in with entity id 15275 at (-534.6508778190529, 203.0, -251.0890076984199)
+[16Dec2024 04:36:13.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[16Dec2024 04:36:16.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2160 54 1321 -2160 116 1321 minecraft:dark_oak_wood
+[16Dec2024 04:36:16.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 63 block(s)]
+[16Dec2024 04:36:19.449] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ya ahora si
+[16Dec2024 04:36:20.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[16Dec2024 04:36:20.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[16Dec2024 04:36:33.498] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> q es esta mamada jasja
+[16Dec2024 04:36:34.169] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dea
+[16Dec2024 04:36:35.066] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> mentira
+[16Dec2024 04:36:37.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ban bosteritomop
+[16Dec2024 04:36:37.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Banned bosteritomop: Banned by an operator.]
+[16Dec2024 04:36:37.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[16Dec2024 04:36:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[16Dec2024 04:36:37.662] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 04:36:39.826] [User Authenticator #45/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:36:41.909] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68d370c9[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:58249) lost connection: Disconnected
+[16Dec2024 04:36:45.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[16Dec2024 04:36:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Unbanned bosteritomop]
+[16Dec2024 04:36:47.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[16Dec2024 04:36:49.438] [User Authenticator #46/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:37:00.010] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c3127dd[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:56651) lost connection: Disconnected
+[16Dec2024 04:37:01.571] [User Authenticator #47/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:37:03.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:47221] logged in with entity id 15421 at (-2160.177677432878, 111.22403708421854, 1316.687247983172)
+[16Dec2024 04:37:03.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[16Dec2024 04:37:07.514] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ya
+[16Dec2024 04:37:14.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kick Roberto_RS ta rica la mami de hollow?
+[16Dec2024 04:37:14.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: ta rica la mami de hollow?
+[16Dec2024 04:37:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game.
+[16Dec2024 04:37:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Kicked Roberto_RS: ta rica la mami de hollow?]
+[16Dec2024 04:37:14.608] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 04:37:17.849] [User Authenticator #48/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[16Dec2024 04:37:19.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_RS[/127.243.237.226:44983] logged in with entity id 15468 at (-2153.0324075552403, 97.8578824146188, 1324.05303622604)
+[16Dec2024 04:37:19.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS joined the game
+[16Dec2024 04:37:51.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 5
+[16Dec2024 04:38:13.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /deop bosteritomop
+[16Dec2024 04:38:13.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Made bosteritomop no longer a server operator]
+[16Dec2024 04:38:20.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 10
+[16Dec2024 04:38:25.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -1.5509701739165394,28.5,-5.267110946739649
+[16Dec2024 04:38:25.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 1.9704555410889952,24.5,-1.5249887431382376
+[16Dec2024 04:38:25.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 0.4976150750035231,25.0,-1.5423462514334005
+[16Dec2024 04:38:26.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 0.16297979896353354,25.0,-1.2635323017175324
+[16Dec2024 04:38:27.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /papi 12
+[16Dec2024 04:38:29.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -0.5633575288584325,12.5,2.920809096569883
+[16Dec2024 04:38:29.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -0.19813234691127946,11.0,0.929521554476878
+[16Dec2024 04:38:31.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:38:31.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:38:31.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /papi
+[16Dec2024 04:38:33.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:38:33.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:38:34.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:38:34.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:38:34.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:38:34.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:38:34.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:38:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:38:40.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 20
+[16Dec2024 04:38:44.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -0.2729011327196531,12.0,-3.050894700810204
+[16Dec2024 04:38:44.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:38:44.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:38:47.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:38:47.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:38:56.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.1
+[16Dec2024 04:39:03.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /mm bosteritomop
+[16Dec2024 04:39:22.795] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ponme bien chiquito como el fuckin pene de roberto
+[16Dec2024 04:39:22.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival TheHollowKingMC
+[16Dec2024 04:39:22.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set TheHollowKingMC's game mode to Survival Mode]
+[16Dec2024 04:39:25.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[16Dec2024 04:39:25.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[16Dec2024 04:39:27.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival TheHollowKingMC
+[16Dec2024 04:39:27.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set TheHollowKingMC's game mode to Survival Mode]
+[16Dec2024 04:39:28.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[16Dec2024 04:39:28.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[16Dec2024 04:39:30.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival TheHollowKingMC
+[16Dec2024 04:39:30.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set TheHollowKingMC's game mode to Survival Mode]
+[16Dec2024 04:39:31.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[16Dec2024 04:39:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[16Dec2024 04:39:46.579] [Async Chat Thread - #30/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> que me sacan el op
+[16Dec2024 04:39:46.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[16Dec2024 04:39:46.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[16Dec2024 04:39:49.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[16Dec2024 04:39:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[16Dec2024 04:39:54.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ban bosteritomop
+[16Dec2024 04:39:54.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Banned bosteritomop: Banned by an operator.]
+[16Dec2024 04:39:54.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[16Dec2024 04:39:54.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[16Dec2024 04:39:54.860] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 04:40:01.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:40:01.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:40:05.413] [User Authenticator #49/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:40:05.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[16Dec2024 04:40:05.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[16Dec2024 04:40:06.862] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@551e4d0f[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:49055): You are banned from this server.
+[16Dec2024 04:40:06.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@551e4d0f[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:49055) lost connection: You are banned from this server.
+[16Dec2024 04:40:06.909] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 04:40:30.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.01
+[16Dec2024 04:40:36.768] [User Authenticator #50/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:40:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC hit the ground too hard
+[16Dec2024 04:40:40.578] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[16Dec2024 04:40:40.578] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[16Dec2024 04:40:40.578] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[16Dec2024 04:40:40.578] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[16Dec2024 04:40:40.578] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[16Dec2024 04:40:40.579] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[16Dec2024 04:40:43.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[16Dec2024 04:40:43.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[16Dec2024 04:40:45.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[16Dec2024 04:40:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[16Dec2024 04:40:50.507] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[16Dec2024 04:40:50.507] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[16Dec2024 04:40:50.508] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[16Dec2024 04:40:50.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon bosteritomop
+[16Dec2024 04:40:50.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned bosteritomop]
+[16Dec2024 04:40:58.608] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78fcac1e[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:50321) lost connection: Disconnected
+[16Dec2024 04:40:59.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.001
+[16Dec2024 04:41:01.171] [User Authenticator #51/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[16Dec2024 04:41:02.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:35993] logged in with entity id 16276 at (-2156.9776968247465, 121.0, 1278.1757774150765)
+[16Dec2024 04:41:02.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[16Dec2024 04:41:09.461] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op alv
+[16Dec2024 04:41:20.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[16Dec2024 04:41:20.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[16Dec2024 04:41:25.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[16Dec2024 04:41:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[16Dec2024 04:41:28.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[16Dec2024 04:41:28.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[16Dec2024 04:41:37.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 10
+[16Dec2024 04:41:43.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 1
+[16Dec2024 04:41:47.605] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> q hay aji
+[16Dec2024 04:41:49.852] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ahi
+[16Dec2024 04:42:06.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:attack 2
+[16Dec2024 04:42:07.971] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op
+[16Dec2024 04:42:08.341] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op
+[16Dec2024 04:42:08.709] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op
+[16Dec2024 04:42:09.044] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op
+[16Dec2024 04:42:09.396] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op
+[16Dec2024 04:42:09.724] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op
+[16Dec2024 04:42:10.091] [Async Chat Thread - #33/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> dame op
+[16Dec2024 04:42:14.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /op bosteritomop
+[16Dec2024 04:42:14.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Made bosteritomop a server operator]
+[16Dec2024 04:42:22.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0.5
+[16Dec2024 04:42:31.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tamage}
+[16Dec2024 04:42:31.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:hitbox_height 10
+[16Dec2024 04:42:34.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0
+[16Dec2024 04:42:34.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tamage
+[16Dec2024 04:42:49.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:hitbox_height 1
+[16Dec2024 04:42:51.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 50
+[16Dec2024 04:42:55.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -5.079061964244374,13.920000076293945,-0.6150754177592717
+[16Dec2024 04:42:57.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16Dec2024 04:42:58.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kill bosteritomop
+[16Dec2024 04:42:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop was killed
+[16Dec2024 04:42:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Killed bosteritomop]
+[16Dec2024 04:43:03.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[16Dec2024 04:43:03.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[16Dec2024 04:43:09.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0.2
+[16Dec2024 04:43:20.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:model_width 1
+[16Dec2024 04:43:28.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[16Dec2024 04:43:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[16Dec2024 04:43:30.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[16Dec2024 04:43:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[16Dec2024 04:43:40.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:model_width 10
+[16Dec2024 04:43:40.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has reached the goal [Sky's the Limit]
+[16Dec2024 04:43:44.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:43:44.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set bosteritomop's game mode to Survival Mode]
+[16Dec2024 04:43:46.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[16Dec2024 04:43:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[16Dec2024 04:43:50.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:model_width 2
+[16Dec2024 04:43:52.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:43:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set bosteritomop's game mode to Survival Mode]
+[16Dec2024 04:43:53.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[16Dec2024 04:43:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[16Dec2024 04:43:54.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:43:54.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set bosteritomop's game mode to Survival Mode]
+[16Dec2024 04:43:55.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[16Dec2024 04:43:55.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[16Dec2024 04:43:55.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:43:55.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:43:56.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:43:56.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[16Dec2024 04:43:56.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[16Dec2024 04:44:00.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:44:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set bosteritomop's game mode to Survival Mode]
+[16Dec2024 04:44:02.382] [Async Chat Thread - #35/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> ./scale set pehkui:model_width 20
+[16Dec2024 04:44:02.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[16Dec2024 04:44:03.420] [Async Chat Thread - #35/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> una mosca
+[16Dec2024 04:44:13.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[16Dec2024 04:44:13.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[16Dec2024 04:44:19.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /spawnpoint bosteritomop
+[16Dec2024 04:44:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set spawn point to -2163, 120, 1298 [0.0] in minecraft:overworld for bosteritomop]
+[16Dec2024 04:44:21.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill bosteritomop
+[16Dec2024 04:44:21.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop was killed
+[16Dec2024 04:44:21.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed bosteritomop]
+[16Dec2024 04:44:21.962] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[16Dec2024 04:44:21.964] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[16Dec2024 04:44:21.965] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[16Dec2024 04:44:25.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:model_width 1
+[16Dec2024 04:44:27.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set pehkui:model_width 30
+[16Dec2024 04:44:37.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set pehkui:width 50
+[16Dec2024 04:44:45.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set pehkui:model_width 100
+[16Dec2024 04:44:49.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set pehkui:width 0
+[16Dec2024 04:44:54.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set pehkui:model_width 200
+[16Dec2024 04:44:58.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill bosteritomop
+[16Dec2024 04:44:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop was killed
+[16Dec2024 04:44:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed bosteritomop]
+[16Dec2024 04:45:02.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set pehkui:model_width 500
+[16Dec2024 04:45:14.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set pehkui:model_width 1000
+[16Dec2024 04:45:14.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[16Dec2024 04:45:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[16Dec2024 04:45:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[16Dec2024 04:45:18.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[16Dec2024 04:45:18.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[16Dec2024 04:45:18.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[16Dec2024 04:45:19.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[16Dec2024 04:45:19.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[16Dec2024 04:45:19.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[16Dec2024 04:45:20.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[16Dec2024 04:45:20.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS was killed
+[16Dec2024 04:45:20.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[16Dec2024 04:45:20.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[16Dec2024 04:45:20.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS was killed
+[16Dec2024 04:45:20.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[16Dec2024 04:45:22.211] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[16Dec2024 04:45:26.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[16Dec2024 04:45:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
