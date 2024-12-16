@@ -50,6 +50,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2024-12-15 18:43:49 +0000",
+      "golden_carrot": "2024-12-16 04:01:56 +0000",
       "enchanted_golden_apple": "2024-12-13 03:59:16 +0000"
     },
     "done": false
@@ -1062,6 +1063,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-12-15 19:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-16 04:00:12 +0000"
     },
     "done": true
   },
