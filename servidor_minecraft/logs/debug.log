@@ -4282,3 +4282,31 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [16Dec2024 03:07:01.332] [Server thread/DEBUG] [mixin/]: Mixing world.entity.animal.Bee_HurtByOtherGoalMixin from mixins.arclight.core.json into net.minecraft.world.entity.animal.Bee$BeeHurtByOtherGoal
 [16Dec2024 03:07:06.945] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/server/network/ServerGamePacketListenerImpl$2
 [16Dec2024 03:07:46.541] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/SnowLayerBlock$1
+[16Dec2024 03:08:54.184] [Server thread/DEBUG] [mixin/]: Mixing CraftBlockStateMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_20_R1.block.CraftBlockState
+[16Dec2024 03:08:54.191] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$sign$Side()[I class org/bukkit/craftbukkit/v1_20_R1/block/CraftSign
+[16Dec2024 03:08:54.209] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$SkullType()[I class org/bukkit/craftbukkit/v1_20_R1/block/CraftSkull
+[16Dec2024 03:08:54.209] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_20_R1/block/CraftSkull
+[16Dec2024 03:08:54.210] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_20_R1/block/CraftSkull
+[16Dec2024 03:08:54.210] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_20_R1/block/CraftSkull:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[16Dec2024 03:08:54.303] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_20_R1/block/CraftBed
+[16Dec2024 03:08:54.303] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_20_R1/block/CraftBed
+[16Dec2024 03:08:54.303] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_20_R1/block/CraftBed:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[16Dec2024 03:08:54.446] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_20_R1/block/CraftChiseledBookshelf
+[16Dec2024 03:08:54.450] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$DecoratedPot$Side()[I class org/bukkit/craftbukkit/v1_20_R1/block/CraftDecoratedPot
+[16Dec2024 03:09:53.396] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$3e99e8acf6f64596b70d09168754403e (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[16Dec2024 03:09:53.413] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$FluidCollisionMode()[I class org/bukkit/craftbukkit/v1_20_R1/CraftFluidCollisionMode
+[16Dec2024 03:09:55.786] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
+[16Dec2024 03:09:55.788] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/event/entity/player/PlayerInteractEvent$1
+[16Dec2024 03:10:08.180] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ItemBaseSteeringMixin from mixins.arclight.core.json into net.minecraft.world.entity.ItemBasedSteering
+[16Dec2024 03:10:09.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[16Dec2024 03:10:09.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[16Dec2024 03:10:18.284] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$HeightMap()[I class org/bukkit/craftbukkit/v1_20_R1/CraftHeightMap
+[16Dec2024 03:10:18.284] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$level$levelgen$HeightMap$Type()[I class org/bukkit/craftbukkit/v1_20_R1/CraftHeightMap
+[16Dec2024 03:10:20.235] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.brain.BrainUtilMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[16Dec2024 03:10:20.235] [Server thread/DEBUG] [mixin/]: Mixing compat119plus.LookTargetUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[16Dec2024 03:10:34.100] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/AbstractMinecart$1
+[16Dec2024 03:14:37.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2164 80 1374
+[16Dec2024 03:14:53.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2164 80 1374 -2166 98 1372 minecraft:deepslate_bricks
+[16Dec2024 03:14:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 116 block(s)]
+[16Dec2024 03:15:09.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[16Dec2024 03:15:09.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL

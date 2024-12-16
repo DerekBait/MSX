@@ -332,3 +332,6 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [16Dec2024 03:06:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC joined the game
 [16Dec2024 03:06:59.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4021ms or 80 ticks behind
 [16Dec2024 03:06:59.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[16Dec2024 03:14:37.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2164 80 1374
+[16Dec2024 03:14:53.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2164 80 1374 -2166 98 1372 minecraft:deepslate_bricks
+[16Dec2024 03:14:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 116 block(s)]
