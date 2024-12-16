@@ -335,3 +335,9 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [16Dec2024 03:14:37.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2164 80 1374
 [16Dec2024 03:14:53.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2164 80 1374 -2166 98 1372 minecraft:deepslate_bricks
 [16Dec2024 03:14:53.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 116 block(s)]
+[16Dec2024 03:20:36.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2161 83 1374
+[16Dec2024 03:20:47.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2161 83 1374 -2160 98 1372 minecraft:deepslate_bricks
+[16Dec2024 03:20:47.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 74 block(s)]
+[16Dec2024 03:25:39.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2165 75 1348
+[16Dec2024 03:25:52.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -2165 75 1348 -2166 105 1350 minecraft:deepslate_bricks
+[16Dec2024 03:25:52.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 151 block(s)]
