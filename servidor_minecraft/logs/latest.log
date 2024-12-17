@@ -9850,3 +9850,9 @@ java.io.IOException: This schematic version is currently not supported
 [17Dec2024 08:48:54.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //undo
 [17Dec2024 08:49:00.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
 [17Dec2024 08:49:00.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 38.176398286021694,0.0,-0.821599148468728
+[17Dec2024 08:51:01.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //paste
+[17Dec2024 08:51:09.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8011ms or 160 ticks behind
+[17Dec2024 08:57:30.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 08:57:30.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at 243, 63, -212]
+[17Dec2024 08:58:05.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 08:59:17.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
