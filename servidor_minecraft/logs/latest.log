@@ -9671,3 +9671,13 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
 [17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
 [17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 07:42:27.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set black_concrete,black_wool,black_terracotta
+[17Dec2024 07:42:44.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set black_concrete,black_wool,blackstone
+[17Dec2024 07:43:58.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set black_concrete,black_wool,blackstone,air
+[17Dec2024 07:44:36.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set black_concrete,black_wool,blackstone,air:50
+[17Dec2024 07:44:52.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set black_concrete,black_wool,blackstone,air,air
+[17Dec2024 07:45:28.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set black_concrete,air,blackstone,air,air,air
+[17Dec2024 07:46:02.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air,air,blackstone,air,air,air,air
+[17Dec2024 07:46:32.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air,air,blackstone,air,air,air,air,air
+[17Dec2024 07:47:06.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air,air,blackstone,air,air,air,air,air
+[17Dec2024 07:47:49.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set securitycraft:fake_water_block
