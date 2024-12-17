@@ -9608,3 +9608,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 07:07:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
 [17Dec2024 07:07:08.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_bricks cataclysm:blackstone_pillar
 [17Dec2024 07:07:36.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace cataclysm:dungeon_block cataclysm:blackstone_pillar
+[17Dec2024 07:09:43.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 07:10:25.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace obsidian cataclysm:obsidian_bricks
+[17Dec2024 07:10:30.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace obsidian cataclysm:obsidian_bricks
+[17Dec2024 07:10:49.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace obsidian cataclysm:obsidian_bricks
+[17Dec2024 07:14:08.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_stairs dedsafio3:polished_limbo_stair_block
+[17Dec2024 07:14:46.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace dedsafio3:polished_limbo_stair_block dedsafio3:polished_limbo_stair
+[17Dec2024 07:15:12.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_stairs dedsafio3:polished_limbo_stair_block a
+[17Dec2024 07:17:00.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace dedsafio3:polished_limbo_stair_block deepslate_brick_wall
