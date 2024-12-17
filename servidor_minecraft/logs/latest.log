@@ -9838,3 +9838,15 @@ java.io.IOException: This schematic version is currently not supported
 [17Dec2024 08:31:28.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 17354
 [17Dec2024 08:31:43.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 17354,litematic
 [17Dec2024 08:31:48.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 17354.litematic
+[17Dec2024 08:42:27.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem list
+[17Dec2024 08:42:40.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 21997
+[17Dec2024 08:47:03.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem list
+[17Dec2024 08:47:14.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem load 17354
+[17Dec2024 08:47:34.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem load 17574
+[17Dec2024 08:47:44.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem load 17579
+[17Dec2024 08:47:45.158] [WorldEdit Task Executor - 4/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: TheHollowKingMC loaded /workspaces/MSX/servidor_minecraft/config/worldedit/schematics/17579.schem
+[17Dec2024 08:47:53.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //paste
+[17Dec2024 08:48:01.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8498ms or 169 ticks behind
+[17Dec2024 08:48:54.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //undo
+[17Dec2024 08:49:00.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
+[17Dec2024 08:49:00.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 38.176398286021694,0.0,-0.821599148468728
