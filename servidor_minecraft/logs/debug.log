@@ -20008,3 +20008,170 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 07:28:01.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
 [17Dec2024 07:28:01.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
 [17Dec2024 07:28:01.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 07:31:16.455] [Server thread/DEBUG] [mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 07:31:16.457] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 07:31:16.508] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 07:31:30.405] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 07:32:57.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n1i2gke63mtc]: started parsing
+[17Dec2024 07:32:57.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n1i2gke63mtc]: Consuming argument ``
+[17Dec2024 07:32:59.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h26h5bxpi0d]: started parsing
+[17Dec2024 07:32:59.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13h26h5bxpi0d]: Consuming argument `b`
+[17Dec2024 07:32:59.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zpnnplzkiyyx]: started parsing
+[17Dec2024 07:32:59.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zpnnplzkiyyx]: Consuming argument `bl`
+[17Dec2024 07:32:59.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vy4kyx7fwpop]: started parsing
+[17Dec2024 07:32:59.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vy4kyx7fwpop]: Consuming argument `bla`
+[17Dec2024 07:33:00.621] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [131bj2mk7u8vq]: started parsing
+[17Dec2024 07:33:00.621] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [131bj2mk7u8vq]: Consuming argument `blac`
+[17Dec2024 07:33:00.733] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11uld268zpwv7]: started parsing
+[17Dec2024 07:33:00.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11uld268zpwv7]: Consuming argument `black`
+[17Dec2024 07:33:00.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11uld268zpwv7]: Finished looking at arguments. Finalizing command.
+[17Dec2024 07:33:01.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 07:33:01.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 07:33:01.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 07:33:01.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 07:33:02.058] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19e8q6c97wlw8]: started parsing
+[17Dec2024 07:33:02.058] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19e8q6c97wlw8]: Consuming argument `black_`
+[17Dec2024 07:33:09.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dis6k7i1lj5z]: started parsing
+[17Dec2024 07:33:09.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dis6k7i1lj5z]: Consuming argument `black_concrete`
+[17Dec2024 07:33:09.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dis6k7i1lj5z]: Consuming argument ``
+[17Dec2024 07:33:09.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dis6k7i1lj5z]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:11.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xiyolmb38bf7]: started parsing
+[17Dec2024 07:33:11.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xiyolmb38bf7]: Consuming argument `black_concrete`
+[17Dec2024 07:33:11.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xiyolmb38bf7]: Finished looking at arguments. Finalizing command.
+[17Dec2024 07:33:11.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0epv8ygp1q0vk]: started parsing
+[17Dec2024 07:33:11.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0epv8ygp1q0vk]: Consuming argument `black_concrete`
+[17Dec2024 07:33:11.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0epv8ygp1q0vk]: Consuming argument ``
+[17Dec2024 07:33:11.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0epv8ygp1q0vk]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:13.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a0dn03zgomr9]: started parsing
+[17Dec2024 07:33:13.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a0dn03zgomr9]: Consuming argument `black_concrete`
+[17Dec2024 07:33:13.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a0dn03zgomr9]: Consuming argument `5`
+[17Dec2024 07:33:13.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a0dn03zgomr9]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:13.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1slii8g2s6vot]: started parsing
+[17Dec2024 07:33:13.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1slii8g2s6vot]: Consuming argument `black_concrete`
+[17Dec2024 07:33:13.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1slii8g2s6vot]: Consuming argument `50`
+[17Dec2024 07:33:13.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1slii8g2s6vot]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qyfvbwoapuvy]: started parsing
+[17Dec2024 07:33:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qyfvbwoapuvy]: Consuming argument `black_concrete`
+[17Dec2024 07:33:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qyfvbwoapuvy]: Consuming argument `50`
+[17Dec2024 07:33:13.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qyfvbwoapuvy]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:15.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132wvleye104k]: started parsing
+[17Dec2024 07:33:15.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132wvleye104k]: Consuming argument `black_concrete`
+[17Dec2024 07:33:15.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132wvleye104k]: Consuming argument `50`
+[17Dec2024 07:33:15.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [132wvleye104k]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:15.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nk7ns1vf2ovk]: started parsing
+[17Dec2024 07:33:15.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nk7ns1vf2ovk]: Consuming argument `black_concrete`
+[17Dec2024 07:33:15.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nk7ns1vf2ovk]: Consuming argument `5`
+[17Dec2024 07:33:15.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nk7ns1vf2ovk]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:15.665] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0skkumascow]: started parsing
+[17Dec2024 07:33:15.665] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0skkumascow]: Consuming argument `black_concrete`
+[17Dec2024 07:33:15.665] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0skkumascow]: Consuming argument ``
+[17Dec2024 07:33:15.665] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0skkumascow]: parseRegularArgument: no arguments to attempt matching
+[17Dec2024 07:33:15.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fby3sfxzq2h9]: started parsing
+[17Dec2024 07:33:15.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fby3sfxzq2h9]: Consuming argument `black_concrete`
+[17Dec2024 07:33:15.872] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fby3sfxzq2h9]: Finished looking at arguments. Finalizing command.
+[17Dec2024 07:33:16.640] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dv8tjuuibf7h]: started parsing
+[17Dec2024 07:33:16.640] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dv8tjuuibf7h]: Consuming argument `black_concrete[`
+[17Dec2024 07:33:17.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3vqn612d6ev]: started parsing
+[17Dec2024 07:33:17.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3vqn612d6ev]: Consuming argument `black_concrete[5`
+[17Dec2024 07:33:17.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ya0dt1sbr4w]: started parsing
+[17Dec2024 07:33:17.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ya0dt1sbr4w]: Consuming argument `black_concrete[50`
+[17Dec2024 07:33:19.117] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a8543rmnv52u]: started parsing
+[17Dec2024 07:33:19.117] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a8543rmnv52u]: Consuming argument `black_concrete[50`
+[17Dec2024 07:33:20.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bykpxn5v0eln]: started parsing
+[17Dec2024 07:33:20.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bykpxn5v0eln]: Consuming argument `black_concrete[50`
+[17Dec2024 07:33:22.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbrs5vheaa63]: started parsing
+[17Dec2024 07:33:22.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbrs5vheaa63]: Consuming argument `black_concrete[50`
+[17Dec2024 07:33:22.354] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xq2c2l2eq46v]: started parsing
+[17Dec2024 07:33:22.354] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xq2c2l2eq46v]: Consuming argument `black_concrete[50`
+[17Dec2024 07:33:22.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztpjkuvogg1w]: started parsing
+[17Dec2024 07:33:22.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ztpjkuvogg1w]: Consuming argument `black_concrete[50]`
+[17Dec2024 07:33:23.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1191iloky11s7]: started parsing
+[17Dec2024 07:33:23.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1191iloky11s7]: Consuming argument `black_concrete[50]`
+[17Dec2024 07:33:23.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chwfdsa1shgp]: started parsing
+[17Dec2024 07:33:23.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chwfdsa1shgp]: Consuming argument `black_concrete[50]`
+[17Dec2024 07:33:24.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d96vcq5tfcba]: started parsing
+[17Dec2024 07:33:24.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d96vcq5tfcba]: Consuming argument `black_concrete[50`
+[17Dec2024 07:33:24.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vp7348uk64l2]: started parsing
+[17Dec2024 07:33:24.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vp7348uk64l2]: Consuming argument `black_concrete[5`
+[17Dec2024 07:33:24.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o4o3fgglka72]: started parsing
+[17Dec2024 07:33:24.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o4o3fgglka72]: Consuming argument `black_concrete[`
+[17Dec2024 07:33:24.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069tksxeg7yvn]: started parsing
+[17Dec2024 07:33:24.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069tksxeg7yvn]: Consuming argument `black_concrete`
+[17Dec2024 07:33:24.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069tksxeg7yvn]: Finished looking at arguments. Finalizing command.
+[17Dec2024 07:33:24.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a1mcfdoox96h]: started parsing
+[17Dec2024 07:33:24.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a1mcfdoox96h]: Consuming argument `black_concret`
+[17Dec2024 07:33:24.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0217xyg1apxvn]: started parsing
+[17Dec2024 07:33:24.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0217xyg1apxvn]: Consuming argument `black_concre`
+[17Dec2024 07:33:24.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13pwmiuyslk8g]: started parsing
+[17Dec2024 07:33:24.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13pwmiuyslk8g]: Consuming argument `black_concr`
+[17Dec2024 07:33:24.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gb6foi5f16fe]: started parsing
+[17Dec2024 07:33:24.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gb6foi5f16fe]: Consuming argument `black_conc`
+[17Dec2024 07:33:24.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eqx5zstw8o0t]: started parsing
+[17Dec2024 07:33:24.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eqx5zstw8o0t]: Consuming argument `black_con`
+[17Dec2024 07:33:25.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g1kpfqw7pb57]: started parsing
+[17Dec2024 07:33:25.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g1kpfqw7pb57]: Consuming argument `black_co`
+[17Dec2024 07:33:25.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l1u0cbvwd0i0]: started parsing
+[17Dec2024 07:33:25.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l1u0cbvwd0i0]: Consuming argument `black_c`
+[17Dec2024 07:33:25.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [060gmcuipv4nl]: started parsing
+[17Dec2024 07:33:25.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [060gmcuipv4nl]: Consuming argument `black_`
+[17Dec2024 07:33:25.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16ni6qybwo007]: started parsing
+[17Dec2024 07:33:25.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16ni6qybwo007]: Consuming argument `black`
+[17Dec2024 07:33:25.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16ni6qybwo007]: Finished looking at arguments. Finalizing command.
+[17Dec2024 07:33:25.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gvr1mca9n5ax]: started parsing
+[17Dec2024 07:33:25.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gvr1mca9n5ax]: Consuming argument `blac`
+[17Dec2024 07:33:25.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a24r91gd810u]: started parsing
+[17Dec2024 07:33:25.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0a24r91gd810u]: Consuming argument `bla`
+[17Dec2024 07:33:25.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0or33d95yg6rl]: started parsing
+[17Dec2024 07:33:25.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0or33d95yg6rl]: Consuming argument `bl`
+[17Dec2024 07:33:25.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0glmfvq7ifycj]: started parsing
+[17Dec2024 07:33:25.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0glmfvq7ifycj]: Consuming argument `b`
+[17Dec2024 07:33:25.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kbdc5l6sxd79]: started parsing
+[17Dec2024 07:33:25.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kbdc5l6sxd79]: Consuming argument ``
+[17Dec2024 07:38:01.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 07:38:01.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 07:38:01.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 07:38:01.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
