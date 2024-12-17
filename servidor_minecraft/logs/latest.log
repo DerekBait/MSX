@@ -9799,3 +9799,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
 [17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
 [17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 08:23:15.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace red_stained_glass black_stained_glass
+[17Dec2024 08:23:35.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace netherrack soul_sand
+[17Dec2024 08:24:10.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace lava securitycraft:fake_water_block
+[17Dec2024 08:24:31.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace red_stained_glass_pane black_stained_glass_pane
+[17Dec2024 08:26:34.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //reload
+[17Dec2024 08:28:10.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem
+[17Dec2024 08:28:14.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem list
+[17Dec2024 08:28:43.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem
