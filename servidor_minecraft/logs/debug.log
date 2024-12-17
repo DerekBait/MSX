@@ -9108,3 +9108,136 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 20:35:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
 [17Dec2024 20:36:01.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved wrongly!
 [17Dec2024 20:36:04.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 2.339224630703029,-10.0,3.9646762098057025
+[17Dec2024 20:36:19.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[17Dec2024 20:36:19.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:21.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:22.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[17Dec2024 20:36:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:23.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:36:24.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:36:24.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 20:36:24.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 20:36:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:27.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:33.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[17Dec2024 20:36:34.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:35.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:37.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:39.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:41.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:43.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:45.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:52.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:36:52.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:36:58.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:36:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:37:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[17Dec2024 20:37:24.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[17Dec2024 20:37:34.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:37:35.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:37:41.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 1.2743874468096692,-12.0,-3.734989228003542
+[17Dec2024 20:37:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has completed the challenge [A Multidimensional Predator]
+[17Dec2024 20:38:14.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:38:14.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:38:17.455] [Async Chat Thread - #28/INFO] [Console/]: <bosteritomop> dios q bueno
+[17Dec2024 20:38:22.958] [Async Chat Thread - #27/INFO] [Console/]: <bosteritomop> otra
+[17Dec2024 20:38:23.745] [Async Chat Thread - #28/INFO] [Console/]: <TheHollowKingMC> alm
+[17Dec2024 20:38:28.444] [Async Chat Thread - #27/INFO] [Console/]: <TheHollowKingMC> esta potente
+[17Dec2024 20:38:31.572] [Async Chat Thread - #28/INFO] [Console/]: <bosteritomop> hadha
+[17Dec2024 20:38:32.857] [Async Chat Thread - #27/INFO] [Console/]: <TheHollowKingMC> ahora 3
+[17Dec2024 20:38:33.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:38:33.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:38:39.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:38:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:38:56.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:38:56.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:39:10.363] [Async Chat Thread - #27/INFO] [Console/]: <bosteritomop> 3 ALV
+[17Dec2024 20:39:24.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 3.8553411877019244,-13.000000000000002,-2.0708144262089263
+[17Dec2024 20:39:29.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:39:29.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.24866557486438978,-10.0,0.9439663014168218
+[17Dec2024 20:39:33.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -3.0343126791858595,-18.0,-0.03190874499932761
+[17Dec2024 20:39:36.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved wrongly!
+[17Dec2024 20:39:55.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:39:56.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -3.166232550177483,-23.0,2.963093053568855
+[17Dec2024 20:40:21.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 2.45141120509561,-25.0,-1.1414572149826654
+[17Dec2024 20:40:21.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -1.5849969102810064,-18.0,3.098846945294781
+[17Dec2024 20:40:23.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:41:24.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:41:24.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:41:24.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 20:41:24.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 20:41:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:41:38.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:41:40.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:41:42.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:41:43.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[17Dec2024 20:41:44.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -3.6114868029326317,-20.0,-2.8147252541746184
+[17Dec2024 20:41:50.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.4186638372411835,-11.0,3.8034726422845324
+[17Dec2024 20:42:00.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:42:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:42:11.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 0.5430769302201952,-10.0,0.1981983562723144
+[17Dec2024 20:42:38.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved wrongly!
+[17Dec2024 20:42:43.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved wrongly!
+[17Dec2024 20:42:44.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:42:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:42:48.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:42:48.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:43:11.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved wrongly!
+[17Dec2024 20:43:11.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has completed the challenge [A Multidimensional Predator]
+[17Dec2024 20:43:33.071] [Async Chat Thread - #30/INFO] [Console/]: <bosteritomop> ez
+[17Dec2024 20:43:34.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:43:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:43:40.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:43:40.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:43:42.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:43:42.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:43:48.103] [Async Chat Thread - #29/INFO] [Console/]: <TheHollowKingMC> la dungeon
+[17Dec2024 20:43:49.324] [Async Chat Thread - #30/INFO] [Console/]: <TheHollowKingMC> ajajaj
+[17Dec2024 20:44:13.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:44:13.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:44:36.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:44:36.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:44:59.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon cataclysm:amethyst_crab
+[17Dec2024 20:44:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Amethyst Crab]
+[17Dec2024 20:45:28.784] [Async Chat Thread - #32/INFO] [Console/]: <TheHollowKingMC> bn a reconstruir
+[17Dec2024 20:45:38.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:45:38.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:45:43.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has made the advancement [Ice Bucket Challenge]
+[17Dec2024 20:45:56.882] [Async Chat Thread - #31/INFO] [Console/]: <bosteritomop> para mi temeos que dejar alrededor vacio
+[17Dec2024 20:46:00.655] [Async Chat Thread - #32/INFO] [Console/]: <bosteritomop> para q los jugs no se escondan
+[17Dec2024 20:46:13.659] [Async Chat Thread - #31/INFO] [Console/]: <TheHollowKingMC> empieza a hacerlo
+[17Dec2024 20:46:19.366] [Async Chat Thread - #32/INFO] [Console/]: <bosteritomop> voy
+[17Dec2024 20:46:20.409] [Async Chat Thread - #31/INFO] [Console/]: <TheHollowKingMC> lo q beas mejor
+[17Dec2024 20:46:23.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:46:23.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:46:24.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 20:46:24.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 20:48:05.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ozezbsgwf0qu]: started parsing
+[17Dec2024 20:48:05.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ozezbsgwf0qu]: Consuming argument ``
+[17Dec2024 20:48:05.868] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lxlzf90d0r62]: started parsing
+[17Dec2024 20:48:05.868] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lxlzf90d0r62]: Consuming argument `0`
+[17Dec2024 20:48:05.868] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lxlzf90d0r62]: Finished looking at arguments. Finalizing command.
+[17Dec2024 20:48:06.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 20:48:06.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ahblahsxsgyx]: started parsing
+[17Dec2024 20:48:06.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ahblahsxsgyx]: Consuming argument `0`
+[17Dec2024 20:48:06.012] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ahblahsxsgyx]: Finished looking at arguments. Finalizing command.
+[17Dec2024 20:48:06.012] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: bosteritomop (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set 0 - Region: (-4568, -17, 1691) - (-4556, 20, 1710)
+[17Dec2024 20:48:11.617] [Async Chat Thread - #34/INFO] [Console/]: <bosteritomop> opa
+[17Dec2024 20:48:15.119] [Async Chat Thread - #33/INFO] [Console/]: <bosteritomop> no funciona el world edit
+[17Dec2024 20:48:36.039] [Async Chat Thread - #34/INFO] [Console/]: <TheHollowKingMC> vl vrg
+[17Dec2024 20:48:40.625] [Async Chat Thread - #33/INFO] [Console/]: <TheHollowKingMC> si si funciopnaba
+[17Dec2024 20:48:41.963] [Async Chat Thread - #34/INFO] [Console/]: <TheHollowKingMC> lptm
+[17Dec2024 20:48:51.224] [Async Chat Thread - #33/INFO] [Console/]: <bosteritomop> dice que ya no soporta estas versiones
+[17Dec2024 20:49:06.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has made the advancement [Who is Cutting Onions?]
+[17Dec2024 20:51:23.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:51:23.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:51:24.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 20:51:24.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 20:51:25.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has made the advancement [Who is Cutting Onions?]
+[17Dec2024 20:56:23.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:56:23.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 20:56:23.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 20:56:24.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 20:56:24.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:sharpness 5
+[17Dec2024 20:56:24.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Sharpness V to TheHollowKingMC's item]
