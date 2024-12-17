@@ -526,3 +526,142 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 19:55:11.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp bosteritomop
 [17Dec2024 19:55:11.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to bosteritomop]
 [17Dec2024 19:55:20.021] [Async Chat Thread - #3/INFO] [Console/]: <TheHollowKingMC> ?
+[17Dec2024 19:55:22.760] [Async Chat Thread - #2/INFO] [Console/]: <bosteritomop> no habian de las altas?
+[17Dec2024 19:55:38.206] [Async Chat Thread - #3/INFO] [Console/]: <TheHollowKingMC> las altas se murieron xq alguien iso kill @e
+[17Dec2024 19:55:51.216] [Async Chat Thread - #2/INFO] [Console/]: <bosteritomop> ?
+[17Dec2024 19:56:05.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /r amarilla a
+[17Dec2024 19:56:24.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /region define sp
+[17Dec2024 19:56:31.282] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> bueno
+[17Dec2024 19:56:37.312] [Async Chat Thread - #2/INFO] [Console/]: <bosteritomop> las tenemos que intercambiar por shopkepper
+[17Dec2024 19:56:55.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 19:56:55.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 19:57:04.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /deop TheHollowKingMC
+[17Dec2024 19:57:04.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Made TheHollowKingMC no longer a server operator]
+[17Dec2024 19:57:26.950] [Async Chat Thread - #3/INFO] [Console/]: <TheHollowKingMC> dame op
+[17Dec2024 19:57:28.816] [Async Chat Thread - #2/INFO] [Console/]: <TheHollowKingMC> plz
+[17Dec2024 19:57:39.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /op TheHollowKingMC
+[17Dec2024 19:57:39.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Made TheHollowKingMC a server operator]
+[17Dec2024 19:57:42.226] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> mira dc
+[17Dec2024 19:57:52.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 19:57:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 19:57:57.413] [Async Chat Thread - #2/INFO] [Console/]: <TheHollowKingMC> ci
+[17Dec2024 19:58:01.908] [Async Chat Thread - #3/INFO] [Console/]: <TheHollowKingMC> luego lo meto
+[17Dec2024 19:58:45.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bosteritomop to -540.450000, 106.690000, -251.000000]
+[17Dec2024 19:59:42.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /region list
+[17Dec2024 20:00:10.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /region flag sp invincible allow
+[17Dec2024 20:00:19.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:00:19.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:00:23.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:00:23.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:00:39.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:00:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:00:43.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /deop TheHollowKingMC
+[17Dec2024 20:00:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Made TheHollowKingMC no longer a server operator]
+[17Dec2024 20:01:35.707] [Async Chat Thread - #5/INFO] [Console/]: <TheHollowKingMC> dame op
+[17Dec2024 20:01:44.489] [Async Chat Thread - #4/INFO] [Console/]: <TheHollowKingMC> dame op
+[17Dec2024 20:01:47.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /op TheHollowKingMC
+[17Dec2024 20:01:47.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Made TheHollowKingMC a server operator]
+[17Dec2024 20:01:50.012] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> ya
+[17Dec2024 20:01:51.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:01:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:01:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has made the advancement [Glow and Behold!]
+[17Dec2024 20:02:41.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bosteritomop to -567.520000, 208.450000, -304.000000]
+[17Dec2024 20:02:41.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -567.520000, 208.450000, -304.000000]
+[17Dec2024 20:02:47.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:02:47.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:02:47.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC was killed by magic
+[17Dec2024 20:02:48.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[17Dec2024 20:02:49.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:02:49.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:02:50.993] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 20:02:50.994] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 20:02:51.125] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 20:02:54.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp bosteritomop
+[17Dec2024 20:02:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to bosteritomop]
+[17Dec2024 20:03:04.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bosteritomop to -593.440000, 92.520000, -303.000000]
+[17Dec2024 20:03:14.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /dedsafio3 cambios dmgdoors false
+[17Dec2024 20:03:15.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:03:15.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:03:20.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:03:20.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:03:24.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:03:24.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:03:29.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:03:29.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:03:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -593.440000, 92.520000, -303.000000]
+[17Dec2024 20:04:27.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:04:27.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:04:28.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 20:04:28.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 20:04:30.869] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> che
+[17Dec2024 20:04:32.203] [Async Chat Thread - #6/INFO] [Console/]: <bosteritomop> TheHollowKingMC
+[17Dec2024 20:04:33.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:04:33.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:04:35.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:04:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:04:42.221] [Async Chat Thread - #7/INFO] [Console/]: <TheHollowKingMC> q mrd
+[17Dec2024 20:04:42.477] [Async Chat Thread - #6/INFO] [Console/]: <bosteritomop> ehm
+[17Dec2024 20:04:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -576.490000, 207.750000, -302.000000]
+[17Dec2024 20:04:51.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -540.450000, 106.690000, -251.000000]
+[17Dec2024 20:04:51.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bosteritomop to -540.450000, 106.690000, -251.000000]
+[17Dec2024 20:05:06.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bosteritomop to -567.520000, 208.450000, -304.000000]
+[17Dec2024 20:05:06.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -567.520000, 208.450000, -304.000000]
+[17Dec2024 20:05:13.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:05:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:05:14.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:05:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:05:19.518] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> mi pou
+[17Dec2024 20:05:28.452] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-09-05_23.02.30.png.
+[17Dec2024 20:05:28.453] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2023-12-20_21.17.34.png.
+[17Dec2024 20:05:28.453] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/61866abbf1564.
+[17Dec2024 20:05:28.454] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-09-19_17.45.15.png.
+[17Dec2024 20:05:28.454] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-08-30_22.04.07.png.
+[17Dec2024 20:05:28.454] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-07-25_15.58.34.png.
+[17Dec2024 20:05:28.454] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/ai-generated-8721439_1280.
+[17Dec2024 20:05:28.455] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-07-18_22.11.31.png.
+[17Dec2024 20:05:28.455] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-09-12_16.28.28_2.png.
+[17Dec2024 20:05:28.455] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-08-27_15.24.52.png.
+[17Dec2024 20:05:28.456] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-08-10_21.35.52.png.
