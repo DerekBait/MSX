@@ -22,6 +22,8 @@
       "minecraft:desert": "2024-12-17 06:35:29 +0000",
       "minecraft:windswept_forest": "2024-12-17 06:29:54 +0000",
       "minecraft:jungle": "2024-12-13 04:06:42 +0000",
+      "minecraft:ocean": "2024-12-17 20:18:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-17 20:22:53 +0000",
       "minecraft:frozen_peaks": "2024-12-13 04:48:22 +0000",
       "minecraft:meadow": "2024-12-13 04:47:26 +0000",
       "minecraft:savanna": "2024-12-17 06:34:56 +0000",
@@ -1320,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-17 20:00:49 +0000"
@@ -1329,6 +1337,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2024-12-17 20:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-17 20:20:06 +0000"
     },
     "done": true
   },
@@ -1359,6 +1373,12 @@
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-17 20:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
     },
     "done": true
   },
@@ -1440,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-17 20:01:01 +0000"
@@ -1488,6 +1514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2024-12-17 20:00:49 +0000"
@@ -1524,6 +1556,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2024-12-17 20:01:42 +0000"
@@ -1536,6 +1580,18 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-17 20:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2024-12-17 20:00:49 +0000"
@@ -1545,6 +1601,12 @@
   "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2024-12-17 20:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
     },
     "done": true
   },
@@ -1572,6 +1634,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-17 20:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-17 20:00:56 +0000"
@@ -1581,6 +1649,12 @@
   "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-17 20:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 20:19:52 +0000"
     },
     "done": true
   },

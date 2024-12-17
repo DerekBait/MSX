@@ -692,3 +692,205 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 20:13:28.083] [Async Chat Thread - #14/INFO] [Console/]: <bosteritomop> esperate
 [17Dec2024 20:13:30.394] [Async Chat Thread - #15/INFO] [Console/]: <bosteritomop> queda mal
 [17Dec2024 20:13:34.472] [Async Chat Thread - #14/INFO] [Console/]: <bosteritomop> 3 de un lado y 2 del otro
+[17Dec2024 20:16:31.106] [Async Chat Thread - #17/INFO] [Console/]: <bosteritomop> QUE VERGA
+[17Dec2024 20:17:15.074] [Async Chat Thread - #16/INFO] [Console/]: <bosteritomop> q
+[17Dec2024 20:17:18.986] [Async Chat Thread - #17/INFO] [Console/]: <bosteritomop> a la mierda
+[17Dec2024 20:17:21.163] [Async Chat Thread - #16/INFO] [Console/]: <bosteritomop> esta buenisimo
+[17Dec2024 20:18:11.612] [Async Chat Thread - #17/INFO] [Console/]: <bosteritomop> y ahora
+[17Dec2024 20:18:18.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop was killed
+[17Dec2024 20:18:18.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed bosteritomop]
+[17Dec2024 20:18:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[17Dec2024 20:18:22.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp bosteritomop
+[17Dec2024 20:18:22.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to bosteritomop]
+[17Dec2024 20:18:24.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 20:18:24.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 20:18:31.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /locate structure
+[17Dec2024 20:19:32.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has reached the goal [Sky's the Limit]
+[17Dec2024 20:22:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has made the advancement [Sunken City]
+[17Dec2024 20:22:53.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 20:22:53.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 20:22:56.139] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> wtf
+[17Dec2024 20:23:04.393] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> dungeon
+[17Dec2024 20:23:06.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has made the advancement [Sunken City]
+[17Dec2024 20:23:08.427] [Async Chat Thread - #19/INFO] [Console/]: <TheHollowKingMC> acuativca
+[17Dec2024 20:23:10.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:23:10.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:23:11.371] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> ay q ver
+[17Dec2024 20:23:16.242] [Async Chat Thread - #19/INFO] [Console/]: <TheHollowKingMC> mo romapaa
+[17Dec2024 20:23:20.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:23:20.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:23:23.301] [Async Chat Thread - #18/INFO] [Console/]: <bosteritomop> e?
+[17Dec2024 20:23:27.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @a minecraft:conduit_power infinite 2
+[17Dec2024 20:23:27.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Conduit Power to 2 targets]
+[17Dec2024 20:23:35.771] [Async Chat Thread - #19/INFO] [Console/]: <TheHollowKingMC> no romos nada
+[17Dec2024 20:23:42.388] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> no rompas nada
+[17Dec2024 20:23:45.412] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> estoy viendo cabron
+[17Dec2024 20:23:46.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:23:46.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:23:50.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:23:50.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:23:57.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 20:23:57.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 20:23:59.571] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> digo x si acaso
+[17Dec2024 20:24:02.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:24:02.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:24:08.916] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> pa q voy a romper
+[17Dec2024 20:24:10.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:24:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:24:14.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:24:14.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:24:18.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:24:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:24:49.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:24:49.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:24:56.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:24:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:24:58.186] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> aste tp
+[17Dec2024 20:25:00.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp locate
+[17Dec2024 20:25:02.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 20:25:02.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 20:25:06.849] [Async Chat Thread - #19/INFO] [Console/]: <TheHollowKingMC> aca es el boos
+[17Dec2024 20:25:12.184] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> no toques nada
+[17Dec2024 20:25:14.094] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> pero elimina
+[17Dec2024 20:25:19.648] [Async Chat Thread - #18/INFO] [Console/]: <bosteritomop> es re chiquito para el boss
+[17Dec2024 20:25:46.486] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> es chiquito
+[17Dec2024 20:25:52.903] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> esta bien
+[17Dec2024 20:25:53.079] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> que esta arena quede vacia
+[17Dec2024 20:26:07.686] [Async Chat Thread - #18/INFO] [Console/]: <bosteritomop> se esconden detras y listo
+[17Dec2024 20:26:39.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 20:26:39.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 20:26:41.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 20:26:41.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 20:26:42.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 20:26:42.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 20:26:44.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 20:26:44.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 20:26:50.198] [Async Chat Thread - #19/INFO] [Console/]: <TheHollowKingMC> nopnonon
+[17Dec2024 20:26:51.654] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> a mira
+[17Dec2024 20:26:53.386] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> no lo mates
+[17Dec2024 20:26:54.418] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> hasta lo destruye
+[17Dec2024 20:26:56.627] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> pnj
+[17Dec2024 20:27:14.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:unbreaking 3
+[17Dec2024 20:27:14.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Unbreaking III to TheHollowKingMC's item]
+[17Dec2024 20:27:16.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:unbreaking 3
+[17Dec2024 20:27:16.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Unbreaking III to TheHollowKingMC's item]
+[17Dec2024 20:27:17.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:unbreaking 3
+[17Dec2024 20:27:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Unbreaking III to TheHollowKingMC's item]
+[17Dec2024 20:27:19.040] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> y ahora como eliminas esto
+[17Dec2024 20:27:19.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:unbreaking 3
+[17Dec2024 20:27:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Unbreaking III to TheHollowKingMC's item]
+[17Dec2024 20:27:30.480] [Async Chat Thread - #18/INFO] [Console/]: <TheHollowKingMC> no ags nada
+[17Dec2024 20:27:44.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:sharpness 5
+[17Dec2024 20:27:44.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Sharpness V to TheHollowKingMC's item]
+[17Dec2024 20:28:07.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:28:07.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:28:37.399] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> dsp hagamos una dungeon de nosotros mismo, ya no da para copiar
+[17Dec2024 20:29:56.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -4.871171566580415,0.18573606014251887,-9.52458437707719
+[17Dec2024 20:30:39.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:30:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:30:41.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:30:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:30:52.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:30:54.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:30:55.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:30:57.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:30:58.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:31:00.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:31:01.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:31:04.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:31:23.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -1.8844111631351552,-12.0,-1.269923032031329
+[17Dec2024 20:31:28.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:31:28.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:31:31.405] [Async Chat Thread - #23/INFO] [Console/]: <TheHollowKingMC> ajaja
+[17Dec2024 20:31:37.192] [Async Chat Thread - #22/INFO] [Console/]: <TheHollowKingMC> ni 1 totem popiw
+[17Dec2024 20:31:39.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:31:39.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:31:41.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:31:41.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:31:46.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 20:31:46.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 20:31:47.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:31:47.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:31:48.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:31:48.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 20:31:57.012] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 20:31:59.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:31:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:32:08.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:leash_knot
+[17Dec2024 20:32:08.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Leash Knot]
+[17Dec2024 20:32:17.655] [Async Chat Thread - #22/INFO] [Console/]: <bosteritomop> spawnea esa cosa
+[17Dec2024 20:32:26.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 20:32:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 20:32:38.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 20:32:38.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 20:32:56.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:32:56.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:33:07.694] [Async Chat Thread - #22/INFO] [Console/]: <TheHollowKingMC> ezz
+[17Dec2024 20:33:19.154] [Async Chat Thread - #22/INFO] [Console/]: <bosteritomop> spawnea esta cosa
+[17Dec2024 20:33:23.830] [Async Chat Thread - #24/INFO] [Console/]: <TheHollowKingMC> y si ponemos 2 en la dungeon?
+[17Dec2024 20:33:26.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:33:26.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:33:27.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:33:27.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:33:28.854] [Async Chat Thread - #22/INFO] [Console/]: <bosteritomop> 2 de esos?
+[17Dec2024 20:33:29.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:33:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:33:31.154] [Async Chat Thread - #24/INFO] [Console/]: <bosteritomop> bueno
+[17Dec2024 20:33:53.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:33:53.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:34:02.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:unbreaking 3
+[17Dec2024 20:34:02.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Unbreaking III to TheHollowKingMC's item]
+[17Dec2024 20:34:07.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:riptide 3
+[17Dec2024 20:34:07.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Riptide III to TheHollowKingMC's item]
+[17Dec2024 20:34:08.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:34:08.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:34:24.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 3.2036227603502994,-15.0,-2.3924182544765245
+[17Dec2024 20:34:30.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.5088616883995201,-27.0,1.6554276960764582
+[17Dec2024 20:34:49.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 0.4866954517601698,-19.0,-1.3032036265153693
+[17Dec2024 20:34:55.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:34:56.376] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17Dec2024 20:34:59.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[17Dec2024 20:35:00.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:03.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:05.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:10.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:11.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:13.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:14.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:16.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[17Dec2024 20:35:16.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:20.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:28.512] [Async Chat Thread - #26/INFO] [Console/]: <bosteritomop> ME AGARRARON LOS 2
+[17Dec2024 20:35:29.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:30.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 2.9130638093147354,-17.0,3.032414611986269
+[17Dec2024 20:35:30.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:35:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[17Dec2024 20:36:01.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved wrongly!
+[17Dec2024 20:36:04.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 2.339224630703029,-10.0,3.9646762098057025
