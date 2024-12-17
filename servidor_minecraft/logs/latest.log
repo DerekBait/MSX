@@ -9807,3 +9807,34 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 08:28:10.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem
 [17Dec2024 08:28:14.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem list
 [17Dec2024 08:28:43.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem
+[17Dec2024 08:28:54.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem load 21046
+[17Dec2024 08:28:54.618] [WorldEdit Task Executor - 1/ERROR] [com.sk89q.worldedit.command.util.AsyncCommandBuilder/]: Uncaught exception occurred in task: Loading schematic 21046
+java.io.IOException: This schematic version is currently not supported
+	at com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader.read(SpongeSchematicReader.java:127) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.sk89q.worldedit.command.SchematicCommands$SchematicLoadTask.call(SchematicCommands.java:322) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.sk89q.worldedit.command.SchematicCommands$SchematicLoadTask.call(SchematicCommands.java:304) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.sk89q.worldedit.command.util.AsyncCommandBuilder.runTask(AsyncCommandBuilder.java:158) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.google.common.util.concurrent.TrustedListenableFutureTask$TrustedFutureInterruptibleTask.runInterruptibly(TrustedListenableFutureTask.java:131) ~[guava-31.1-jre.jar%23108!/:?] {}
+	at com.google.common.util.concurrent.InterruptibleTask.run(InterruptibleTask.java:74) ~[guava-31.1-jre.jar%23108!/:?] {}
+	at com.google.common.util.concurrent.TrustedListenableFutureTask.run(TrustedListenableFutureTask.java:82) ~[guava-31.1-jre.jar%23108!/:?] {}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+[17Dec2024 08:29:00.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schem load 21046
+[17Dec2024 08:29:00.605] [WorldEdit Task Executor - 1/ERROR] [com.sk89q.worldedit.command.util.AsyncCommandBuilder/]: Uncaught exception occurred in task: Loading schematic 21046
+java.io.IOException: This schematic version is currently not supported
+	at com.sk89q.worldedit.extent.clipboard.io.SpongeSchematicReader.read(SpongeSchematicReader.java:127) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.sk89q.worldedit.command.SchematicCommands$SchematicLoadTask.call(SchematicCommands.java:322) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.sk89q.worldedit.command.SchematicCommands$SchematicLoadTask.call(SchematicCommands.java:304) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.sk89q.worldedit.command.util.AsyncCommandBuilder.runTask(AsyncCommandBuilder.java:158) ~[worldedit-mod-7.2.15.jar%23189!/:?] {re:classloading}
+	at com.google.common.util.concurrent.TrustedListenableFutureTask$TrustedFutureInterruptibleTask.runInterruptibly(TrustedListenableFutureTask.java:131) ~[guava-31.1-jre.jar%23108!/:?] {}
+	at com.google.common.util.concurrent.InterruptibleTask.run(InterruptibleTask.java:74) ~[guava-31.1-jre.jar%23108!/:?] {}
+	at com.google.common.util.concurrent.TrustedListenableFutureTask.run(TrustedListenableFutureTask.java:82) ~[guava-31.1-jre.jar%23108!/:?] {}
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?] {}
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+[17Dec2024 08:31:10.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic list
+[17Dec2024 08:31:21.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 16354
+[17Dec2024 08:31:28.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 17354
+[17Dec2024 08:31:43.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 17354,litematic
+[17Dec2024 08:31:48.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /schematic load 17354.litematic
