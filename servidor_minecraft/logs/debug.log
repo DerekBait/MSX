@@ -21393,3 +21393,340 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 08:08:01.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
 [17Dec2024 08:08:01.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
 [17Dec2024 08:08:01.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 08:08:42.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1294yb8szm0p8]: started parsing
+[17Dec2024 08:08:42.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1294yb8szm0p8]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:42.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1294yb8szm0p8]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:08:42.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1294yb8szm0p8]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:42.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndtctkmaplym]: started parsing
+[17Dec2024 08:08:42.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndtctkmaplym]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:42.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndtctkmaplym]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:08:42.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ndtctkmaplym]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:48.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i3dvh3g7v39m]: started parsing
+[17Dec2024 08:08:48.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i3dvh3g7v39m]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:48.461] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i3dvh3g7v39m]: Consuming argument `blackstone_stair`
+[17Dec2024 08:08:48.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo8zsawn17mi]: started parsing
+[17Dec2024 08:08:48.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo8zsawn17mi]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:48.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bo8zsawn17mi]: Consuming argument `blackstone_stai`
+[17Dec2024 08:08:48.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gb5pzxgyvyon]: started parsing
+[17Dec2024 08:08:48.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gb5pzxgyvyon]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:48.968] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gb5pzxgyvyon]: Consuming argument `blackstone_sta`
+[17Dec2024 08:08:49.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v384caconls2]: started parsing
+[17Dec2024 08:08:49.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v384caconls2]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v384caconls2]: Consuming argument `blackstone_st`
+[17Dec2024 08:08:49.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k60drxuhgjt8]: started parsing
+[17Dec2024 08:08:49.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k60drxuhgjt8]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.033] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k60drxuhgjt8]: Consuming argument `blackstone_s`
+[17Dec2024 08:08:49.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dry67caj47om]: started parsing
+[17Dec2024 08:08:49.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dry67caj47om]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dry67caj47om]: Consuming argument `blackstone_`
+[17Dec2024 08:08:49.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ug16jwu59lox]: started parsing
+[17Dec2024 08:08:49.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ug16jwu59lox]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ug16jwu59lox]: Consuming argument `blackstone`
+[17Dec2024 08:08:49.144] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ug16jwu59lox]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:49.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nyr2kjv8y69x]: started parsing
+[17Dec2024 08:08:49.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nyr2kjv8y69x]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nyr2kjv8y69x]: Consuming argument `blackston`
+[17Dec2024 08:08:49.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [129rnjkb4rha5]: started parsing
+[17Dec2024 08:08:49.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [129rnjkb4rha5]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.199] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [129rnjkb4rha5]: Consuming argument `blacksto`
+[17Dec2024 08:08:49.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1y0tdigf65c7l]: started parsing
+[17Dec2024 08:08:49.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1y0tdigf65c7l]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1y0tdigf65c7l]: Consuming argument `blackst`
+[17Dec2024 08:08:49.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbc6n60q3osm]: started parsing
+[17Dec2024 08:08:49.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbc6n60q3osm]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbc6n60q3osm]: Consuming argument `blacks`
+[17Dec2024 08:08:49.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jx6q8dzvi7ua]: started parsing
+[17Dec2024 08:08:49.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jx6q8dzvi7ua]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:49.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jx6q8dzvi7ua]: Consuming argument `black`
+[17Dec2024 08:08:49.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jx6q8dzvi7ua]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qb03zp79bqh5]: started parsing
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qb03zp79bqh5]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qb03zp79bqh5]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qb03zp79bqh5]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnocn0trre0k]: started parsing
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnocn0trre0k]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnocn0trre0k]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:08:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnocn0trre0k]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:53.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05td5jo3lftiu]: started parsing
+[17Dec2024 08:08:53.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05td5jo3lftiu]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:53.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05td5jo3lftiu]: Consuming argument `blackstone_stair`
+[17Dec2024 08:08:54.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w2vnnxc50orv]: started parsing
+[17Dec2024 08:08:54.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w2vnnxc50orv]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w2vnnxc50orv]: Consuming argument `blackstone_stai`
+[17Dec2024 08:08:54.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q56su1wtp4zl]: started parsing
+[17Dec2024 08:08:54.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q56su1wtp4zl]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.444] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q56su1wtp4zl]: Consuming argument `blackstone_sta`
+[17Dec2024 08:08:54.479] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzpyj23gatr7]: started parsing
+[17Dec2024 08:08:54.479] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzpyj23gatr7]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.479] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzpyj23gatr7]: Consuming argument `blackstone_st`
+[17Dec2024 08:08:54.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r5t51i7ni3e2]: started parsing
+[17Dec2024 08:08:54.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r5t51i7ni3e2]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r5t51i7ni3e2]: Consuming argument `blackstone_s`
+[17Dec2024 08:08:54.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxacfjcmj2nq]: started parsing
+[17Dec2024 08:08:54.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxacfjcmj2nq]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.534] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wxacfjcmj2nq]: Consuming argument `blackstone_`
+[17Dec2024 08:08:54.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0py5n37ynn5u7]: started parsing
+[17Dec2024 08:08:54.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0py5n37ynn5u7]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0py5n37ynn5u7]: Consuming argument `blackstone`
+[17Dec2024 08:08:54.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0py5n37ynn5u7]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:54.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z9wbkig07zdn]: started parsing
+[17Dec2024 08:08:54.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z9wbkig07zdn]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z9wbkig07zdn]: Consuming argument `blackston`
+[17Dec2024 08:08:54.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmuifk3aghh7]: started parsing
+[17Dec2024 08:08:54.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmuifk3aghh7]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xmuifk3aghh7]: Consuming argument `blacksto`
+[17Dec2024 08:08:54.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e6kdnhb8vo0b]: started parsing
+[17Dec2024 08:08:54.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e6kdnhb8vo0b]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e6kdnhb8vo0b]: Consuming argument `blackst`
+[17Dec2024 08:08:54.717] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0drmypytbi9xz]: started parsing
+[17Dec2024 08:08:54.717] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0drmypytbi9xz]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.717] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0drmypytbi9xz]: Consuming argument `blacks`
+[17Dec2024 08:08:54.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rhjpkyzkjlkl]: started parsing
+[17Dec2024 08:08:54.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rhjpkyzkjlkl]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rhjpkyzkjlkl]: Consuming argument `black`
+[17Dec2024 08:08:54.734] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rhjpkyzkjlkl]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:54.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rzf5ulvcl5st]: started parsing
+[17Dec2024 08:08:54.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rzf5ulvcl5st]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rzf5ulvcl5st]: Consuming argument `blac`
+[17Dec2024 08:08:54.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oqvwt9vqe317]: started parsing
+[17Dec2024 08:08:54.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oqvwt9vqe317]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.805] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oqvwt9vqe317]: Consuming argument `bla`
+[17Dec2024 08:08:54.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7wva9022uac]: started parsing
+[17Dec2024 08:08:54.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7wva9022uac]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7wva9022uac]: Consuming argument `bl`
+[17Dec2024 08:08:54.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18mt8re6fwk1b]: started parsing
+[17Dec2024 08:08:54.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18mt8re6fwk1b]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18mt8re6fwk1b]: Consuming argument `b`
+[17Dec2024 08:08:54.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l1k7v24ezl77]: started parsing
+[17Dec2024 08:08:54.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l1k7v24ezl77]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l1k7v24ezl77]: Consuming argument ``
+[17Dec2024 08:08:54.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00opdvdnhbr70]: started parsing
+[17Dec2024 08:08:54.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00opdvdnhbr70]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:54.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00opdvdnhbr70]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:54.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kpzbue9abl72]: started parsing
+[17Dec2024 08:08:54.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kpzbue9abl72]: Consuming argument `nether_brick_stair`
+[17Dec2024 08:08:55.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11htl01ni3pvn]: started parsing
+[17Dec2024 08:08:55.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11htl01ni3pvn]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:08:55.456] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11htl01ni3pvn]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:55.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cutcnetbjve0]: started parsing
+[17Dec2024 08:08:55.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cutcnetbjve0]: Consuming argument `nether_brick_stair`
+[17Dec2024 08:08:56.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s4ts7gkze9zu]: started parsing
+[17Dec2024 08:08:56.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s4ts7gkze9zu]: Consuming argument `nether_brick_stai`
+[17Dec2024 08:08:56.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ewfiquvvc5ma]: started parsing
+[17Dec2024 08:08:56.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ewfiquvvc5ma]: Consuming argument `nether_brick_sta`
+[17Dec2024 08:08:56.587] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3ut7t15kgpp]: started parsing
+[17Dec2024 08:08:56.587] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3ut7t15kgpp]: Consuming argument `nether_brick_st`
+[17Dec2024 08:08:56.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0418l32a6wo3j]: started parsing
+[17Dec2024 08:08:56.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0418l32a6wo3j]: Consuming argument `nether_brick_s`
+[17Dec2024 08:08:56.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnvzyx5gy5wf]: started parsing
+[17Dec2024 08:08:56.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xnvzyx5gy5wf]: Consuming argument `nether_brick_`
+[17Dec2024 08:08:56.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m79eoys7pp29]: started parsing
+[17Dec2024 08:08:56.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m79eoys7pp29]: Consuming argument `nether_brick`
+[17Dec2024 08:08:56.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sake5vz7qg50]: started parsing
+[17Dec2024 08:08:56.825] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sake5vz7qg50]: Consuming argument `nether_bric`
+[17Dec2024 08:08:57.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e9erxky4yldw]: started parsing
+[17Dec2024 08:08:57.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e9erxky4yldw]: Consuming argument `nether_bri`
+[17Dec2024 08:08:57.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19nw6y8rsdxjj]: started parsing
+[17Dec2024 08:08:57.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19nw6y8rsdxjj]: Consuming argument `nether_br`
+[17Dec2024 08:08:57.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uv31cjgy1mo5]: started parsing
+[17Dec2024 08:08:57.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uv31cjgy1mo5]: Consuming argument `nether_b`
+[17Dec2024 08:08:57.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fpv4ti7xpzjf]: started parsing
+[17Dec2024 08:08:57.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fpv4ti7xpzjf]: Consuming argument `nether_`
+[17Dec2024 08:08:57.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vlpis6f8qd9i]: started parsing
+[17Dec2024 08:08:57.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vlpis6f8qd9i]: Consuming argument `nether`
+[17Dec2024 08:08:57.818] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ccwp9mm9hukb]: started parsing
+[17Dec2024 08:08:57.818] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ccwp9mm9hukb]: Consuming argument `nethe`
+[17Dec2024 08:08:57.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00zqp100w2ywa]: started parsing
+[17Dec2024 08:08:57.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00zqp100w2ywa]: Consuming argument `neth`
+[17Dec2024 08:08:58.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rmi0e8stk6q4]: started parsing
+[17Dec2024 08:08:58.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rmi0e8stk6q4]: Consuming argument `net`
+[17Dec2024 08:08:58.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ss0xojb7f3y1]: started parsing
+[17Dec2024 08:08:58.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ss0xojb7f3y1]: Consuming argument `ne`
+[17Dec2024 08:08:58.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f3ddxfio4ysu]: started parsing
+[17Dec2024 08:08:58.512] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f3ddxfio4ysu]: Consuming argument `n`
+[17Dec2024 08:08:58.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vugh6gxct428]: started parsing
+[17Dec2024 08:08:58.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vugh6gxct428]: Consuming argument ``
+[17Dec2024 08:09:00.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ux3zcr9ggs0m]: started parsing
+[17Dec2024 08:09:00.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ux3zcr9ggs0m]: Consuming argument ``
+[17Dec2024 08:09:01.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cgdeilzb6jd5]: started parsing
+[17Dec2024 08:09:01.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cgdeilzb6jd5]: Consuming argument `b`
+[17Dec2024 08:09:01.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fprtc9b0vhu3]: started parsing
+[17Dec2024 08:09:01.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fprtc9b0vhu3]: Consuming argument `bl`
+[17Dec2024 08:09:01.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gzr9ewnbyugl]: started parsing
+[17Dec2024 08:09:01.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gzr9ewnbyugl]: Consuming argument `bla`
+[17Dec2024 08:09:01.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r2qr0bv1x01y]: started parsing
+[17Dec2024 08:09:01.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r2qr0bv1x01y]: Consuming argument `blac`
+[17Dec2024 08:09:01.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12yc9hrwaupqh]: started parsing
+[17Dec2024 08:09:01.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12yc9hrwaupqh]: Consuming argument `black`
+[17Dec2024 08:09:01.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12yc9hrwaupqh]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:09:01.259] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08hpsvfcp35vi]: started parsing
+[17Dec2024 08:09:01.259] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08hpsvfcp35vi]: Consuming argument `blacks`
+[17Dec2024 08:09:01.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [074xbk5s6b7ge]: started parsing
+[17Dec2024 08:09:01.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [074xbk5s6b7ge]: Consuming argument `blackst`
+[17Dec2024 08:09:01.381] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zd7d2ouicmxf]: started parsing
+[17Dec2024 08:09:01.381] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zd7d2ouicmxf]: Consuming argument `blacksto`
+[17Dec2024 08:09:01.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00lggforrcnhu]: started parsing
+[17Dec2024 08:09:01.436] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00lggforrcnhu]: Consuming argument `blackston`
+[17Dec2024 08:09:01.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0562qv74q86dh]: started parsing
+[17Dec2024 08:09:01.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0562qv74q86dh]: Consuming argument `blackstone`
+[17Dec2024 08:09:01.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0562qv74q86dh]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:09:01.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vdn9yjeww3c0]: started parsing
+[17Dec2024 08:09:01.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vdn9yjeww3c0]: Consuming argument `blackstone_`
+[17Dec2024 08:09:01.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04gixf0hw99k5]: started parsing
+[17Dec2024 08:09:01.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04gixf0hw99k5]: Consuming argument `blackstone_s`
+[17Dec2024 08:09:01.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fkl57luqmymt]: started parsing
+[17Dec2024 08:09:01.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fkl57luqmymt]: Consuming argument `blackstone_st`
+[17Dec2024 08:09:01.724] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kp8f1ayxifw]: started parsing
+[17Dec2024 08:09:01.724] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kp8f1ayxifw]: Consuming argument `blackstone_sta`
+[17Dec2024 08:09:01.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u1ls1bb2xpbt]: started parsing
+[17Dec2024 08:09:01.803] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u1ls1bb2xpbt]: Consuming argument `blackstone_stai`
+[17Dec2024 08:09:01.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [175c201u2sn8i]: started parsing
+[17Dec2024 08:09:01.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [175c201u2sn8i]: Consuming argument `blackstone_stair`
+[17Dec2024 08:09:01.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ghute7fqnhix]: started parsing
+[17Dec2024 08:09:01.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ghute7fqnhix]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:01.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ghute7fqnhix]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:09:01.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0178811iwkwng]: started parsing
+[17Dec2024 08:09:01.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0178811iwkwng]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:01.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0178811iwkwng]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:09:02.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18tcs4ohgpgq2]: started parsing
+[17Dec2024 08:09:02.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18tcs4ohgpgq2]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:02.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18tcs4ohgpgq2]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:09:02.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18rfibhx0i75e]: started parsing
+[17Dec2024 08:09:02.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18rfibhx0i75e]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:02.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18rfibhx0i75e]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:09:02.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcu20b2d4hzl]: started parsing
+[17Dec2024 08:09:02.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcu20b2d4hzl]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:02.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gcu20b2d4hzl]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:09:02.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cmtjxgtzskq2]: started parsing
+[17Dec2024 08:09:02.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cmtjxgtzskq2]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:02.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cmtjxgtzskq2]: Consuming argument ``
+[17Dec2024 08:09:02.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fnm7zo04fk4]: started parsing
+[17Dec2024 08:09:02.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fnm7zo04fk4]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:02.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16fnm7zo04fk4]: Consuming argument `d`
+[17Dec2024 08:09:03.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0797mthhqizwr]: started parsing
+[17Dec2024 08:09:03.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0797mthhqizwr]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:03.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0797mthhqizwr]: Consuming argument `de`
+[17Dec2024 08:09:03.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vb0r1ct92x00]: started parsing
+[17Dec2024 08:09:03.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vb0r1ct92x00]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:03.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vb0r1ct92x00]: Consuming argument `dee`
+[17Dec2024 08:09:03.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b2oiblpg5b7i]: started parsing
+[17Dec2024 08:09:03.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b2oiblpg5b7i]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:03.553] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b2oiblpg5b7i]: Consuming argument `deep`
+[17Dec2024 08:09:04.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ib0b7zisbzq]: started parsing
+[17Dec2024 08:09:04.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ib0b7zisbzq]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:04.526] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03ib0b7zisbzq]: Consuming argument `deeps`
+[17Dec2024 08:09:05.292] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgfgpnq7xgpr]: started parsing
+[17Dec2024 08:09:05.292] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgfgpnq7xgpr]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:05.292] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bgfgpnq7xgpr]: Consuming argument `deepsl`
+[17Dec2024 08:09:05.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1238mr0oqvp4t]: started parsing
+[17Dec2024 08:09:05.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1238mr0oqvp4t]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:05.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1238mr0oqvp4t]: Consuming argument `deepsla`
+[17Dec2024 08:09:09.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace blackstone_stairs deepslate_brick_wall
+[17Dec2024 08:09:09.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [060hdpvifz6ho]: started parsing
+[17Dec2024 08:09:09.981] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [060hdpvifz6ho]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:09:09.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [060hdpvifz6ho]: Consuming argument `deepslate_brick_wall`
+[17Dec2024 08:09:09.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [060hdpvifz6ho]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:11:31.903] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeModifier/]: Unable to create attribute: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" because "p_129234_" is null
+[17Dec2024 08:11:31.904] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeModifier/]: Unable to create attribute: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" because "p_129234_" is null
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 08:11:31.904] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 08:11:57.715] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeModifier/]: Unable to create attribute: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" because "p_129234_" is null
+[17Dec2024 08:13:01.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:13:01.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:13:01.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 08:13:01.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 08:15:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has reached the goal [You Need a Mint]
+[17Dec2024 08:15:08.308] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 08:15:08.308] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 08:15:08.308] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 08:15:08.308] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 08:15:08.308] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 08:15:08.309] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 08:15:09.554] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 08:17:43.753] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 08:18:01.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:18:01.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:18:01.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 08:18:01.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
