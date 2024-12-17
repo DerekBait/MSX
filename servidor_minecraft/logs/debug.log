@@ -9241,3 +9241,49 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 20:56:24.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
 [17Dec2024 20:56:24.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:sharpness 5
 [17Dec2024 20:56:24.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Sharpness V to TheHollowKingMC's item]
+[17Dec2024 20:56:48.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670
+[17Dec2024 20:57:04.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670 -4550 -17 1707
+[17Dec2024 20:57:35.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670 -4550 -17 1707 cataclysm:stone_tiles replace air
+[17Dec2024 20:57:35.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 8 block(s)]
+[17Dec2024 20:57:40.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670 -4550 -17 1707 cataclysm:stone_tiles replace air
+[17Dec2024 20:57:58.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670 -4550 -17 1707 air replace cataclysm:stone_tiles
+[17Dec2024 20:57:58.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 109 block(s)]
+[17Dec2024 20:58:06.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670 -4550 -17 1707 air replace cataclysm:stone_tiles
+[17Dec2024 20:58:50.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670 -4550 -17 1707 cataclysm:stone_tiles replace weater
+[17Dec2024 20:59:10.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4587 -17 1670 -4550 -17 1707 cataclysm:stone_tiles replace water
+[17Dec2024 20:59:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 678 block(s)]
+[17Dec2024 21:00:45.755] [Async Chat Thread - #36/INFO] [Console/]: <bosteritomop> donde andas?
+[17Dec2024 21:01:23.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:01:23.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:01:24.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 21:01:24.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 21:06:23.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:06:23.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:06:23.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 21:06:24.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 21:08:14.954] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> ayuda
+[17Dec2024 21:08:17.958] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> q?
+[17Dec2024 21:08:22.755] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> the stranger me quiere violar
+[17Dec2024 21:08:25.428] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> wtf
+[17Dec2024 21:10:25.405] [Async Chat Thread - #40/INFO] [Console/]: <bosteritomop> ya
+[17Dec2024 21:10:38.380] [Async Chat Thread - #40/INFO] [Console/]: <TheHollowKingMC> nmms q riko
+[17Dec2024 21:11:23.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:11:23.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:11:24.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 21:11:24.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 21:11:38.054] [Async Chat Thread - #41/INFO] [Console/]: <bosteritomop> eu
+[17Dec2024 21:11:42.327] [Async Chat Thread - #40/INFO] [Console/]: <bosteritomop> cual es la coord del spawn?
+[17Dec2024 21:12:00.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp 0 100 0
+[17Dec2024 21:12:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to 0.500000, 100.000000, 0.500000]
+[17Dec2024 21:12:00.732] [Server thread/DEBUG] [mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.world.item.trading.MerchantOffer
+[17Dec2024 21:12:17.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp -251 100 -100
+[17Dec2024 21:12:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to -250.500000, 100.000000, -99.500000]
+[17Dec2024 21:12:30.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 21:12:30.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 21:14:15.380] [Async Chat Thread - #43/INFO] [Console/]: <TheHollowKingMC> good
+[17Dec2024 21:16:21.514] [Async Chat Thread - #45/INFO] [Console/]: <bosteritomop> wait
+[17Dec2024 21:16:23.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:16:23.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 21:16:24.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 21:16:24.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 21:16:37.053] [Async Chat Thread - #45/INFO] [Console/]: <TheHollowKingMC> ??
