@@ -1357,3 +1357,80 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.Material.createBlockDa
 [17Dec2024 21:36:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
 [17Dec2024 21:36:49.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /locate TheHollowKingMC
 [17Dec2024 21:36:57.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /locate
+[17Dec2024 21:37:10.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 21:37:10.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 21:37:38.969] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 21:37:38.969] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 21:37:38.969] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 21:37:38.969] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 21:37:38.970] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 21:37:42.210] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 21:37:57.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 21:37:57.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 21:39:26.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 21:39:26.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 21:39:27.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 21:39:27.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 21:44:13.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 21:44:13.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 21:44:30.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has made the advancement [Ancient Civilization]
+[17Dec2024 21:44:46.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 21:44:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 21:44:47.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 21:44:47.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 21:44:48.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 21:44:48.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 21:46:09.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 21:46:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 21:46:10.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 21:46:10.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 21:46:16.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 21:46:16.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 21:46:18.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 21:46:18.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 21:46:25.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 21:46:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 21:46:39.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 21:46:39.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 21:46:58.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give TheHollowKingMC minecraft:strength infinite 255
+[17Dec2024 21:46:58.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Strength to TheHollowKingMC]
