@@ -9681,3 +9681,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 07:46:32.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air,air,blackstone,air,air,air,air,air
 [17Dec2024 07:47:06.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air,air,blackstone,air,air,air,air,air
 [17Dec2024 07:47:49.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set securitycraft:fake_water_block
+[17Dec2024 07:48:39.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 07:48:42.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 07:48:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 07:48:44.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 07:48:44.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 07:48:46.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 07:48:46.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 07:48:47.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:protection 4
+[17Dec2024 07:48:47.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Protection IV to TheHollowKingMC's item]
+[17Dec2024 07:49:35.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /enchant TheHollowKingMC minecraft:riptide 3
+[17Dec2024 07:49:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied enchantment Riptide III to TheHollowKingMC's item]
+[17Dec2024 07:49:36.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 07:49:36.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 07:50:50.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 07:50:50.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 07:52:22.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 07:52:22.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at 81, 139, -46]
+[17Dec2024 07:53:39.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_bricks cataclysm:blackstone_pillar
+[17Dec2024 07:55:16.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_fence cataclysm:black_steel_fence
