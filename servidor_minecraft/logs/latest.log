@@ -665,3 +665,30 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 20:05:28.455] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-09-12_16.28.28_2.png.
 [17Dec2024 20:05:28.455] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-08-27_15.24.52.png.
 [17Dec2024 20:05:28.456] [Server thread/INFO] [immersive_paintings.Main/]: Player ServerPlayer['TheHollowKingMC'/158, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-560.49, y=206.00, z=-261.42](TheHollowKingMC at -560.4897741757869,206.0,-261.41600895014193) deleted painting immersive_paintings:bosteritomop/2024-08-10_21.35.52.png.
+[17Dec2024 20:06:02.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival TheHollowKingMC
+[17Dec2024 20:06:02.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set TheHollowKingMC's game mode to Survival Mode]
+[17Dec2024 20:06:03.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:06:03.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:06:08.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[17Dec2024 20:06:08.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[17Dec2024 20:06:10.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 20:06:10.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 20:06:27.966] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> ah no tiene tama;o
+[17Dec2024 20:06:29.560] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> q verga
+[17Dec2024 20:08:07.573] [Async Chat Thread - #11/INFO] [Console/]: <bosteritomop> ya
+[17Dec2024 20:08:10.823] [Async Chat Thread - #10/INFO] [Console/]: <bosteritomop> y la estructura
+[17Dec2024 20:08:22.665] [Async Chat Thread - #11/INFO] [Console/]: <TheHollowKingMC> espera
+[17Dec2024 20:09:18.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace barrel dirt
+[17Dec2024 20:09:18.670] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace barrel dirt - Region: (-566, 203, -272) - (-561, 213, -254)
+[17Dec2024 20:09:54.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -558 203 -254
+[17Dec2024 20:10:05.743] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> che xq todas las estructuras estan hechas mierdas?
+[17Dec2024 20:10:07.878] [Async Chat Thread - #12/INFO] [Console/]: <bosteritomop> ni la fogata esta
+[17Dec2024 20:10:09.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -558 203 -254 -566 213 -272 dirt replace minecraft:barrel
+[17Dec2024 20:10:13.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -558 203 -254 -566 213 -272 dirt replace minecraft:barrier
+[17Dec2024 20:10:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 86 block(s)]
+[17Dec2024 20:13:10.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /give bosteritomop minecraft:barrier
+[17Dec2024 20:13:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Gave 1 [Barrier] to bosteritomop]
+[17Dec2024 20:13:17.116] [Async Chat Thread - #15/INFO] [Console/]: <bosteritomop> pongo barreras para q no se metan abajo?
+[17Dec2024 20:13:28.083] [Async Chat Thread - #14/INFO] [Console/]: <bosteritomop> esperate
+[17Dec2024 20:13:30.394] [Async Chat Thread - #15/INFO] [Console/]: <bosteritomop> queda mal
+[17Dec2024 20:13:34.472] [Async Chat Thread - #14/INFO] [Console/]: <bosteritomop> 3 de un lado y 2 del otro
