@@ -1468,3 +1468,56 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.Material.createBlockDa
 [17Dec2024 21:56:50.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to bosteritomop]
 [17Dec2024 21:56:51.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
 [17Dec2024 21:56:51.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 21:57:34.430] [Async Chat Thread - #53/INFO] [Console/]: <bosteritomop> quedo muy fachero
+[17Dec2024 21:57:50.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set Serpias
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:287)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSet(SkinCommand.java:279)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[17Dec2024 21:57:51.027] [ForkJoinPool.commonPool-worker-36/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[17Dec2024 21:58:03.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect give bosteritomop minecraft:night_vision infinite 255
+[17Dec2024 21:58:03.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Applied effect Night Vision to bosteritomop]
+[17Dec2024 21:58:43.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect clear
+[17Dec2024 21:58:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Removed every effect from bosteritomop]
+[17Dec2024 21:58:52.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect give bosteritomop minecraft:night_vision infinite 25
+[17Dec2024 21:58:52.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Applied effect Night Vision to bosteritomop]
+[17Dec2024 21:59:49.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect give bosteritomop minecraft:night_vision infinite 255
+[17Dec2024 21:59:49.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Applied effect Night Vision to bosteritomop]
+[17Dec2024 21:59:57.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect give bosteritomop minecraft:night_vision infinite 255
+[17Dec2024 21:59:58.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect clear
+[17Dec2024 21:59:58.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Removed every effect from bosteritomop]
+[17Dec2024 22:00:19.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect give bosteritomop minecraft:night_vision infinite 255
+[17Dec2024 22:00:19.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Applied effect Night Vision to bosteritomop]
+[17Dec2024 22:01:19.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp bosteritomop
+[17Dec2024 22:01:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to bosteritomop]
+[17Dec2024 22:01:27.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[17Dec2024 22:01:27.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[17Dec2024 22:01:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[17Dec2024 22:07:41.318] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[17Dec2024 22:07:42.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:35921] logged in with entity id 65038 at (-4583.213276646791, 28.241429104225983, 1680.699999988079)
+[17Dec2024 22:07:42.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
