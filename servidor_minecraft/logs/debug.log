@@ -6740,3 +6740,460 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 06:06:00.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0apuku6llwqrd]: Finished looking at arguments. Finalizing command.
 [17Dec2024 06:06:06.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
 [17Dec2024 06:06:06.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[17Dec2024 06:06:08.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ttbap3j0as1l]: started parsing
+[17Dec2024 06:06:08.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ttbap3j0as1l]: Consuming argument `0`
+[17Dec2024 06:06:08.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ttbap3j0as1l]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:08.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:06:08.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcfkwyuk993x]: started parsing
+[17Dec2024 06:06:08.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcfkwyuk993x]: Consuming argument `0`
+[17Dec2024 06:06:08.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kcfkwyuk993x]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:10.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9r824z5wu2m]: started parsing
+[17Dec2024 06:06:10.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9r824z5wu2m]: Consuming argument `air`
+[17Dec2024 06:06:10.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i9r824z5wu2m]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:10.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v3rpdo1tk75r]: started parsing
+[17Dec2024 06:06:10.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v3rpdo1tk75r]: Consuming argument `air`
+[17Dec2024 06:06:10.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v3rpdo1tk75r]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:11.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:06:11.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vzmf0e97p7ww]: started parsing
+[17Dec2024 06:06:11.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vzmf0e97p7ww]: Consuming argument `air`
+[17Dec2024 06:06:11.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vzmf0e97p7ww]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:16.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02u6f3mq7hrqi]: started parsing
+[17Dec2024 06:06:16.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02u6f3mq7hrqi]: Consuming argument `0`
+[17Dec2024 06:06:16.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02u6f3mq7hrqi]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:16.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:06:16.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nvky0jzpo7ly]: started parsing
+[17Dec2024 06:06:16.806] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nvky0jzpo7ly]: Consuming argument `0`
+[17Dec2024 06:06:16.807] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nvky0jzpo7ly]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:25.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0toijd8x3ijw6]: started parsing
+[17Dec2024 06:06:25.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0toijd8x3ijw6]: Consuming argument `0`
+[17Dec2024 06:06:25.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0toijd8x3ijw6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:26.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:06:26.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07rgsgga14ri6]: started parsing
+[17Dec2024 06:06:26.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07rgsgga14ri6]: Consuming argument `0`
+[17Dec2024 06:06:26.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07rgsgga14ri6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:31.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [057grc4g3hsp2]: started parsing
+[17Dec2024 06:06:31.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [057grc4g3hsp2]: Consuming argument `0`
+[17Dec2024 06:06:31.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [057grc4g3hsp2]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:31.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:06:31.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0roakfzmjiwa3]: started parsing
+[17Dec2024 06:06:31.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0roakfzmjiwa3]: Consuming argument `0`
+[17Dec2024 06:06:31.396] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0roakfzmjiwa3]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:36.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lefxtwajpugh]: started parsing
+[17Dec2024 06:06:36.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lefxtwajpugh]: Consuming argument `0`
+[17Dec2024 06:06:36.362] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lefxtwajpugh]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:36.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:06:36.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9zek8yyji67]: started parsing
+[17Dec2024 06:06:36.656] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9zek8yyji67]: Consuming argument `0`
+[17Dec2024 06:06:36.656] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9zek8yyji67]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:42.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09hdqv5jophxu]: started parsing
+[17Dec2024 06:06:42.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09hdqv5jophxu]: Consuming argument `air`
+[17Dec2024 06:06:42.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09hdqv5jophxu]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:42.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2f2efx9r4oc]: started parsing
+[17Dec2024 06:06:42.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2f2efx9r4oc]: Consuming argument `air`
+[17Dec2024 06:06:42.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b2f2efx9r4oc]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:43.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:06:43.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swhkfazhpaiw]: started parsing
+[17Dec2024 06:06:43.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swhkfazhpaiw]: Consuming argument `air`
+[17Dec2024 06:06:43.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swhkfazhpaiw]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:51.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02i0pkpg7dup2]: started parsing
+[17Dec2024 06:06:51.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02i0pkpg7dup2]: Consuming argument `0`
+[17Dec2024 06:06:51.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02i0pkpg7dup2]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:06:51.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:06:51.657] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j1eep1hp87li]: started parsing
+[17Dec2024 06:06:51.657] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j1eep1hp87li]: Consuming argument `0`
+[17Dec2024 06:06:51.657] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j1eep1hp87li]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:03.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:07:03.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:07:03.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 06:07:03.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 06:07:07.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xtmwsf8v2ly]: started parsing
+[17Dec2024 06:07:07.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xtmwsf8v2ly]: Consuming argument `0`
+[17Dec2024 06:07:07.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01xtmwsf8v2ly]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:07.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:07:07.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vdkjapni4ygd]: started parsing
+[17Dec2024 06:07:07.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vdkjapni4ygd]: Consuming argument `0`
+[17Dec2024 06:07:07.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vdkjapni4ygd]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:07.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9qilth2yxxd]: started parsing
+[17Dec2024 06:07:07.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9qilth2yxxd]: Consuming argument `0`
+[17Dec2024 06:07:07.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n9qilth2yxxd]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:07.758] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> asd
+[17Dec2024 06:07:16.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8sem93crs2i]: started parsing
+[17Dec2024 06:07:16.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8sem93crs2i]: Consuming argument `0`
+[17Dec2024 06:07:16.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8sem93crs2i]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:16.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:07:16.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h93gjvf33c85]: started parsing
+[17Dec2024 06:07:16.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h93gjvf33c85]: Consuming argument `0`
+[17Dec2024 06:07:16.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h93gjvf33c85]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:25.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwpzponzcdby]: started parsing
+[17Dec2024 06:07:25.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwpzponzcdby]: Consuming argument `0`
+[17Dec2024 06:07:25.006] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwpzponzcdby]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:25.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:07:25.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0divka66q93ej]: started parsing
+[17Dec2024 06:07:25.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0divka66q93ej]: Consuming argument `0`
+[17Dec2024 06:07:25.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0divka66q93ej]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:33.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0msij8thf3rvk]: started parsing
+[17Dec2024 06:07:33.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0msij8thf3rvk]: Consuming argument `air`
+[17Dec2024 06:07:33.179] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0msij8thf3rvk]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:33.180] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ugyj367ec887]: started parsing
+[17Dec2024 06:07:33.180] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ugyj367ec887]: Consuming argument `air`
+[17Dec2024 06:07:33.180] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ugyj367ec887]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:33.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:07:33.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o9n1nh4iwm4w]: started parsing
+[17Dec2024 06:07:33.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o9n1nh4iwm4w]: Consuming argument `air`
+[17Dec2024 06:07:33.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o9n1nh4iwm4w]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:41.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02d9q1cuehjj2]: started parsing
+[17Dec2024 06:07:41.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02d9q1cuehjj2]: Consuming argument `0`
+[17Dec2024 06:07:41.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02d9q1cuehjj2]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:41.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:07:41.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ed0hddg6na7p]: started parsing
+[17Dec2024 06:07:41.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ed0hddg6na7p]: Consuming argument `0`
+[17Dec2024 06:07:41.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ed0hddg6na7p]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:55.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02r3x9ak2pcf6]: started parsing
+[17Dec2024 06:07:55.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02r3x9ak2pcf6]: Consuming argument `0`
+[17Dec2024 06:07:55.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02r3x9ak2pcf6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:07:55.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:07:55.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05k8qa44kd9bu]: started parsing
+[17Dec2024 06:07:55.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05k8qa44kd9bu]: Consuming argument `0`
+[17Dec2024 06:07:55.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05k8qa44kd9bu]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:09.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u91y4texni6b]: started parsing
+[17Dec2024 06:08:09.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u91y4texni6b]: Consuming argument `0`
+[17Dec2024 06:08:09.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u91y4texni6b]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:09.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:09.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lti4xoa4e83]: started parsing
+[17Dec2024 06:08:09.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lti4xoa4e83]: Consuming argument `0`
+[17Dec2024 06:08:09.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02lti4xoa4e83]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:13.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w8zft4msad3h]: started parsing
+[17Dec2024 06:08:13.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w8zft4msad3h]: Consuming argument `0`
+[17Dec2024 06:08:13.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w8zft4msad3h]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:13.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:13.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0viav6ub1rwa6]: started parsing
+[17Dec2024 06:08:13.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0viav6ub1rwa6]: Consuming argument `0`
+[17Dec2024 06:08:13.510] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0viav6ub1rwa6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:21.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1quqa8itjd4nx]: started parsing
+[17Dec2024 06:08:21.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1quqa8itjd4nx]: Consuming argument `0`
+[17Dec2024 06:08:21.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1quqa8itjd4nx]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:21.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:21.206] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmkuyszwuuu2]: started parsing
+[17Dec2024 06:08:21.206] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmkuyszwuuu2]: Consuming argument `0`
+[17Dec2024 06:08:21.206] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmkuyszwuuu2]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:24.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryjpzefhmrcl]: started parsing
+[17Dec2024 06:08:24.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryjpzefhmrcl]: Consuming argument `0`
+[17Dec2024 06:08:24.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryjpzefhmrcl]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:24.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:24.657] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ukudpf1c2cbv]: started parsing
+[17Dec2024 06:08:24.657] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ukudpf1c2cbv]: Consuming argument `0`
+[17Dec2024 06:08:24.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ukudpf1c2cbv]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:30.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lyd3xf89u186]: started parsing
+[17Dec2024 06:08:30.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lyd3xf89u186]: Consuming argument `0`
+[17Dec2024 06:08:30.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lyd3xf89u186]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:30.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:30.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kd4ck1ccehg3]: started parsing
+[17Dec2024 06:08:30.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kd4ck1ccehg3]: Consuming argument `0`
+[17Dec2024 06:08:30.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kd4ck1ccehg3]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:34.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mw3ffp4e50s6]: started parsing
+[17Dec2024 06:08:34.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mw3ffp4e50s6]: Consuming argument `0`
+[17Dec2024 06:08:34.355] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mw3ffp4e50s6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:34.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:34.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12j1t2xl38oid]: started parsing
+[17Dec2024 06:08:34.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12j1t2xl38oid]: Consuming argument `0`
+[17Dec2024 06:08:34.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12j1t2xl38oid]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:40.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsfa0xom50yk]: started parsing
+[17Dec2024 06:08:40.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsfa0xom50yk]: Consuming argument `air`
+[17Dec2024 06:08:40.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tsfa0xom50yk]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:40.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uy20jyw4y5wp]: started parsing
+[17Dec2024 06:08:40.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uy20jyw4y5wp]: Consuming argument `air`
+[17Dec2024 06:08:40.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uy20jyw4y5wp]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:40.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:08:40.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hcv73rqdcc3d]: started parsing
+[17Dec2024 06:08:40.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hcv73rqdcc3d]: Consuming argument `air`
+[17Dec2024 06:08:40.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hcv73rqdcc3d]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:45.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m6xs3jxmvlk1]: started parsing
+[17Dec2024 06:08:45.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m6xs3jxmvlk1]: Consuming argument `0`
+[17Dec2024 06:08:45.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m6xs3jxmvlk1]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:45.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:45.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03wk9metprt0a]: started parsing
+[17Dec2024 06:08:45.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03wk9metprt0a]: Consuming argument `0`
+[17Dec2024 06:08:45.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03wk9metprt0a]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:49.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zbjio22enzyu]: started parsing
+[17Dec2024 06:08:49.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zbjio22enzyu]: Consuming argument `0`
+[17Dec2024 06:08:49.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zbjio22enzyu]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:49.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:49.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q728ktfgsjvs]: started parsing
+[17Dec2024 06:08:49.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q728ktfgsjvs]: Consuming argument `0`
+[17Dec2024 06:08:49.910] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q728ktfgsjvs]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:53.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qkk55mp6f3le]: started parsing
+[17Dec2024 06:08:53.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qkk55mp6f3le]: Consuming argument `0`
+[17Dec2024 06:08:53.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qkk55mp6f3le]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:08:54.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:08:54.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lx2sgecsoiqu]: started parsing
+[17Dec2024 06:08:54.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lx2sgecsoiqu]: Consuming argument `0`
+[17Dec2024 06:08:54.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lx2sgecsoiqu]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:04.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16aaxbups6j1r]: started parsing
+[17Dec2024 06:09:04.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16aaxbups6j1r]: Consuming argument `air`
+[17Dec2024 06:09:04.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16aaxbups6j1r]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:04.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3wnprk8ftdh]: started parsing
+[17Dec2024 06:09:04.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3wnprk8ftdh]: Consuming argument `air`
+[17Dec2024 06:09:04.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m3wnprk8ftdh]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:05.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:09:05.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05zar6mzrtowa]: started parsing
+[17Dec2024 06:09:05.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05zar6mzrtowa]: Consuming argument `air`
+[17Dec2024 06:09:05.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05zar6mzrtowa]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:07.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17rdaalbig3q1]: started parsing
+[17Dec2024 06:09:07.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17rdaalbig3q1]: Consuming argument `0`
+[17Dec2024 06:09:07.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17rdaalbig3q1]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:07.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:09:07.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vnx1mrn01apa]: started parsing
+[17Dec2024 06:09:07.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vnx1mrn01apa]: Consuming argument `0`
+[17Dec2024 06:09:07.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vnx1mrn01apa]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:13.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0itszgudmujgq]: started parsing
+[17Dec2024 06:09:13.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0itszgudmujgq]: Consuming argument `0`
+[17Dec2024 06:09:13.307] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0itszgudmujgq]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:13.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:09:13.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhxl80l07xtf]: started parsing
+[17Dec2024 06:09:13.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhxl80l07xtf]: Consuming argument `0`
+[17Dec2024 06:09:13.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nhxl80l07xtf]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:18.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15hyfv7gttgj3]: started parsing
+[17Dec2024 06:09:18.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15hyfv7gttgj3]: Consuming argument `air`
+[17Dec2024 06:09:18.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15hyfv7gttgj3]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:18.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t62w0x2cy0li]: started parsing
+[17Dec2024 06:09:18.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t62w0x2cy0li]: Consuming argument `air`
+[17Dec2024 06:09:18.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t62w0x2cy0li]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:19.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:09:19.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4f9dxeg0054]: started parsing
+[17Dec2024 06:09:19.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4f9dxeg0054]: Consuming argument `air`
+[17Dec2024 06:09:19.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x4f9dxeg0054]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:24.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00vfo2g1ezlty]: started parsing
+[17Dec2024 06:09:24.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00vfo2g1ezlty]: Consuming argument `0`
+[17Dec2024 06:09:24.655] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00vfo2g1ezlty]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:25.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:09:25.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1370r0wzumwfm]: started parsing
+[17Dec2024 06:09:25.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1370r0wzumwfm]: Consuming argument `0`
+[17Dec2024 06:09:25.108] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1370r0wzumwfm]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:35.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4rjvfdzu4bs]: started parsing
+[17Dec2024 06:09:35.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4rjvfdzu4bs]: Consuming argument `air`
+[17Dec2024 06:09:35.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4rjvfdzu4bs]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:35.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phclj3ezwe56]: started parsing
+[17Dec2024 06:09:35.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phclj3ezwe56]: Consuming argument `air`
+[17Dec2024 06:09:35.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0phclj3ezwe56]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:35.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:09:35.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shzjqj7tbx4b]: started parsing
+[17Dec2024 06:09:35.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shzjqj7tbx4b]: Consuming argument `air`
+[17Dec2024 06:09:35.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shzjqj7tbx4b]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:41.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dfe62h090hbh]: started parsing
+[17Dec2024 06:09:41.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dfe62h090hbh]: Consuming argument `0`
+[17Dec2024 06:09:41.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dfe62h090hbh]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:41.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:09:41.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w67jej2thxr0]: started parsing
+[17Dec2024 06:09:41.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w67jej2thxr0]: Consuming argument `0`
+[17Dec2024 06:09:41.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w67jej2thxr0]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:44.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0416v0rm7m69u]: started parsing
+[17Dec2024 06:09:44.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0416v0rm7m69u]: Consuming argument `0`
+[17Dec2024 06:09:44.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0416v0rm7m69u]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:09:45.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:09:45.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z0pvvi88wlb9]: started parsing
+[17Dec2024 06:09:45.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z0pvvi88wlb9]: Consuming argument `0`
+[17Dec2024 06:09:45.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z0pvvi88wlb9]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:10.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15c6ls7mdhk0r]: started parsing
+[17Dec2024 06:10:10.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15c6ls7mdhk0r]: Consuming argument `0`
+[17Dec2024 06:10:10.457] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15c6ls7mdhk0r]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:10.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:10:10.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0khsyc5p4gdt2]: started parsing
+[17Dec2024 06:10:10.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0khsyc5p4gdt2]: Consuming argument `0`
+[17Dec2024 06:10:10.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0khsyc5p4gdt2]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:12.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jgpmdlaog6z9]: started parsing
+[17Dec2024 06:10:12.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jgpmdlaog6z9]: Consuming argument `air`
+[17Dec2024 06:10:12.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jgpmdlaog6z9]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:12.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1puof953dd1b6]: started parsing
+[17Dec2024 06:10:12.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1puof953dd1b6]: Consuming argument `air`
+[17Dec2024 06:10:12.272] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1puof953dd1b6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:12.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:10:12.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n8y30wmocbq6]: started parsing
+[17Dec2024 06:10:12.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n8y30wmocbq6]: Consuming argument `air`
+[17Dec2024 06:10:12.423] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n8y30wmocbq6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:37.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ssgnflzwp90i]: started parsing
+[17Dec2024 06:10:37.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ssgnflzwp90i]: Consuming argument `0`
+[17Dec2024 06:10:37.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ssgnflzwp90i]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:38.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:10:38.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rjp6orgcro3x]: started parsing
+[17Dec2024 06:10:38.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rjp6orgcro3x]: Consuming argument `0`
+[17Dec2024 06:10:38.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rjp6orgcro3x]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:10:46.967] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> yo vi todo q vrg, parezco un rarito
+[17Dec2024 06:11:01.852] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> yo de spreen
+[17Dec2024 06:11:05.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zk4yvx5ccttk]: started parsing
+[17Dec2024 06:11:05.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zk4yvx5ccttk]: Consuming argument `0`
+[17Dec2024 06:11:05.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zk4yvx5ccttk]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:05.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:11:05.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei47g4nsrj5c]: started parsing
+[17Dec2024 06:11:05.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei47g4nsrj5c]: Consuming argument `0`
+[17Dec2024 06:11:05.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ei47g4nsrj5c]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:15.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ldtkymll6hzv]: started parsing
+[17Dec2024 06:11:15.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ldtkymll6hzv]: Consuming argument `0`
+[17Dec2024 06:11:15.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ldtkymll6hzv]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:15.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:11:15.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0al1b1zcm6qra]: started parsing
+[17Dec2024 06:11:15.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0al1b1zcm6qra]: Consuming argument `0`
+[17Dec2024 06:11:15.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0al1b1zcm6qra]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:25.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w2s2s7spoh09]: started parsing
+[17Dec2024 06:11:25.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w2s2s7spoh09]: Consuming argument `0`
+[17Dec2024 06:11:25.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w2s2s7spoh09]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:25.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:11:25.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdg5aarlgodh]: started parsing
+[17Dec2024 06:11:25.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdg5aarlgodh]: Consuming argument `0`
+[17Dec2024 06:11:25.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bdg5aarlgodh]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:33.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b3f58detmhlv]: started parsing
+[17Dec2024 06:11:33.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b3f58detmhlv]: Consuming argument `air`
+[17Dec2024 06:11:33.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b3f58detmhlv]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:33.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ebu7axgj9vlx]: started parsing
+[17Dec2024 06:11:33.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ebu7axgj9vlx]: Consuming argument `air`
+[17Dec2024 06:11:33.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ebu7axgj9vlx]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:33.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:11:33.419] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uku34enj5tbd]: started parsing
+[17Dec2024 06:11:33.419] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uku34enj5tbd]: Consuming argument `air`
+[17Dec2024 06:11:33.419] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uku34enj5tbd]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:38.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13wpdtwx1ev9a]: started parsing
+[17Dec2024 06:11:38.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13wpdtwx1ev9a]: Consuming argument `0`
+[17Dec2024 06:11:38.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13wpdtwx1ev9a]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:38.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:11:38.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0664owo5duvba]: started parsing
+[17Dec2024 06:11:38.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0664owo5duvba]: Consuming argument `0`
+[17Dec2024 06:11:38.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0664owo5duvba]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:53.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uhl8zf4jruod]: started parsing
+[17Dec2024 06:11:53.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uhl8zf4jruod]: Consuming argument `0`
+[17Dec2024 06:11:53.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uhl8zf4jruod]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:54.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:11:54.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hohm3fhbtzvs]: started parsing
+[17Dec2024 06:11:54.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hohm3fhbtzvs]: Consuming argument `0`
+[17Dec2024 06:11:54.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hohm3fhbtzvs]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:57.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pa88redl4q62]: started parsing
+[17Dec2024 06:11:57.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pa88redl4q62]: Consuming argument `air`
+[17Dec2024 06:11:57.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pa88redl4q62]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:57.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18w31fqufsnry]: started parsing
+[17Dec2024 06:11:57.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18w31fqufsnry]: Consuming argument `air`
+[17Dec2024 06:11:57.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18w31fqufsnry]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:11:57.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:11:57.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0653smdpvwznr]: started parsing
+[17Dec2024 06:11:57.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0653smdpvwznr]: Consuming argument `air`
+[17Dec2024 06:11:57.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0653smdpvwznr]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:03.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:12:03.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:12:03.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 06:12:03.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 06:12:04.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194a5y0j7x2i7]: started parsing
+[17Dec2024 06:12:04.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194a5y0j7x2i7]: Consuming argument `0`
+[17Dec2024 06:12:04.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194a5y0j7x2i7]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:04.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:12:04.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143emlqkkno7u]: started parsing
+[17Dec2024 06:12:04.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143emlqkkno7u]: Consuming argument `0`
+[17Dec2024 06:12:04.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [143emlqkkno7u]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:04.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x8as5ma6ajui]: started parsing
+[17Dec2024 06:12:04.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x8as5ma6ajui]: Consuming argument `air`
+[17Dec2024 06:12:04.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x8as5ma6ajui]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:04.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8bk8uxmr372]: started parsing
+[17Dec2024 06:12:04.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8bk8uxmr372]: Consuming argument `air`
+[17Dec2024 06:12:04.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8bk8uxmr372]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:05.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:12:05.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fqmpdyr842xq]: started parsing
+[17Dec2024 06:12:05.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fqmpdyr842xq]: Consuming argument `air`
+[17Dec2024 06:12:05.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fqmpdyr842xq]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:10.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dwv5fl0df4a]: started parsing
+[17Dec2024 06:12:10.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dwv5fl0df4a]: Consuming argument `0`
+[17Dec2024 06:12:10.311] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05dwv5fl0df4a]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:10.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:12:10.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10o8lxzf6p47g]: started parsing
+[17Dec2024 06:12:10.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10o8lxzf6p47g]: Consuming argument `0`
+[17Dec2024 06:12:10.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10o8lxzf6p47g]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:20.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00kcuvdn1wl9i]: started parsing
+[17Dec2024 06:12:20.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00kcuvdn1wl9i]: Consuming argument `0`
+[17Dec2024 06:12:20.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00kcuvdn1wl9i]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:20.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:12:20.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jnn033yulvoi]: started parsing
+[17Dec2024 06:12:20.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jnn033yulvoi]: Consuming argument `0`
+[17Dec2024 06:12:20.650] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jnn033yulvoi]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:26.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gpa2n7giy7y9]: started parsing
+[17Dec2024 06:12:26.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gpa2n7giy7y9]: Consuming argument `0`
+[17Dec2024 06:12:26.503] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gpa2n7giy7y9]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:26.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:12:26.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dlfb0r9gxwgq]: started parsing
+[17Dec2024 06:12:26.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dlfb0r9gxwgq]: Consuming argument `0`
+[17Dec2024 06:12:26.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dlfb0r9gxwgq]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:32.953] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> yo si se
+[17Dec2024 06:12:48.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set 0.5
+[17Dec2024 06:12:51.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.5
+[17Dec2024 06:12:56.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qx9uv7uxn5pi]: started parsing
+[17Dec2024 06:12:56.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qx9uv7uxn5pi]: Consuming argument `0`
+[17Dec2024 06:12:56.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qx9uv7uxn5pi]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:12:56.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:12:56.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02nysv1t9xsvt]: started parsing
+[17Dec2024 06:12:56.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02nysv1t9xsvt]: Consuming argument `0`
+[17Dec2024 06:12:56.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02nysv1t9xsvt]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:13:05.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0.5
+[17Dec2024 06:13:27.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp 0 100 0
+[17Dec2024 06:13:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 0.500000, 100.000000, 0.500000]
+[17Dec2024 06:13:29.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop fell out of the world
+[17Dec2024 06:13:32.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Slowness to pc]
+[17Dec2024 06:13:33.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 06:13:33.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at 0, 100, 0]
+[17Dec2024 06:13:34.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[17Dec2024 06:13:34.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[17Dec2024 06:13:36.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 06:13:36.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 06:13:42.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp bosteritomop Roberto_RS
+[17Dec2024 06:13:42.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported bosteritomop to Roberto_RS]
+[17Dec2024 06:13:47.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp bosteritomop Roberto_RS
+[17Dec2024 06:13:47.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported bosteritomop to Roberto_RS]
+[17Dec2024 06:13:55.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 1
+[17Dec2024 06:13:57.152] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> 256 creo
+[17Dec2024 06:13:57.736] [Async Chat Thread - #15/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> mas
+[17Dec2024 06:14:08.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set 2
+[17Dec2024 06:14:14.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[17Dec2024 06:14:14.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[17Dec2024 06:14:17.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m5be2im6lez6]: started parsing
+[17Dec2024 06:14:17.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m5be2im6lez6]: Consuming argument `0`
+[17Dec2024 06:14:17.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m5be2im6lez6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:14:17.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:14:17.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egf8m23hv96w]: started parsing
+[17Dec2024 06:14:17.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egf8m23hv96w]: Consuming argument `0`
+[17Dec2024 06:14:17.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egf8m23hv96w]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:14:22.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[17Dec2024 06:14:22.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[17Dec2024 06:14:29.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h3dy2tjfizqj]: started parsing
+[17Dec2024 06:14:29.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h3dy2tjfizqj]: Consuming argument ``
+[17Dec2024 06:14:29.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //schematic
+[17Dec2024 06:14:29.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vbwmkanx31z7]: started parsing
+[17Dec2024 06:14:29.668] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vbwmkanx31z7]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:14:30.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mtfnan7qpuja]: started parsing
+[17Dec2024 06:14:30.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mtfnan7qpuja]: Consuming argument `0`
+[17Dec2024 06:14:30.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mtfnan7qpuja]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:14:30.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:14:30.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1du6e4jo71pwr]: started parsing
+[17Dec2024 06:14:30.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1du6e4jo71pwr]: Consuming argument `0`
+[17Dec2024 06:14:30.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1du6e4jo71pwr]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:14:44.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp 0 100 0
+[17Dec2024 06:14:44.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 0.500000, 100.000000, 0.500000]
+[17Dec2024 06:14:48.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp 0 100 0
+[17Dec2024 06:14:48.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 0.500000, 100.000000, 0.500000]
+[17Dec2024 06:14:50.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 06:14:50.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at 0, 100, 0]
+[17Dec2024 06:14:53.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09g5eeovxypyt]: started parsing
+[17Dec2024 06:14:53.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09g5eeovxypyt]: Consuming argument `0`
+[17Dec2024 06:14:53.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09g5eeovxypyt]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:14:53.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set 0
+[17Dec2024 06:14:53.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2pr8607jf9w]: started parsing
+[17Dec2024 06:14:53.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2pr8607jf9w]: Consuming argument `0`
+[17Dec2024 06:14:53.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q2pr8607jf9w]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:15:02.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 06:15:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at -1, 69, 0]
+[17Dec2024 06:15:03.058] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> yo se poner el coso q cuando entras diga EL LIMBO
+[17Dec2024 06:15:12.289] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> es como poner el coso de permadeath
+[17Dec2024 06:15:21.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /scale set 1
+[17Dec2024 06:15:23.098] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> cuando mueres pndj
+[17Dec2024 06:15:33.169] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> permadeath
+[17Dec2024 06:15:37.122] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> si
+[17Dec2024 06:15:46.786] [Async Chat Thread - #16/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> PERO PENDEJO
+[17Dec2024 06:15:49.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title chambeando
+[17Dec2024 06:15:49.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[17Dec2024 06:15:55.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Disconnected
+[17Dec2024 06:15:55.951] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Roberto_RS
+[17Dec2024 06:15:55.951] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[17Dec2024 06:15:55.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game
+[17Dec2024 06:16:09.862] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> oe
