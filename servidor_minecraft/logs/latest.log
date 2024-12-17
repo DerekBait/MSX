@@ -10297,3 +10297,4 @@ java.io.IOException: This schematic version is currently not supported
 [17Dec2024 09:27:17.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
 [17Dec2024 09:29:07.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
 [17Dec2024 09:29:20.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //undo
+[17Dec2024 09:29:41.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
