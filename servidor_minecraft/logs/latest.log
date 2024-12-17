@@ -1079,3 +1079,108 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 06:26:38.210] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> solo la anim
 [17Dec2024 06:26:39.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a actionbar ola
 [17Dec2024 06:26:39.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.actionbar' to 3 entities
+[17Dec2024 06:27:15.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //set bedrock
+[17Dec2024 06:27:20.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[17Dec2024 06:27:20.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[17Dec2024 06:27:36.355] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pared
+[17Dec2024 06:27:40.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a actionbar ola
+[17Dec2024 06:27:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.actionbar' to 3 entities
+[17Dec2024 06:27:47.923] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> no
+[17Dec2024 06:27:48.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a actionbar ola
+[17Dec2024 06:27:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.actionbar' to 3 entities
+[17Dec2024 06:27:53.396] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> o no se
+[17Dec2024 06:27:54.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 06:27:54.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 06:27:55.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 06:27:55.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 06:28:08.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a actionbar ola
+[17Dec2024 06:28:08.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.actionbar' to 3 entities
+[17Dec2024 06:28:31.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta turqueza @a title xd
+[17Dec2024 06:28:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 3 entities
+[17Dec2024 06:28:50.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta turqueza @a title xd
+[17Dec2024 06:28:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 3 entities
+[17Dec2024 06:28:54.541] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> como lo pones Roberto_RS
+[17Dec2024 06:29:09.692] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> PERO ERES PNDJ
+[17Dec2024 06:29:13.732] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> LA ANIM
+[17Dec2024 06:29:22.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 06:29:22.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 06:29:23.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 06:29:23.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 06:29:31.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:overworld run teleport @a 0 100 0
+[17Dec2024 06:29:31.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported 3 entities to 0.500000, 100.000000, 0.500000]
+[17Dec2024 06:29:35.732] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> que mierda
+[17Dec2024 06:29:37.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta turqueza @a title xd
+[17Dec2024 06:29:37.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 3 entities
+[17Dec2024 06:29:41.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta turqueza @a title xd
+[17Dec2024 06:29:41.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 3 entities
+[17Dec2024 06:29:46.381] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ahi se tildo
+[17Dec2024 06:29:48.022] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> un poco
+[17Dec2024 06:29:50.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:overworld run teleport @a 0 100 0
+[17Dec2024 06:29:50.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported 3 entities to 0.500000, 100.000000, 0.500000]
+[17Dec2024 06:29:55.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a actionbar ola
+[17Dec2024 06:29:55.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.actionbar' to 3 entities
+[17Dec2024 06:30:06.573] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ah de ser por un mod
+[17Dec2024 06:30:19.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title Bienvenidos a dedsafio 3 fan server suban la montaña para dar inicio al server
+[17Dec2024 06:30:19.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[17Dec2024 06:30:22.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: //pos1 as
+[17Dec2024 06:30:32.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta turqueza @a title xd
+[17Dec2024 06:30:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 3 entities
+[17Dec2024 06:30:42.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a actionbar ola
+[17Dec2024 06:30:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.actionbar' to 3 entities
+[17Dec2024 06:30:48.781] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> y xq no esta la anim de muerte?
+[17Dec2024 06:31:34.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta turqueza @a title xd
+[17Dec2024 06:31:34.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 3 entities
+[17Dec2024 06:31:44.952] [Async Chat Thread - #28/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> capaz por el conditional events
+[17Dec2024 06:31:46.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag TheHollowKingMC add anim.ruleta.amarilla
+[17Dec2024 06:31:46.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.amarilla' to TheHollowKingMC]
+[17Dec2024 06:32:00.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag TheHollowKingMC add anim.ruleta.amarilla
+[17Dec2024 06:32:00.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.amarilla' to TheHollowKingMC]
+[17Dec2024 06:32:17.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag TheHollowKingMC add anim.ruleta.amarilla
+[17Dec2024 06:32:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.amarilla' to TheHollowKingMC]
+[17Dec2024 06:32:39.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.amarilla
+[17Dec2024 06:32:39.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.amarilla' to 3 entities]
+[17Dec2024 06:32:55.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.ruleta.amarilla
+[17Dec2024 06:32:55.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.amarilla' to 3 entities]
+[17Dec2024 06:33:00.920] [Async Chat Thread - #30/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> esa la puse yo
+[17Dec2024 06:33:03.855] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pero no va
+[17Dec2024 06:33:16.047] [Async Chat Thread - #30/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> si se
+[17Dec2024 06:33:16.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.amarilla
+[17Dec2024 06:33:16.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.amarilla' to 3 entities]
+[17Dec2024 06:33:22.359] [Async Chat Thread - #29/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> yes
+[17Dec2024 06:33:35.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.ruleta.celeste
+[17Dec2024 06:33:35.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.celeste' to 3 entities]
+[17Dec2024 06:33:38.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.amarilla
+[17Dec2024 06:33:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.amarilla' to 3 entities]
+[17Dec2024 06:33:47.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @s add anim.ruleta.amarilla
+[17Dec2024 06:33:47.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.amarilla' to TheHollowKingMC]
+[17Dec2024 06:33:53.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.ruleta.rosa
+[17Dec2024 06:33:53.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.rosa' to 3 entities]
+[17Dec2024 06:34:03.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.muerte
+[17Dec2024 06:34:03.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to 3 entities]
+[17Dec2024 06:34:15.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.ruleta.morada
+[17Dec2024 06:34:15.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.morada' to 3 entities]
+[17Dec2024 06:34:27.323] [Async Chat Thread - #32/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> esa la puse yo
+[17Dec2024 06:34:31.696] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> y fue bie
+[17Dec2024 06:34:32.968] [Async Chat Thread - #32/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> bien
+[17Dec2024 06:34:37.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a title xd
+[17Dec2024 06:34:37.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 3 entities
+[17Dec2024 06:34:38.904] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> y si
+[17Dec2024 06:34:44.243] [Async Chat Thread - #32/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> q se piensan q no veo tutoriales
+[17Dec2024 06:34:56.001] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> todo gracias a mi
+[17Dec2024 06:35:07.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.ruleta.verde
+[17Dec2024 06:35:07.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.verde' to 3 entities]
+[17Dec2024 06:35:40.202] [Async Chat Thread - #32/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> x eso cabron, estoy viendo las anim no los msg
+[17Dec2024 06:35:43.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @s add anim.ruleta.rosada
+[17Dec2024 06:35:43.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to TheHollowKingMC]
+[17Dec2024 06:35:47.867] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> a ver
+[17Dec2024 06:35:49.754] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> wait
+[17Dec2024 06:36:14.385] [Async Chat Thread - #32/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> -13 -395
+[17Dec2024 06:36:27.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp bosteritomop
+[17Dec2024 06:36:27.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to bosteritomop]
+[17Dec2024 06:36:42.498] [Async Chat Thread - #31/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> voy a ver si anda en el end inutil
+[17Dec2024 06:36:45.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title prueba
+[17Dec2024 06:36:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[17Dec2024 06:37:01.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:limbo run teleport @a 0 10 0
+[17Dec2024 06:37:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported 3 entities to 0.500000, 10.000000, 0.500000]
+[17Dec2024 06:37:03.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 06:37:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
