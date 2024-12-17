@@ -1346,3 +1346,14 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.Material.createBlockDa
 		at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
 		at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23189!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
 		at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin,re:mixin}
+[17Dec2024 21:30:13.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4546 2 1707
+[17Dec2024 21:30:30.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /fill -4546 2 1707 -4546 -17 1689 minecraft:stone_bricks
+[17Dec2024 21:30:30.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Successfully filled 322 block(s)]
+[17Dec2024 21:30:36.925] [Async Chat Thread - #49/INFO] [Console/]: <bosteritomop> me tengo q ir
+[17Dec2024 21:30:37.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[17Dec2024 21:30:37.715] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[17Dec2024 21:30:37.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[17Dec2024 21:36:29.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 21:36:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 21:36:49.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /locate TheHollowKingMC
+[17Dec2024 21:36:57.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /locate
