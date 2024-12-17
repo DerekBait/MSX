@@ -13946,3 +13946,267 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 06:46:44.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1keigpgv9c4i4]: Consuming argument `air`
 [17Dec2024 06:46:44.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1keigpgv9c4i4]: Finished looking at arguments. Finalizing command.
 [17Dec2024 06:47:12.619] [Async Chat Thread - #38/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> TheHollowKingMC si
+[17Dec2024 06:47:38.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wfm1mnql8qq8]: started parsing
+[17Dec2024 06:47:38.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wfm1mnql8qq8]: Consuming argument `air`
+[17Dec2024 06:47:38.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wfm1mnql8qq8]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:47:38.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wp604c05lkzv]: started parsing
+[17Dec2024 06:47:38.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wp604c05lkzv]: Consuming argument `air`
+[17Dec2024 06:47:38.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wp604c05lkzv]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:47:40.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atta83dyfe3r]: started parsing
+[17Dec2024 06:47:40.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atta83dyfe3r]: Consuming argument `air`
+[17Dec2024 06:47:40.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atta83dyfe3r]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:47:40.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cz1koi3893eu]: started parsing
+[17Dec2024 06:47:40.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cz1koi3893eu]: Consuming argument `air`
+[17Dec2024 06:47:40.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cz1koi3893eu]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:47:44.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:47:44.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:47:44.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 06:47:44.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 06:48:05.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /setblock ~ ~ ~ cataclysm:black_steel_block
+[17Dec2024 06:48:14.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /give bosteritomop minecraft:command_block
+[17Dec2024 06:48:14.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Gave 1 [Command Block] to bosteritomop]
+[17Dec2024 06:48:29.653] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> lo que pasa
+[17Dec2024 06:48:39.813] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> es que si elimino el spawn no puede aparecer mas en todo el mundo
+[17Dec2024 06:48:59.077] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> xq estas eliminando el spawneo del mob
+[17Dec2024 06:49:10.164] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> no hay comando
+[17Dec2024 06:49:28.900] [Async Chat Thread - #40/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> ps si puedo, pero justifica como lo quieres
+[17Dec2024 06:49:43.893] [Async Chat Thread - #39/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pero no me dijiste para la dimension
+[17Dec2024 06:50:50.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 06:50:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 06:50:52.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 06:50:52.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 06:51:01.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC has made the advancement [Bring Home the Beacon]
+[17Dec2024 06:51:04.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[17Dec2024 06:51:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[17Dec2024 06:51:17.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 06:51:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 06:51:54.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14zifjbyzyzug]: started parsing
+[17Dec2024 06:51:54.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14zifjbyzyzug]: Consuming argument ``
+[17Dec2024 06:51:54.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pqa4v0btl9di]: started parsing
+[17Dec2024 06:51:54.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pqa4v0btl9di]: Consuming argument `a`
+[17Dec2024 06:51:54.581] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fuycu7xw75vg]: started parsing
+[17Dec2024 06:51:54.581] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fuycu7xw75vg]: Consuming argument `ai`
+[17Dec2024 06:51:54.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t5up6ywal2u5]: started parsing
+[17Dec2024 06:51:54.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t5up6ywal2u5]: Consuming argument `air`
+[17Dec2024 06:51:54.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t5up6ywal2u5]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:51:54.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set air
+[17Dec2024 06:51:54.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [175h9ojncypcb]: started parsing
+[17Dec2024 06:51:54.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [175h9ojncypcb]: Consuming argument `air`
+[17Dec2024 06:51:54.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [175h9ojncypcb]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:51:57.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[17Dec2024 06:52:13.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tzu08kfji3eh]: started parsing
+[17Dec2024 06:52:13.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tzu08kfji3eh]: Consuming argument `air`
+[17Dec2024 06:52:13.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tzu08kfji3eh]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:13.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t0eym763xl68]: started parsing
+[17Dec2024 06:52:13.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t0eym763xl68]: Consuming argument `air`
+[17Dec2024 06:52:13.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t0eym763xl68]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:14.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12b7ukuco2f06]: started parsing
+[17Dec2024 06:52:14.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12b7ukuco2f06]: Consuming argument `air`
+[17Dec2024 06:52:14.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12b7ukuco2f06]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:14.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qd8s9k7qvvbo]: started parsing
+[17Dec2024 06:52:14.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qd8s9k7qvvbo]: Consuming argument `air`
+[17Dec2024 06:52:14.208] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qd8s9k7qvvbo]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hokpkyqy7ymo]: started parsing
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hokpkyqy7ymo]: Consuming argument `load`
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hokpkyqy7ymo]: Consuming argument `7305`
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hokpkyqy7ymo]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ioxbp1f43im]: started parsing
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ioxbp1f43im]: Consuming argument `load`
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ioxbp1f43im]: Consuming argument `7305`
+[17Dec2024 06:52:15.057] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ioxbp1f43im]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:15.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8wiri2rofy6]: started parsing
+[17Dec2024 06:52:15.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8wiri2rofy6]: Consuming argument `load`
+[17Dec2024 06:52:15.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8wiri2rofy6]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:15.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dv2rplk5btxp]: started parsing
+[17Dec2024 06:52:15.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dv2rplk5btxp]: Consuming argument `load`
+[17Dec2024 06:52:15.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dv2rplk5btxp]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:15.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tme1wbhr88j5]: started parsing
+[17Dec2024 06:52:15.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tme1wbhr88j5]: Consuming argument `list`
+[17Dec2024 06:52:15.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tme1wbhr88j5]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:15.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1knb9zaasi7jf]: started parsing
+[17Dec2024 06:52:15.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1knb9zaasi7jf]: Consuming argument `list`
+[17Dec2024 06:52:15.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1knb9zaasi7jf]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:52:47.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:52:47.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 06:52:47.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 06:52:47.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 06:52:49.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:limbo run kill @e[type=minecraft:enderman]
+[17Dec2024 06:52:49.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Killed 32 entities]
+[17Dec2024 06:53:12.121] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> lo unico q se es /kill @e[type=slime]
+[17Dec2024 06:53:30.497] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pero no creo q para estas versiones sirva
+[17Dec2024 06:53:34.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13vb5fg7x0amn]: started parsing
+[17Dec2024 06:53:34.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13vb5fg7x0amn]: Consuming argument `air`
+[17Dec2024 06:53:34.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13vb5fg7x0amn]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:34.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lher2f35xaoo]: started parsing
+[17Dec2024 06:53:34.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lher2f35xaoo]: Consuming argument `air`
+[17Dec2024 06:53:34.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lher2f35xaoo]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:38.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kkdmoqsoq31u]: started parsing
+[17Dec2024 06:53:38.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kkdmoqsoq31u]: Consuming argument `air`
+[17Dec2024 06:53:38.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kkdmoqsoq31u]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:38.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f8d4249t7pg1]: started parsing
+[17Dec2024 06:53:38.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f8d4249t7pg1]: Consuming argument `air`
+[17Dec2024 06:53:38.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f8d4249t7pg1]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o54j7qi4e5aj]: started parsing
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o54j7qi4e5aj]: Consuming argument `load`
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o54j7qi4e5aj]: Consuming argument `7305`
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o54j7qi4e5aj]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j0yfw8b9i4iz]: started parsing
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j0yfw8b9i4iz]: Consuming argument `load`
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j0yfw8b9i4iz]: Consuming argument `7305`
+[17Dec2024 06:53:41.318] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j0yfw8b9i4iz]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:41.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5bc1bcjkhej]: started parsing
+[17Dec2024 06:53:41.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5bc1bcjkhej]: Consuming argument `load`
+[17Dec2024 06:53:41.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v5bc1bcjkhej]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:41.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fejwyibffcdv]: started parsing
+[17Dec2024 06:53:41.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fejwyibffcdv]: Consuming argument `load`
+[17Dec2024 06:53:41.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fejwyibffcdv]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:41.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rn49wut9xwt1]: started parsing
+[17Dec2024 06:53:41.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rn49wut9xwt1]: Consuming argument `list`
+[17Dec2024 06:53:41.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rn49wut9xwt1]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:41.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06xomuzrp7jy5]: started parsing
+[17Dec2024 06:53:41.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06xomuzrp7jy5]: Consuming argument `list`
+[17Dec2024 06:53:41.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06xomuzrp7jy5]: Finished looking at arguments. Finalizing command.
+[17Dec2024 06:53:49.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:limbo run teleport @s 0 10 0
+[17Dec2024 06:53:49.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 0.500000, 10.000000, 0.500000]
+[17Dec2024 06:53:56.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:command_block
+[17Dec2024 06:53:56.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Command Block] to TheHollowKingMC]
+[17Dec2024 06:54:15.434] [Async Chat Thread - #42/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> por algo te digo
+[17Dec2024 06:54:21.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 7 entities]
+[17Dec2024 06:54:25.280] [Async Chat Thread - #41/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> no creo que sirva para estas versiones
+[17Dec2024 06:54:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:54:43.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp bosteritomop
+[17Dec2024 06:54:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to bosteritomop]
+[17Dec2024 06:54:47.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 06:54:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 06:55:03.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:03.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:03.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:03.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:04.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:04.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:04.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:04.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:05.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:05.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:05.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:05.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:11.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:11.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:12.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:12.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:12.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:13.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:13.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:13.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:13.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:13.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:13.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:17.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:17.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:18.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:18.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:18.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:31.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:overworld run teleport @a 0 100 0
+[17Dec2024 06:55:31.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported 2 entities to 0.500000, 100.000000, 0.500000]
+[17Dec2024 06:55:32.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:32.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:36.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:37.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:37.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:37.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:37.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:38.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:38.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:38.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:38.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:38.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:38.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:38.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:39.299] [Async Chat Thread - #44/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> por lo q te digo
+[17Dec2024 06:55:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[17Dec2024 06:55:41.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:42.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:42.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:42.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:43.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:43.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:44.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:44.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:44.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:44.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:45.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:45.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:45.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:45.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:45.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:46.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:46.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:46.481] [Async Chat Thread - #43/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> si eliminas un mob se elimina por todo el mundo
+[17Dec2024 06:55:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:50.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:50.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:50.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:50.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:51.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:51.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:51.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:51.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:52.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:52.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:52.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:52.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:52.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:52.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:53.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:53.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:54.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:54.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Ender Pearl]
+[17Dec2024 06:55:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Enderman]
+[17Dec2024 06:55:59.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:limbo run teleport @a 0 10 0
+[17Dec2024 06:55:59.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported 2 entities to 0.500000, 10.000000, 0.500000]
+[17Dec2024 06:56:00.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[17Dec2024 06:56:00.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[17Dec2024 06:56:01.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 06:56:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 06:56:58.107] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.ContainerLevelAccessMixin from mixins.arclight.core.json into net.minecraft.world.inventory.ContainerLevelAccess
+[17Dec2024 06:56:58.108] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$1Anonymous$27155d26fa74442291900a58b6bef4e2 (originally io/izzel/arclight/common/mixin/core/world/inventory/ContainerLevelAccessMixin$1Anonymous)
+[17Dec2024 06:57:33.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 06:57:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 06:57:36.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 06:57:36.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
