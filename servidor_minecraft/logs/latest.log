@@ -9700,3 +9700,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 07:52:22.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at 81, 139, -46]
 [17Dec2024 07:53:39.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_bricks cataclysm:blackstone_pillar
 [17Dec2024 07:55:16.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_fence cataclysm:black_steel_fence
+[17Dec2024 08:04:28.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_slab dedsafio3:polished_limbo_slab
+[17Dec2024 08:05:35.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_stairs blackstone_stairs

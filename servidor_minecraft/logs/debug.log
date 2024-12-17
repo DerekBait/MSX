@@ -21124,3 +21124,272 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [17Dec2024 07:58:01.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
 [17Dec2024 07:58:01.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
 [17Dec2024 07:58:01.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 08:03:01.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:03:01.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:03:01.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 08:03:01.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1izq3g5dkbfhu]: started parsing
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1izq3g5dkbfhu]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1izq3g5dkbfhu]: Consuming argument `cataclysm:black_steel_fence`
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1izq3g5dkbfhu]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dq71p3h73wme]: started parsing
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dq71p3h73wme]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dq71p3h73wme]: Consuming argument `cataclysm:black_steel_fence`
+[17Dec2024 08:04:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dq71p3h73wme]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:04:19.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z188gwy5smbq]: started parsing
+[17Dec2024 08:04:19.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z188gwy5smbq]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:19.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z188gwy5smbq]: Consuming argument `cataclysm:black_steel_fenc`
+[17Dec2024 08:04:20.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ampqjugbtcs]: started parsing
+[17Dec2024 08:04:20.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ampqjugbtcs]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ampqjugbtcs]: Consuming argument `cataclysm:black_steel_fen`
+[17Dec2024 08:04:20.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1wlp3qfxbfs]: started parsing
+[17Dec2024 08:04:20.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1wlp3qfxbfs]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.270] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1wlp3qfxbfs]: Consuming argument `cataclysm:black_steel_fe`
+[17Dec2024 08:04:20.316] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g9ct8kmatuz5]: started parsing
+[17Dec2024 08:04:20.316] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g9ct8kmatuz5]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.316] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g9ct8kmatuz5]: Consuming argument `cataclysm:black_steel_f`
+[17Dec2024 08:04:20.333] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v8v9bdahuv0b]: started parsing
+[17Dec2024 08:04:20.333] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v8v9bdahuv0b]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.333] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v8v9bdahuv0b]: Consuming argument `cataclysm:black_steel_`
+[17Dec2024 08:04:20.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vrb5o6m99dt4]: started parsing
+[17Dec2024 08:04:20.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vrb5o6m99dt4]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vrb5o6m99dt4]: Consuming argument `cataclysm:black_steel`
+[17Dec2024 08:04:20.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ifase94o5cvn]: started parsing
+[17Dec2024 08:04:20.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ifase94o5cvn]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ifase94o5cvn]: Consuming argument `cataclysm:black_stee`
+[17Dec2024 08:04:20.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p7mqnxc09cky]: started parsing
+[17Dec2024 08:04:20.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p7mqnxc09cky]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p7mqnxc09cky]: Consuming argument `cataclysm:black_ste`
+[17Dec2024 08:04:20.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9ktw6sah1p8]: started parsing
+[17Dec2024 08:04:20.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9ktw6sah1p8]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9ktw6sah1p8]: Consuming argument `cataclysm:black_st`
+[17Dec2024 08:04:20.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jyqnmcxe7x3t]: started parsing
+[17Dec2024 08:04:20.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jyqnmcxe7x3t]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.509] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jyqnmcxe7x3t]: Consuming argument `cataclysm:black_s`
+[17Dec2024 08:04:20.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194scgoe3ypio]: started parsing
+[17Dec2024 08:04:20.555] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194scgoe3ypio]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194scgoe3ypio]: Consuming argument `cataclysm:black_`
+[17Dec2024 08:04:20.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gfgud16ty1b5]: started parsing
+[17Dec2024 08:04:20.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gfgud16ty1b5]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gfgud16ty1b5]: Consuming argument `cataclysm:black`
+[17Dec2024 08:04:20.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fe0y7t4qanpy]: started parsing
+[17Dec2024 08:04:20.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fe0y7t4qanpy]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fe0y7t4qanpy]: Consuming argument `cataclysm:blac`
+[17Dec2024 08:04:20.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hp114mfmy6gn]: started parsing
+[17Dec2024 08:04:20.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hp114mfmy6gn]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hp114mfmy6gn]: Consuming argument `cataclysm:bla`
+[17Dec2024 08:04:20.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6kefxo4j0kd]: started parsing
+[17Dec2024 08:04:20.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6kefxo4j0kd]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.667] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6kefxo4j0kd]: Consuming argument `cataclysm:bl`
+[17Dec2024 08:04:20.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0818aqlq0zscl]: started parsing
+[17Dec2024 08:04:20.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0818aqlq0zscl]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0818aqlq0zscl]: Consuming argument `cataclysm:b`
+[17Dec2024 08:04:20.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d31121xt3gp5]: started parsing
+[17Dec2024 08:04:20.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d31121xt3gp5]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d31121xt3gp5]: Consuming argument `cataclysm:`
+[17Dec2024 08:04:20.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gb59tb9iia4w]: started parsing
+[17Dec2024 08:04:20.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gb59tb9iia4w]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gb59tb9iia4w]: Consuming argument `cataclysm`
+[17Dec2024 08:04:20.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sak39hsg5siv]: started parsing
+[17Dec2024 08:04:20.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sak39hsg5siv]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sak39hsg5siv]: Consuming argument `cataclys`
+[17Dec2024 08:04:20.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryorufz72l91]: started parsing
+[17Dec2024 08:04:20.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryorufz72l91]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ryorufz72l91]: Consuming argument `catacly`
+[17Dec2024 08:04:20.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vxvbgabf87qi]: started parsing
+[17Dec2024 08:04:20.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vxvbgabf87qi]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.856] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vxvbgabf87qi]: Consuming argument `catacl`
+[17Dec2024 08:04:20.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fq3mpy3yr7cg]: started parsing
+[17Dec2024 08:04:20.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fq3mpy3yr7cg]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fq3mpy3yr7cg]: Consuming argument `catac`
+[17Dec2024 08:04:20.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m57ug66mavl1]: started parsing
+[17Dec2024 08:04:20.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m57ug66mavl1]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m57ug66mavl1]: Consuming argument `cata`
+[17Dec2024 08:04:20.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [047whsaipisa7]: started parsing
+[17Dec2024 08:04:20.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [047whsaipisa7]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.958] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [047whsaipisa7]: Consuming argument `cat`
+[17Dec2024 08:04:20.996] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b3zo2cmle2wx]: started parsing
+[17Dec2024 08:04:20.996] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b3zo2cmle2wx]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:20.996] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b3zo2cmle2wx]: Consuming argument `ca`
+[17Dec2024 08:04:21.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zcln4alhtuhg]: started parsing
+[17Dec2024 08:04:21.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zcln4alhtuhg]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:21.037] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zcln4alhtuhg]: Consuming argument `c`
+[17Dec2024 08:04:21.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a800w9y5i24i]: started parsing
+[17Dec2024 08:04:21.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a800w9y5i24i]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:21.084] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a800w9y5i24i]: Consuming argument ``
+[17Dec2024 08:04:21.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [183rfjli69pwe]: started parsing
+[17Dec2024 08:04:21.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [183rfjli69pwe]: Consuming argument `nether_brick_fence`
+[17Dec2024 08:04:21.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [183rfjli69pwe]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:04:21.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0725fq2lfmjg0]: started parsing
+[17Dec2024 08:04:21.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0725fq2lfmjg0]: Consuming argument `nether_brick_fenc`
+[17Dec2024 08:04:21.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lq0egioq9dd9]: started parsing
+[17Dec2024 08:04:21.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lq0egioq9dd9]: Consuming argument `nether_brick_fen`
+[17Dec2024 08:04:21.180] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4ot4v0l3r8w]: started parsing
+[17Dec2024 08:04:21.180] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4ot4v0l3r8w]: Consuming argument `nether_brick_fe`
+[17Dec2024 08:04:21.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i5d1flys4j1y]: started parsing
+[17Dec2024 08:04:21.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i5d1flys4j1y]: Consuming argument `nether_brick_f`
+[17Dec2024 08:04:21.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e25w6t1j39yj]: started parsing
+[17Dec2024 08:04:21.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e25w6t1j39yj]: Consuming argument `nether_brick_`
+[17Dec2024 08:04:23.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bxdeunnh6j7m]: started parsing
+[17Dec2024 08:04:23.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bxdeunnh6j7m]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:04:23.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bxdeunnh6j7m]: Consuming argument ``
+[17Dec2024 08:04:24.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zjkbj45jyy18]: started parsing
+[17Dec2024 08:04:24.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zjkbj45jyy18]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:04:24.404] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zjkbj45jyy18]: Consuming argument `d`
+[17Dec2024 08:04:24.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1255szmjqxflz]: started parsing
+[17Dec2024 08:04:24.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1255szmjqxflz]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:04:24.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1255szmjqxflz]: Consuming argument `de`
+[17Dec2024 08:04:24.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dbo6g6oq8pr3]: started parsing
+[17Dec2024 08:04:24.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dbo6g6oq8pr3]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:04:24.735] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dbo6g6oq8pr3]: Consuming argument `ded`
+[17Dec2024 08:04:27.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ij8fp23h9572]: started parsing
+[17Dec2024 08:04:27.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ij8fp23h9572]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:04:27.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ij8fp23h9572]: Consuming argument `dedsafio3:p`
+[17Dec2024 08:04:27.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o1v4tg7iic26]: started parsing
+[17Dec2024 08:04:27.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o1v4tg7iic26]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:04:27.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o1v4tg7iic26]: Consuming argument `dedsafio3:po`
+[17Dec2024 08:04:28.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_slab dedsafio3:polished_limbo_slab
+[17Dec2024 08:04:28.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wq1m5q9h7fr4]: started parsing
+[17Dec2024 08:04:28.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wq1m5q9h7fr4]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:04:28.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wq1m5q9h7fr4]: Consuming argument `dedsafio3:polished_limbo_slab`
+[17Dec2024 08:04:28.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wq1m5q9h7fr4]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:05:22.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wigr3rpyeph2]: started parsing
+[17Dec2024 08:05:22.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wigr3rpyeph2]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:22.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wigr3rpyeph2]: Consuming argument `dedsafio3:polished_limbo_slab`
+[17Dec2024 08:05:22.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wigr3rpyeph2]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:05:22.428] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mc6t5ajseoze]: started parsing
+[17Dec2024 08:05:22.428] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mc6t5ajseoze]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:22.428] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mc6t5ajseoze]: Consuming argument `dedsafio3:polished_limbo_slab`
+[17Dec2024 08:05:22.428] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mc6t5ajseoze]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:05:23.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v296lqzwwx1u]: started parsing
+[17Dec2024 08:05:23.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v296lqzwwx1u]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.254] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v296lqzwwx1u]: Consuming argument `dedsafio3:polished_limbo_sla`
+[17Dec2024 08:05:23.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w8xbnnf74xaw]: started parsing
+[17Dec2024 08:05:23.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w8xbnnf74xaw]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w8xbnnf74xaw]: Consuming argument `dedsafio3:polished_limbo_sl`
+[17Dec2024 08:05:23.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lp40p59rhwqv]: started parsing
+[17Dec2024 08:05:23.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lp40p59rhwqv]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lp40p59rhwqv]: Consuming argument `dedsafio3:polished_limbo_s`
+[17Dec2024 08:05:23.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbvsqg1n6ebx]: started parsing
+[17Dec2024 08:05:23.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbvsqg1n6ebx]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.812] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xbvsqg1n6ebx]: Consuming argument `dedsafio3:polished_limbo_`
+[17Dec2024 08:05:23.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03dsg627d8kxe]: started parsing
+[17Dec2024 08:05:23.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03dsg627d8kxe]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03dsg627d8kxe]: Consuming argument `dedsafio3:polished_limbo`
+[17Dec2024 08:05:23.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bsakxflrai54]: started parsing
+[17Dec2024 08:05:23.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bsakxflrai54]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bsakxflrai54]: Consuming argument `dedsafio3:polished_limb`
+[17Dec2024 08:05:23.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lxd48f3zzx9o]: started parsing
+[17Dec2024 08:05:23.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lxd48f3zzx9o]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lxd48f3zzx9o]: Consuming argument `dedsafio3:polished_lim`
+[17Dec2024 08:05:23.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [171lt1posk2tw]: started parsing
+[17Dec2024 08:05:23.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [171lt1posk2tw]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [171lt1posk2tw]: Consuming argument `dedsafio3:polished_li`
+[17Dec2024 08:05:23.972] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12gdabqk8bmug]: started parsing
+[17Dec2024 08:05:23.972] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12gdabqk8bmug]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:23.972] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12gdabqk8bmug]: Consuming argument `dedsafio3:polished_l`
+[17Dec2024 08:05:24.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cyjxlq4zy9sa]: started parsing
+[17Dec2024 08:05:24.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cyjxlq4zy9sa]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cyjxlq4zy9sa]: Consuming argument `dedsafio3:polished_`
+[17Dec2024 08:05:24.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmcx32hfg1du]: started parsing
+[17Dec2024 08:05:24.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmcx32hfg1du]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmcx32hfg1du]: Consuming argument `dedsafio3:polished`
+[17Dec2024 08:05:24.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07sf98beua0ek]: started parsing
+[17Dec2024 08:05:24.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07sf98beua0ek]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.120] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07sf98beua0ek]: Consuming argument `dedsafio3:polishe`
+[17Dec2024 08:05:24.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160h5mrvvhh3h]: started parsing
+[17Dec2024 08:05:24.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160h5mrvvhh3h]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.187] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160h5mrvvhh3h]: Consuming argument `dedsafio3:polish`
+[17Dec2024 08:05:24.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ived5mwjf4e]: started parsing
+[17Dec2024 08:05:24.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ived5mwjf4e]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05ived5mwjf4e]: Consuming argument `dedsafio3:polis`
+[17Dec2024 08:05:24.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uomkl5suku01]: started parsing
+[17Dec2024 08:05:24.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uomkl5suku01]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uomkl5suku01]: Consuming argument `dedsafio3:poli`
+[17Dec2024 08:05:24.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v8xx51bpmzbt]: started parsing
+[17Dec2024 08:05:24.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v8xx51bpmzbt]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v8xx51bpmzbt]: Consuming argument `dedsafio3:pol`
+[17Dec2024 08:05:24.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [198bpnby818cw]: started parsing
+[17Dec2024 08:05:24.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [198bpnby818cw]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [198bpnby818cw]: Consuming argument `dedsafio3:po`
+[17Dec2024 08:05:24.356] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6jhcsz5arho]: started parsing
+[17Dec2024 08:05:24.356] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6jhcsz5arho]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.356] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s6jhcsz5arho]: Consuming argument `dedsafio3:p`
+[17Dec2024 08:05:24.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lguetqod0qt0]: started parsing
+[17Dec2024 08:05:24.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lguetqod0qt0]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lguetqod0qt0]: Consuming argument `dedsafio3:`
+[17Dec2024 08:05:24.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nf19khsi7vb7]: started parsing
+[17Dec2024 08:05:24.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nf19khsi7vb7]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nf19khsi7vb7]: Consuming argument `dedsafio3`
+[17Dec2024 08:05:24.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm3xn10useez]: started parsing
+[17Dec2024 08:05:24.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm3xn10useez]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tm3xn10useez]: Consuming argument `dedsafio`
+[17Dec2024 08:05:24.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evdaabkru8ls]: started parsing
+[17Dec2024 08:05:24.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evdaabkru8ls]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evdaabkru8ls]: Consuming argument `dedsafi`
+[17Dec2024 08:05:24.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hl7yab2izju9]: started parsing
+[17Dec2024 08:05:24.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hl7yab2izju9]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hl7yab2izju9]: Consuming argument `dedsaf`
+[17Dec2024 08:05:24.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m8nzjg1pp1zh]: started parsing
+[17Dec2024 08:05:24.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m8nzjg1pp1zh]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m8nzjg1pp1zh]: Consuming argument `dedsa`
+[17Dec2024 08:05:24.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v78v4x3vbrha]: started parsing
+[17Dec2024 08:05:24.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v78v4x3vbrha]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.762] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v78v4x3vbrha]: Consuming argument `deds`
+[17Dec2024 08:05:24.886] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r94lwk3kl31m]: started parsing
+[17Dec2024 08:05:24.886] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r94lwk3kl31m]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:24.886] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r94lwk3kl31m]: Consuming argument `ded`
+[17Dec2024 08:05:25.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wot0vf5x4mjd]: started parsing
+[17Dec2024 08:05:25.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wot0vf5x4mjd]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:25.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wot0vf5x4mjd]: Consuming argument `de`
+[17Dec2024 08:05:25.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mlukjdspklof]: started parsing
+[17Dec2024 08:05:25.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mlukjdspklof]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:25.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mlukjdspklof]: Consuming argument `d`
+[17Dec2024 08:05:25.339] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h93wji4nl318]: started parsing
+[17Dec2024 08:05:25.339] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h93wji4nl318]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:25.339] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h93wji4nl318]: Consuming argument ``
+[17Dec2024 08:05:25.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u58uvkx3kniy]: started parsing
+[17Dec2024 08:05:25.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u58uvkx3kniy]: Consuming argument `nether_brick_slab`
+[17Dec2024 08:05:25.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u58uvkx3kniy]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:05:25.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [138npovel6flu]: started parsing
+[17Dec2024 08:05:25.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [138npovel6flu]: Consuming argument `nether_brick_sla`
+[17Dec2024 08:05:25.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lpt15d3eb9te]: started parsing
+[17Dec2024 08:05:25.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lpt15d3eb9te]: Consuming argument `nether_brick_sl`
+[17Dec2024 08:05:25.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q475tx8sdisd]: started parsing
+[17Dec2024 08:05:25.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q475tx8sdisd]: Consuming argument `nether_brick_s`
+[17Dec2024 08:05:26.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1531wxh5tangz]: started parsing
+[17Dec2024 08:05:26.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1531wxh5tangz]: Consuming argument `nether_brick_`
+[17Dec2024 08:05:28.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1556p3ns33jhm]: started parsing
+[17Dec2024 08:05:28.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1556p3ns33jhm]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:28.036] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1556p3ns33jhm]: Consuming argument ``
+[17Dec2024 08:05:29.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ov0uc1b9q04]: started parsing
+[17Dec2024 08:05:29.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ov0uc1b9q04]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:29.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ov0uc1b9q04]: Consuming argument `b`
+[17Dec2024 08:05:29.522] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ddl6ufnptat8]: started parsing
+[17Dec2024 08:05:29.522] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ddl6ufnptat8]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:29.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ddl6ufnptat8]: Consuming argument `bl`
+[17Dec2024 08:05:29.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rnvrr21wkvlx]: started parsing
+[17Dec2024 08:05:29.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rnvrr21wkvlx]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:29.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rnvrr21wkvlx]: Consuming argument `bla`
+[17Dec2024 08:05:29.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02gzjmhpthugk]: started parsing
+[17Dec2024 08:05:29.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02gzjmhpthugk]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:29.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02gzjmhpthugk]: Consuming argument `blac`
+[17Dec2024 08:05:31.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chgdze6ra017]: started parsing
+[17Dec2024 08:05:31.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chgdze6ra017]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:31.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chgdze6ra017]: Consuming argument `black`
+[17Dec2024 08:05:31.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chgdze6ra017]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:05:31.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ul40f1vj9cdb]: started parsing
+[17Dec2024 08:05:31.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ul40f1vj9cdb]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:31.348] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ul40f1vj9cdb]: Consuming argument `blacks`
+[17Dec2024 08:05:31.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15akdg1494cru]: started parsing
+[17Dec2024 08:05:31.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15akdg1494cru]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:31.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15akdg1494cru]: Consuming argument `blackst`
+[17Dec2024 08:05:35.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //replace nether_brick_stairs blackstone_stairs
+[17Dec2024 08:05:35.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qunhbwi32wqf]: started parsing
+[17Dec2024 08:05:35.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qunhbwi32wqf]: Consuming argument `nether_brick_stairs`
+[17Dec2024 08:05:35.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qunhbwi32wqf]: Consuming argument `blackstone_stairs`
+[17Dec2024 08:05:35.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qunhbwi32wqf]: Finished looking at arguments. Finalizing command.
+[17Dec2024 08:08:01.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:08:01.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[17Dec2024 08:08:01.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[17Dec2024 08:08:01.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
