@@ -31,9 +31,11 @@
       "minecraft:forest": "2024-12-15 18:57:06 +0000",
       "minecraft:deep_cold_ocean": "2024-12-17 19:52:48 +0000",
       "minecraft:frozen_ocean": "2024-12-17 19:52:39 +0000",
+      "minecraft:desert": "2024-12-17 21:54:53 +0000",
       "minecraft:jungle": "2024-12-13 03:47:30 +0000",
       "minecraft:ocean": "2024-12-17 20:18:32 +0000",
       "minecraft:windswept_savanna": "2024-12-17 20:21:17 +0000",
+      "minecraft:warm_ocean": "2024-12-17 21:53:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-17 20:22:29 +0000",
       "minecraft:flower_forest": "2024-12-17 20:21:29 +0000",
       "minecraft:frozen_peaks": "2024-12-13 04:47:10 +0000",
@@ -3221,6 +3223,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-17 21:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-17 20:52:03 +0000"
@@ -3248,6 +3256,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-17 21:17:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2024-12-17 21:55:45 +0000"
     },
     "done": true
   },
