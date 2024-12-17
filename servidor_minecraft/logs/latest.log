@@ -724,3 +724,358 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [17Dec2024 06:15:55.951] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
 [17Dec2024 06:15:55.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game
 [17Dec2024 06:16:09.862] [Async Chat Thread - #17/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> oe
+[17Dec2024 06:18:21.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp -1000 1 1000
+[17Dec2024 06:18:22.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to -999.500000, 1.000000, 1000.500000]
+[17Dec2024 06:18:25.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 06:18:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at -1000, 1, 1000]
+[17Dec2024 06:18:32.212] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> YA
+[17Dec2024 06:18:44.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 06:18:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 06:18:51.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp -500 1 500
+[17Dec2024 06:18:51.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to -499.500000, 1.000000, 500.500000]
+[17Dec2024 06:18:53.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 06:18:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at -500, 1, 500]
+[17Dec2024 06:19:01.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp 0 1 0
+[17Dec2024 06:19:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 0.500000, 1.000000, 0.500000]
+[17Dec2024 06:19:05.548] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> q coño es esto
+[17Dec2024 06:19:07.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 06:19:07.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 06:19:19.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp 500 1 -500
+[17Dec2024 06:19:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 500.500000, 1.000000, -499.500000]
+[17Dec2024 06:19:22.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /setblock ~ ~ ~ minecraft:bedrock
+[17Dec2024 06:19:22.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Changed the block at 500, 1, -500]
+[17Dec2024 06:19:29.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp -500 1 500
+[17Dec2024 06:19:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to -499.500000, 1.000000, 500.500000]
+[17Dec2024 06:19:36.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set bedrock
+[17Dec2024 06:19:46.309] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheHollowKingMC> as
+[17Dec2024 06:19:47.283] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> asd
+[17Dec2024 06:19:47.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11275ms or 225 ticks behind
+[17Dec2024 06:19:51.796] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> a la
+[17Dec2024 06:20:04.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[17Dec2024 06:20:04.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[17Dec2024 06:20:06.034] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[17Dec2024 06:20:07.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_RS[/127.243.237.226:36897] logged in with entity id 2687 at (-5.384447268450409, 75.8681430633933, -0.5020417252998058)
+[17Dec2024 06:20:07.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS joined the game
+[17Dec2024 06:20:07.682] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_RS (18)
+[17Dec2024 06:20:07.683] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_RS
+[17Dec2024 06:20:11.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:15.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS bosteritomop
+[17Dec2024 06:20:15.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported Roberto_RS to bosteritomop]
+[17Dec2024 06:20:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:21.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:25.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gameode creative
+[17Dec2024 06:20:25.209] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:20:25.210] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:20:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:20:29.010] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:20:29.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:31.757] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> me siento vegeta a lv
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:20:33.108] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:20:33.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:38.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creastive
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:20:38.308] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:20:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:41.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemdoe creative
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:20:41.809] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:20:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS fell from a high place
+[17Dec2024 06:20:45.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[17Dec2024 06:20:45.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:20:45.356] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:20:55.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[17Dec2024 06:20:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[17Dec2024 06:21:02.125] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> no
+[17Dec2024 06:21:09.005] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> te va hacer compras mas ram
+[17Dec2024 06:21:11.806] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> comprar
+[17Dec2024 06:21:29.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS bosteritomop
+[17Dec2024 06:21:29.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported Roberto_RS to bosteritomop]
+[17Dec2024 06:21:30.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title chambeando
+[17Dec2024 06:21:30.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[17Dec2024 06:21:35.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kick Roberto_RS
+[17Dec2024 06:21:35.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Kicked by an operator
+[17Dec2024 06:21:35.831] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[17Dec2024 06:21:35.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game.
+[17Dec2024 06:21:35.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Kicked Roberto_RS: Kicked by an operator]
+[17Dec2024 06:21:35.860] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 06:21:38.768] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[17Dec2024 06:21:40.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_RS[/127.243.237.226:38175] logged in with entity id 2726 at (-442.3604184120456, 2.495200877005912, 428.3569320309676)
+[17Dec2024 06:21:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS joined the game
+[17Dec2024 06:21:40.372] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_RS (18)
+[17Dec2024 06:21:40.373] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_RS
+[17Dec2024 06:21:54.975] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> a la
+[17Dec2024 06:21:59.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[17Dec2024 06:21:59.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[17Dec2024 06:22:19.343] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> lo quiero matar
+[17Dec2024 06:22:29.991] [Async Chat Thread - #18/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> de q
+[17Dec2024 06:22:36.822] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pero de q
+[17Dec2024 06:23:05.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[17Dec2024 06:23:05.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[17Dec2024 06:23:06.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[17Dec2024 06:23:06.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[17Dec2024 06:23:11.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 06:23:11.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 06:23:12.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp 0 1 0
+[17Dec2024 06:23:12.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 0.500000, 1.000000, 0.500000]
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:23:16.056] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:23:23.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[17Dec2024 06:23:23.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[17Dec2024 06:23:24.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp @a @s
+[17Dec2024 06:23:24.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported 3 entities to TheHollowKingMC]
+[17Dec2024 06:23:35.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect give bosteritomop minecraft:speed infinite 20
+[17Dec2024 06:23:35.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Applied effect Speed to bosteritomop]
+[17Dec2024 06:23:43.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival bosteritomop
+[17Dec2024 06:23:43.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set bosteritomop's game mode to Survival Mode]
+[17Dec2024 06:23:44.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 06:23:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 06:23:54.112] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> a hacer las paredes
+[17Dec2024 06:24:03.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kick bosteritomop
+[17Dec2024 06:24:03.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Kicked by an operator
+[17Dec2024 06:24:03.033] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[17Dec2024 06:24:03.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[17Dec2024 06:24:03.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Kicked bosteritomop: Kicked by an operator]
+[17Dec2024 06:24:03.060] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 06:24:05.451] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[17Dec2024 06:24:06.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:49407] logged in with entity id 2741 at (-148.03459668159454, 2.0, 216.64891481338958)
+[17Dec2024 06:24:06.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[17Dec2024 06:24:07.183] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[17Dec2024 06:24:07.184] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[17Dec2024 06:24:12.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[17Dec2024 06:24:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[17Dec2024 06:24:26.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect give bosteritomop minecraft:speed infinite 250
+[17Dec2024 06:24:26.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Applied effect Speed to bosteritomop]
+[17Dec2024 06:24:26.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -6.4131705446999945,0.0,7.822114233753041
+[17Dec2024 06:24:26.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -6.341223222667111,0.0,7.734360420279415
+[17Dec2024 06:24:27.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -6.341223222667111,0.0,7.734360420279415
+[17Dec2024 06:24:27.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -6.341223222667111,0.0,7.734360420279415
+[17Dec2024 06:24:28.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -7.375388174592672,0.0,7.304837643486678
+[17Dec2024 06:24:28.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -10.156061683035148,0.0,1.0052007554920692
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[17Dec2024 06:24:28.909] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[17Dec2024 06:24:28.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -10.156061683035148,0.0,1.0052007554920692
+[17Dec2024 06:24:29.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -6.341223222667111,0.0,7.734360420279415
+[17Dec2024 06:24:29.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -10.484427527472235,0.0,1.3281072708820716
+[17Dec2024 06:24:30.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -6.341223222667111,0.0,7.734360420279415
+[17Dec2024 06:24:31.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -9.54085844004095,0.0,3.3165307432338977
+[17Dec2024 06:24:42.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.37421851547048846,0.0,-10.389662879595619
+[17Dec2024 06:24:42.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.32927870419922556,0.0,-11.8611661330321
+[17Dec2024 06:24:43.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.44700862416118525,0.0,-11.858174399311906
+[17Dec2024 06:24:43.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.041704870888281675,0.0,-11.864406059690566
+[17Dec2024 06:24:43.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.5942077781689932,0.0,-11.848603335866471
+[17Dec2024 06:24:44.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.6611955120633297,0.0,-11.838279745825673
+[17Dec2024 06:24:44.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 0.1358589425746004,0.0,-11.861431798075273
+[17Dec2024 06:24:44.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:45.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:45.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:45.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:46.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:46.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:47.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:47.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:47.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:48.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847271
+[17Dec2024 06:24:48.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847285
+[17Dec2024 06:24:48.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847285
+[17Dec2024 06:24:49.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847285
+[17Dec2024 06:24:49.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847285
+[17Dec2024 06:24:49.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847285
+[17Dec2024 06:24:50.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.030717750425537815,0.0,-11.866557369847282
+[17Dec2024 06:24:51.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.026066476141750172,0.0,-10.070783383967438
+[17Dec2024 06:24:52.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.025889966053000535,0.0,-10.001538628813243
+[17Dec2024 06:24:52.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.025889966053000535,0.0,-10.00153862881325
+[17Dec2024 06:24:53.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 10.06972614468657,0.0,-0.026066476141764383
+[17Dec2024 06:24:53.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! -0.026066476141750172,0.0,-10.069726144686555
+[17Dec2024 06:24:54.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title Bienvenidos a dedsafio 3 fan server suban la montaña para dar inicio al server
+[17Dec2024 06:24:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[17Dec2024 06:24:58.186] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> q
+[17Dec2024 06:24:58.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved too quickly! 7.651961558997357,0.0,-6.54580335801775
+[17Dec2024 06:25:07.970] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> como se pone?
+[17Dec2024 06:25:12.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect clear
+[17Dec2024 06:25:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Removed every effect from bosteritomop]
+[17Dec2024 06:25:13.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title Bienvenidos a dedsafio 3 fan server suban la montaña para dar inicio al server
+[17Dec2024 06:25:13.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[17Dec2024 06:25:27.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a title Bienvenidos a dedsafio 3 fan server suban la montaña para dar inicio al server
+[17Dec2024 06:25:27.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[17Dec2024 06:25:30.738] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pinche ruleta culera
+[17Dec2024 06:25:44.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[17Dec2024 06:25:48.034] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> como la pones?
+[17Dec2024 06:25:55.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a title asd
+[17Dec2024 06:25:55.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 3 entities
+[17Dec2024 06:26:16.656] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> con q comando
+[17Dec2024 06:26:27.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[17Dec2024 06:26:34.578] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> pero como pndj
+[17Dec2024 06:26:38.210] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bosteritomop> solo la anim
+[17Dec2024 06:26:39.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a actionbar ola
+[17Dec2024 06:26:39.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.actionbar' to 3 entities
