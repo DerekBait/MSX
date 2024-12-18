@@ -539,3 +539,21 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [18Dec2024 08:14:15.158] [ForkJoinPool.commonPool-worker-15/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
 [18Dec2024 08:14:15.158] [ForkJoinPool.commonPool-worker-15/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
 [18Dec2024 08:14:15.158] [ForkJoinPool.commonPool-worker-15/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[18Dec2024 08:14:55.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give TheHollowKingMC cataclysm:blessing_of_amethyst
+[18Dec2024 08:14:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Blessing of Amethyst to TheHollowKingMC]
+[18Dec2024 08:14:56.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[18Dec2024 08:14:56.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[18Dec2024 08:14:58.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[18Dec2024 08:14:58.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[18Dec2024 08:15:05.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give TheHollowKingMC cataclysm:stun
+[18Dec2024 08:15:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Applied effect Stun to TheHollowKingMC]
+[18Dec2024 08:15:09.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[18Dec2024 08:15:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[18Dec2024 08:15:36.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[18Dec2024 08:15:36.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[18Dec2024 08:22:15.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin clear
+[18Dec2024 08:22:36.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 8.449420211141728,12.37500049173832,-13.297215763431439
+[18Dec2024 08:23:03.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.5
+[18Dec2024 08:23:20.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 1
+[18Dec2024 08:24:00.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[18Dec2024 08:24:00.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
