@@ -7635,3 +7635,88 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [18Dec2024 07:50:14.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
 [18Dec2024 07:50:14.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
 [18Dec2024 07:50:14.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[18Dec2024 07:55:14.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 07:55:14.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 07:55:14.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[18Dec2024 07:55:14.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[18Dec2024 08:00:14.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 08:00:14.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[18Dec2024 08:00:14.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[18Dec2024 08:00:14.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[18Dec2024 08:00:28.001] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/internal/command/CommandArgParser$1
+[18Dec2024 08:00:28.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dou0yiijwirz]: started parsing
+[18Dec2024 08:00:28.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dou0yiijwirz]: Consuming argument ``
+[18Dec2024 08:00:28.820] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pj2dseew9gad]: started parsing
+[18Dec2024 08:00:28.820] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pj2dseew9gad]: Consuming argument `}`
+[18Dec2024 08:00:29.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0si3yhp5b0p60]: started parsing
+[18Dec2024 08:00:29.210] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0si3yhp5b0p60]: Consuming argument ``
+[18Dec2024 08:00:39.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /worldguard
+[18Dec2024 08:01:00.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t8egif6xe7vx]: started parsing
+[18Dec2024 08:01:00.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t8egif6xe7vx]: Consuming argument ``
+[18Dec2024 08:01:02.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12nzpq3lppyo3]: started parsing
+[18Dec2024 08:01:02.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12nzpq3lppyo3]: Consuming argument `s`
+[18Dec2024 08:01:02.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idsc0ume1xam]: started parsing
+[18Dec2024 08:01:02.313] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1idsc0ume1xam]: Consuming argument `st`
+[18Dec2024 08:01:02.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hm4j4fxuv8h3]: started parsing
+[18Dec2024 08:01:02.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hm4j4fxuv8h3]: Consuming argument `sto`
+[18Dec2024 08:01:03.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bb6to4m0s9ly]: started parsing
+[18Dec2024 08:01:03.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bb6to4m0s9ly]: Consuming argument `ston`
+[18Dec2024 08:01:03.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d268e2wsf7wv]: started parsing
+[18Dec2024 08:01:03.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d268e2wsf7wv]: Consuming argument `stone`
+[18Dec2024 08:01:03.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d268e2wsf7wv]: Finished looking at arguments. Finalizing command.
+[18Dec2024 08:01:03.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set stone
+[18Dec2024 08:01:03.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004xftcddgp50]: started parsing
+[18Dec2024 08:01:03.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004xftcddgp50]: Consuming argument `stone`
+[18Dec2024 08:01:03.569] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [004xftcddgp50]: Finished looking at arguments. Finalizing command.
+[18Dec2024 08:01:03.570] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/internal/command/CommandLoggingHandler$1
+[18Dec2024 08:01:03.571] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set stone - Region: (-600, 140, -261) - (-599, 140, -260)
+[18Dec2024 08:01:03.775] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/EditSession$4
+[18Dec2024 08:01:05.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ved3zyv2mti3]: started parsing
+[18Dec2024 08:01:05.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ved3zyv2mti3]: Consuming argument `stone`
+[18Dec2024 08:01:05.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ved3zyv2mti3]: Finished looking at arguments. Finalizing command.
+[18Dec2024 08:01:05.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15kn5fp6c2iid]: started parsing
+[18Dec2024 08:01:05.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15kn5fp6c2iid]: Consuming argument `stone`
+[18Dec2024 08:01:05.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15kn5fp6c2iid]: Finished looking at arguments. Finalizing command.
+[18Dec2024 08:01:06.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tfpmjek7on0y]: started parsing
+[18Dec2024 08:01:06.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tfpmjek7on0y]: Consuming argument `ston`
+[18Dec2024 08:01:06.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e3w1k4nxytdc]: started parsing
+[18Dec2024 08:01:06.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e3w1k4nxytdc]: Consuming argument `sto`
+[18Dec2024 08:01:06.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [117jtyt4z5jdn]: started parsing
+[18Dec2024 08:01:06.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [117jtyt4z5jdn]: Consuming argument `st`
+[18Dec2024 08:01:06.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iqpcuzeb3ytx]: started parsing
+[18Dec2024 08:01:06.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iqpcuzeb3ytx]: Consuming argument `s`
+[18Dec2024 08:01:06.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cnxxfe8kez2i]: started parsing
+[18Dec2024 08:01:06.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cnxxfe8kez2i]: Consuming argument ``
+[18Dec2024 08:01:08.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ld4smz18xmr5]: started parsing
+[18Dec2024 08:01:08.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ld4smz18xmr5]: Consuming argument `d`
+[18Dec2024 08:01:08.381] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vaj5pv0fyqc9]: started parsing
+[18Dec2024 08:01:08.381] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vaj5pv0fyqc9]: Consuming argument `de`
+[18Dec2024 08:01:08.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0otdk3kac8jso]: started parsing
+[18Dec2024 08:01:08.646] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0otdk3kac8jso]: Consuming argument `dee`
+[18Dec2024 08:01:08.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kuaxragexs1]: started parsing
+[18Dec2024 08:01:08.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kuaxragexs1]: Consuming argument `deep`
+[18Dec2024 08:01:09.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set deepslate
+[18Dec2024 08:01:09.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uazov0tqodgq]: started parsing
+[18Dec2024 08:01:09.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uazov0tqodgq]: Consuming argument `deepslate`
+[18Dec2024 08:01:09.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uazov0tqodgq]: Finished looking at arguments. Finalizing command.
+[18Dec2024 08:01:09.786] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set deepslate - Region: (-600, 140, -261) - (-599, 140, -260)
+[18Dec2024 08:01:19.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[18Dec2024 08:01:24.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[18Dec2024 08:01:24.359] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.HarvestFarmlandMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[18Dec2024 08:01:24.368] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.InteractWithDoorMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.InteractWithDoor
+[18Dec2024 08:01:24.376] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.GoToWantedItemMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.GoToWantedItem
+[18Dec2024 08:01:24.376] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(ZLjava/util/function/Predicate;IFLnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to mdc82761$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.GoToWantedItemMixin
+[18Dec2024 08:01:24.376] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Ljava/util/function/Predicate;IFLnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to mdc82761$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.GoToWantedItemMixin
+[18Dec2024 08:01:24.376] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Ljava/util/function/Predicate;IFLnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/LivingEntity;J)Z to mdc82761$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.GoToWantedItemMixin
+[18Dec2024 08:01:24.387] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.AssignProfessionFromJobSiteMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.AssignProfessionFromJobSite
+[18Dec2024 08:01:24.389] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.ResetProfessionMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.ResetProfession
+[18Dec2024 08:01:24.394] [Server thread/DEBUG] [mixin/]: Mixing chunkload.SleepInBedMixin_Optimize from mixins.arclight.impl.forge.optimization.json into net.minecraft.world.entity.ai.behavior.SleepInBed
+[18Dec2024 08:01:24.404] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.VillagerMakeLoveMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[18Dec2024 08:01:24.404] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[18Dec2024 08:01:25.666] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$1b51abb418f740e2a1265e25bbd829ed (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[18Dec2024 08:01:38.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[18Dec2024 08:02:11.494] [Async Chat Thread - #0/INFO] [Console/]: <TheHollowKingMC> pepe
+[18Dec2024 08:02:27.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:command_block
+[18Dec2024 08:02:27.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Command Block] to TheHollowKingMC]
+[18Dec2024 08:03:56.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[name=pepe] minecraft:invisibility
+[18Dec2024 08:04:01.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[name=pepe] minecraft:invisibility

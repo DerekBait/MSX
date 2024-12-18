@@ -488,3 +488,16 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [18Dec2024 07:41:25.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
 [18Dec2024 07:42:19.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
 [18Dec2024 07:42:19.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[18Dec2024 08:00:39.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /worldguard
+[18Dec2024 08:01:03.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set stone
+[18Dec2024 08:01:03.571] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set stone - Region: (-600, 140, -261) - (-599, 140, -260)
+[18Dec2024 08:01:09.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set deepslate
+[18Dec2024 08:01:09.786] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set deepslate - Region: (-600, 140, -261) - (-599, 140, -260)
+[18Dec2024 08:01:19.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[18Dec2024 08:01:24.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[18Dec2024 08:01:38.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[18Dec2024 08:02:11.494] [Async Chat Thread - #0/INFO] [Console/]: <TheHollowKingMC> pepe
+[18Dec2024 08:02:27.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:command_block
+[18Dec2024 08:02:27.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Command Block] to TheHollowKingMC]
+[18Dec2024 08:03:56.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[name=pepe] minecraft:invisibility
+[18Dec2024 08:04:01.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /effect give @e[name=pepe] minecraft:invisibility
