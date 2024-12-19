@@ -566,3 +566,160 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 03:39:16.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a81728c5-0ebf-3d12-b3f2-05ee1928f727
 [19Dec2024 03:39:17.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a81728c5-0ebf-3d12-b3f2-05ee1928f727
 [19Dec2024 03:39:17.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Roberto_RS (a81728c5-0ebf-3d12-b3f2-05ee1928f727) successfully connected to voice chat
+[19Dec2024 03:39:44.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag Roberto_RS add anim.ruleta.azul
+[19Dec2024 03:39:44.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.azul' to Roberto_RS]
+[19Dec2024 03:40:47.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta torqueza @a title derek pdnjo
+[19Dec2024 03:40:53.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta turqueza @a title derek pdnjo
+[19Dec2024 03:40:53.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.turqueza' to 3 entities
+[19Dec2024 03:41:13.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta amarilla
+[19Dec2024 03:41:18.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /skin farfadox
+[19Dec2024 03:41:20.213] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[19Dec2024 03:41:20.213] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetShort(SkinCommand.java:153)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[19Dec2024 03:41:20.214] [ForkJoinPool.commonPool-worker-8/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19Dec2024 03:41:30.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta amarilla 2 1 aa
+[19Dec2024 03:41:30.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[19Dec2024 03:41:41.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /weather clear
+[19Dec2024 03:41:41.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set the weather to clear]
+[19Dec2024 03:41:43.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /weather clear
+[19Dec2024 03:41:43.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set the weather to clear]
+[19Dec2024 03:41:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[19Dec2024 03:41:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[19Dec2024 03:41:54.526] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_RS> water
+[19Dec2024 03:41:57.559] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> weather
+[19Dec2024 03:42:49.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta naranja
+[19Dec2024 03:42:57.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a title derek pone bn el revill del launcher
+[19Dec2024 03:42:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 3 entities
+[19Dec2024 03:43:32.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta
+[19Dec2024 03:43:38.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[19Dec2024 03:43:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[19Dec2024 03:43:48.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ce reload
+[19Dec2024 03:44:02.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[19Dec2024 03:44:02.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[19Dec2024 03:44:05.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[19Dec2024 03:44:05.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[19Dec2024 03:44:07.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[19Dec2024 03:44:07.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[19Dec2024 03:44:14.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS TheHollowKingMC
+[19Dec2024 03:44:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[19Dec2024 03:44:36.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[19Dec2024 03:44:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[19Dec2024 03:45:37.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[19Dec2024 03:45:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[19Dec2024 03:45:43.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /kick
+[19Dec2024 03:45:46.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /kick bosteritomop
+[19Dec2024 03:45:46.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Kicked by an operator
+[19Dec2024 03:45:46.845] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 03:45:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[19Dec2024 03:45:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Kicked bosteritomop: Kicked by an operator]
+[19Dec2024 03:45:46.876] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 03:45:51.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /kick Roberto_RS
+[19Dec2024 03:45:51.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Kicked by an operator
+[19Dec2024 03:45:51.034] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[19Dec2024 03:45:51.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game.
+[19Dec2024 03:45:51.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Kicked Roberto_RS: Kicked by an operator]
+[19Dec2024 03:45:51.084] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 03:45:53.100] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:45:54.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/172.25.223.118:59999] logged in with entity id 3519 at (-3096.48743377652, 166.00414061255768, -2968.3146775061573)
+[19Dec2024 03:45:54.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 03:45:54.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 03:45:54.775] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[19Dec2024 03:45:55.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:45:56.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:45:56.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bosteritomop (eabd3787-e73f-3841-adc8-1f6960b8266a) successfully connected to voice chat
+[19Dec2024 03:45:56.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[19Dec2024 03:45:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[19Dec2024 03:45:59.687] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[19Dec2024 03:46:01.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_RS[/172.25.57.25:61458] logged in with entity id 3520 at (-3076.285617047579, 169.0, -2962.4034536008503)
+[19Dec2024 03:46:01.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS joined the game
+[19Dec2024 03:46:01.246] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_RS (18)
+[19Dec2024 03:46:01.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_RS
+[19Dec2024 03:46:03.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC bosteritomop
+[19Dec2024 03:46:03.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported TheHollowKingMC to bosteritomop]
+[19Dec2024 03:46:04.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[19Dec2024 03:46:05.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[19Dec2024 03:46:05.175] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Roberto_RS (a81728c5-0ebf-3d12-b3f2-05ee1928f727) successfully connected to voice chat
+[19Dec2024 03:46:08.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /skin steve
+[19Dec2024 03:46:13.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ban bosteritomop
+[19Dec2024 03:46:13.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Banned bosteritomop: Banned by an operator.]
+[19Dec2024 03:46:13.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[19Dec2024 03:46:13.737] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 03:46:13.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[19Dec2024 03:46:13.787] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 03:46:30.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[19Dec2024 03:46:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Unbanned bosteritomop]
+[19Dec2024 03:46:31.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon bosteritomop
+[19Dec2024 03:46:37.940] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:46:39.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/172.25.223.118:60043] logged in with entity id 3555 at (-3085.676639313347, 168.16473587004896, -2965.0304134926378)
+[19Dec2024 03:46:39.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 03:46:39.598] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 03:46:39.598] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[19Dec2024 03:46:40.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:46:41.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:46:41.253] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bosteritomop (eabd3787-e73f-3841-adc8-1f6960b8266a) successfully connected to voice chat
+[19Dec2024 03:46:42.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[19Dec2024 03:46:42.723] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 03:46:42.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[19Dec2024 03:46:46.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[19Dec2024 03:47:04.011] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:47:05.479] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/172.25.223.118:60080] logged in with entity id 3606 at (-3087.2683510241677, 168.16473587004896, -2968.092715541577)
+[19Dec2024 03:47:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 03:47:05.687] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 03:47:05.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[19Dec2024 03:47:06.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:47:07.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:47:07.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bosteritomop (eabd3787-e73f-3841-adc8-1f6960b8266a) successfully connected to voice chat
+[19Dec2024 03:47:22.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /me derek ha sido cogido por un burro
+[19Dec2024 03:47:22.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * bosteritomop derek ha sido cogido por un burro
+[19Dec2024 03:47:29.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ban bosteritomop
+[19Dec2024 03:47:29.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Banned bosteritomop: Banned by an operator.]
+[19Dec2024 03:47:29.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[19Dec2024 03:47:29.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 03:47:29.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[19Dec2024 03:47:29.229] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 03:47:34.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[19Dec2024 03:47:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Unbanned bosteritomop]
+[19Dec2024 03:47:51.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon bosteritomop
+[19Dec2024 03:48:04.365] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:48:05.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/172.25.223.118:60202] logged in with entity id 3715 at (-3133.846444973989, 168.5644818481269, -3031.002016387657)
+[19Dec2024 03:48:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 03:48:05.986] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 03:48:05.986] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[19Dec2024 03:48:07.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:48:08.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:48:08.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bosteritomop (eabd3787-e73f-3841-adc8-1f6960b8266a) successfully connected to voice chat
+[19Dec2024 03:48:47.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[19Dec2024 03:48:47.871] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 03:48:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[19Dec2024 03:49:35.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set barrier
+[19Dec2024 03:49:35.396] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set barrier - Region: (-3126, 163, -2974) - (-3077, 166, -2974)
+[19Dec2024 03:50:08.292] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 03:50:09.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/172.25.223.118:60314] logged in with entity id 3917 at (-3076.9728191972454, 161.04874188108533, -3019.7208509346483)
+[19Dec2024 03:50:09.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 03:50:10.017] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 03:50:10.017] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop

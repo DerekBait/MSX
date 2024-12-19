@@ -1265,5 +1265,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-19 03:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-19 03:43:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
