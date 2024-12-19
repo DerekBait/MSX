@@ -540,3 +540,47 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 20:45:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC joined the game
 [19Dec2024 20:45:42.458] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheHollowKingMC (18)
 [19Dec2024 20:45:42.458] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheHollowKingMC
+[19Dec2024 20:45:59.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[19Dec2024 20:46:12.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta morada @a subtitle p
+[19Dec2024 20:46:12.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada.mini.subtitle' to 2 entities
+[19Dec2024 20:46:39.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta morada @a title xd
+[19Dec2024 20:46:39.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada' to 2 entities
+[19Dec2024 20:46:55.009] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Draugr_Entity['d'/1548, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2145.30, y=120.00, z=1145.30] died: d was slain by TheHollowKingMC
+[19Dec2024 20:47:00.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta morada @a subtitle xd
+[19Dec2024 20:47:00.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada.mini.subtitle' to 2 entities
+[19Dec2024 20:47:22.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta morada @a actionbar xd
+[19Dec2024 20:47:22.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada.mini.actionbar' to 2 entities
+[19Dec2024 20:47:38.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity FantasmarojoEntity['d'/1681, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2187.61, y=123.46, z=1129.64] died: d was slain by TheHollowKingMC
+[19Dec2024 20:47:48.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta morada @a scoreboard xd
+[19Dec2024 20:47:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada.mini.scoreboard' to 2 entities
+[19Dec2024 20:47:59.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC lost connection: Disconnected
+[19Dec2024 20:47:59.210] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheHollowKingMC
+[19Dec2024 20:47:59.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC left the game
+[19Dec2024 20:52:22.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a subtitle Bienvenidos sean al primer server de Nexa studios suban a la montaña para dar instrucciones e iniciar el server
+[19Dec2024 20:52:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to Roberto_RS
+[19Dec2024 20:53:12.810] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:53:13.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ff2b355[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:50083) lost connection: Disconnected
+[19Dec2024 20:53:34.296] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:53:49.655] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b9f8b48[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:48891) lost connection: Disconnected
+[19Dec2024 20:53:52.160] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheHollowKingMC is cb5caf50-e6e7-30fd-879b-44f748e5dfdf
+[19Dec2024 20:53:53.151] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:54:21.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f2cd8b0[id=cb5caf50-e6e7-30fd-879b-44f748e5dfdf,name=TheHollowKingMC,properties={},legacy=false] (/127.152.75.137:45161) lost connection: Disconnected
+[19Dec2024 20:54:22.921] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@502134d9[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:47027) lost connection: Disconnected
+[19Dec2024 20:54:26.237] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:54:29.059] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheHollowKingMC is cb5caf50-e6e7-30fd-879b-44f748e5dfdf
+[19Dec2024 20:54:30.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHollowKingMC[/127.152.75.137:34161] logged in with entity id 3326 at (-2191.594476676621, 120.0, 1155.1713797561413)
+[19Dec2024 20:54:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC joined the game
+[19Dec2024 20:54:32.385] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheHollowKingMC (18)
+[19Dec2024 20:54:32.387] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheHollowKingMC
+[19Dec2024 20:54:41.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[19Dec2024 20:54:44.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c9474c5[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:42057) lost connection: Disconnected
+[19Dec2024 20:54:46.683] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:54:54.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta naranja @a subtitle
+[19Dec2024 20:54:54.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
+[19Dec2024 20:55:16.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e7b7bdf[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:47247) lost connection: Disconnected
+[19Dec2024 20:55:16.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a subtitle
+[19Dec2024 20:55:16.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to 2 entities
+[19Dec2024 20:55:19.904] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:55:28.557] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60fc1bcd[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:32907) lost connection: Disconnected
+[19Dec2024 20:55:31.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta naranja @a subtitle
+[19Dec2024 20:55:31.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
