@@ -992,3 +992,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 21:26:02.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
 [19Dec2024 21:26:02.059] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
 [19Dec2024 21:26:02.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[19Dec2024 21:34:02.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta rosa @a subtitle xd
+[19Dec2024 21:35:21.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /revill
+[19Dec2024 21:35:56.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[19Dec2024 21:35:56.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
