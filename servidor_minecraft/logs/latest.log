@@ -814,3 +814,181 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 21:16:16.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
 [19Dec2024 21:16:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
 [19Dec2024 21:16:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:27.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:16:27.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:16:28.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:16:28.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:16:35.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:fantasmarojo
+[19Dec2024 21:16:35.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fantasma Rojo]
+[19Dec2024 21:16:36.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:43.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:47.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:50.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:55.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:56.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:57.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:12.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:31.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:33.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:33.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:34.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:42.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:46.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:47.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:02.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.muerte
+[19Dec2024 21:18:02.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to 2 entities]
+[19Dec2024 21:18:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:17.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:17.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:18.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:21.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved wrongly!
+[19Dec2024 21:18:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:22.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:38.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:18:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:20:23.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin clear
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinClearOther(SkinCommand.java:187)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinClear(SkinCommand.java:169)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19Dec2024 21:20:34.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set gonchotwm
+[19Dec2024 21:20:38.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[19Dec2024 21:20:38.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 21:20:38.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[19Dec2024 21:22:26.995] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 21:22:28.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:52481] logged in with entity id 12647 at (-2167.9941713507937, 121.0, 1277.7574711598659)
+[19Dec2024 21:22:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 21:22:29.358] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 21:22:29.358] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[19Dec2024 21:22:39.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin clear
+[19Dec2024 21:22:44.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin steve
+[19Dec2024 21:22:49.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin clear
+[19Dec2024 21:22:51.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set gonchotwm
+[19Dec2024 21:23:12.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:23:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:23:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:20.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp 0 -100 0
+[19Dec2024 21:23:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to 0.500000, -100.000000, 0.500000]
+[19Dec2024 21:23:23.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:29.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:31.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:41.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:45.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:46.530] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> HELP
+[19Dec2024 21:23:47.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:55.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:05.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:11.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:15.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:17.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:27.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:24:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:24:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:34.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:24:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:24:35.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:45.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:49.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:51.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:53.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:55.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:59.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:01.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:15.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:19.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:21.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:23.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:27.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:25:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:25:27.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:35.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:37.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:39.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:41.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:48.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:25:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:25:51.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:26:01.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:26:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:26:02.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[19Dec2024 21:26:02.059] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 21:26:02.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game

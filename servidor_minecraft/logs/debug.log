@@ -8358,3 +8358,328 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 21:16:16.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
 [19Dec2024 21:16:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
 [19Dec2024 21:16:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:27.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:16:27.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:16:28.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:16:28.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:16:35.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:fantasmarojo
+[19Dec2024 21:16:35.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fantasma Rojo]
+[19Dec2024 21:16:36.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:36.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:43.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:47.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:50.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:52.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 21:16:52.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 21:16:52.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[19Dec2024 21:16:52.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[19Dec2024 21:16:55.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:56.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:56.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:16:57.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:12.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:27.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:31.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:33.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:33.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:34.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:42.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:46.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:47.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:17:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:01.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:02.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag @a add anim.muerte
+[19Dec2024 21:18:02.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to 2 entities]
+[19Dec2024 21:18:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:17.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:17.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:18.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:21.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop moved wrongly!
+[19Dec2024 21:18:21.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:22.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:18:38.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:18:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:20:23.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin clear
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinClearOther(SkinCommand.java:187)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinClear(SkinCommand.java:169)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[19Dec2024 21:20:24.649] [ForkJoinPool.commonPool-worker-11/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19Dec2024 21:20:34.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set gonchotwm
+[19Dec2024 21:20:38.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[19Dec2024 21:20:38.162] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of bosteritomop
+[19Dec2024 21:20:38.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 21:20:38.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[19Dec2024 21:21:52.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 21:21:52.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 21:21:52.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[19Dec2024 21:21:52.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[19Dec2024 21:22:26.994] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 25 messages to dispatch.
+[19Dec2024 21:22:26.995] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 21:22:27.008] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[19Dec2024 21:22:27.056] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[19Dec2024 21:22:27.107] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[19Dec2024 21:22:27.156] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[19Dec2024 21:22:27.206] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[19Dec2024 21:22:27.256] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[19Dec2024 21:22:27.306] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, geckolib, attributefix, pehkui, lionfishapi, dynamiclights, casinocraft, cataclysm, iceberg, curios, prism, modernfix, securitycraft, immersive_paintings, cpm, itemborders, mixinextras, lucky77, lootbeams, fancymenu, ferritecore, betterf3, projectile_damage, melody, cloth_config, voicechat, forge, tlskincape, explosiveenhancement, konkrete, embeddium, rubidium, oculus, dedsafio3, ricksportalgun]
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ricksportalgun:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explosiveenhancement:main_channel' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'casinocraft:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dedsafio3:dedsafio3' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[19Dec2024 21:22:27.306] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[19Dec2024 21:22:27.356] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[19Dec2024 21:22:27.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[19Dec2024 21:22:27.403] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.404] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.404] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[19Dec2024 21:22:27.404] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.404] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.406] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[19Dec2024 21:22:27.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[19Dec2024 21:22:27.506] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[19Dec2024 21:22:27.556] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[19Dec2024 21:22:27.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[19Dec2024 21:22:27.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[19Dec2024 21:22:27.706] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[19Dec2024 21:22:27.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[19Dec2024 21:22:27.784] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[19Dec2024 21:22:27.784] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.784] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[19Dec2024 21:22:27.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[19Dec2024 21:22:27.806] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[19Dec2024 21:22:27.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.855] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[19Dec2024 21:22:27.905] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[19Dec2024 21:22:27.956] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[19Dec2024 21:22:27.971] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[19Dec2024 21:22:27.971] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.971] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.971] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[19Dec2024 21:22:27.971] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.971] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.972] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[19Dec2024 21:22:27.972] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.972] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.974] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[19Dec2024 21:22:27.974] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.974] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.974] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[19Dec2024 21:22:27.974] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.974] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:27.975] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[19Dec2024 21:22:27.975] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:27.975] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.007] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[19Dec2024 21:22:28.047] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[19Dec2024 21:22:28.047] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.047] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.047] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[19Dec2024 21:22:28.047] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.047] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.056] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[19Dec2024 21:22:28.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[19Dec2024 21:22:28.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[19Dec2024 21:22:28.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.056] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.104] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[19Dec2024 21:22:28.104] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.104] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.106] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 22
+[19Dec2024 21:22:28.158] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 23
+[19Dec2024 21:22:28.199] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[19Dec2024 21:22:28.199] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.199] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.199] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[19Dec2024 21:22:28.199] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.199] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.207] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 24
+[19Dec2024 21:22:28.386] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[19Dec2024 21:22:28.387] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.387] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 21:22:28.428] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 21:22:28.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[19Dec2024 21:22:28.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:52481] logged in with entity id 12647 at (-2167.9941713507937, 121.0, 1277.7574711598659)
+[19Dec2024 21:22:28.513] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6a0176d3 into net.minecraft.network.Connection@17245ff3
+[19Dec2024 21:22:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 21:22:28.561] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of bosteritomop: {disabled=false, disconnected=true, uuid=eabd3787-e73f-3841-adc8-1f6960b8266a, name=bosteritomop, group=null}
+[19Dec2024 21:22:29.358] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 21:22:29.358] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to bosteritomop
+[19Dec2024 21:22:29.358] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with bosteritomop
+[19Dec2024 21:22:29.358] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with bosteritomop
+[19Dec2024 21:22:29.358] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[19Dec2024 21:22:39.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin clear
+[19Dec2024 21:22:44.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin steve
+[19Dec2024 21:22:49.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin clear
+[19Dec2024 21:22:51.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set gonchotwm
+[19Dec2024 21:23:12.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:23:12.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:23:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:20.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp 0 -100 0
+[19Dec2024 21:23:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to 0.500000, -100.000000, 0.500000]
+[19Dec2024 21:23:23.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:29.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:31.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:41.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:45.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:46.530] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> HELP
+[19Dec2024 21:23:47.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:51.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:55.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:57.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:23:59.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:05.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:11.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:15.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:17.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:21.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:27.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:24:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:24:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:34.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:24:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:24:35.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:45.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:47.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:49.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:51.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:53.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:55.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:24:59.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:01.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:15.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:19.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:21.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:23.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:25.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:27.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:25:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:25:27.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:35.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:37.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:39.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:41.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:25:48.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 21:25:48.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 21:25:51.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 21:26:01.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 21:26:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 21:26:02.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[19Dec2024 21:26:02.059] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of bosteritomop
+[19Dec2024 21:26:02.059] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 21:26:02.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
