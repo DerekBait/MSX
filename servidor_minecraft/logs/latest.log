@@ -584,3 +584,77 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 20:55:28.557] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60fc1bcd[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:32907) lost connection: Disconnected
 [19Dec2024 20:55:31.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta naranja @a subtitle
 [19Dec2024 20:55:31.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
+[19Dec2024 20:56:09.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta morada @a subtitle
+[19Dec2024 20:56:09.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada.mini.subtitle' to 2 entities
+[19Dec2024 20:56:16.527] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:56:16.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75fea156[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:59573) lost connection: Disconnected
+[19Dec2024 20:56:40.974] [Async Chat Thread - #5/INFO] [Console/]: <TheHollowKingMC> nose
+[19Dec2024 20:56:44.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta naranja @a subtitle
+[19Dec2024 20:56:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
+[19Dec2024 20:56:47.576] [Async Chat Thread - #4/INFO] [Console/]: <TheHollowKingMC> ptm
+[19Dec2024 20:57:22.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta naranja @a subtitle
+[19Dec2024 20:57:22.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
+[19Dec2024 20:57:29.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC lost connection: Disconnected
+[19Dec2024 20:57:29.757] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheHollowKingMC
+[19Dec2024 20:57:29.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC left the game
+[19Dec2024 20:57:44.417] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:58:14.158] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52d3365a[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:33031) lost connection: Disconnected
+[19Dec2024 20:58:15.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a subtitle a
+[19Dec2024 20:58:15.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.subtitle' to Roberto_RS
+[19Dec2024 20:58:17.682] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:58:24.519] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheHollowKingMC is cb5caf50-e6e7-30fd-879b-44f748e5dfdf
+[19Dec2024 20:58:25.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHollowKingMC[/127.152.75.137:42403] logged in with entity id 3922 at (-2183.3268512119034, 120.0, 1158.397667720231)
+[19Dec2024 20:58:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC joined the game
+[19Dec2024 20:58:26.111] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheHollowKingMC (18)
+[19Dec2024 20:58:26.111] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheHollowKingMC
+[19Dec2024 20:58:47.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7469134[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:40235) lost connection: Disconnected
+[19Dec2024 20:58:47.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC lost connection: Disconnected
+[19Dec2024 20:58:47.857] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheHollowKingMC
+[19Dec2024 20:58:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC left the game
+[19Dec2024 20:58:51.762] [Async Chat Thread - #7/INFO] [Console/]: <Roberto_RS> los momentos revill tendran q ser siempre con rulata grande
+[19Dec2024 20:58:56.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a title xd
+[19Dec2024 20:58:56.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to Roberto_RS
+[19Dec2024 20:59:00.341] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:59:25.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a subtitle a
+[19Dec2024 20:59:25.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.subtitle' to Roberto_RS
+[19Dec2024 20:59:30.107] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7502775[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:41553) lost connection: Disconnected
+[19Dec2024 20:59:39.162] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 20:59:39.479] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [casinocraft:main] rejected their client side version number
+[19Dec2024 20:59:39.479] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 20:59:39.506] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@692d87c6[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:48659) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 21:00:16.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a scoreboard xd
+[19Dec2024 21:00:16.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.scoreboard' to Roberto_RS
+[19Dec2024 21:00:43.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a actionbar xd
+[19Dec2024 21:00:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.actionbar' to Roberto_RS
+[19Dec2024 21:01:04.601] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 21:01:06.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:42671] logged in with entity id 4596 at (-2157.9737396397363, 120.0, 1168.3164458338051)
+[19Dec2024 21:01:06.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[19Dec2024 21:01:07.436] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[19Dec2024 21:01:07.436] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[19Dec2024 21:01:16.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[19Dec2024 21:01:16.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[19Dec2024 21:01:21.907] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> q ruletas faltan?
+[19Dec2024 21:01:27.127] [Async Chat Thread - #8/INFO] [Console/]: <Roberto_RS> todas
+[19Dec2024 21:01:45.555] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> esta en todos los lados no?
+[19Dec2024 21:01:46.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a subtitle a
+[19Dec2024 21:01:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.subtitle' to 2 entities
+[19Dec2024 21:02:12.330] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> cierto no tengo el resource pack ese
+[19Dec2024 21:02:22.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a title xd
+[19Dec2024 21:02:22.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 2 entities
+[19Dec2024 21:02:25.785] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> pasalo
+[19Dec2024 21:02:30.554] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> resource pack
+[19Dec2024 21:03:00.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta rosa @a subtitle xd
+[19Dec2024 21:03:17.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta rosa @a subtitle xd
+[19Dec2024 21:04:28.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta rosa
+[19Dec2024 21:04:49.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta rosa @a title p
+[19Dec2024 21:05:11.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta morado @a tittle p
+[19Dec2024 21:05:13.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta morado @a title p
+[19Dec2024 21:05:17.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta morado @a tittle adsd
+[19Dec2024 21:05:27.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta rojo @a subtitle p
+[19Dec2024 21:05:32.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta roja @a tittle p
+[19Dec2024 21:05:32.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.tittle' to 2 entities
+[19Dec2024 21:05:54.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /ruleta verde @a tittle asdasd
+[19Dec2024 21:05:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.tittle' to 2 entities
+[19Dec2024 21:06:03.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /function cpaladeds3:animacion/momento-nutria
+[19Dec2024 21:06:03.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Executed 108 command(s) from function 'cpaladeds3:animacion/momento-nutria']
+[19Dec2024 21:06:12.786] [Async Chat Thread - #11/INFO] [Console/]: <bosteritomop> ?
