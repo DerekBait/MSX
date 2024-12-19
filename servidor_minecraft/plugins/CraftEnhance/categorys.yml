@@ -1,0 +1,15 @@
+Categorys:
+  default:
+    category:
+      category_item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CRAFTING_TABLE
+      name: default
+  furnace:
+    category:
+      category_item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: FURNACE
+      name: furnace

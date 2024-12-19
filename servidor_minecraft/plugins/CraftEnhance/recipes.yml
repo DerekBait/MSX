@@ -18,7 +18,7 @@ recipe1:
   page: -1
   slot: -1
   result_slot: 9
-  category: null
+  category: default
   shapeless: false
 recipe2:
   ==: com.dutchjelly.craftenhance.crafthandling.recipes.FurnaceRecipe
@@ -33,5 +33,5 @@ recipe2:
   page: -1
   slot: -1
   result_slot: 1
-  category: null
+  category: furnace
   exp: 0.0
