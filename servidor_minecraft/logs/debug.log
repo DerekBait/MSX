@@ -20767,3 +20767,418 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 05:10:28.951] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
 [19Dec2024 05:11:15.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ceh disabler
 [19Dec2024 05:11:15.430] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:22.863] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:28.929] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:30.064] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:30.967] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:32.550] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:37.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 05:11:37.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 05:11:37.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[19Dec2024 05:11:37.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[19Dec2024 05:11:40.451] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:43.859] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:46.588] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:48.761] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:49.847] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:50.501] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:51.919] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:52.649] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:55.511] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:56.467] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:57.110] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:57.773] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:58.364] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:58.817] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:59.299] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:11:59.778] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:00.727] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:01.309] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:02.001] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:05.751] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:07.988] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:10.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Disconnected
+[19Dec2024 05:12:10.705] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Roberto_RS
+[19Dec2024 05:12:10.705] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[19Dec2024 05:12:10.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game
+[19Dec2024 05:12:13.323] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:14.541] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:18.252] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:19.396] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:20.228] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:21.062] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:21.952] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:22.676] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:23.359] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:23.910] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:24.509] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:25.509] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:27.565] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:28.092] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:28.811] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:29.558] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:30.331] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:31.651] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:33.413] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:34.840] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:35.658] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:36.186] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:36.584] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:36.930] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:37.408] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:37.875] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:38.382] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:38.812] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:39.227] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:39.692] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:40.257] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:40.747] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:41.197] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:42.151] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:42.708] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:12:43.361] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:13:00.873] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:13:10.227] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:13:13.537] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:13:16.494] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:13:31.136] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:13:37.633] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:13:52.749] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:14:03.301] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:14:10.151] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:14:21.155] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 25 messages to dispatch.
+[19Dec2024 05:14:21.155] [User Authenticator #55/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[19Dec2024 05:14:21.158] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[19Dec2024 05:14:21.209] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[19Dec2024 05:14:21.256] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, geckolib, attributefix, pehkui, lionfishapi, dynamiclights, casinocraft, cataclysm, iceberg, curios, prism, modernfix, securitycraft, immersive_paintings, cpm, itemborders, mixinextras, lucky77, lootbeams, fancymenu, ferritecore, betterf3, projectile_damage, melody, cloth_config, voicechat, forge, explosiveenhancement, konkrete, embeddium, rubidium, oculus, dedsafio3, ricksportalgun]
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ricksportalgun:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explosiveenhancement:main_channel' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'casinocraft:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dedsafio3:dedsafio3' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[19Dec2024 05:14:21.262] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[19Dec2024 05:14:21.307] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[19Dec2024 05:14:21.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[19Dec2024 05:14:21.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.309] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.356] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[19Dec2024 05:14:21.359] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[19Dec2024 05:14:21.359] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.359] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.409] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[19Dec2024 05:14:21.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[19Dec2024 05:14:21.470] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[19Dec2024 05:14:21.470] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.470] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.470] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[19Dec2024 05:14:21.470] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.470] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.506] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[19Dec2024 05:14:21.506] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[19Dec2024 05:14:21.506] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.506] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.557] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[19Dec2024 05:14:21.581] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[19Dec2024 05:14:21.581] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.581] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.607] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[19Dec2024 05:14:21.614] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[19Dec2024 05:14:21.614] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.614] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[19Dec2024 05:14:21.660] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[19Dec2024 05:14:21.660] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.660] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.706] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[19Dec2024 05:14:21.707] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[19Dec2024 05:14:21.707] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.707] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[19Dec2024 05:14:21.759] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[19Dec2024 05:14:21.759] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.759] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[19Dec2024 05:14:21.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[19Dec2024 05:14:21.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.807] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.856] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[19Dec2024 05:14:21.896] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[19Dec2024 05:14:21.896] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.896] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.906] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[19Dec2024 05:14:21.907] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[19Dec2024 05:14:21.907] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.907] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:21.957] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[19Dec2024 05:14:21.958] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[19Dec2024 05:14:21.958] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:21.958] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.010] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[19Dec2024 05:14:22.010] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.010] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.013] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[19Dec2024 05:14:22.059] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[19Dec2024 05:14:22.065] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[19Dec2024 05:14:22.065] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.065] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.110] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[19Dec2024 05:14:22.110] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.110] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.112] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[19Dec2024 05:14:22.156] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[19Dec2024 05:14:22.181] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[19Dec2024 05:14:22.181] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.181] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.210] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 21
+[19Dec2024 05:14:22.255] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 22
+[19Dec2024 05:14:22.306] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 23
+[19Dec2024 05:14:22.329] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[19Dec2024 05:14:22.329] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.329] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.331] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[19Dec2024 05:14:22.331] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.331] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.334] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[19Dec2024 05:14:22.334] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.334] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.358] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 24
+[19Dec2024 05:14:22.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[19Dec2024 05:14:22.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.412] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[19Dec2024 05:14:22.412] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 05:14:22.412] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 05:14:22.456] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[19Dec2024 05:14:22.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_RS[/172.25.57.25:54926] logged in with entity id 19583 at (-2157.7722888805506, 121.0, 1195.4250914457564)
+[19Dec2024 05:14:22.512] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3be2fb5d into net.minecraft.network.Connection@2f105068
+[19Dec2024 05:14:22.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS joined the game
+[19Dec2024 05:14:22.559] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Roberto_RS: {disabled=false, disconnected=true, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[19Dec2024 05:14:22.625] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_RS (18)
+[19Dec2024 05:14:22.625] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Roberto_RS
+[19Dec2024 05:14:22.625] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Roberto_RS
+[19Dec2024 05:14:22.625] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Roberto_RS
+[19Dec2024 05:14:22.625] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_RS
+[19Dec2024 05:14:23.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[19Dec2024 05:14:24.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[19Dec2024 05:14:24.430] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Roberto_RS to connected: {disabled=false, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[19Dec2024 05:14:24.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Roberto_RS (a81728c5-0ebf-3d12-b3f2-05ee1928f727) successfully connected to voice chat
+[19Dec2024 05:14:24.494] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=false, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[19Dec2024 05:14:24.740] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:14:29.928] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:14:36.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 05:14:36.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 05:14:39.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival @a
+[19Dec2024 05:14:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set TheHollowKingMC's game mode to Survival Mode]
+[19Dec2024 05:14:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set Roberto_RS's game mode to Survival Mode]
+[19Dec2024 05:14:49.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[19Dec2024 05:14:49.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[19Dec2024 05:14:51.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[19Dec2024 05:14:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[19Dec2024 05:14:56.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[19Dec2024 05:14:56.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[19Dec2024 05:14:58.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 05:14:58.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 05:15:00.430] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:15:15.145] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:15:17.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Turtle['Dinnerbone'/19579, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2153.87, y=120.00, z=1194.84] died: Dinnerbone was slain by bosteritomop
+[19Dec2024 05:15:23.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative TheHollowKingMC
+[19Dec2024 05:15:23.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set TheHollowKingMC's game mode to Creative Mode]
+[19Dec2024 05:15:27.650] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:15:41.586] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:15:47.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Panda['Dinnerbone'/19722, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2159.57, y=120.00, z=1187.65] died: Dinnerbone was slain by Roberto_RS
+[19Dec2024 05:15:52.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[19Dec2024 05:15:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[19Dec2024 05:15:56.745] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:15:58.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS bosteritomop
+[19Dec2024 05:15:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to bosteritomop]
+[19Dec2024 05:16:01.008] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StartAttackingMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StartAttacking
+[19Dec2024 05:16:01.008] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(Ljava/util/function/Predicate;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to md6b5744$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.StartAttackingMixin
+[19Dec2024 05:16:01.008] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Ljava/util/function/Predicate;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to md6b5744$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.StartAttackingMixin
+[19Dec2024 05:16:01.008] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Ljava/util/function/Predicate;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Mob;J)Z to md6b5744$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.StartAttackingMixin
+[19Dec2024 05:16:01.016] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StopAttackingIfTargetInvalid
+[19Dec2024 05:16:01.016] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(ZLjava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to md6b5744$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[19Dec2024 05:16:01.016] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;ZLjava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to md6b5744$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[19Dec2024 05:16:01.016] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;ZLnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Ljava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Mob;J)Z to md6b5744$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[19Dec2024 05:16:04.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Dinnerbone'/19786, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2159.60, y=120.00, z=1190.31] died: Dinnerbone was slain by Roberto_RS
+[19Dec2024 05:16:10.299] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:16:18.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Dinnerbone'/19804, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2158.57, y=120.36, z=1188.15] died: Dinnerbone was slain by Roberto_RS
+[19Dec2024 05:16:19.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has made the advancement [Into Fire]
+[19Dec2024 05:16:32.739] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:16:37.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 05:16:37.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[19Dec2024 05:16:37.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[19Dec2024 05:16:37.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[19Dec2024 05:16:39.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SnowGolem['Dinnerbone'/19851, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2164.78, y=120.00, z=1192.78] died: Dinnerbone was slain by bosteritomop
+[19Dec2024 05:16:46.241] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:16:50.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival Roberto_RS
+[19Dec2024 05:16:50.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set Roberto_RS's game mode to Survival Mode]
+[19Dec2024 05:16:57.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[19Dec2024 05:16:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[19Dec2024 05:16:59.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative TheHollowKingMC
+[19Dec2024 05:17:05.109] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:17:09.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 05:17:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 05:17:10.439] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:17:11.818] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:17:17.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:19.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:20.434] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:17:20.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:22.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:22.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:23.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:24.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:25.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:27.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:27.295] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:17:27.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:29.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:34.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 05:17:34.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 05:17:38.346] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:17:39.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 05:17:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 05:17:49.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:50.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:50.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:51.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:52.570] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:17:53.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:55.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:55.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:56.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:58.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:59.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:17:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:18:00.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:18:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:18:02.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:18:05.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[19Dec2024 05:18:05.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[19Dec2024 05:18:06.043] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:18:23.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[19Dec2024 05:18:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[19Dec2024 05:18:23.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:18:30.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[19Dec2024 05:18:30.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[19Dec2024 05:18:30.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:18:37.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[19Dec2024 05:18:37.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[19Dec2024 05:18:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:05.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[19Dec2024 05:19:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[19Dec2024 05:19:06.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:06.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:07.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:08.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:11.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:14.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:15.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:25.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS bosteritomop
+[19Dec2024 05:19:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to bosteritomop]
+[19Dec2024 05:19:44.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:45.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:48.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS bosteritomop
+[19Dec2024 05:19:48.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to bosteritomop]
+[19Dec2024 05:19:51.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:52.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:19:54.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS bosteritomop
+[19Dec2024 05:19:54.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to bosteritomop]
+[19Dec2024 05:20:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:03.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:05.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:07.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:07.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:10.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:11.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:11.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:13.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:13.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:14.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:17.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp Roberto_RS bosteritomop
+[19Dec2024 05:20:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to bosteritomop]
+[19Dec2024 05:20:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:23.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:25.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_RS ha consumido un tótem!
+[19Dec2024 05:20:33.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS bosteritomop
+[19Dec2024 05:20:33.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported Roberto_RS to bosteritomop]
+[19Dec2024 05:20:34.707] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[19Dec2024 05:20:34.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[19Dec2024 05:20:46.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[19Dec2024 05:20:46.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[19Dec2024 05:20:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:51.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:55.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:56.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:57.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:57.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:58.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:20:59.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:01.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:02.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:02.631] [Server thread/WARN] [craftenhance.libs.menulib.NMS.UpdateTittleContainers/]: There was an error the last time you tried to update the title. Send the stack trace to the delevoper.
+[19Dec2024 05:21:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:04.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:04.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:05.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:06.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:07.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:07.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:13.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:15.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:16.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:17.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[19Dec2024 05:21:23.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
