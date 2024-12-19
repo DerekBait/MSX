@@ -2846,5 +2846,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-19 05:28:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
