@@ -6925,3 +6925,51 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Dec2024 04:36:50.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheHollowKingMC (cb5caf50-e6e7-30fd-879b-44f748e5dfdf) successfully connected to voice chat
 [19Dec2024 04:37:17.195] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> &
 [19Dec2024 04:39:15.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! 1.738772735700877,-16.343321143301438,4.84522163464203
+[19Dec2024 04:43:23.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0.5
+[19Dec2024 04:43:30.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0.6
+[19Dec2024 04:43:42.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ban Roberto_RS
+[19Dec2024 04:43:42.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Banned Roberto_RS: Banned by an operator.]
+[19Dec2024 04:43:42.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: You are banned from this server
+[19Dec2024 04:43:42.116] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[19Dec2024 04:43:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game.
+[19Dec2024 04:43:42.185] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:43:45.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ban bosteritomop
+[19Dec2024 04:43:45.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Banned bosteritomop: Banned by an operator.]
+[19Dec2024 04:43:45.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[19Dec2024 04:43:45.083] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[19Dec2024 04:43:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[19Dec2024 04:43:45.109] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:43:50.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[19Dec2024 04:43:52.454] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['pc'/15883, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2166.70, y=151.00, z=1116.30] died, message: 'pc was slain by Zombie'
+[19Dec2024 04:43:52.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['pc'/15883, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-2166.70, y=151.00, z=1116.30] died: pc was slain by Zombie
+[19Dec2024 04:44:00.517] [User Authenticator #37/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:44:05.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11bd4411[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63507) lost connection: Disconnected
+[19Dec2024 04:44:08.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC lost connection: Disconnected
+[19Dec2024 04:44:08.456] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheHollowKingMC
+[19Dec2024 04:44:08.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC left the game
+[19Dec2024 04:44:11.557] [User Authenticator #38/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:44:14.470] [User Authenticator #39/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[19Dec2024 04:44:15.855] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3e73371c[id=a81728c5-0ebf-3d12-b3f2-05ee1928f727,name=Roberto_RS,properties={},legacy=false] (/172.25.57.25:51587): You are banned from this server.
+[19Dec2024 04:44:15.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e73371c[id=a81728c5-0ebf-3d12-b3f2-05ee1928f727,name=Roberto_RS,properties={},legacy=false] (/172.25.57.25:51587) lost connection: You are banned from this server.
+[19Dec2024 04:44:15.902] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:44:17.501] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dd6a00f[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63521) lost connection: Disconnected
+[19Dec2024 04:44:23.262] [User Authenticator #40/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:44:23.752] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45ee5345[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63570) lost connection: Disconnected
+[19Dec2024 04:44:40.757] [User Authenticator #41/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:44:42.206] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@212583b3[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63598): You are banned from this server.
+[19Dec2024 04:44:42.206] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@212583b3[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63598) lost connection: You are banned from this server.
+[19Dec2024 04:44:42.251] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:44:54.021] [User Authenticator #42/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:44:55.452] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4e730385[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63620): You are banned from this server.
+[19Dec2024 04:44:55.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e730385[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63620) lost connection: You are banned from this server.
+[19Dec2024 04:44:55.501] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:45:39.702] [User Authenticator #43/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:45:49.201] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b554656[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63680) lost connection: Disconnected
+[19Dec2024 04:46:01.930] [User Authenticator #44/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:46:03.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@39e3577b[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63704): You are banned from this server.
+[19Dec2024 04:46:03.354] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39e3577b[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63704) lost connection: You are banned from this server.
+[19Dec2024 04:46:03.403] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 04:50:01.506] [User Authenticator #45/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[19Dec2024 04:50:02.952] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@62ef31db[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63956): You are banned from this server.
+[19Dec2024 04:50:02.953] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62ef31db[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/172.25.223.118:63956) lost connection: You are banned from this server.
+[19Dec2024 04:50:03.002] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
