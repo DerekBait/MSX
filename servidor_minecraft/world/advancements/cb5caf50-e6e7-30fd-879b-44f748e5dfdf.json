@@ -3573,9 +3573,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "securitycraft:recipes/tools/remote_access_sentry": {
     "criteria": {
-      "has_furnace": "2024-12-19 05:10:38 +0000"
+      "has_sentry": "2024-12-19 05:07:23 +0000"
     },
     "done": true
   },
@@ -3585,9 +3585,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/remote_access_sentry": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_sentry": "2024-12-19 05:07:23 +0000"
+      "has_furnace": "2024-12-19 05:10:38 +0000"
     },
     "done": true
   },
