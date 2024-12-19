@@ -10,3 +10,11 @@ DEDSAFIO3_MEJORIA_ESPACIAL:
   ==: org.bukkit.inventory.ItemStack
   v: 3465
   type: DEDSAFIO3_MEJORIA_ESPACIAL
+DEDSAFIO3_METALRECOCIDO:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: DEDSAFIO3_METALRECOCIDO
+IRON_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: IRON_INGOT
