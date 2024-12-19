@@ -1,0 +1,12 @@
+DEDSAFIO3_ESPACIAL_ARMOR_HELMET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: DEDSAFIO3_ESPACIAL_ARMOR_HELMET
+DEDSAFIO3_ESPACIAL_NAONEIM_ARMOR_HELMET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: DEDSAFIO3_ESPACIAL_NAONEIM_ARMOR_HELMET
+DEDSAFIO3_MEJORIA_ESPACIAL:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: DEDSAFIO3_MEJORIA_ESPACIAL

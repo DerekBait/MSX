@@ -1,0 +1,22 @@
+recipe1:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  result: DEDSAFIO3_ESPACIAL_ARMOR_HELMET
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - null
+  - null
+  - null
+  - DEDSAFIO3_ESPACIAL_NAONEIM_ARMOR_HELMET
+  - null
+  - DEDSAFIO3_MEJORIA_ESPACIAL
+  - null
+  - null
+  - null
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: null
+  shapeless: false
