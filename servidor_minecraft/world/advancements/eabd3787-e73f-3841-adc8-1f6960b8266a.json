@@ -12,6 +12,7 @@
       "minecraft:bamboo_jungle": "2024-12-13 03:47:32 +0000",
       "minecraft:beach": "2024-12-13 04:33:32 +0000",
       "minecraft:dark_forest": "2024-12-13 04:32:27 +0000",
+      "minecraft:sparse_jungle": "2024-12-20 21:05:55 +0000",
       "minecraft:river": "2024-12-13 04:12:02 +0000",
       "minecraft:dripstone_caves": "2024-12-15 18:48:36 +0000",
       "minecraft:grove": "2024-12-13 04:48:25 +0000",
@@ -3235,6 +3236,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-20 20:02:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-20 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-20 20:59:28 +0000"
     },
     "done": true
   },

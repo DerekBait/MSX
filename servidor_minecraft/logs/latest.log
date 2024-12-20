@@ -3449,3 +3449,101 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [20Dec2024 21:02:44.208] [Async Chat Thread - #26/INFO] [Console/]: <bosteritomop> le da paja escribir
 [20Dec2024 21:02:56.911] [Async Chat Thread - #25/INFO] [Console/]: <bosteritomop> pinche stranger alv
 [20Dec2024 21:03:02.154] [Async Chat Thread - #26/INFO] [Console/]: <bosteritomop> metete eso bien por el fondo de tu ano
+[20Dec2024 21:03:27.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:03:31.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:03:33.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary day
+[20Dec2024 21:03:37.281] [Async Chat Thread - #26/INFO] [Console/]: <bosteritomop> mira comno rompe
+[20Dec2024 21:03:47.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kick TheStranger
+[20Dec2024 21:03:47.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: Kicked by an operator
+[20Dec2024 21:03:47.033] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheStranger
+[20Dec2024 21:03:47.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[20Dec2024 21:03:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Kicked TheStranger: Kicked by an operator]
+[20Dec2024 21:03:47.045] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 21:03:53.891] [User Authenticator #34/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 21:04:06.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4eb073a0[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33329) lost connection: Disconnected
+[20Dec2024 21:04:12.561] [User Authenticator #35/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 21:04:16.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:57945] logged in with entity id 13345 at (-446.56729359510757, 136.0, -292.06944015619945)
+[20Dec2024 21:04:16.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[20Dec2024 21:04:16.570] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[20Dec2024 21:04:16.570] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[20Dec2024 21:05:23.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC
+[20Dec2024 21:05:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheStranger to TheHollowKingMC]
+[20Dec2024 21:06:12.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Disconnected
+[20Dec2024 21:06:12.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[20Dec2024 21:06:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game
+[20Dec2024 21:06:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bosteritomop to -481.560000, 202.140000, -242.000000]
+[20Dec2024 21:06:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -481.560000, 202.140000, -242.000000]
+[20Dec2024 21:06:17.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -640.500000, 143.000000, -255.500000]
+[20Dec2024 21:06:17.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bosteritomop to -641.000000, 143.560000, -256.510000]
+[20Dec2024 21:06:34.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheStranger to -593.440000, 92.520000, -303.000000]
+[20Dec2024 21:06:39.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp TheStranger
+[20Dec2024 21:06:39.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to TheStranger]
+[20Dec2024 21:06:39.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC TheStranger
+[20Dec2024 21:06:39.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheHollowKingMC to TheStranger]
+[20Dec2024 21:06:41.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[20Dec2024 21:06:41.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[20Dec2024 21:06:52.742] [Async Chat Thread - #28/INFO] [Console/]: <bosteritomop> estoy viendo alv
+[20Dec2024 21:07:11.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.5
+[20Dec2024 21:07:24.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set spreendmc
+[20Dec2024 21:07:24.429] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:287)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSet(SkinCommand.java:279)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[20Dec2024 21:07:24.430] [ForkJoinPool.commonPool-worker-25/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[20Dec2024 21:07:36.102] [Async Chat Thread - #27/INFO] [Console/]: <TheHollowKingMC> ./scale set 0.5
+[20Dec2024 21:07:40.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 21:07:40.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 21:07:49.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.7
+[20Dec2024 21:07:54.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 21:07:54.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 21:07:54.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 21:07:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 21:07:55.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.6
+[20Dec2024 21:08:22.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[20Dec2024 21:08:22.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[20Dec2024 21:08:24.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 21:08:24.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 21:08:31.497] [Async Chat Thread - #27/INFO] [Console/]: <bosteritomop> sida
+[20Dec2024 21:10:40.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /summon voltymod:rana_gigante
+[20Dec2024 21:10:40.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Summoned new Rana Gigante]
+[20Dec2024 21:10:42.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[20Dec2024 21:10:42.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[20Dec2024 21:10:43.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 21:10:43.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 21:11:11.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 21:11:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 21:12:04.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.6 bosteritomop
+[20Dec2024 21:12:12.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0.3
+[20Dec2024 21:12:43.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 21:12:43.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 21:12:46.526] [Async Chat Thread - #30/INFO] [Console/]: <bosteritomop> el padre>
+[20Dec2024 21:12:55.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 21:12:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 21:13:05.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.6 TheStranger
+[20Dec2024 21:13:18.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.7 TheStranger
+[20Dec2024 21:13:28.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.8 TheStranger
