@@ -6,6 +6,20 @@
 	id: "3DE6F4146002BC79"
 	order_index: 1
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "12C9E28B4141A909"
+		rewards: [{
+			id: "0584A2CF6C0E901A"
+			item: "minecraft:oak_planks"
+			type: "item"
+		}]
+		tasks: [{
+			id: "4DBEF418E56FCCC0"
+			item: "minecraft:spruce_fence_gate"
+			type: "item"
+		}]
+		x: -5.5d
+		y: -3.5d
+	}]
 	title: "SECUNDARIAS"
 }

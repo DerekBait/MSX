@@ -644,3 +644,64 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 05:52:37.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
 [20Dec2024 05:52:37.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
 [20Dec2024 05:52:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[20Dec2024 05:57:26.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ftbquests open_book
+[20Dec2024 05:57:41.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ftbquests open_book
+[20Dec2024 05:57:51.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ftbquests editing_mode false
+[20Dec2024 05:57:51.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Editing Mode for 'TheHollowKingMC' Disabled]
+[20Dec2024 05:57:52.719] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 05:57:54.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:42755] logged in with entity id 4851 at (-679.725651895319, 178.19908625206622, -167.93946623782878)
+[20Dec2024 05:57:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[20Dec2024 05:57:55.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[20Dec2024 05:57:55.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[20Dec2024 05:59:40.353] [Async Chat Thread - #15/INFO] [Console/]: <bosteritomop> q falta ahora
+[20Dec2024 05:59:59.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 05:59:59.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 06:00:16.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios creepercharged false
+[20Dec2024 06:00:20.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios
+[20Dec2024 06:00:24.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios dmgbuttons false
+[20Dec2024 06:00:26.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios dmgcactus false
+[20Dec2024 06:00:30.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios dmgdoors false
+[20Dec2024 06:00:33.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios enderpearlll false
+[20Dec2024 06:00:37.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios endervision false
+[20Dec2024 06:00:40.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios fiebretaracnida false
+[20Dec2024 06:00:44.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios fiebretejedora false
+[20Dec2024 06:00:46.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios fuegoeterno false
+[20Dec2024 06:00:49.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios infection false
+[20Dec2024 06:00:53.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios infernus false
+[20Dec2024 06:00:56.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios lavamortal false
+[20Dec2024 06:01:00.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios lavapurificadora false
+[20Dec2024 06:01:04.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios mobx3 false
+[20Dec2024 06:01:07.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios nobreathing false
+[20Dec2024 06:01:11.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios phantomshuffle false
+[20Dec2024 06:01:15.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios piesdebiles false
+[20Dec2024 06:01:19.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios plaguecontrol false
+[20Dec2024 06:01:23.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios radiacionsolar false
+[20Dec2024 06:01:28.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios radiation false
+[20Dec2024 06:01:34.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios repair false
+[20Dec2024 06:01:34.240] [Server thread/ERROR] [STDERR/]: com.mojang.brigadier.exceptions.CommandSyntaxException: No entity was found
+[20Dec2024 06:01:37.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /dedsafio3 cambios zombification false
+[20Dec2024 06:01:42.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 06:01:42.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 06:01:52.117] [Async Chat Thread - #17/INFO] [Console/]: <TheHollowKingMC> 100329D529858C6C
+[20Dec2024 06:01:54.397] [Async Chat Thread - #17/INFO] [Console/]: <bosteritomop> q
+[20Dec2024 06:03:10.675] [Async Chat Thread - #19/INFO] [Console/]: <TheHollowKingMC> dime
+[20Dec2024 06:03:14.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp bosteritomop
+[20Dec2024 06:03:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to bosteritomop]
+[20Dec2024 06:03:15.846] [Async Chat Thread - #18/INFO] [Console/]: <bosteritomop> q es eso q mandaste
+[20Dec2024 06:03:27.253] [Async Chat Thread - #19/INFO] [Console/]: <TheHollowKingMC> y los shopkeppers?
+[20Dec2024 06:03:29.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[20Dec2024 06:03:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[20Dec2024 06:03:31.156] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> abajo
+[20Dec2024 06:03:32.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 06:03:32.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 06:03:41.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 06:03:41.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 06:03:46.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 06:03:46.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 06:04:08.661] [Async Chat Thread - #19/INFO] [Console/]: <bosteritomop> dsp a medida agregas mas
+[20Dec2024 06:04:35.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.muerte
+[20Dec2024 06:04:35.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
+[20Dec2024 06:04:49.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.muerte
+[20Dec2024 06:04:49.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
+[20Dec2024 06:05:05.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.muerte
+[20Dec2024 06:05:05.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
