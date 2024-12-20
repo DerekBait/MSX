@@ -132,12 +132,18 @@ Events:
       - 'to_range: 10;false: message: &e%player% &7says you hello!'
     enabled: false
   event8:
-    type: interact
+    type: block_interact
     conditions:
-      - '%action% == RIGHT_CLICK_BLOCK' # Detecta clic derecho
-      - '%block% == minecraft:diamond_block' # Bloque objetivo (cambia a tu bloque)
-      - '%player_inventory_contains_item_named:Dedita Día 1%' # Verifica si el inventario contiene un ítem con nombre
+    - '%block_x% == -543'
+    - '%block_y% == 138'
+    - '%block_z% == -269'
+    - '%block_world% == DEDSAFIO 3 - By'
+    - '%block% == VOLTYMOD:DIAMOND_BLOCK'
+    - '%action_type% == RIGHT_CLICK'
+    - '%item% == DIAMOND_SWORD'
+    - '%item_name% == Super Sword'
     actions:
       default:
-        - 'execute: give %player% minecraft:diamond 5' # Recompensa (5 diamantes)
-        - 'execute: removeitem_named %player% Dedita Día 1' # Elimina el ítem con nombre "Special_Item"
+      - 'message: &aYou''''ve received $500!'
+      - 'console_command: eco give %player% 500'
+    enabled: true

@@ -8970,3 +8970,32 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 08:44:13.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
 [20Dec2024 08:44:16.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /hello TheHollowKingMC
 [20Dec2024 08:44:26.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 08:49:13.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 08:49:13.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 08:49:13.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 08:49:13.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 08:54:13.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 08:54:13.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 08:54:13.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 08:54:13.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 08:59:13.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 08:59:13.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 08:59:13.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 08:59:13.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 08:59:44.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /deop TheHollowKingMC
+[20Dec2024 08:59:44.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Made TheHollowKingMC no longer a server operator]
+[20Dec2024 08:59:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: s
+[20Dec2024 08:59:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode s @a<--[HERE]
+[20Dec2024 09:00:11.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set TheHollowKingMC's game mode to Survival Mode
+[20Dec2024 09:00:15.744] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[20Dec2024 09:00:18.843] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/damagesource/DamageSource$1
+[20Dec2024 09:00:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TheHollowKingMC a server operator
+[20Dec2024 09:04:08.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:04:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:04:13.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:04:13.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:04:13.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 09:04:13.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 09:06:30.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:06:59.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce enable event8
+[20Dec2024 09:07:05.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug event8

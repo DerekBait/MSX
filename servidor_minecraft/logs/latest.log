@@ -948,3 +948,14 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 08:44:03.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /hello
 [20Dec2024 08:44:16.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /hello TheHollowKingMC
 [20Dec2024 08:44:26.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 08:59:44.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /deop TheHollowKingMC
+[20Dec2024 08:59:44.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Made TheHollowKingMC no longer a server operator]
+[20Dec2024 08:59:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: s
+[20Dec2024 08:59:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode s @a<--[HERE]
+[20Dec2024 09:00:11.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set TheHollowKingMC's game mode to Survival Mode
+[20Dec2024 09:00:43.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TheHollowKingMC a server operator
+[20Dec2024 09:04:08.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:04:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:06:30.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:06:59.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce enable event8
+[20Dec2024 09:07:05.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug event8
