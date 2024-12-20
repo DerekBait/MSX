@@ -1792,3 +1792,18 @@ expected <block end>, but found '<block mapping start>'
 [20Dec2024 09:46:28.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce enable event9
 [20Dec2024 09:46:33.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug event9
 [20Dec2024 09:46:48.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug event9
+[20Dec2024 09:49:58.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[20Dec2024 09:49:58.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[20Dec2024 09:50:01.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:50:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:50:15.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[20Dec2024 09:50:15.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[20Dec2024 09:50:43.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:50:43.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:50:54.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[20Dec2024 09:52:04.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a subtitle Hola y bienvenidos a dedsafio 3 el primer servidor de nexa studios espero que disfruten de todo lo que tenemos para ofrecerles
+[20Dec2024 09:52:04.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to TheHollowKingMC
+[20Dec2024 09:52:38.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -481.560000, 202.140000, -242.000000]
+[20Dec2024 09:52:38.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported TheHollowKingMC to -481.560000, 202.140000, -242.000000]
+[20Dec2024 09:55:35.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item modify entity TheHollowKingMC
+[20Dec2024 09:55:53.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /item modify entity TheHollowKingMC weapon.mainhand
