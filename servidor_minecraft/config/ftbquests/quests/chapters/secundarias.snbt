@@ -5,27 +5,95 @@
 	group: "7D49A4E4372F4AD9"
 	icon: "dedsafio3:dedita"
 	id: "3DE6F4146002BC79"
+	images: [{
+		height: 1.0d
+		image: "ftblibrary:icons/back"
+		rotation: 180.0d
+		width: 1.0d
+		x: -2.5d
+		y: -1.0d
+	}]
 	order_index: 1
 	quest_links: [ ]
-	quests: [{
-		id: "3FEE89C937FA2AC4"
-		subtitle: "Mata a 100 Zombies"
-		tasks: [{
-			entity: "minecraft:zombie"
+	quests: [
+		{
+			hide_dependency_lines: true
+			id: "3FEE89C937FA2AC4"
+			rewards: [{
+				count: 3
+				id: "6023D04270EC1151"
+				item: {
+					Count: 1
+					id: "dedsafio3:dedita"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Dedita\",\"color\":\"blue\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Mata a 100 Zombies"
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: {
+					Count: 1
+					id: "minecraft:stone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "696D00666E5E4EFE"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Entrenamiento"
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["696D00666E5E4EFE"]
+			hide_dependency_lines: true
 			icon: {
 				Count: 1
-				id: "minecraft:stone_sword"
+				id: "minecraft:iron_sword"
 				tag: {
 					Damage: 0
 				}
 			}
-			id: "696D00666E5E4EFE"
-			type: "kill"
-			value: 100L
-		}]
-		title: "Entrenamiento"
-		x: -3.5d
-		y: -1.0d
-	}]
+			id: "749374827207B081"
+			rewards: [{
+				count: 5
+				id: "53F04B1D020BACB1"
+				item: {
+					Count: 1
+					id: "dedsafio3:dedita"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Dedita\",\"color\":\"blue\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Mata a 500 Zombies"
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "0DFF95CB83CD3A98"
+				type: "kill"
+				value: 500L
+			}]
+			title: "Entrenamiento"
+			x: -1.5d
+			y: -1.0d
+		}
+	]
 	title: "SECUNDARIAS"
 }

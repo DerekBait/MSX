@@ -34,9 +34,5 @@
 		28FF0125FD115256: 1734681397886L
 	}
 	claimed_rewards: { }
-	player_data: {
-		cb5caf50e6e730fd879b44f748e5dfdf: {
-			can_edit: 1b
-		}
-	}
+	player_data: { }
 }
