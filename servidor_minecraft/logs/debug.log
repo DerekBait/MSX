@@ -8999,3 +8999,441 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 09:06:30.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
 [20Dec2024 09:06:59.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce enable event8
 [20Dec2024 09:07:05.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug event8
+[20Dec2024 09:08:47.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:09:12.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:09:13.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:09:13.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:09:13.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 09:09:13.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 09:10:06.370] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[20Dec2024 09:12:06.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:12:06.510] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say PRUEBA
+             ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:110) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[?:?] {}
+	at ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[?:?] {}
+	at ce.ajneb97.configs.MainConfigManager.reloadConfig(MainConfigManager.java:66) ~[?:?] {}
+	at ce.ajneb97.configs.ConfigsManager.reload(ConfigsManager.java:263) ~[?:?] {}
+	at ce.ajneb97.MainCommand.onCommand(MainCommand.java:47) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say PRUEBA
+             ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:656) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:284) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:103) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 30 more
+[20Dec2024 09:12:11.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:12:11.041] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say PRUEBA
+             ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:110) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[?:?] {}
+	at ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[?:?] {}
+	at ce.ajneb97.configs.CEConfig.getConfig(CEConfig.java:61) ~[?:?] {}
+	at ce.ajneb97.configs.MainConfigManager.getConfig(MainConfigManager.java:74) ~[?:?] {}
+	at ce.ajneb97.MainCommand.onCommand(MainCommand.java:41) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say PRUEBA
+             ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:656) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:284) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:103) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 30 more
+[20Dec2024 09:12:11.042] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say PRUEBA
+             ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:110) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[?:?] {}
+	at ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[?:?] {}
+	at ce.ajneb97.configs.MainConfigManager.reloadConfig(MainConfigManager.java:66) ~[?:?] {}
+	at ce.ajneb97.configs.ConfigsManager.reload(ConfigsManager.java:263) ~[?:?] {}
+	at ce.ajneb97.MainCommand.onCommand(MainCommand.java:47) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say PRUEBA
+             ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:656) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:284) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:103) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 30 more
+[20Dec2024 09:12:55.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:12:55.387] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say pr
+             ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:110) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[?:?] {}
+	at ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[?:?] {}
+	at ce.ajneb97.configs.CEConfig.getConfig(CEConfig.java:61) ~[?:?] {}
+	at ce.ajneb97.configs.MainConfigManager.getConfig(MainConfigManager.java:74) ~[?:?] {}
+	at ce.ajneb97.MainCommand.onCommand(MainCommand.java:41) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say pr
+             ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:656) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:284) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:103) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 30 more
+[20Dec2024 09:12:55.388] [Server thread/ERROR] [Minecraft/]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say pr
+             ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:110) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[?:?] {}
+	at ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[?:?] {}
+	at ce.ajneb97.configs.MainConfigManager.reloadConfig(MainConfigManager.java:66) ~[?:?] {}
+	at ce.ajneb97.configs.ConfigsManager.reload(ConfigsManager.java:263) ~[?:?] {}
+	at ce.ajneb97.MainCommand.onCommand(MainCommand.java:47) ~[?:?] {}
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%23110!/:?] {re:mixin}
+	at net.minecraft.commands.Commands.m_242674_(CommandsMixin.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:commands.CommandsMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerPlayNetHandlerMixin.java:2853) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerPlayNetHandlerMixin.java:1223) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerPlayNetHandlerMixin,pl:mixin:APP:cpm.mixins.json:ServerGamePacketListenerImplMixin,pl:mixin:APP:pehkui.mixins.json:ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:pehkui.mixins.json:reach.compat1204minus.compat119plus.ServerPlayNetworkHandlerMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ServerGamePacketListenerImplMixin_Optimize,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?] {}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 146, column 7:
+          default:
+          ^
+expected <block end>, but found '<scalar>'
+ in 'reader', line 148, column 10:
+          - 'console_command: say pr
+             ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:656) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:284) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:157) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-2.0.jar%23134!/:?] {}
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:103) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23182!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	... 30 more
+[20Dec2024 09:14:13.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:14:13.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:14:13.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 09:14:13.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 09:14:38.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:15:43.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce rel
+[20Dec2024 09:15:45.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:15:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pr
+[20Dec2024 09:17:54.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:17:55.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pr
+[20Dec2024 09:18:12.745] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[20Dec2024 09:18:12.745] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[20Dec2024 09:18:12.746] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
