@@ -602,3 +602,20 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 05:24:14.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
 [20Dec2024 05:24:18.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
 [20Dec2024 05:24:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 05:25:06.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper help
+[20Dec2024 05:26:02.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper Trading-shop blaze
+[20Dec2024 05:26:18.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper edit
+[20Dec2024 05:26:28.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper remove
+[20Dec2024 05:27:45.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.muerte
+[20Dec2024 05:27:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
+[20Dec2024 05:27:48.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeepers
+[20Dec2024 05:28:22.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeepers
+[20Dec2024 05:28:29.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper remove
+[20Dec2024 05:28:35.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeepers confirm
+[20Dec2024 05:28:40.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeepers
+[20Dec2024 05:28:43.705] [Async Chat Thread - #3/INFO] [Console/]: <TheHollowKingMC> y roberto?
+[20Dec2024 05:28:46.834] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> se fue
+[20Dec2024 05:28:55.063] [Async Chat Thread - #2/INFO] [Console/]: <TheHollowKingMC> ya no regresara?
+[20Dec2024 05:29:02.689] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> supongo
+[20Dec2024 05:30:19.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeepers remove
+[20Dec2024 05:30:25.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper confirm
