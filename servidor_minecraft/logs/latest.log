@@ -642,3 +642,70 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 20:11:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
 [20Dec2024 20:11:06.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
 [20Dec2024 20:11:21.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tellraw @a {"text":"HOLA MUNDO","color":"blue"}
+[20Dec2024 20:13:16.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:
+[20Dec2024 20:13:38.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:blackstone
+[20Dec2024 20:13:39.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Blackstone] to TheHollowKingMC]
+[20Dec2024 20:15:01.329] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> entonces usamos la del primer mod o de volty?
+[20Dec2024 20:15:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to Roberto_RS
+[20Dec2024 20:15:11.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player Roberto_RS
+[20Dec2024 20:15:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] &3&l⚙ El jugador Roberto_RS Ha Completado la Mision Diaria
+[20Dec2024 20:15:12.123] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> no
+[20Dec2024 20:15:59.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.muerte
+[20Dec2024 20:15:59.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
+[20Dec2024 20:16:07.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.ruleta.rosa
+[20Dec2024 20:16:11.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.ruleta.verde
+[20Dec2024 20:16:11.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.verde' to bosteritomop]
+[20Dec2024 20:16:35.302] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> ahora como coño saco la mision del full diamond
+[20Dec2024 20:17:15.534] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> nhn npo
+[20Dec2024 20:17:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to Roberto_RS
+[20Dec2024 20:17:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player Roberto_RS
+[20Dec2024 20:17:26.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] &3&l⚙ El jugador Roberto_RS Ha Completado la Mision Diaria
+[20Dec2024 20:17:41.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 20:18:16.027] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[20Dec2024 20:18:16.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:18:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:18:18.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag Roberto_RS add anim.ruleta.rosa
+[20Dec2024 20:18:28.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.muerte
+[20Dec2024 20:18:28.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
+[20Dec2024 20:18:34.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.nutria
+[20Dec2024 20:18:34.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.nutria' to bosteritomop]
+[20Dec2024 20:18:47.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag Roberto_RS add anim.muerte
+[20Dec2024 20:18:47.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to Roberto_RS]
+[20Dec2024 20:18:53.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 20:18:58.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a subtitle Bienvenidos sean al primer servidor de Nexa studios suban a la montaña para dar instrucciones e iniciar el servidor
+[20Dec2024 20:18:58.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to 3 entities
+[20Dec2024 20:19:21.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:19:21.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:19:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to Roberto_RS
+[20Dec2024 20:19:28.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player Roberto_RS
+[20Dec2024 20:19:43.411] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> Roberto_RS explicame de vuelta como saco la mision xd
+[20Dec2024 20:19:48.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 20:20:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:20:09.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:20:09.883] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> ehm
+[20Dec2024 20:20:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to Roberto_RS
+[20Dec2024 20:20:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 3 item(s) from player Roberto_RS
+[20Dec2024 20:20:28.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tellraw @a {"text":"HOLA MUNDO","color":"blue"}
+[20Dec2024 20:20:31.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tellraw @a {"text":"HOLA MUNDO","color":"blue"}
+[20Dec2024 20:21:19.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 20:21:22.501] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> puta madre
+[20Dec2024 20:21:25.741] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> no puedo sacar la mision
+[20Dec2024 20:21:42.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Roberto_RS: Location (-589.8284652680159, 142.58775651454926, -286.125) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:21:42.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Roberto_RS: Location (-589.8284652680159, 142.58775651454926, -286.125) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:21:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:21:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:22:14.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 20:22:19.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[20Dec2024 20:22:19.196] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[20Dec2024 20:22:19.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[20Dec2024 20:22:20.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:22:20.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:22:23.773] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 20:22:24.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4197a67c[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:43583) lost connection: Disconnected
+[20Dec2024 20:22:33.797] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 20:22:45.742] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5dc0598d[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:45709) lost connection: Disconnected
+[20Dec2024 20:22:47.662] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 20:22:49.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:45503] logged in with entity id 2596 at (-573.377615612356, 143.90779718977032, -269.62203790107134)
+[20Dec2024 20:22:49.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[20Dec2024 20:22:49.428] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[20Dec2024 20:22:49.429] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
