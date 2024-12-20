@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e806c28f7d91398bba7765a0310587f9"
+	name: "Jesse#e806c28f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

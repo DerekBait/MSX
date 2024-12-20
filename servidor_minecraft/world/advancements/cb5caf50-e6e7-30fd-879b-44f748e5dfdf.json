@@ -3810,6 +3810,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-20 21:54:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-20 21:56:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2024-12-20 22:16:50 +0000"
@@ -3822,15 +3834,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "casinocraft:recipes/decorations/wool_red": {
     "criteria": {
-      "has_bookshelf": "2024-12-20 21:56:12 +0000"
+      "has_wool": "2024-12-20 22:24:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "has_glass": "2024-12-20 21:54:13 +0000"
+      "has_stripped_logs": "2024-12-20 22:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 22:25:39 +0000"
     },
     "done": true
   },

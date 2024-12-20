@@ -1,0 +1,17 @@
+{
+	id: "e806c28f-7d91-398b-ba77-65a0310587f9"
+	type: "player"
+	player_name: "Jesse"
+	ranks: {
+		e806c28f-7d91-398b-ba77-65a0310587f9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jesse"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
