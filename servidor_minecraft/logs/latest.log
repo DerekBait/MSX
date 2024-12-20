@@ -709,3 +709,134 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 20:22:49.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
 [20Dec2024 20:22:49.428] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
 [20Dec2024 20:22:49.429] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[20Dec2024 20:23:13.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 20:23:19.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:23:19.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:23:22.049] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> ese
+[20Dec2024 20:23:32.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta morada @a scoreboard saurio2005 a sido penalizado con 1 dia de ban por negro
+[20Dec2024 20:23:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.morada.mini.scoreboard' to 3 entities
+[20Dec2024 20:23:34.495] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> che hollow
+[20Dec2024 20:23:38.030] [Async Chat Thread - #8/INFO] [Console/]: <TheHollowKingMC> ??
+[20Dec2024 20:23:42.209] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> como coño hago para sacarme la mision
+[20Dec2024 20:23:51.497] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> JADJADJAS
+[20Dec2024 20:24:10.586] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> palomita?
+[20Dec2024 20:24:15.345] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> ah asi
+[20Dec2024 20:24:41.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ftbquests editing_mode true
+[20Dec2024 20:24:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Editing Mode for 'TheHollowKingMC' Enabled]
+[20Dec2024 20:25:09.106] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> tya
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[20Dec2024 20:25:11.393] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[20Dec2024 20:25:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:25:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:25:24.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to bosteritomop
+[20Dec2024 20:25:24.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player bosteritomop
+[20Dec2024 20:25:46.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:46.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:51.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:51.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:51.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:51.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:52.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:52.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:53.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:53.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:54.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:54.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:54.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:54.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:25:55.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:totem
+[20Dec2024 20:25:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 2 command(s) from function 'cpaladeds3:totem']
+[20Dec2024 20:26:06.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /function cpaladeds3:animacion/muerte
+[20Dec2024 20:26:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Executed 99 command(s) from function 'cpaladeds3:animacion/muerte']
+[20Dec2024 20:26:17.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /rulet
+[20Dec2024 20:26:19.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruletA
+[20Dec2024 20:26:21.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[20Dec2024 20:26:40.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a subtitle BOSTE ES GAY
+[20Dec2024 20:26:40.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to 3 entities
+[20Dec2024 20:26:49.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a subtitle BOSTE ES GAY
+[20Dec2024 20:26:49.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to 3 entities
+[20Dec2024 20:27:12.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a title BOSTE ES GAY
+[20Dec2024 20:27:12.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[20Dec2024 20:27:21.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a title BOSTE ES GAY
+[20Dec2024 20:27:21.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 3 entities
+[20Dec2024 20:27:30.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a subtitle Bienvenidos sean al primer servidor de Nexa studios suban a la montaña para dar instrucciones e iniciar el servidor
+[20Dec2024 20:27:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to 3 entities
+[20Dec2024 20:27:50.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a subtitle Bienvenidos sean al primer servidor de Nexa studios suban a la montaña para dar instrucciones e iniciar el servidor
+[20Dec2024 20:27:50.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to 3 entities
+[20Dec2024 20:27:56.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Disconnected
+[20Dec2024 20:27:56.292] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[20Dec2024 20:27:56.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game
+[20Dec2024 20:27:59.608] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_RS is a81728c5-0ebf-3d12-b3f2-05ee1928f727
+[20Dec2024 20:28:01.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_RS[/127.243.237.226:41595] logged in with entity id 3049 at (-537.8409695534392, 138.0, -274.00757853576465)
+[20Dec2024 20:28:01.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS joined the game
+[20Dec2024 20:28:01.360] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_RS (18)
+[20Dec2024 20:28:01.360] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_RS
+[20Dec2024 20:28:11.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a subtitle
+[20Dec2024 20:28:11.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.subtitle' to 3 entities
+[20Dec2024 20:28:21.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[20Dec2024 20:28:21.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[20Dec2024 20:28:23.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 20:28:23.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 20:28:33.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta rosa @a title
+[20Dec2024 20:28:35.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode adventure
+[20Dec2024 20:28:35.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Adventure Mode]
+[20Dec2024 20:28:36.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta rosa @a title xd
+[20Dec2024 20:28:36.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[20Dec2024 20:28:36.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[20Dec2024 20:28:40.222] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 20:28:40.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 20:28:53.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta amarilla @a title xd
+[20Dec2024 20:28:53.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.amarilla' to 3 entities
+[20Dec2024 20:29:03.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[20Dec2024 20:29:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[20Dec2024 20:29:06.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 20:29:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 20:29:10.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 20:29:10.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 20:29:13.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta verde @a subtitle
+[20Dec2024 20:29:13.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.subtitle' to 3 entities
+[20Dec2024 20:29:31.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 20:29:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 20:29:32.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[20Dec2024 20:29:32.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[20Dec2024 20:29:32.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 20:29:32.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 20:29:34.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[20Dec2024 20:29:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[20Dec2024 20:29:47.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.verde
+[20Dec2024 20:29:47.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.verde' to 3 entities]
+[20Dec2024 20:31:07.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[20Dec2024 20:31:07.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[20Dec2024 20:31:08.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 20:31:08.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 20:31:52.943] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC
+[20Dec2024 20:31:52.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[20Dec2024 20:32:17.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 20:32:17.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
