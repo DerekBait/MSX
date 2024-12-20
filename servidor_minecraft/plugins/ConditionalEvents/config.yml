@@ -144,7 +144,7 @@ Events:
     - '%item_name% == Dedita Día 1'
     actions:
       default:
-      - 'message: &3&l⚙ El jugador %player% Ha Completado la Mision Diaria'
+      - 'console_command: say &3&l⚙ El jugador %player% Ha Completado la Mision Diaria'
       - 'console_command: give %player% dedsafio3:dedita 5'
       - 'console_command: clear %player% dedsafio3:dedita_mision'
     enabled: true

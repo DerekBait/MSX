@@ -21,9 +21,41 @@ data-version: 3|2|3465
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: CYAN_TERRACOTTA
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 5
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: STRIPPED_JUNGLE_WOOD
+        type: VOLTYMOD_DEDITAAZUL
+  snapshots: []
+'3':
+  uniqueId: a6921f24-dd74-46a8-a967-be06d8a26834
+  world: DEDSAFIO 3 - By TheNeitorLoL
+  x: -599
+  y: 141
+  z: -294
+  yaw: 5.720617
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ESPADA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ESPADA_INANIMADA
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA
+        amount: 5
   snapshots: []

@@ -600,3 +600,45 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 20:02:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to 3 entities]
 [20Dec2024 20:02:35.303] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheHollowKingMC (18)
 [20Dec2024 20:02:35.304] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheHollowKingMC
+[20Dec2024 20:02:48.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop has made the advancement [Cover Me with Diamonds]
+[20Dec2024 20:02:59.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a title Todos los jugadores tienen el efecto de zombificacion por 1 minuto pueden curarlo con 1 pocion de debilidad y 1 manzana dorada
+[20Dec2024 20:02:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 3 entities
+[20Dec2024 20:03:45.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /effect clear
+[20Dec2024 20:03:45.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Removed every effect from bosteritomop]
+[20Dec2024 20:04:12.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to Roberto_RS
+[20Dec2024 20:04:12.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player Roberto_RS
+[20Dec2024 20:04:50.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tellraw @a gola
+[20Dec2024 20:05:01.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.5698345899582, 143.0, -286.1091706752777) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:05:01.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.5698345899582, 143.0, -286.1091706752777) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:05:02.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.6524621844292, 143.0, -286.24774557352066) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:05:02.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.6524621844292, 143.0, -286.24774557352066) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:05:02.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.4699190855026, 143.0, -286.2153838276863) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:05:02.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.4699190855026, 143.0, -286.2153838276863) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:05:02.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.2952943444252, 143.0, -286.1815672516823) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:05:02.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-589.2952943444252, 143.0, -286.1815672516823) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[20Dec2024 20:07:27.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 20:07:49.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper
+[20Dec2024 20:08:24.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 20:08:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 20:08:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] &3&l⚙ El jugador TheHollowKingMC Ha Completado la Mision Diaria
+[20Dec2024 20:09:42.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper remove
+[20Dec2024 20:09:46.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper confirm
+[20Dec2024 20:09:54.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper remove
+[20Dec2024 20:09:55.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1422, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-597.18, y=141.00, z=-291.83] died, message: 'Villager was slain by Roberto_RS'
+[20Dec2024 20:10:01.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 20:10:01.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 20:10:03.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 20:10:03.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 20:10:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to bosteritomop
+[20Dec2024 20:10:22.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player bosteritomop
+[20Dec2024 20:10:22.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] &3&l⚙ El jugador bosteritomop Ha Completado la Mision Diaria
+[20Dec2024 20:10:44.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /enchant Roberto_RS minecraft:efficiency 5
+[20Dec2024 20:10:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Applied enchantment Efficiency V to Roberto_RS's item]
+[20Dec2024 20:10:54.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[20Dec2024 20:10:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[20Dec2024 20:10:58.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 20:10:58.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 20:11:00.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 20:11:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 20:11:06.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 20:11:21.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tellraw @a {"text":"HOLA MUNDO","color":"blue"}
