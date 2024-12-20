@@ -4533,3 +4533,346 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [20Dec2024 22:13:48.742] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e48698e[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:37823) lost connection: Disconnected
 [20Dec2024 22:13:54.883] [User Authenticator #118/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
 [20Dec2024 22:14:06.426] [User Authenticator #119/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:14:24.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27c70e20[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:35219) lost connection: Disconnected
+[20Dec2024 22:14:26.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fd754b9[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:35461) lost connection: Disconnected
+[20Dec2024 22:14:29.975] [User Authenticator #120/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 22:14:38.257] [User Authenticator #121/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:14:39.392] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ceaf41a[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:50843) lost connection: Disconnected
+[20Dec2024 22:14:46.950] [Async Chat Thread - #54/INFO] [Console/]: <Roberto_RS> los desbaneo?
+[20Dec2024 22:14:54.942] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55a5ef30[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:38457) lost connection: Disconnected
+[20Dec2024 22:15:00.637] [User Authenticator #122/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:15:02.292] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7a8a0b3b[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:44577): You are banned from this server.
+[20Dec2024 22:15:02.293] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a8a0b3b[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:44577) lost connection: You are banned from this server.
+[20Dec2024 22:15:02.342] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:15:10.276] [User Authenticator #123/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:15:11.794] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@15d01f10[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:50059): You are banned from this server.
+[20Dec2024 22:15:11.795] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15d01f10[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:50059) lost connection: You are banned from this server.
+[20Dec2024 22:15:11.843] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:15:14.357] [User Authenticator #124/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 22:15:16.048] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1bdd884a[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:45927): You are banned from this server.
+[20Dec2024 22:15:16.048] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bdd884a[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:45927) lost connection: You are banned from this server.
+[20Dec2024 22:15:16.092] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:15:20.727] [User Authenticator #125/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:15:22.242] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5f91e5e1[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:58957): You are banned from this server.
+[20Dec2024 22:15:22.242] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f91e5e1[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:58957) lost connection: You are banned from this server.
+[20Dec2024 22:15:22.292] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:15:33.278] [User Authenticator #126/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 22:15:39.031] [User Authenticator #127/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:15:39.042] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a1e4da8[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:59343) lost connection: Disconnected
+[20Dec2024 22:15:46.695] [User Authenticator #128/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:15:48.292] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2eaa171a[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33513): You are banned from this server.
+[20Dec2024 22:15:48.293] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2eaa171a[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33513) lost connection: You are banned from this server.
+[20Dec2024 22:15:48.342] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:15:58.805] [User Authenticator #129/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:15:58.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon bosteritomop
+[20Dec2024 22:15:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned bosteritomop]
+[20Dec2024 22:16:01.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[20Dec2024 22:16:01.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned TheStranger]
+[20Dec2024 22:16:03.042] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3dcec8ee[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:34261) lost connection: Disconnected
+[20Dec2024 22:16:09.342] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6255f8b9[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:51735) lost connection: Disconnected
+[20Dec2024 22:16:12.449] [User Authenticator #130/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[20Dec2024 22:16:13.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:39283] logged in with entity id 26614 at (-594.246999647589, 92.2934784606526, -327.0168107166155)
+[20Dec2024 22:16:14.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[20Dec2024 22:16:14.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[20Dec2024 22:16:14.299] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[20Dec2024 22:16:15.360] [User Authenticator #131/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:16:25.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ab35380[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:53489) lost connection: Disconnected
+[20Dec2024 22:16:30.833] [User Authenticator #132/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:16:32.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:59841] logged in with entity id 26658 at (-583.9820050394343, 92.0, -338.92806989714387)
+[20Dec2024 22:16:32.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[20Dec2024 22:16:32.663] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[20Dec2024 22:16:32.663] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[20Dec2024 22:16:54.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /give TheStranger minecraft:command_block
+[20Dec2024 22:16:54.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Gave 1 [Command Block] to TheStranger]
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[20Dec2024 22:17:10.842] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[20Dec2024 22:17:10.892] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[20Dec2024 22:18:01.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /op jesse
+[20Dec2024 22:18:01.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Made Jesse a server operator]
+[20Dec2024 22:18:39.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheStranger
+[20Dec2024 22:18:39.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheStranger]
+[20Dec2024 22:18:48.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /msg TheStranger mira los cofres de roberto
+[20Dec2024 22:18:56.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[20Dec2024 22:18:56.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[20Dec2024 22:18:59.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheStranger
+[20Dec2024 22:18:59.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheStranger]
+[20Dec2024 22:19:02.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 22:19:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 22:19:12.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 22:19:12.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 22:19:12.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 22:19:12.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 22:19:13.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp TheStranger
+[20Dec2024 22:19:13.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to TheStranger]
+[20Dec2024 22:19:24.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /msg TheStranger jasdjad
+[20Dec2024 22:19:31.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheStranger
+[20Dec2024 22:19:31.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheStranger]
+[20Dec2024 22:20:03.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ban TheStranger
+[20Dec2024 22:20:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Banned TheStranger: Banned by an operator.]
+[20Dec2024 22:20:03.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: You are banned from this server
+[20Dec2024 22:20:03.218] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheStranger
+[20Dec2024 22:20:03.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[20Dec2024 22:20:03.244] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:20:09.788] [User Authenticator #133/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:20:12.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@250b354e[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:36241) lost connection: Disconnected
+[20Dec2024 22:20:17.971] [User Authenticator #134/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:20:19.497] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4fa3c7d8[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:55993): You are banned from this server.
+[20Dec2024 22:20:19.497] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fa3c7d8[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:55993) lost connection: You are banned from this server.
+[20Dec2024 22:20:19.542] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:20:27.243] [User Authenticator #135/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:20:28.794] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5b07fc1c[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:37959): You are banned from this server.
+[20Dec2024 22:20:28.794] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b07fc1c[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:37959) lost connection: You are banned from this server.
+[20Dec2024 22:20:28.844] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 22:20:30.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[20Dec2024 22:20:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned TheStranger]
+[20Dec2024 22:20:37.094] [Async Chat Thread - #56/INFO] [Console/]: <Roberto_RS> boste
+[20Dec2024 22:20:38.794] [Async Chat Thread - #56/INFO] [Console/]: <bosteritomop> q
+[20Dec2024 22:20:38.957] [Async Chat Thread - #56/INFO] [Console/]: <Roberto_RS> ven mira
+[20Dec2024 22:20:42.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[20Dec2024 22:20:42.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[20Dec2024 22:20:46.631] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> ala
+[20Dec2024 22:20:49.522] [User Authenticator #136/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 22:20:51.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:53571] logged in with entity id 27396 at (-570.8242336612337, 92.0, -330.4797868700571)
+[20Dec2024 22:20:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[20Dec2024 22:20:51.302] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[20Dec2024 22:20:51.302] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[20Dec2024 22:20:52.560] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> bien creativo
+[20Dec2024 22:20:58.968] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> me gustan los cofres tmb
+[20Dec2024 22:20:59.054] [Async Chat Thread - #55/INFO] [Console/]: <Roberto_RS> ;b
+[20Dec2024 22:21:02.491] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> la sala
+[20Dec2024 22:21:06.617] [Async Chat Thread - #55/INFO] [Console/]: <Roberto_RS> si ami me re encantaron tmb
+[20Dec2024 22:21:15.353] [Async Chat Thread - #55/INFO] [Console/]: <Roberto_RS> Q
+[20Dec2024 22:21:15.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheStranger
+[20Dec2024 22:21:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheStranger]
+[20Dec2024 22:21:17.595] [Async Chat Thread - #55/INFO] [Console/]: <TheHollowKingMC> ajajaja
+[20Dec2024 22:21:31.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode survival
+[20Dec2024 22:21:31.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Survival Mode]
+[20Dec2024 22:21:42.046] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> ay
+[20Dec2024 22:21:47.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /kill @e[name=d]
+[20Dec2024 22:21:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Killed d]
+[20Dec2024 22:21:58.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 22:21:58.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 22:22:02.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /kill @e[name=d]
+[20Dec2024 22:22:02.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Killed d]
+[20Dec2024 22:22:16.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheStranger
+[20Dec2024 22:22:16.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheStranger]
+[20Dec2024 22:22:24.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:fireball
+[20Dec2024 22:22:24.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fireball]
+[20Dec2024 22:22:33.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[20Dec2024 22:22:33.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[20Dec2024 22:22:36.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[20Dec2024 22:22:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[20Dec2024 22:22:36.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /kill @e[name=d]
+[20Dec2024 22:22:36.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Killed d]
+[20Dec2024 22:22:38.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:fireball
+[20Dec2024 22:22:38.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fireball]
+[20Dec2024 22:22:38.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 22:22:38.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 22:22:45.046] [Async Chat Thread - #58/INFO] [Console/]: <bosteritomop> d
+[20Dec2024 22:22:47.542] [Async Chat Thread - #58/INFO] [Console/]: <Roberto_RS> :v
+[20Dec2024 22:22:52.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheStranger
+[20Dec2024 22:22:52.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheStranger]
+[20Dec2024 22:22:54.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon minecraft:fireball
+[20Dec2024 22:22:54.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fireball]
+[20Dec2024 22:22:59.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 22:22:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 22:23:00.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[20Dec2024 22:23:00.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[20Dec2024 22:23:01.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 22:23:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 22:23:09.938] [Async Chat Thread - #57/INFO] [Console/]: <bosteritomop> tiene algo esto?
+[20Dec2024 22:23:16.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode spectator
+[20Dec2024 22:23:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Spectator Mode]
+[20Dec2024 22:23:17.384] [Async Chat Thread - #58/INFO] [Console/]: <Roberto_RS> no xd
+[20Dec2024 22:23:20.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[20Dec2024 22:23:20.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[20Dec2024 22:23:46.693] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:46.745] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:46.794] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:46.844] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:46.893] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:46.943] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:46.993] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:47.043] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:47.094] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 19.801292
+[20Dec2024 22:23:47.144] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 23.851282
+[20Dec2024 22:23:47.194] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.301266
+[20Dec2024 22:23:47.244] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 35.251293
+[20Dec2024 22:23:47.294] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 38.251324
+[20Dec2024 22:23:47.344] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 38.70133
+[20Dec2024 22:23:47.395] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 38.70133
+[20Dec2024 22:23:47.444] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 38.70133
+[20Dec2024 22:23:47.495] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 38.70133
+[20Dec2024 22:23:47.543] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 38.70133
+[20Dec2024 22:23:47.596] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 39.301334
+[20Dec2024 22:23:48.095] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.460514
+[20Dec2024 22:23:48.145] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.460514
+[20Dec2024 22:23:48.195] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.460514
+[20Dec2024 22:23:48.244] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.460514
+[20Dec2024 22:23:48.295] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.460514
+[20Dec2024 22:23:48.345] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.366653
+[20Dec2024 22:23:48.395] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.272793
+[20Dec2024 22:23:48.444] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.272793
+[20Dec2024 22:23:48.494] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.545] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.595] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.645] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.694] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.745] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.794] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.844] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.894] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.944] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:48.994] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.044] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.095] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.146] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.195] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.244] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.295] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.344] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.395] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.444] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.225863
+[20Dec2024 22:23:49.495] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 30.178932
+[20Dec2024 22:23:49.544] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 29.28725
+[20Dec2024 22:23:49.594] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 27.832397
+[20Dec2024 22:23:49.647] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 24.594175
+[20Dec2024 22:23:49.695] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.731401
+[20Dec2024 22:23:49.744] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 20.839718
+[20Dec2024 22:23:49.795] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 20.370413
+[20Dec2024 22:23:49.844] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 20.79279
+[20Dec2024 22:23:49.895] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:49.947] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:49.994] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.045] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.095] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.147] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.194] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.244] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.294] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.344] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.395] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.445] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.495] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.545] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.595] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.644] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.696] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.745] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.794] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.844] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.895] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.944] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:50.994] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.044] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.094] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.145] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.194] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.236] [Async Chat Thread - #58/INFO] [Console/]: <bosteritomop> AAAAAAAA
+[20Dec2024 22:23:51.246] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.294] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.345] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.395] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.446] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.495] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.544] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.595] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.645] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.695] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.745] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.795] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.845] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.895] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.944] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:51.995] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.046] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.096] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.146] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.194] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.245] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.294] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.344] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.394] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.445] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.494] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.546] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.594] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.644] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.694] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.744] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.795] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.845] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.894] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.944] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:52.994] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:53.044] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:53.094] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:53.145] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:23:53.194] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 21.590612
+[20Dec2024 22:24:18.294] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.342] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.393] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.442] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.492] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.543] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.593] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.644] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.692] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.743] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.793] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.843] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.892] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.942] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:18.992] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.044] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.093] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.144] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.194] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.243] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.293] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.344] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.394] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 10.514953
+[20Dec2024 22:24:19.443] [Server thread/INFO] [net.mcreator.voltymod.VoltymodMod/]: 12.955351
