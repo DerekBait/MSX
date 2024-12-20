@@ -1675,3 +1675,37 @@ expected <block end>, but found '<scalar>'
 [20Dec2024 09:26:50.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
 [20Dec2024 09:26:53.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
 [20Dec2024 09:26:53.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] s
+[20Dec2024 09:28:40.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:28:51.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug event8
+[20Dec2024 09:28:55.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:28:55.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:29:01.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:29:01.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 09:29:20.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:29:20.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 09:30:51.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:30:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:30:57.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 62 item(s) from player TheHollowKingMC
+[20Dec2024 09:33:39.842] [Async Chat Thread - #0/INFO] [Console/]: <TheHollowKingMC> ⚙
+[20Dec2024 09:34:02.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:34:08.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:34:08.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:34:25.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:34:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:34:28.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:34:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:34:32.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:34:32.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:34:35.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:34:35.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:34:38.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:34:38.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:34:58.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:34:58.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 09:35:13.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:35:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:36:02.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper open TheHollowKingMC
+[20Dec2024 09:36:08.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[20Dec2024 09:36:22.048] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> -
+[20Dec2024 09:37:04.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper open TheHollowKingMC altar1
+[20Dec2024 09:37:13.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper open altar1 TheHollowKingMC

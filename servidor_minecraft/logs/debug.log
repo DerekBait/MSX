@@ -9741,3 +9741,46 @@ expected <block end>, but found '<scalar>'
 [20Dec2024 09:27:34.320] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$OutputContainer
 [20Dec2024 09:27:34.322] [Server thread/DEBUG] [mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [20Dec2024 09:27:34.324] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[20Dec2024 09:28:40.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:28:51.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug event8
+[20Dec2024 09:28:55.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:28:55.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:29:01.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:29:01.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 09:29:13.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:29:13.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:29:13.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 09:29:13.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 09:29:20.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:29:20.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 09:30:51.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:30:57.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:30:57.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 62 item(s) from player TheHollowKingMC
+[20Dec2024 09:33:39.842] [Async Chat Thread - #0/INFO] [Console/]: <TheHollowKingMC> ⚙
+[20Dec2024 09:34:02.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[20Dec2024 09:34:08.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:34:08.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:34:13.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:34:13.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 09:34:13.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 09:34:13.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 09:34:25.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:34:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:34:28.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:34:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:34:32.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:34:32.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:34:35.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:34:35.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:34:38.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[20Dec2024 09:34:38.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[20Dec2024 09:34:58.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 5 [Dedita] to TheHollowKingMC
+[20Dec2024 09:34:58.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TheHollowKingMC
+[20Dec2024 09:35:13.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 09:35:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 09:36:02.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper open TheHollowKingMC
+[20Dec2024 09:36:08.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper
+[20Dec2024 09:36:22.048] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> -
+[20Dec2024 09:36:46.869] [Server thread/DEBUG] [mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.world.item.trading.MerchantOffer
+[20Dec2024 09:37:04.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper open TheHollowKingMC altar1
+[20Dec2024 09:37:13.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /shopkeeper open altar1 TheHollowKingMC
