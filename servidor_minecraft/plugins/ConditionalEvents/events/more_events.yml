@@ -1,4 +1,4 @@
-events:
+Events:
   right_click_block_with_item:
     type: interact
     conditions:
