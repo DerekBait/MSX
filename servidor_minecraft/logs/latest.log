@@ -705,3 +705,81 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 06:04:49.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
 [20Dec2024 06:05:05.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.muerte
 [20Dec2024 06:05:05.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.muerte' to bosteritomop]
+[20Dec2024 06:05:11.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.ruleta.rojo
+[20Dec2024 06:05:11.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.rojo' to bosteritomop]
+[20Dec2024 06:05:19.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.ruleta.rosa
+[20Dec2024 06:05:26.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tag bosteritomop add anim.ruleta.roja
+[20Dec2024 06:05:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Added tag 'anim.ruleta.roja' to bosteritomop]
+[20Dec2024 06:07:12.995] [Async Chat Thread - #21/INFO] [Console/]: <TheHollowKingMC> q haces
+[20Dec2024 06:07:15.632] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> nada
+[20Dec2024 06:07:46.116] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> ahora q hacemos?
+[20Dec2024 06:07:52.650] [Async Chat Thread - #20/INFO] [Console/]: <TheHollowKingMC> sexo
+[20Dec2024 06:07:57.420] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> q
+[20Dec2024 06:08:01.025] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> PEDOFILIA
+[20Dec2024 06:08:01.371] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> PEDOFILIA
+[20Dec2024 06:08:01.717] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> PEDOFILIA
+[20Dec2024 06:08:02.058] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> PEDOFILIA
+[20Dec2024 06:08:14.323] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> che con q skin me ves
+[20Dec2024 06:08:20.261] [Async Chat Thread - #20/INFO] [Console/]: <TheHollowKingMC> alex
+[20Dec2024 06:08:31.051] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> si esta el skin restorer
+[20Dec2024 06:08:35.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set gonchotwm
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:287)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shared.commands.SkinCommand.onSkinSet(SkinCommand.java:279)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[20Dec2024 06:08:36.182] [ForkJoinPool.commonPool-worker-17/ERROR] [STDERR/]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[20Dec2024 06:08:38.039] [Async Chat Thread - #21/INFO] [Console/]: <TheHollowKingMC> yes
+[20Dec2024 06:08:48.836] [Async Chat Thread - #20/INFO] [Console/]: <TheHollowKingMC> usa el /skin
+[20Dec2024 06:08:53.412] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> eso hago
+[20Dec2024 06:09:00.236] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> a ver hago clear
+[20Dec2024 06:09:01.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin clear
+[20Dec2024 06:09:04.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin spreen
+[20Dec2024 06:09:10.709] [Async Chat Thread - #21/INFO] [Console/]: <TheHollowKingMC> q skin tengo
+[20Dec2024 06:09:17.285] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> Shadoune celeste
+[20Dec2024 06:09:25.186] [Async Chat Thread - #20/INFO] [Console/]: <TheHollowKingMC> wath
+[20Dec2024 06:09:26.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set Gonchotwm
+[20Dec2024 06:09:30.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin clear
+[20Dec2024 06:09:31.283] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> vos como me ves
+[20Dec2024 06:09:34.199] [Async Chat Thread - #20/INFO] [Console/]: <TheHollowKingMC> ahora
+[20Dec2024 06:09:40.637] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> te sigo viendo igual
+[20Dec2024 06:09:46.636] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> vos como me ves?
+[20Dec2024 06:10:24.103] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> ?
+[20Dec2024 06:10:37.659] [Async Chat Thread - #21/INFO] [Console/]: <TheHollowKingMC> goncho
+[20Dec2024 06:10:40.417] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> ahi va
+[20Dec2024 06:11:36.851] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> che
+[20Dec2024 06:11:43.530] [Async Chat Thread - #20/INFO] [Console/]: <TheHollowKingMC> '¿
+[20Dec2024 06:11:47.653] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> vos compraste el mc java premium junto a bedrock?
+[20Dec2024 06:11:57.249] [Async Chat Thread - #21/INFO] [Console/]: <TheHollowKingMC> ajm
+[20Dec2024 06:12:08.400] [Async Chat Thread - #20/INFO] [Console/]: <bosteritomop> cuanto te costo?
+[20Dec2024 06:12:27.171] [Async Chat Thread - #21/INFO] [Console/]: <TheHollowKingMC> 300
+[20Dec2024 06:13:00.280] [Async Chat Thread - #21/INFO] [Console/]: <bosteritomop> lpm
+[20Dec2024 06:13:54.665] [Async Chat Thread - #22/INFO] [Console/]: <bosteritomop> cuantos dolares son 300 pesos alla?
+[20Dec2024 06:14:06.937] [Async Chat Thread - #21/INFO] [Console/]: <TheHollowKingMC> como 20
+[20Dec2024 06:14:10.404] [Async Chat Thread - #22/INFO] [Console/]: <bosteritomop> lpm
+[20Dec2024 06:14:12.881] [Async Chat Thread - #22/INFO] [Console/]: <bosteritomop> como odio vivir aca
+[20Dec2024 06:14:26.616] [Async Chat Thread - #22/INFO] [Console/]: <bosteritomop> 30 euros aca son 30.000 pesos para un minecraft
