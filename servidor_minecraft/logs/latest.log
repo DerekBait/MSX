@@ -4171,3 +4171,90 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [20Dec2024 21:43:34.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
 [20Dec2024 21:43:38.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
 [20Dec2024 21:43:38.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 21:44:41.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.2
+[20Dec2024 21:44:56.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[20Dec2024 21:44:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[20Dec2024 21:44:58.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 21:44:58.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 21:45:02.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheHollowKingMC
+[20Dec2024 21:45:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheHollowKingMC]
+[20Dec2024 21:45:03.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.1
+[20Dec2024 21:45:08.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp TheStranger
+[20Dec2024 21:45:08.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to TheStranger]
+[20Dec2024 21:45:16.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kick TheStranger
+[20Dec2024 21:45:16.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: Kicked by an operator
+[20Dec2024 21:45:16.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheStranger
+[20Dec2024 21:45:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[20Dec2024 21:45:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Kicked TheStranger: Kicked by an operator]
+[20Dec2024 21:45:16.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 21:45:23.131] [User Authenticator #62/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 21:45:24.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon
+[20Dec2024 21:45:31.092] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4661a4a9[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:48959) lost connection: Disconnected
+[20Dec2024 21:45:37.050] [User Authenticator #63/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 21:45:38.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:49219] logged in with entity id 21487 at (-601.9595418047793, 93.0, -320.3274356997222)
+[20Dec2024 21:45:38.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[20Dec2024 21:45:41.293] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[20Dec2024 21:45:41.294] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[20Dec2024 21:46:03.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival TheStranger
+[20Dec2024 21:46:03.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set TheStranger's game mode to Survival Mode]
+[20Dec2024 21:46:06.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 21:46:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 21:46:11.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival TheStranger
+[20Dec2024 21:46:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set TheStranger's game mode to Survival Mode]
+[20Dec2024 21:46:15.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[20Dec2024 21:46:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[20Dec2024 21:46:21.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:46:21.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set Roberto_RS's game mode to Survival Mode]
+[20Dec2024 21:46:25.607] [Async Chat Thread - #43/INFO] [Console/]: <bosteritomop> no mames
+[20Dec2024 21:46:29.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:46:34.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale reset
+[20Dec2024 21:46:40.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 1
+[20Dec2024 21:47:31.215] [Async Chat Thread - #45/INFO] [Console/]: <bosteritomop> ASJDAS
+[20Dec2024 21:47:33.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.1
+[20Dec2024 21:48:29.559] [Async Chat Thread - #45/INFO] [Console/]: <bosteritomop> pero
+[20Dec2024 21:48:35.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale set 0.2
+[20Dec2024 21:49:22.979] [Async Chat Thread - #45/INFO] [Console/]: <bosteritomop> que mierda hace roberto
+[20Dec2024 21:49:32.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /scale reset
+[20Dec2024 21:49:40.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /kill Roberto_RS
+[20Dec2024 21:49:40.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Killed Roberto_RS]
+[20Dec2024 21:49:52.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:49:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set Roberto_RS's game mode to Survival Mode]
+[20Dec2024 21:49:55.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:49:57.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:49:57.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set Roberto_RS's game mode to Survival Mode]
+[20Dec2024 21:49:59.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:49:59.941] [Async Chat Thread - #45/INFO] [Console/]: <bosteritomop> a mira
+[20Dec2024 21:50:00.347] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:00.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set Roberto_RS's game mode to Survival Mode]
+[20Dec2024 21:50:01.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:01.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:02.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:50:02.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:02.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set Roberto_RS's game mode to Survival Mode]
+[20Dec2024 21:50:03.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:03.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:04.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:04.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:04.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:04.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:50:05.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:05.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set Roberto_RS's game mode to Survival Mode]
+[20Dec2024 21:50:05.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:05.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival Roberto_RS
+[20Dec2024 21:50:10.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[20Dec2024 21:50:17.237] [Async Chat Thread - #46/INFO] [Console/]: <bosteritomop> xq coño me aparece una letra en chino
+[20Dec2024 21:50:35.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ban TheStranger
+[20Dec2024 21:50:35.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Banned TheStranger: Banned by an operator.]
+[20Dec2024 21:50:35.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: You are banned from this server
+[20Dec2024 21:50:35.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheStranger
+[20Dec2024 21:50:35.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[20Dec2024 21:50:35.495] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Dec2024 21:50:44.707] [User Authenticator #64/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 21:50:47.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[20Dec2024 21:50:47.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned TheStranger]
+[20Dec2024 21:50:53.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49dc9a7e[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:60203) lost connection: Disconnected
+[20Dec2024 21:51:01.009] [User Authenticator #65/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[20Dec2024 21:51:02.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:37657] logged in with entity id 22471 at (-602.3883810194129, 92.0, -325.434810199749)
+[20Dec2024 21:51:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[20Dec2024 21:51:02.817] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[20Dec2024 21:51:02.817] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
