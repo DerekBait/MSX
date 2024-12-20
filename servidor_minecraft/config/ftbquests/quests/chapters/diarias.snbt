@@ -4,6 +4,7 @@
 	default_quest_shape: ""
 	filename: "diarias"
 	group: "7D49A4E4372F4AD9"
+	icon: "dedsafio3:dedita_mision"
 	id: "52493A0F5B5F90FE"
 	order_index: 0
 	quest_links: [ ]

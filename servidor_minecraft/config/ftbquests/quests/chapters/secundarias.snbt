@@ -3,6 +3,7 @@
 	default_quest_shape: ""
 	filename: "secundarias"
 	group: "7D49A4E4372F4AD9"
+	icon: "dedsafio3:dedita"
 	id: "3DE6F4146002BC79"
 	order_index: 1
 	quest_links: [ ]
