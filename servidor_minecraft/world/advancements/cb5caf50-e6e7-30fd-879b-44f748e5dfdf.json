@@ -3766,5 +3766,11 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-20 09:37:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

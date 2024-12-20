@@ -12,26 +12,19 @@
 		{
 			description: ["{@pagebreak}"]
 			id: "100329D529858C6C"
-			rewards: [
-				{
-					id: "0533A98EB8923D3C"
-					item: {
-						Count: 1
-						id: "dedsafio3:dedita_mision"
-						tag: {
-							display: {
-								Name: "{\"text\":\"Dedita Día 1\",\"color\":\"aqua\",\"bold\":true}"
-							}
+			rewards: [{
+				id: "0533A98EB8923D3C"
+				item: {
+					Count: 1
+					id: "dedsafio3:dedita_mision"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Dedita Día 1\",\"color\":\"aqua\",\"bold\":true}"
 						}
 					}
-					type: "item"
 				}
-				{
-					command: "/tag @p add m1"
-					id: "43B243B16530BCCE"
-					type: "command"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "4F52CB52DC64A1BB"
