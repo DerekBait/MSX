@@ -8,19 +8,24 @@
 	order_index: 1
 	quest_links: [ ]
 	quests: [{
-		id: "12C9E28B4141A909"
-		rewards: [{
-			id: "0584A2CF6C0E901A"
-			item: "minecraft:oak_planks"
-			type: "item"
-		}]
+		id: "3FEE89C937FA2AC4"
+		subtitle: "Mata a 100 Zombies"
 		tasks: [{
-			id: "4DBEF418E56FCCC0"
-			item: "minecraft:spruce_fence_gate"
-			type: "item"
+			entity: "minecraft:zombie"
+			icon: {
+				Count: 1
+				id: "minecraft:stone_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "696D00666E5E4EFE"
+			type: "kill"
+			value: 100L
 		}]
-		x: -5.5d
-		y: -3.5d
+		title: "Entrenamiento"
+		x: -3.5d
+		y: -1.0d
 	}]
 	title: "SECUNDARIAS"
 }

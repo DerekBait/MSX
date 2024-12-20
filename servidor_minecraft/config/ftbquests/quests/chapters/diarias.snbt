@@ -8,70 +8,145 @@
 	id: "52493A0F5B5F90FE"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		description: ["{@pagebreak}"]
-		id: "100329D529858C6C"
-		rewards: [{
-			id: "0533A98EB8923D3C"
-			item: {
-				Count: 1
-				id: "dedsafio3:dedita_mision"
-				tag: {
-					display: {
-						Name: "{\"text\":\"Dedita Día 1\",\"color\":\"aqua\",\"bold\":true}"
-					}
-				}
-			}
-			type: "item"
-		}]
-		tasks: [
-			{
-				id: "4F52CB52DC64A1BB"
+	quests: [
+		{
+			description: ["{@pagebreak}"]
+			id: "100329D529858C6C"
+			rewards: [{
+				id: "0533A98EB8923D3C"
 				item: {
 					Count: 1
-					id: "minecraft:diamond_helmet"
+					id: "dedsafio3:dedita_mision"
 					tag: {
-						Damage: 0
+						display: {
+							Name: "{\"text\":\"Dedita Día 1\",\"color\":\"aqua\",\"bold\":true}"
+						}
 					}
 				}
 				type: "item"
-			}
-			{
-				id: "010B538D6BC690F0"
+			}]
+			tasks: [
+				{
+					id: "4F52CB52DC64A1BB"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "010B538D6BC690F0"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4CAB746D71B64E71"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29813C1011B91013"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Consigue Full Diamante"
+			x: -13.5d
+			y: -11.0d
+		}
+		{
+			id: "58670FCD87E4200B"
+			tasks: [{
+				id: "40683219F88D062B"
 				item: {
 					Count: 1
-					id: "minecraft:diamond_chestplate"
+					id: "voltymod:barrierslab"
 					tag: {
-						Damage: 0
+						display: {
+							Name: "{\"text\":\"???\"}"
+						}
 					}
 				}
 				type: "item"
-			}
-			{
-				id: "4CAB746D71B64E71"
+			}]
+			x: -12.5d
+			y: -11.0d
+		}
+		{
+			id: "3989C9F034DB0D95"
+			tasks: [{
+				id: "1EFE054D70E5C61C"
 				item: {
 					Count: 1
-					id: "minecraft:diamond_leggings"
+					id: "voltymod:barrierslab"
 					tag: {
-						Damage: 0
+						display: {
+							Name: "{\"text\":\"???\"}"
+						}
 					}
 				}
 				type: "item"
-			}
-			{
-				id: "29813C1011B91013"
+			}]
+			x: -11.5d
+			y: -11.0d
+		}
+		{
+			id: "0AF45FC688218025"
+			tasks: [{
+				id: "08008D59299F6A2F"
 				item: {
 					Count: 1
-					id: "minecraft:diamond_boots"
+					id: "voltymod:barrierslab"
 					tag: {
-						Damage: 0
+						display: {
+							Name: "{\"text\":\"???\"}"
+						}
 					}
 				}
 				type: "item"
-			}
-		]
-		x: -13.5d
-		y: -11.0d
-	}]
+			}]
+			x: -10.5d
+			y: -11.0d
+		}
+		{
+			id: "5A7F279F3FF93D40"
+			tasks: [{
+				id: "6A0D6CBC3C7C51E3"
+				item: {
+					Count: 1
+					id: "voltymod:barrierslab"
+					tag: {
+						display: {
+							Name: "{\"text\":\"???\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: -11.0d
+		}
+	]
 	title: "DIARIAS"
 }
