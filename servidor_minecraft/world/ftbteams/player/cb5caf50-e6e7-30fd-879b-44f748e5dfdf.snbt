@@ -1,0 +1,17 @@
+{
+	id: "cb5caf50-e6e7-30fd-879b-44f748e5dfdf"
+	type: "player"
+	player_name: "TheHollowKingMC"
+	ranks: {
+		cb5caf50-e6e7-30fd-879b-44f748e5dfdf: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheHollowKingMC"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

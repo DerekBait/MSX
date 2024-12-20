@@ -1,0 +1,17 @@
+{
+	id: "18a829d5-be55-37d2-82e3-fffe14ee9f12"
+	type: "player"
+	player_name: "TheStranger"
+	ranks: {
+		18a829d5-be55-37d2-82e3-fffe14ee9f12: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheStranger"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B7FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

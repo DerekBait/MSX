@@ -1,0 +1,75 @@
+{
+	autofocus_id: "008256355C3B10A8"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "diarias"
+	group: "7D49A4E4372F4AD9"
+	id: "52493A0F5B5F90FE"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "100329D529858C6C"
+		rewards: [{
+			id: "0533A98EB8923D3C"
+			item: {
+				Count: 1
+				id: "dedsafio3:dedita_mision"
+				tag: {
+					display: {
+						Name: "{\"text\":\"Dedita Día 1\",\"color\":\"aqua\",\"bold\":true}"
+					}
+				}
+			}
+			type: "item"
+		}]
+		tasks: [
+			{
+				id: "4F52CB52DC64A1BB"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "010B538D6BC690F0"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "4CAB746D71B64E71"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "29813C1011B91013"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+		]
+		x: -3.5d
+		y: -2.5d
+	}]
+	title: "DIARIAS"
+}

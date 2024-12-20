@@ -1,0 +1,17 @@
+{
+	id: "eabd3787-e73f-3841-adc8-1f6960b8266a"
+	type: "player"
+	player_name: "bosteritomop"
+	ranks: {
+		eabd3787-e73f-3841-adc8-1f6960b8266a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "bosteritomop"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E2FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

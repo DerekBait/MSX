@@ -1,0 +1,17 @@
+{
+	id: "a81728c5-0ebf-3d12-b3f2-05ee1928f727"
+	type: "player"
+	player_name: "Roberto_RS"
+	ranks: {
+		a81728c5-0ebf-3d12-b3f2-05ee1928f727: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Roberto_RS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

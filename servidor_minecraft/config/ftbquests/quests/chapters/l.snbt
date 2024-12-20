@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l"
+	group: ""
+	id: "792D63CED12B7E7F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "7A7DDD626B73222C"
+		rewards: [{
+			id: "61CEECEB18DD8E96"
+			item: "minecraft:oak_log"
+			type: "item"
+		}]
+		tasks: [{
+			id: "7EE516D6138076AB"
+			item: "minecraft:oak_log"
+			type: "item"
+		}]
+		x: -3.0d
+		y: -2.0d
+	}]
+	title: "l"
+}

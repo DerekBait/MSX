@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "eabd3787e73f3841adc81f6960b8266a"
+	name: "bosteritomop#eabd3787"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
