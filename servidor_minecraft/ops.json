@@ -28,5 +28,11 @@
     "name": "bosteritomop",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e806c28f-7d91-398b-ba77-65a0310587f9",
+    "name": "Jesse",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

@@ -13,7 +13,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:bamboo_jungle": "2024-12-20 22:33:55 +0000"
+      "minecraft:bamboo_jungle": "2024-12-20 22:33:55 +0000",
+      "minecraft:jungle": "2024-12-20 22:34:43 +0000"
     },
     "done": false
   },
