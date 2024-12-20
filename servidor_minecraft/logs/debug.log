@@ -7741,3 +7741,52 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 05:30:28.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
 [20Dec2024 05:33:20.656] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.ContainerLevelAccessMixin from mixins.arclight.core.json into net.minecraft.world.inventory.ContainerLevelAccess
 [20Dec2024 05:33:20.659] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$1Anonymous$1c91d39d4db4405f970af6b9b8f79da1 (originally io/izzel/arclight/common/mixin/core/world/inventory/ContainerLevelAccessMixin$1Anonymous)
+[20Dec2024 05:35:28.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:35:28.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:35:28.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 05:35:28.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 05:36:46.976] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> che
+[20Dec2024 05:37:36.524] [Async Chat Thread - #4/INFO] [Console/]: <TheHollowKingMC> ?
+[20Dec2024 05:37:38.923] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> no nada
+[20Dec2024 05:38:27.370] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> ah si
+[20Dec2024 05:38:32.345] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> el coso de la espada fantasmal
+[20Dec2024 05:38:52.667] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> lo pongo con espada inanimada y cinco deditas azules, o espada inanimada con alma de golem?
+[20Dec2024 05:39:20.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper
+[20Dec2024 05:39:56.254] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> =
+[20Dec2024 05:39:57.171] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> ?
+[20Dec2024 05:40:28.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:40:28.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:40:28.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 05:40:28.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 05:40:35.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper
+[20Dec2024 05:40:49.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper
+[20Dec2024 05:42:22.248] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> DEREEK
+[20Dec2024 05:42:42.523] [Async Chat Thread - #9/INFO] [Console/]: <TheHollowKingMC> ee
+[20Dec2024 05:42:49.467] [Async Chat Thread - #8/INFO] [Console/]: <TheHollowKingMC> como aparece en dedsafio
+[20Dec2024 05:43:00.503] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> como veo en el primer capitulo aparece con 5 deditas
+[20Dec2024 05:43:07.263] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> pero dsp aparece con alma de golem
+[20Dec2024 05:43:10.771] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> lo modificamos dsp no?
+[20Dec2024 05:45:28.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:45:28.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:45:28.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 05:45:28.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 05:46:58.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 05:46:58.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 05:50:28.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:50:28.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[20Dec2024 05:50:28.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[20Dec2024 05:50:28.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[20Dec2024 05:51:36.210] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> ya estan los cosos
+[20Dec2024 05:51:40.217] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> los shopkeppers
+[20Dec2024 05:51:59.096] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/AbstractMinecart$1
+[20Dec2024 05:51:59.924] [Worker-Main-42/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType$1
+[20Dec2024 05:51:59.963] [Worker-Main-40/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/mojang/math/OctahedralGroup$1
+[20Dec2024 05:51:59.970] [Worker-Main-54/DEBUG] [mixin/]: Mixing world.gen.WorldGenRegionMixin from mixins.arclight.core.json into net.minecraft.server.level.WorldGenRegion
+[20Dec2024 05:51:59.970] [Worker-Main-54/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[20Dec2024 05:52:00.299] [Worker-Main-40/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[20Dec2024 05:52:00.320] [Worker-Main-59/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/NoiseChunk$2
+[20Dec2024 05:52:34.345] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> ya vuelvo
+[20Dec2024 05:52:37.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[20Dec2024 05:52:37.448] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of bosteritomop
+[20Dec2024 05:52:37.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[20Dec2024 05:52:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game

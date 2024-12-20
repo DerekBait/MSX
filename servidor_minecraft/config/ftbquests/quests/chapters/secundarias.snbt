@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "secundarias"
+	group: "7D49A4E4372F4AD9"
+	id: "3DE6F4146002BC79"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "SECUNDARIAS"
+}

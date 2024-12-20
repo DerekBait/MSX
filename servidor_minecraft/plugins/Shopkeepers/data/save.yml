@@ -9,6 +9,73 @@ data-version: 3|2|3465
   z: -286
   yaw: 334.88977
   type: admin
+  name: Casino
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITANARANJA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_MISION
+  snapshots: []
+'5':
+  uniqueId: e274da55-7b29-41e8-8a6d-f1b71bcf7926
+  world: DEDSAFIO 3 - By TheNeitorLoL
+  x: -598
+  y: 141
+  z: -292
+  yaw: 347.4679
+  type: admin
+  name: Armeria
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SNOW
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ESPADA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ESPADA_INANIMADA
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 5
+  snapshots: []
+'6':
+  uniqueId: b223c133-e2a4-4ec8-b960-9f77563171ca
+  world: DEDSAFIO 3 - By TheNeitorLoL
+  x: -590
+  y: 141
+  z: -286
+  yaw: 330.21625
+  type: admin
   name: ''
   object:
     type: villager
@@ -21,13 +88,45 @@ data-version: 3|2|3465
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_ESPADA_FANTASMAL
+        type: COAL
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: DEDSAFIO3_ESPADA_INANIMADA
-      item2:
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 64
+  snapshots: []
+'7':
+  uniqueId: d2c05dea-41fc-453d-a9e9-45b88693efaf
+  world: DEDSAFIO 3 - By TheNeitorLoL
+  x: -591
+  y: 141
+  z: -292
+  yaw: 221.19518
+  type: admin
+  name: Miscelanio
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SAVANNA
+    villagerLevel: 5
+  recipes:
+    '1':
+      resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_ALMA_GOLEM
+        type: IMMERSIVE_PAINTINGS_GRAFFITI
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_CARAMELO_AZUL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
   snapshots: []

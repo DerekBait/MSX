@@ -8,6 +8,7 @@
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
+		description: ["{@pagebreak}"]
 		id: "100329D529858C6C"
 		rewards: [{
 			id: "0533A98EB8923D3C"
@@ -68,8 +69,8 @@
 				type: "item"
 			}
 		]
-		x: -3.5d
-		y: -2.5d
+		x: -13.5d
+		y: -11.0d
 	}]
 	title: "DIARIAS"
 }

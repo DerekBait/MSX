@@ -619,3 +619,28 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [20Dec2024 05:29:02.689] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> supongo
 [20Dec2024 05:30:19.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeepers remove
 [20Dec2024 05:30:25.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper confirm
+[20Dec2024 05:36:46.976] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> che
+[20Dec2024 05:37:36.524] [Async Chat Thread - #4/INFO] [Console/]: <TheHollowKingMC> ?
+[20Dec2024 05:37:38.923] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> no nada
+[20Dec2024 05:38:27.370] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> ah si
+[20Dec2024 05:38:32.345] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> el coso de la espada fantasmal
+[20Dec2024 05:38:52.667] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> lo pongo con espada inanimada y cinco deditas azules, o espada inanimada con alma de golem?
+[20Dec2024 05:39:20.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper
+[20Dec2024 05:39:56.254] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> =
+[20Dec2024 05:39:57.171] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> ?
+[20Dec2024 05:40:35.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper
+[20Dec2024 05:40:49.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /shopkeeper
+[20Dec2024 05:42:22.248] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> DEREEK
+[20Dec2024 05:42:42.523] [Async Chat Thread - #9/INFO] [Console/]: <TheHollowKingMC> ee
+[20Dec2024 05:42:49.467] [Async Chat Thread - #8/INFO] [Console/]: <TheHollowKingMC> como aparece en dedsafio
+[20Dec2024 05:43:00.503] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> como veo en el primer capitulo aparece con 5 deditas
+[20Dec2024 05:43:07.263] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> pero dsp aparece con alma de golem
+[20Dec2024 05:43:10.771] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> lo modificamos dsp no?
+[20Dec2024 05:46:58.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[20Dec2024 05:46:58.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[20Dec2024 05:51:36.210] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> ya estan los cosos
+[20Dec2024 05:51:40.217] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> los shopkeppers
+[20Dec2024 05:52:34.345] [Async Chat Thread - #13/INFO] [Console/]: <bosteritomop> ya vuelvo
+[20Dec2024 05:52:37.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[20Dec2024 05:52:37.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[20Dec2024 05:52:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
