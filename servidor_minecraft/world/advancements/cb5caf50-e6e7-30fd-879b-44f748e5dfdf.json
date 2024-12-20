@@ -135,6 +135,7 @@
       "golden_apple": "2024-12-15 03:36:47 +0000",
       "bread": "2024-12-20 00:20:10 +0000",
       "rotten_flesh": "2024-12-19 01:09:37 +0000",
+      "suspicious_stew": "2024-12-20 20:37:53 +0000",
       "golden_carrot": "2024-12-16 04:50:25 +0000",
       "enchanted_golden_apple": "2024-12-13 03:59:57 +0000"
     },
@@ -3799,6 +3800,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-20 09:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-20 20:37:53 +0000"
     },
     "done": true
   },

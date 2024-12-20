@@ -26,5 +26,5 @@ data-version: 3|2|3465
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: DEDSAFIO3_DEDITA
+        type: VOLTYMOD_DEDITAAZUL
   snapshots: []
