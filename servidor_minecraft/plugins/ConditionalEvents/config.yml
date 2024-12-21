@@ -201,3 +201,11 @@ Events:
       default:
       - 'console_command: shopkeeper open altar2 %player%'
     enabled: true
+  revil1:
+    type: player_kill
+    conditions:
+    - '%victim_block_world% == DEDSAFIO 3 - By TheNeitorLoL'
+    actions:
+      default:
+      - 'message: sco'
+    enabled: true
