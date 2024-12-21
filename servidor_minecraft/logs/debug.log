@@ -10037,3 +10037,161 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 04:57:03.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
 [21Dec2024 04:59:27.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay sidebar
 [21Dec2024 04:59:27.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Cleared any objectives in display slot sidebar]
+[21Dec2024 05:00:23.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:00:23.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:00:23.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[21Dec2024 05:00:23.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[21Dec2024 05:01:58.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:overworld run tp @s -2098.92 158.73 1124.12 -46.04 73.80
+[21Dec2024 05:01:58.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to -2098.920000, 158.730000, 1124.120000]
+[21Dec2024 05:01:58.851] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[21Dec2024 05:01:58.856] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.entity.SculkCatalystBlockEntity_CatalystListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.entity.SculkCatalystBlockEntity$CatalystListener
+[21Dec2024 05:01:58.857] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.SculkSpreaderMixin from mixins.arclight.core.json into net.minecraft.world.level.block.SculkSpreader
+[21Dec2024 05:01:59.130] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.BabyFollowAdultMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.BabyFollowAdult
+[21Dec2024 05:01:59.130] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(Lnet/minecraft/util/valueproviders/UniformInt;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to mda66547$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.BabyFollowAdultMixin
+[21Dec2024 05:01:59.130] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Lnet/minecraft/util/valueproviders/UniformInt;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to mda66547$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.BabyFollowAdultMixin
+[21Dec2024 05:01:59.130] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/util/valueproviders/UniformInt;Ljava/util/function/Function;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;J)Z to mda66547$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.BabyFollowAdultMixin
+[21Dec2024 05:01:59.139] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.PrepareRamNearestTargetMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.PrepareRamNearestTarget
+[21Dec2024 05:01:59.139] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$targetEvent$0(Lnet/minecraft/world/entity/PathfinderMob;Ljava/util/function/Consumer;Lnet/minecraft/world/entity/LivingEntity;)V to mda66547$lambda$arclight$targetEvent$0$0 in mixins.arclight.core.json:world.entity.ai.behavior.PrepareRamNearestTargetMixin
+[21Dec2024 05:01:59.276] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/geforcemods/securitycraft/blockentities/SecurityCameraBlockEntity$1
+[21Dec2024 05:01:59.979] [Server thread/DEBUG] [mixin/]: Mixing world.entity.animal.Bee_HurtByOtherGoalMixin from mixins.arclight.core.json into net.minecraft.world.entity.animal.Bee$BeeHurtByOtherGoal
+[21Dec2024 05:02:05.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC
+[21Dec2024 05:02:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[21Dec2024 05:02:18.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /time set day
+[21Dec2024 05:02:18.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set the time to 1000]
+[21Dec2024 05:04:24.222] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/geforcemods/securitycraft/blocks/ProjectorBlock$1
+[21Dec2024 05:04:51.199] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/geforcemods/securitycraft/network/server/SyncProjector$1
+[21Dec2024 05:05:23.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:05:23.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:05:23.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[21Dec2024 05:05:23.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[21Dec2024 05:08:13.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kill
+[21Dec2024 05:08:13.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Killed Roberto_RS]
+[21Dec2024 05:08:21.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[21Dec2024 05:08:21.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[21Dec2024 05:08:21.916] [Async Chat Thread - #12/INFO] [Console/]: <TheHollowKingMC> tp
+[21Dec2024 05:08:36.135] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cmdskvmw0nyg]: started parsing
+[21Dec2024 05:08:36.135] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cmdskvmw0nyg]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:36.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cmdskvmw0nyg]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:36.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set minecraft:nether_portal
+[21Dec2024 05:08:36.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seu2kbrcryyf]: started parsing
+[21Dec2024 05:08:36.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seu2kbrcryyf]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:36.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seu2kbrcryyf]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:36.756] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set minecraft:nether_portal - Region: (-482, 202, -241) - (-481, 204, -241)
+[21Dec2024 05:08:39.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 05:08:39.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 05:08:43.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 05:08:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 05:08:48.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ojz5sf5wn593]: started parsing
+[21Dec2024 05:08:48.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ojz5sf5wn593]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:48.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ojz5sf5wn593]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:48.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l8qvb5bws40t]: started parsing
+[21Dec2024 05:08:48.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l8qvb5bws40t]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:48.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l8qvb5bws40t]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:49.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set minecraft:nether_portal
+[21Dec2024 05:08:49.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zuuvsyc7j8ql]: started parsing
+[21Dec2024 05:08:49.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zuuvsyc7j8ql]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:49.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zuuvsyc7j8ql]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:49.100] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set minecraft:nether_portal - Region: (-644, 143, -257) - (-644, 145, -256)
+[21Dec2024 05:08:53.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1215970k4fmf4]: started parsing
+[21Dec2024 05:08:53.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1215970k4fmf4]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:53.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1215970k4fmf4]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:53.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1loke2to9sam2]: started parsing
+[21Dec2024 05:08:53.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1loke2to9sam2]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:53.913] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1loke2to9sam2]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:54.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kgv4hcq1rd2]: started parsing
+[21Dec2024 05:08:54.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kgv4hcq1rd2]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:54.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kgv4hcq1rd2]: Consuming argument ``
+[21Dec2024 05:08:54.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kgv4hcq1rd2]: parseRegularArgument: no arguments to attempt matching
+[21Dec2024 05:08:55.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v4zf4f28smla]: started parsing
+[21Dec2024 05:08:55.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v4zf4f28smla]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:08:55.679] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v4zf4f28smla]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:08:56.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zep3q1vibeo4]: started parsing
+[21Dec2024 05:08:56.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zep3q1vibeo4]: Consuming argument `minecraft:nether_porta`
+[21Dec2024 05:08:56.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06kwjx4wqlq02]: started parsing
+[21Dec2024 05:08:56.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06kwjx4wqlq02]: Consuming argument `minecraft:nether_port`
+[21Dec2024 05:08:56.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [180xcpmcu8l89]: started parsing
+[21Dec2024 05:08:56.338] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [180xcpmcu8l89]: Consuming argument `minecraft:nether_por`
+[21Dec2024 05:08:56.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03cr5aur0owdn]: started parsing
+[21Dec2024 05:08:56.550] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03cr5aur0owdn]: Consuming argument `minecraft:nether_po`
+[21Dec2024 05:08:56.709] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rav49mqkcw07]: started parsing
+[21Dec2024 05:08:56.709] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rav49mqkcw07]: Consuming argument `minecraft:nether_p`
+[21Dec2024 05:08:56.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wkaibu17mdor]: started parsing
+[21Dec2024 05:08:56.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wkaibu17mdor]: Consuming argument `minecraft:nether_`
+[21Dec2024 05:08:57.038] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oqmb59yi4y90]: started parsing
+[21Dec2024 05:08:57.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oqmb59yi4y90]: Consuming argument `minecraft:nether`
+[21Dec2024 05:08:57.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vbs4uwnc1agl]: started parsing
+[21Dec2024 05:08:57.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vbs4uwnc1agl]: Consuming argument `minecraft:nethe`
+[21Dec2024 05:08:57.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07xhl6nqzewlp]: started parsing
+[21Dec2024 05:08:57.368] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07xhl6nqzewlp]: Consuming argument `minecraft:neth`
+[21Dec2024 05:08:57.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icrqr8eygohf]: started parsing
+[21Dec2024 05:08:57.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0icrqr8eygohf]: Consuming argument `minecraft:net`
+[21Dec2024 05:08:57.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3t8vtlkae41]: started parsing
+[21Dec2024 05:08:57.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3t8vtlkae41]: Consuming argument `minecraft:ne`
+[21Dec2024 05:08:57.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l2c5kq2edqxq]: started parsing
+[21Dec2024 05:08:57.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l2c5kq2edqxq]: Consuming argument `minecraft:n`
+[21Dec2024 05:08:58.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sxiaokv98a4r]: started parsing
+[21Dec2024 05:08:58.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sxiaokv98a4r]: Consuming argument `minecraft:`
+[21Dec2024 05:08:58.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecyhs3kpws2s]: started parsing
+[21Dec2024 05:08:58.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecyhs3kpws2s]: Consuming argument `minecraft:e`
+[21Dec2024 05:08:58.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vbowgvtdj8n]: started parsing
+[21Dec2024 05:08:58.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vbowgvtdj8n]: Consuming argument `minecraft:en`
+[21Dec2024 05:08:59.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u5zt8s3wfwyn]: started parsing
+[21Dec2024 05:08:59.298] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u5zt8s3wfwyn]: Consuming argument `minecraft:end`
+[21Dec2024 05:09:00.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzff3shjefdq]: started parsing
+[21Dec2024 05:09:00.767] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzff3shjefdq]: Consuming argument `minecraft:end_`
+[21Dec2024 05:09:01.740] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053b5dczlzcbb]: started parsing
+[21Dec2024 05:09:01.740] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053b5dczlzcbb]: Consuming argument `minecraft:end_p`
+[21Dec2024 05:09:01.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnetz5sgbs0c]: started parsing
+[21Dec2024 05:09:01.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnetz5sgbs0c]: Consuming argument `minecraft:end_po`
+[21Dec2024 05:09:03.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set minecraft:end_portal
+[21Dec2024 05:09:03.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k8w12180lxmt]: started parsing
+[21Dec2024 05:09:03.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k8w12180lxmt]: Consuming argument `minecraft:end_portal`
+[21Dec2024 05:09:03.516] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k8w12180lxmt]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:03.517] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set minecraft:end_portal - Region: (-644, 143, -257) - (-644, 145, -256)
+[21Dec2024 05:09:03.519] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[21Dec2024 05:09:03.521] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.world.level.portal.PortalShape
+[21Dec2024 05:09:03.521] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to mda66547$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin
+[21Dec2024 05:09:07.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03hsl2o0pvrhr]: started parsing
+[21Dec2024 05:09:07.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03hsl2o0pvrhr]: Consuming argument `minecraft:end_portal`
+[21Dec2024 05:09:07.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03hsl2o0pvrhr]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:07.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1144a10uqinfo]: started parsing
+[21Dec2024 05:09:07.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1144a10uqinfo]: Consuming argument `minecraft:end_portal`
+[21Dec2024 05:09:07.696] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1144a10uqinfo]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:08.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpm32xgrcbrm]: started parsing
+[21Dec2024 05:09:08.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpm32xgrcbrm]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:09:08.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpm32xgrcbrm]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:08.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrqdi407drad]: started parsing
+[21Dec2024 05:09:08.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrqdi407drad]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:09:08.087] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrqdi407drad]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:08.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set minecraft:nether_portal
+[21Dec2024 05:09:08.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06oo3kxkxmlia]: started parsing
+[21Dec2024 05:09:08.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06oo3kxkxmlia]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:09:08.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06oo3kxkxmlia]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:08.897] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set minecraft:nether_portal - Region: (-644, 143, -257) - (-644, 145, -256)
+[21Dec2024 05:09:11.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [068edqynatvlf]: started parsing
+[21Dec2024 05:09:11.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [068edqynatvlf]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:09:11.860] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [068edqynatvlf]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:11.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7sta5ux1gaj]: started parsing
+[21Dec2024 05:09:11.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7sta5ux1gaj]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:09:11.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d7sta5ux1gaj]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:12.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [129lxxc4asfsb]: started parsing
+[21Dec2024 05:09:12.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [129lxxc4asfsb]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:09:12.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [129lxxc4asfsb]: Consuming argument ``
+[21Dec2024 05:09:12.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [129lxxc4asfsb]: parseRegularArgument: no arguments to attempt matching
+[21Dec2024 05:09:13.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3lvzc9072mb]: started parsing
+[21Dec2024 05:09:13.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3lvzc9072mb]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:09:13.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3lvzc9072mb]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:09:54.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:09:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:09:58.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:09:58.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:10:03.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:10:03.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:05.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:10:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:10:08.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:10:08.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:12.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:10:12.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:10:14.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:10:14.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
