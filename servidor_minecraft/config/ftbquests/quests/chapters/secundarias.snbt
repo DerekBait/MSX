@@ -5,32 +5,6 @@
 	group: "7D49A4E4372F4AD9"
 	icon: "dedsafio3:dedita"
 	id: "3DE6F4146002BC79"
-	images: [
-		{
-			height: 1.0d
-			image: "ftblibrary:icons/back"
-			rotation: 180.0d
-			width: 1.0d
-			x: -2.5d
-			y: -1.0d
-		}
-		{
-			height: 1.0d
-			image: "ftblibrary:icons/back"
-			rotation: 180.0d
-			width: 1.0d
-			x: -0.5d
-			y: -1.0d
-		}
-		{
-			height: 1.0d
-			image: "ftblibrary:icons/back"
-			rotation: 180.0d
-			width: 1.0d
-			x: 1.5d
-			y: -1.0d
-		}
-	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -58,12 +32,11 @@
 				value: 100L
 			}]
 			title: "Entrenamiento"
-			x: -3.5d
-			y: -1.0d
+			x: -7.0d
+			y: -5.0d
 		}
 		{
-			dependencies: ["696D00666E5E4EFE"]
-			hide_dependency_lines: true
+			dependencies: ["3FEE89C937FA2AC4"]
 			icon: {
 				Count: 1
 				id: "minecraft:iron_sword"
@@ -93,8 +66,77 @@
 				value: 500L
 			}]
 			title: "Entrenamiento"
-			x: -1.5d
-			y: -1.0d
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			id: "28717D173D8CB6D3"
+			rewards: [{
+				count: 3
+				id: "06D2723CBBCACD96"
+				item: "voltymod:deditaazul"
+				type: "item"
+			}]
+			subtitle: "Mata a 100 Creepers"
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: {
+					Count: 1
+					id: "minecraft:stone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4525EB9D579BD956"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Entrenamiento"
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["28717D173D8CB6D3"]
+			id: "7BD04C87E84921E1"
+			rewards: [{
+				count: 5
+				id: "353B855F176833EE"
+				item: "voltymod:deditaazul"
+				type: "item"
+			}]
+			subtitle: "Mata a 500 Crepeers"
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "28A05581571BF117"
+				type: "kill"
+				value: 500L
+			}]
+			title: "Entrenamiento"
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "755443535F870597"
+			rewards: [{
+				id: "1A9830C9E0FC0845"
+				item: "minecraft:stripped_oak_wood"
+				type: "item"
+			}]
+			tasks: [{
+				id: "484A02C641FD14A4"
+				stat: "minecraft:interact_with_anvil"
+				type: "stat"
+				value: 50
+			}]
+			x: 3.5d
+			y: -3.5d
 		}
 	]
 	title: "SECUNDARIAS"
