@@ -2788,3 +2788,13 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 06:07:11.849] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
 [21Dec2024 06:07:11.849] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
 [21Dec2024 06:07:11.849] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[21Dec2024 06:13:11.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tp Roberto_RS
+[21Dec2024 06:13:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to Roberto_RS]
+[21Dec2024 06:15:41.444] [Async Chat Thread - #30/INFO] [Console/]: <TheStranger> por que ponen linternas
+[21Dec2024 06:15:57.406] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_RS> q descanse en paz...
+[21Dec2024 06:16:05.653] [Async Chat Thread - #30/INFO] [Console/]: <TheStranger> por que ponen linternas
+[21Dec2024 06:16:19.169] [Async Chat Thread - #29/INFO] [Console/]: <TheStranger> por que ponen linternas
+[21Dec2024 06:17:23.736] [Async Chat Thread - #32/INFO] [Console/]: <TheStranger> no te escuchas nada
+[21Dec2024 06:17:41.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Disconnected
+[21Dec2024 06:17:41.249] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
+[21Dec2024 06:17:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game
