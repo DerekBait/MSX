@@ -21,6 +21,7 @@
       "minecraft:forest": "2024-12-21 20:53:33 +0000",
       "minecraft:windswept_forest": "2024-12-21 20:50:36 +0000",
       "minecraft:jungle": "2024-12-20 22:34:43 +0000",
+      "minecraft:windswept_savanna": "2024-12-21 22:36:24 +0000",
       "minecraft:savanna": "2024-12-21 20:46:00 +0000",
       "minecraft:plains": "2024-12-21 20:45:33 +0000"
     },
@@ -940,7 +941,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-21 22:24:46 +0000",
       "cooked_beef": "2024-12-21 21:26:05 +0000",
+      "beef": "2024-12-21 22:31:10 +0000",
+      "mutton": "2024-12-21 22:27:27 +0000",
       "bread": "2024-12-21 21:09:00 +0000",
       "carrot": "2024-12-21 22:18:15 +0000"
     },
@@ -1143,6 +1147,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-21 22:25:14 +0000"
     },
     "done": true
   },

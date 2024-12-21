@@ -16,6 +16,8 @@
       "minecraft:taiga": "2024-12-21 21:02:24 +0000",
       "minecraft:deep_ocean": "2024-12-21 20:44:08 +0000",
       "minecraft:frozen_river": "2024-12-21 20:59:23 +0000",
+      "minecraft:sunflower_plains": "2024-12-21 22:28:54 +0000",
+      "minecraft:birch_forest": "2024-12-21 22:32:22 +0000",
       "minecraft:bamboo_jungle": "2024-12-21 20:40:10 +0000",
       "minecraft:beach": "2024-12-21 20:52:00 +0000",
       "minecraft:dark_forest": "2024-12-21 22:21:49 +0000",
@@ -32,6 +34,7 @@
       "minecraft:snowy_beach": "2024-12-21 21:02:06 +0000",
       "minecraft:flower_forest": "2024-12-21 22:22:39 +0000",
       "minecraft:meadow": "2024-12-21 20:55:51 +0000",
+      "minecraft:savanna": "2024-12-21 22:24:08 +0000",
       "minecraft:plains": "2024-12-21 20:50:27 +0000"
     },
     "done": false
@@ -1539,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 22:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-21 22:03:11 +0000"
@@ -1560,6 +1569,12 @@
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2024-12-21 22:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-21 22:31:16 +0000"
     },
     "done": true
   },
@@ -1587,9 +1602,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 22:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-21 22:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-21 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-21 22:34:18 +0000"
     },
     "done": true
   },

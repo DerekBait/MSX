@@ -13,8 +13,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-21 22:31:35 +0000",
       "minecraft:windswept_hills": "2024-12-21 21:50:33 +0000",
       "minecraft:bamboo_jungle": "2024-12-21 20:40:27 +0000",
+      "minecraft:dark_forest": "2024-12-21 22:34:45 +0000",
+      "minecraft:sparse_jungle": "2024-12-21 22:29:09 +0000",
       "minecraft:river": "2024-12-21 21:49:20 +0000",
       "minecraft:forest": "2024-12-21 20:53:48 +0000",
       "minecraft:jungle": "2024-12-21 20:46:16 +0000",
@@ -1053,6 +1056,9 @@
     "criteria": {
       "cooked_porkchop": "2024-12-21 21:29:23 +0000",
       "cooked_mutton": "2024-12-21 21:16:14 +0000",
+      "beef": "2024-12-21 22:32:49 +0000",
+      "porkchop": "2024-12-21 22:34:38 +0000",
+      "mutton": "2024-12-21 22:30:07 +0000",
       "cooked_chicken": "2024-12-21 21:25:06 +0000"
     },
     "done": false
@@ -1248,6 +1254,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-21 21:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-21 22:28:27 +0000"
     },
     "done": true
   },
