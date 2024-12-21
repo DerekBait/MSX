@@ -1218,7 +1218,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-21 21:16:49 +0000"
+      "cooked_beef": "2024-12-21 21:16:49 +0000",
+      "bread": "2024-12-21 22:10:35 +0000"
     },
     "done": false
   },
@@ -1416,7 +1417,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-21 21:32:31 +0000"
+      "minecraft:skeleton": "2024-12-21 21:32:31 +0000",
+      "minecraft:spider": "2024-12-21 22:03:19 +0000",
+      "minecraft:zombie": "2024-12-21 22:03:38 +0000"
     },
     "done": false
   },
@@ -1534,9 +1537,27 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-21 22:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-21 22:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 21:58:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2024-12-21 22:16:14 +0000"
     },
     "done": true
   },
@@ -1555,6 +1576,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 21:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-21 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-21 22:13:02 +0000"
     },
     "done": true
   },

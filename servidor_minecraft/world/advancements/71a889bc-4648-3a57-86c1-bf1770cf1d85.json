@@ -23,6 +23,7 @@
       "minecraft:desert": "2024-12-21 21:18:20 +0000",
       "minecraft:windswept_forest": "2024-12-21 21:27:22 +0000",
       "minecraft:jungle": "2024-12-21 20:54:18 +0000",
+      "minecraft:ocean": "2024-12-21 22:08:58 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 21:35:40 +0000",
       "minecraft:savanna": "2024-12-21 21:16:43 +0000",
       "minecraft:plains": "2024-12-21 20:48:30 +0000"
@@ -1075,6 +1076,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-21 21:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-21 22:09:43 +0000"
     },
     "done": true
   },

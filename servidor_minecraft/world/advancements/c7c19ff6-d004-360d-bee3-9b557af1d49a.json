@@ -973,6 +973,8 @@
     "criteria": {
       "cooked_porkchop": "2024-12-21 21:50:45 +0000",
       "cooked_mutton": "2024-12-21 21:33:20 +0000",
+      "rotten_flesh": "2024-12-21 22:15:44 +0000",
+      "cooked_rabbit": "2024-12-21 22:05:25 +0000",
       "cooked_chicken": "2024-12-21 21:08:23 +0000"
     },
     "done": false
@@ -1403,6 +1405,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-21 22:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-21 22:15:00 +0000"
     },
     "done": true
   },

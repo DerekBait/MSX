@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b1a6cf57ec2b350c9deb2875675be5de"
+	name: "YoungVex#b1a6cf57"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
