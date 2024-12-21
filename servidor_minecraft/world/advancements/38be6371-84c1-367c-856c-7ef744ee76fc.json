@@ -1224,7 +1224,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-21 21:16:49 +0000",
-      "bread": "2024-12-21 22:10:35 +0000"
+      "bread": "2024-12-21 22:10:35 +0000",
+      "cooked_chicken": "2024-12-21 22:59:48 +0000"
     },
     "done": false
   },
@@ -1578,6 +1579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 22:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 21:58:26 +0000"
@@ -1701,6 +1708,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-21 21:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-21 22:58:34 +0000"
     },
     "done": true
   },

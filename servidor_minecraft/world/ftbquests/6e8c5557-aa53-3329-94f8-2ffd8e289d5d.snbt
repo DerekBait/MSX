@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6e8c5557aa53332994f82ffd8e289d5d"
+	name: "Duckis7405#6e8c5557"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

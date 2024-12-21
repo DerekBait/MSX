@@ -33,6 +33,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-20 23:07:29 +0000",
+      "minecraft:birch_forest": "2024-12-21 23:01:38 +0000",
       "minecraft:windswept_hills": "2024-12-21 22:13:44 +0000",
       "minecraft:bamboo_jungle": "2024-12-20 23:03:57 +0000",
       "minecraft:beach": "2024-12-21 03:35:18 +0000",
@@ -40,6 +41,7 @@
       "minecraft:sparse_jungle": "2024-12-20 23:20:23 +0000",
       "minecraft:river": "2024-12-21 01:09:01 +0000",
       "minecraft:lukewarm_ocean": "2024-12-21 22:50:33 +0000",
+      "minecraft:stony_shore": "2024-12-21 23:04:34 +0000",
       "minecraft:cold_ocean": "2024-12-21 21:38:41 +0000",
       "minecraft:forest": "2024-12-21 22:50:06 +0000",
       "minecraft:windswept_forest": "2024-12-21 22:13:53 +0000",
@@ -680,6 +682,7 @@
     "criteria": {
       "beef": "2024-12-21 21:31:54 +0000",
       "porkchop": "2024-12-21 22:20:25 +0000",
+      "apple": "2024-12-21 22:59:50 +0000",
       "mutton": "2024-12-21 22:54:12 +0000",
       "golden_apple": "2024-12-21 03:41:41 +0000",
       "bread": "2024-12-21 22:23:18 +0000",
@@ -1786,9 +1789,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-21 23:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2024-12-21 23:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 23:04:45 +0000"
     },
     "done": true
   },
@@ -1822,6 +1843,12 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/wool_black": {
+    "criteria": {
+      "has_wool": "2024-12-21 23:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:57:17 +0000"
@@ -1837,6 +1864,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-21 23:04:50 +0000"
     },
     "done": true
   },
@@ -1882,9 +1915,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 23:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 22:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-21 23:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-21 23:04:45 +0000"
     },
     "done": true
   },

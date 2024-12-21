@@ -1,0 +1,17 @@
+{
+	id: "322314c0-fabe-3e9e-9ffd-7ee418ee8f10"
+	type: "player"
+	player_name: "Roberto_mc1"
+	ranks: {
+		322314c0-fabe-3e9e-9ffd-7ee418ee8f10: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Roberto_mc1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#95FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "322314c0fabe3e9e9ffd7ee418ee8f10"
+	name: "Roberto_mc1#322314c0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

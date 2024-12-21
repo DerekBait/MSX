@@ -4,9 +4,18 @@
 	name: "crmoll1#8b0c1f8f"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		010B538D6BC690F0: 1
+	}
+	started: {
+		52493A0F5B5F90FE: 1734822241456L
+		010B538D6BC690F0: 1734822241456L
+		0000000000000001: 1734822241456L
+		100329D529858C6C: 1734822241456L
+	}
+	completed: {
+		010B538D6BC690F0: 1734822241456L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }
