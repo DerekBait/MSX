@@ -565,3 +565,93 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [21Dec2024 07:07:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set the weather to clear]
 [21Dec2024 07:07:54.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
 [21Dec2024 07:07:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:08:45.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 07:08:45.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 07:08:49.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[21Dec2024 07:08:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[21Dec2024 07:09:08.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 07:09:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:09:27.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 07:09:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 07:09:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[21Dec2024 07:10:01.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 07:10:01.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:10:16.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 07:10:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 07:10:58.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 07:10:58.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:11:55.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 07:11:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 07:13:11.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 07:13:11.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:13:14.149] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 07:13:20.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 07:13:20.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 07:13:21.302] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@757ae306[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:44589) lost connection: Disconnected
+[21Dec2024 07:13:27.022] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 07:13:28.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[21Dec2024 07:13:32.649] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a92bcdd[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:43813) lost connection: Disconnected
+[21Dec2024 07:13:39.835] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 07:13:55.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 07:13:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:14:03.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b7ed7c6[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:52631) lost connection: Disconnected
+[21Dec2024 07:14:08.833] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 07:14:20.398] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f52b130[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:60041) lost connection: Disconnected
+[21Dec2024 07:14:25.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:explosions 4 @e[type=dedsafio3:creeperpastel]
+[21Dec2024 07:14:27.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 07:14:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 07:14:27.320] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 07:14:28.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:44657] logged in with entity id 4144 at (2219.656268359861, 105.13763325645041, -1044.954898385524)
+[21Dec2024 07:14:28.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[21Dec2024 07:14:29.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[21Dec2024 07:14:29.185] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[21Dec2024 07:14:29.186] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[21Dec2024 07:14:30.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 07:14:31.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 07:14:31.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheStranger (18a829d5-be55-37d2-82e3-fffe14ee9f12) successfully connected to voice chat
+[21Dec2024 07:14:35.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp TheHollowKingMC
+[21Dec2024 07:14:35.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheStranger to TheHollowKingMC]
+[21Dec2024 07:14:37.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[21Dec2024 07:14:37.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[21Dec2024 07:14:38.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:explosions 4 @e[type=dedsafio3:creeperpastel]
+[21Dec2024 07:14:40.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[21Dec2024 07:14:41.087] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> deja de romper
+[21Dec2024 07:14:47.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 07:14:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:14:50.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[21Dec2024 07:14:50.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[21Dec2024 07:15:03.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[21Dec2024 07:15:03.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[21Dec2024 07:15:07.977] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> testeando
+[21Dec2024 07:15:08.300] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> derek
+[21Dec2024 07:15:20.282] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> ?
+[21Dec2024 07:15:31.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set pehkui:explosions 4 @e[type=dedsafio3:creeperpastel]
+[21Dec2024 07:15:33.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode survival
+[21Dec2024 07:15:33.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Survival Mode]
+[21Dec2024 07:15:34.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ TheHollowKingMC ha consumido un tótem!
+[21Dec2024 07:15:37.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 07:15:37.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 07:15:41.996] [Async Chat Thread - #0/INFO] [Console/]: <TheHollowKingMC> alm
+[21Dec2024 07:15:44.363] [Async Chat Thread - #1/INFO] [Console/]: <TheStranger> quita eso de destruir bases
+[21Dec2024 07:15:48.424] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> y lo dejas al final
+[21Dec2024 07:15:50.434] [Async Chat Thread - #0/INFO] [Console/]: <TheHollowKingMC> xq
+[21Dec2024 07:15:58.788] [Async Chat Thread - #1/INFO] [Console/]: <TheStranger> para que este bonito
+[21Dec2024 07:16:02.706] [Async Chat Thread - #1/INFO] [Console/]: <TheStranger> y hagan sus bases
+[21Dec2024 07:16:05.182] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> bonitas
+[21Dec2024 07:16:18.326] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> entonces quito el securyti?
+[21Dec2024 07:16:23.764] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> no
+[21Dec2024 07:16:33.248] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> lo de los cofres esta bien
+[21Dec2024 07:16:35.838] [Async Chat Thread - #0/INFO] [Console/]: <TheHollowKingMC> entonces
+[21Dec2024 07:16:40.413] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> para que no roben
+[21Dec2024 07:16:42.080] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> pedazo de idiota
+[21Dec2024 07:17:00.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set grass_block
+[21Dec2024 07:17:00.061] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set grass_block - Region: (2311, 70, -1043) - (2332, 70, -1019)
+[21Dec2024 07:17:01.530] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> tu solo has caso bb
+[21Dec2024 07:17:06.490] [Async Chat Thread - #1/INFO] [Console/]: <TheStranger> confia
+[21Dec2024 07:17:31.159] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> bn pero quitare el security
+[21Dec2024 07:17:34.881] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> noooo
+[21Dec2024 07:17:40.148] [Async Chat Thread - #1/INFO] [Console/]: <TheStranger> confiaaaaaaaa
+[21Dec2024 07:17:48.364] [Async Chat Thread - #0/INFO] [Console/]: <TheStranger> para dejar eso de raidear al dia 20
+[21Dec2024 07:17:54.028] [Async Chat Thread - #1/INFO] [Console/]: <TheStranger> o alguna mamada asi
+[21Dec2024 07:18:08.650] [Async Chat Thread - #1/INFO] [Console/]: <TheHollowKingMC> no
+[21Dec2024 07:18:17.888] [Async Chat Thread - #1/INFO] [Console/]: <TheStranger> siiiiiiiiiiiiiiiiii
