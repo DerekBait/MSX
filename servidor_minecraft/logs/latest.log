@@ -2096,3 +2096,23 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 04:48:00.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /stoptimer all
 [21Dec2024 04:48:38.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /stoptimer all
 [21Dec2024 04:48:52.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer remove RED
+[21Dec2024 04:51:02.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay list mob_pl
+[21Dec2024 04:51:02.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set display slot list to show objective mob_pl]
+[21Dec2024 04:51:16.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay list mostrarVida
+[21Dec2024 04:51:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set display slot list to show objective Vida]
+[21Dec2024 04:51:50.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay sidebar.team.dark_green mob_pl
+[21Dec2024 04:51:50.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set display slot sidebar.team.dark_green to show objective mob_pl]
+[21Dec2024 04:52:14.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players add DFF mob_pl 1
+[21Dec2024 04:52:14.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added 1 to [mob_pl] for DFF (now 1)]
+[21Dec2024 04:52:23.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode survival
+[21Dec2024 04:52:23.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Survival Mode]
+[21Dec2024 04:52:33.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary gamemode
+[21Dec2024 04:55:24.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[21Dec2024 04:55:43.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta verde @a A ROBERTO LE GUSTA LA VRG
+[21Dec2024 04:55:43.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde.mini.A' to 2 entities
+[21Dec2024 04:56:02.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta azul @a actionbar A ROBERTO LE GUSTA LA VRG
+[21Dec2024 04:56:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.azul.mini.actionbar' to 2 entities
+[21Dec2024 04:57:03.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC
+[21Dec2024 04:57:03.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[21Dec2024 04:59:27.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay sidebar
+[21Dec2024 04:59:27.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Cleared any objectives in display slot sidebar]
