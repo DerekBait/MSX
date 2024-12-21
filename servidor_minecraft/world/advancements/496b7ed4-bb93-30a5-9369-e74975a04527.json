@@ -26,6 +26,7 @@
       "minecraft:windswept_forest": "2024-12-21 21:27:30 +0000",
       "minecraft:ocean": "2024-12-21 21:08:01 +0000",
       "minecraft:windswept_savanna": "2024-12-21 22:07:31 +0000",
+      "minecraft:flower_forest": "2024-12-21 22:41:00 +0000",
       "minecraft:meadow": "2024-12-21 21:21:36 +0000",
       "minecraft:savanna": "2024-12-21 20:46:02 +0000",
       "minecraft:plains": "2024-12-21 20:45:35 +0000"
@@ -889,7 +890,8 @@
       "cooked_mutton": "2024-12-21 21:11:00 +0000",
       "cooked_beef": "2024-12-21 21:22:02 +0000",
       "mutton": "2024-12-21 22:32:33 +0000",
-      "bread": "2024-12-21 21:57:28 +0000"
+      "bread": "2024-12-21 21:57:28 +0000",
+      "carrot": "2024-12-21 22:43:21 +0000"
     },
     "done": false
   },
@@ -1297,9 +1299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-21 22:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-21 22:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-21 22:36:51 +0000"
     },
     "done": true
   },
@@ -1327,6 +1341,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-21 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-21 22:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-21 22:35:27 +0000"
@@ -1339,6 +1365,24 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-21 22:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-21 22:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-21 22:54:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 22:35:27 +0000"
@@ -1348,6 +1392,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-21 22:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-21 22:54:01 +0000"
     },
     "done": true
   },

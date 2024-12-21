@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2024-12-21 22:55:10 +0000",
       "minecraft:taiga": "2024-12-21 22:35:59 +0000",
       "minecraft:deep_ocean": "2024-12-21 22:03:43 +0000",
       "minecraft:frozen_river": "2024-12-21 22:24:08 +0000",
@@ -34,6 +35,7 @@
       "minecraft:ocean": "2024-12-21 21:56:37 +0000",
       "minecraft:snowy_beach": "2024-12-21 22:24:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 22:01:42 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-21 22:40:56 +0000",
       "minecraft:savanna": "2024-12-21 21:06:33 +0000",
       "minecraft:plains": "2024-12-21 21:02:18 +0000"
     },
@@ -1202,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-21 22:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-21 21:50:52 +0000"
@@ -1211,6 +1219,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-21 22:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-21 22:51:21 +0000"
     },
     "done": true
   },
@@ -1301,6 +1315,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 22:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-21 22:51:21 +0000"
     },
     "done": true
   },
