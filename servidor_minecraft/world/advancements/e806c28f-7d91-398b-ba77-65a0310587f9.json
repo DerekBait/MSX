@@ -17,11 +17,15 @@
       "minecraft:windswept_hills": "2024-12-21 20:50:33 +0000",
       "minecraft:bamboo_jungle": "2024-12-20 22:33:55 +0000",
       "minecraft:beach": "2024-12-21 22:19:46 +0000",
+      "minecraft:dark_forest": "2024-12-21 23:09:06 +0000",
       "minecraft:river": "2024-12-21 20:45:57 +0000",
+      "minecraft:stony_shore": "2024-12-21 23:13:35 +0000",
+      "minecraft:cold_ocean": "2024-12-21 23:10:17 +0000",
       "minecraft:forest": "2024-12-21 20:53:33 +0000",
       "minecraft:windswept_forest": "2024-12-21 20:50:36 +0000",
       "minecraft:jungle": "2024-12-20 22:34:43 +0000",
       "minecraft:windswept_savanna": "2024-12-21 22:36:24 +0000",
+      "minecraft:flower_forest": "2024-12-21 23:09:50 +0000",
       "minecraft:savanna": "2024-12-21 20:46:00 +0000",
       "minecraft:plains": "2024-12-21 20:45:33 +0000"
     },
@@ -1282,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2024-12-21 23:17:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 23:00:36 +0000"
@@ -1333,6 +1343,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-21 22:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-21 23:17:37 +0000"
     },
     "done": true
   },
@@ -1393,6 +1409,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-21 23:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-21 23:17:23 +0000"
     },
     "done": true
   },

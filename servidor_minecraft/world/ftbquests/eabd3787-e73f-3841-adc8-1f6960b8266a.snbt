@@ -35,6 +35,7 @@
 	}
 	player_data: {
 		eabd3787e73f3841adc81f6960b8266a: {
+			pinned_quests: ["100329D529858C6C"]
 			can_edit: 1b
 		}
 	}

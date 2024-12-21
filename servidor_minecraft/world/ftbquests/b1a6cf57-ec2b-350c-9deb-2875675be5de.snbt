@@ -15,5 +15,12 @@
 	}
 	completed: { }
 	claimed_rewards: { }
-	player_data: { }
+	player_data: {
+		b1a6cf57ec2b350c9deb2875675be5de: {
+			pinned_quests: [
+				"100329D529858C6C"
+				"2A899CBB8EB361A3"
+			]
+		}
+	}
 }
