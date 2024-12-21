@@ -4,8 +4,18 @@
 	name: "Roberto_mc1#322314c0"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
+	task_progress: {
+		4525EB9D579BD956: 5
+		696D00666E5E4EFE: 6
+	}
+	started: {
+		3FEE89C937FA2AC4: 1734823538858L
+		3DE6F4146002BC79: 1734823538858L
+		696D00666E5E4EFE: 1734823538858L
+		0000000000000001: 1734823538858L
+		4525EB9D579BD956: 1734823541466L
+		28717D173D8CB6D3: 1734823541466L
+	}
 	completed: { }
 	claimed_rewards: { }
 	player_data: { }

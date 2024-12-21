@@ -1624,5 +1624,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-21 23:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 23:20:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

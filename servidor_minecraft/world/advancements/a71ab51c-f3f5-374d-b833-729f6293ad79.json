@@ -729,6 +729,7 @@
       "minecraft:skeleton": "2024-12-21 21:08:28 +0000",
       "minecraft:spider": "2024-12-21 21:32:24 +0000",
       "minecraft:creeper": "2024-12-21 22:17:59 +0000",
+      "minecraft:phantom": "2024-12-21 23:20:57 +0000",
       "minecraft:enderman": "2024-12-21 22:52:55 +0000",
       "minecraft:zombie": "2024-12-21 21:32:50 +0000"
     },
@@ -821,7 +822,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-21 22:29:39 +0000",
-      "cooked_mutton": "2024-12-21 21:09:12 +0000"
+      "cooked_mutton": "2024-12-21 21:09:12 +0000",
+      "cooked_beef": "2024-12-21 23:21:14 +0000"
     },
     "done": false
   },
@@ -1311,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-21 23:25:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 23:04:09 +0000"
@@ -1332,6 +1340,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 23:20:25 +0000"
     },
     "done": true
   },

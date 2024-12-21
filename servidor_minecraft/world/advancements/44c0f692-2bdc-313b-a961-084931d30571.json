@@ -38,6 +38,7 @@
       "minecraft:snowy_beach": "2024-12-21 22:24:02 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 22:01:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 22:40:56 +0000",
+      "minecraft:meadow": "2024-12-21 23:27:39 +0000",
       "minecraft:savanna": "2024-12-21 21:06:33 +0000",
       "minecraft:plains": "2024-12-21 21:02:18 +0000"
     },
@@ -794,7 +795,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-21 21:16:32 +0000",
-      "minecraft:spider": "2024-12-21 22:12:57 +0000"
+      "minecraft:spider": "2024-12-21 22:12:57 +0000",
+      "minecraft:phantom": "2024-12-21 23:22:37 +0000"
     },
     "done": false
   },
@@ -1242,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-21 23:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-21 22:26:37 +0000"
@@ -1530,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 23:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 21:58:56 +0000"
@@ -1779,6 +1793,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-21 21:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-21 23:20:45 +0000"
     },
     "done": true
   },
