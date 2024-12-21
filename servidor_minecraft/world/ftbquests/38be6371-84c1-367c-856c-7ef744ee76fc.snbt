@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "38be637184c1367c856c7ef744ee76fc"
+	name: "Elganglybruh#38be6371"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

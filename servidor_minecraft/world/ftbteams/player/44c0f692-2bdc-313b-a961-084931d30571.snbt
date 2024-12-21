@@ -1,0 +1,17 @@
+{
+	id: "44c0f692-2bdc-313b-a961-084931d30571"
+	type: "player"
+	player_name: "luchooos"
+	ranks: {
+		44c0f692-2bdc-313b-a961-084931d30571: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "luchooos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

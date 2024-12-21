@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "496b7ed4bb9330a59369e74975a04527"
+	name: "Dropped_by_Parca#496b7ed4"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4525EB9D579BD956: 1
+	}
+	started: {
+		3DE6F4146002BC79: 1734816992440L
+		0000000000000001: 1734816992440L
+		4525EB9D579BD956: 1734816992440L
+		28717D173D8CB6D3: 1734816992440L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

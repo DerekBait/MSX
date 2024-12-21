@@ -1,0 +1,15 @@
+{
+	id: "9aa4b5e0-32a3-30dd-87ac-8514ea7c7001"
+	type: "player"
+	player_name: "TezzT"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TezzT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5995FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

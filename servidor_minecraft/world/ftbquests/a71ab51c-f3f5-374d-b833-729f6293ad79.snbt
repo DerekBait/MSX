@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a71ab51cf3f5374db833729f6293ad79"
+	name: "DudMat#a71ab51c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

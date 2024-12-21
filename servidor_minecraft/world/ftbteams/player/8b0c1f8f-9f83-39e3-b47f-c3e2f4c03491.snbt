@@ -1,0 +1,17 @@
+{
+	id: "8b0c1f8f-9f83-39e3-b47f-c3e2f4c03491"
+	type: "player"
+	player_name: "crmoll1"
+	ranks: {
+		8b0c1f8f-9f83-39e3-b47f-c3e2f4c03491: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "crmoll1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8A59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

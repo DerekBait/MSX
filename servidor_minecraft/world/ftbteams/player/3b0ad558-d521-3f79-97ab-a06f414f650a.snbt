@@ -1,0 +1,17 @@
+{
+	id: "3b0ad558-d521-3f79-97ab-a06f414f650a"
+	type: "player"
+	player_name: "ElMartinz"
+	ranks: {
+		3b0ad558-d521-3f79-97ab-a06f414f650a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ElMartinz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BCFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

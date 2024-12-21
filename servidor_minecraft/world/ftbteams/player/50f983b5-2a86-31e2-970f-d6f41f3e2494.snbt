@@ -1,0 +1,17 @@
+{
+	id: "50f983b5-2a86-31e2-970f-d6f41f3e2494"
+	type: "player"
+	player_name: "Ju4nsss"
+	ranks: {
+		50f983b5-2a86-31e2-970f-d6f41f3e2494: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Ju4nsss"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

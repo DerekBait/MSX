@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bff740fa1162312c921ea79d17c02fc7"
+	name: "brayanz78#bff740fa"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

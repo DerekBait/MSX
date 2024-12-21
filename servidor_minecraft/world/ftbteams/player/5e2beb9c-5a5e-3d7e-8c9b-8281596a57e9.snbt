@@ -1,0 +1,17 @@
+{
+	id: "5e2beb9c-5a5e-3d7e-8c9b-8281596a57e9"
+	type: "player"
+	player_name: "TGgohan_YT"
+	ranks: {
+		5e2beb9c-5a5e-3d7e-8c9b-8281596a57e9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TGgohan_YT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

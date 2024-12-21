@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "659e492215763700b27a7cd8a49a4a76"
+	name: "Miilanga_#659e4922"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4525EB9D579BD956: 1
+		696D00666E5E4EFE: 12
+	}
+	started: {
+		3FEE89C937FA2AC4: 1734815995590L
+		3DE6F4146002BC79: 1734815995590L
+		696D00666E5E4EFE: 1734815995590L
+		0000000000000001: 1734815995590L
+		4525EB9D579BD956: 1734817099687L
+		28717D173D8CB6D3: 1734817099687L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

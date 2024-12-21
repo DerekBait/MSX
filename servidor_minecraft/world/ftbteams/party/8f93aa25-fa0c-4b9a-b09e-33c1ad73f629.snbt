@@ -1,0 +1,32 @@
+{
+	id: "8f93aa25-fa0c-4b9a-b09e-33c1ad73f629"
+	type: "party"
+	owner: "c7c19ff6-d004-360d-bee3-9b557af1d49a"
+	ranks: {
+		c7c19ff6-d004-360d-bee3-9b557af1d49a: "owner"
+		a71ab51c-f3f5-374d-b833-729f6293ad79: "member"
+		1fa20113-834c-3deb-8400-816ba399a88d: "member"
+		9aa4b5e0-32a3-30dd-87ac-8514ea7c7001: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Its_JosiasX7's Party"
+		"ftbteams:description": "panchitos"
+		"ftbteams:color": "#59FFD1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734815947505L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Its_JosiasX7\"}]}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1734815975129L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DudMat\"}]}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1734815975129L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"UrielXD1123\"}]}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1734815975130L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"TezzT\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734815978943L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DudMat\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734815979996L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TezzT\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734815983689L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"UrielXD1123\"}]}" }
+		{ from: "1fa20113-834c-3deb-8400-816ba399a88d", date: 1734816019708L, text: "{\"text\":\"mi pene\"}" }
+		{ from: "1fa20113-834c-3deb-8400-816ba399a88d", date: 1734816023145L, text: "{\"text\":\"ou yea\"}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1734816025928L, text: "{\"text\":\"asdas\"}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1734816439296L, text: "{\"text\":\"asdasd\"}" }
+	]
+	extra: { }
+}

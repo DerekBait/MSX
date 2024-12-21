@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "bff740fa-1162-312c-921e-a79d17c02fc7",
+    "name": "brayanz78",
+    "created": "2024-12-21 21:06:06 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  },
+  {
+    "uuid": "e806c28f-7d91-398b-ba77-65a0310587f9",
+    "name": "Jesse",
+    "created": "2024-12-21 21:42:51 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  }
+]

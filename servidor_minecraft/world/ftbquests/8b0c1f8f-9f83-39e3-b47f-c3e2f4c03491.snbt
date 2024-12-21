@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8b0c1f8f9f8339e3b47fc3e2f4c03491"
+	name: "crmoll1#8b0c1f8f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

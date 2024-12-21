@@ -1,0 +1,17 @@
+{
+	id: "1f1cf208-9822-31d5-b484-55f14bb3b1a2"
+	type: "player"
+	player_name: "its_Duran25"
+	ranks: {
+		1f1cf208-9822-31d5-b484-55f14bb3b1a2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "its_Duran25"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

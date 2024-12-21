@@ -1,0 +1,17 @@
+{
+	id: "69132248-0a7b-3a93-bab9-c3ebffc90def"
+	type: "player"
+	player_name: "ComboxCbx"
+	ranks: {
+		69132248-0a7b-3a93-bab9-c3ebffc90def: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ComboxCbx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF598B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

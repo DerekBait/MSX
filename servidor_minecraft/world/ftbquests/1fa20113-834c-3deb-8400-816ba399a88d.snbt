@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1fa20113834c3deb8400816ba399a88d"
+	name: "UrielXD1123#1fa20113"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

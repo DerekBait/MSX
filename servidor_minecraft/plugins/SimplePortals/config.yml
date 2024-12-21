@@ -25,7 +25,7 @@ maintain-vehicle-velocity: true
 # (NOTE: This can kill the entity via fall damage under certain circumstances).
 maintain-entity-velocity: true
 # If this is enabled, all players will be able to use all portals.
-bypass-portal-permissions: false
+bypass-portal-permissions: true
 # If this is enabled, the player can teleport through portals with vehicles, such as Horses and Boats.
 vehicle-teleportation: true
 # If this is enabled, portal usage for creative mode players will be blocked entirely.

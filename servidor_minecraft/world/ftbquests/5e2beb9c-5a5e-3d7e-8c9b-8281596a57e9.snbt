@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "5e2beb9c5a5e3d7e8c9b8281596a57e9"
+	name: "TGgohan_YT#5e2beb9c"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		696D00666E5E4EFE: 4
+	}
+	started: {
+		3FEE89C937FA2AC4: 1734815322411L
+		3DE6F4146002BC79: 1734815322411L
+		696D00666E5E4EFE: 1734815322411L
+		0000000000000001: 1734815322411L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

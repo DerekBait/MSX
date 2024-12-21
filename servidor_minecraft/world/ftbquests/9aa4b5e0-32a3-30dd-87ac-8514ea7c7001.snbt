@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "9aa4b5e032a330dd87ac8514ea7c7001"
+	name: "TezzT#9aa4b5e0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

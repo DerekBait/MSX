@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "691322480a7b3a93bab9c3ebffc90def"
+	name: "ComboxCbx#69132248"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

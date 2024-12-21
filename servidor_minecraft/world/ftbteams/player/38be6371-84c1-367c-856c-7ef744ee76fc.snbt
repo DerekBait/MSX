@@ -1,0 +1,17 @@
+{
+	id: "38be6371-84c1-367c-856c-7ef744ee76fc"
+	type: "player"
+	player_name: "Elganglybruh"
+	ranks: {
+		38be6371-84c1-367c-856c-7ef744ee76fc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Elganglybruh"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFCD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

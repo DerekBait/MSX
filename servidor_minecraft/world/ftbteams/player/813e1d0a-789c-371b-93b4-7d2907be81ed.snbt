@@ -1,0 +1,15 @@
+{
+	id: "813e1d0a-789c-371b-93b4-7d2907be81ed"
+	type: "player"
+	player_name: "Zero12_"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Zero12_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF4229"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

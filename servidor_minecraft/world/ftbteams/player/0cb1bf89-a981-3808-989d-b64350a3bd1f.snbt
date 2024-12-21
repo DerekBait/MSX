@@ -1,0 +1,17 @@
+{
+	id: "0cb1bf89-a981-3808-989d-b64350a3bd1f"
+	type: "player"
+	player_name: "mine1430"
+	ranks: {
+		0cb1bf89-a981-3808-989d-b64350a3bd1f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "mine1430"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5997FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "c512fedf1be93293b3b7de252c20fb3c"
+	name: "NEX_1235#c512fedf"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4525EB9D579BD956: 1
+		696D00666E5E4EFE: 1
+	}
+	started: {
+		3FEE89C937FA2AC4: 1734815529714L
+		3DE6F4146002BC79: 1734815529714L
+		696D00666E5E4EFE: 1734815529714L
+		0000000000000001: 1734815529714L
+		4525EB9D579BD956: 1734815566979L
+		28717D173D8CB6D3: 1734815566979L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

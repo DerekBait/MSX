@@ -1,0 +1,15 @@
+{
+	id: "a71ab51c-f3f5-374d-b833-729f6293ad79"
+	type: "player"
+	player_name: "DudMat"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "DudMat"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

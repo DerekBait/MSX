@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "c7c19ff6d004360dbee39b557af1d49a"
+	name: "Its_JosiasX7#c7c19ff6"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4525EB9D579BD956: 1
+	}
+	started: {
+		3DE6F4146002BC79: 1734815321905L
+		0000000000000001: 1734815321905L
+		4525EB9D579BD956: 1734815321905L
+		28717D173D8CB6D3: 1734815321905L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "1691e1a3-3ab3-303f-8db9-0073b842edb8"
+	type: "player"
+	player_name: "HaedelJG"
+	ranks: {
+		1691e1a3-3ab3-303f-8db9-0073b842edb8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "HaedelJG"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

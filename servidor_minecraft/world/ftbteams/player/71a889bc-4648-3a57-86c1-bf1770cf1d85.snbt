@@ -1,0 +1,17 @@
+{
+	id: "71a889bc-4648-3a57-86c1-bf1770cf1d85"
+	type: "player"
+	player_name: "ronalrope"
+	ranks: {
+		71a889bc-4648-3a57-86c1-bf1770cf1d85: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ronalrope"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

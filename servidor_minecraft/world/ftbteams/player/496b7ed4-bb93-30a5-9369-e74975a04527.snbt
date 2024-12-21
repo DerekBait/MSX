@@ -1,0 +1,17 @@
+{
+	id: "496b7ed4-bb93-30a5-9369-e74975a04527"
+	type: "player"
+	player_name: "Dropped_by_Parca"
+	ranks: {
+		496b7ed4-bb93-30a5-9369-e74975a04527: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dropped_by_Parca"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5961"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

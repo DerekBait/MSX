@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "93210d5586803f3798e03f6fc07fd209"
+	name: "pocoquesoMB#93210d55"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

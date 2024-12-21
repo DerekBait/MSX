@@ -1,0 +1,17 @@
+{
+	id: "5481572b-b631-4a4f-9c13-6636ae7b6a1d"
+	type: "party"
+	owner: "93210d55-8680-3f37-98e0-3f6fc07fd209"
+	ranks: {
+		93210d55-8680-3f37-98e0-3f6fc07fd209: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wachiturros"
+		"ftbteams:description": "pitopitopito"
+		"ftbteams:color": "#05F6FB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1734814132267L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"pocoquesoMB\"}]}" }]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "659e4922-1576-3700-b27a-7cd8a49a4a76"
+	type: "player"
+	player_name: "Miilanga_"
+	ranks: {
+		659e4922-1576-3700-b27a-7cd8a49a4a76: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Miilanga_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5978"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

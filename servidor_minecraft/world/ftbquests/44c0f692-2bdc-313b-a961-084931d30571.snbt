@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "44c0f6922bdc313ba961084931d30571"
+	name: "luchooos#44c0f692"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

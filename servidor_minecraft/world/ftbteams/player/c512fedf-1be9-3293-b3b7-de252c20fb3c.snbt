@@ -1,0 +1,17 @@
+{
+	id: "c512fedf-1be9-3293-b3b7-de252c20fb3c"
+	type: "player"
+	player_name: "NEX_1235"
+	ranks: {
+		c512fedf-1be9-3293-b3b7-de252c20fb3c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NEX_1235"
+		"ftbteams:description": "Pene de Mono salvaje"
+		"ftbteams:color": "#0354FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

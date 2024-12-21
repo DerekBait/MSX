@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "0cb1bf89a9813808989db64350a3bd1f"
+	name: "mine1430#0cb1bf89"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		696D00666E5E4EFE: 2
+	}
+	started: {
+		3FEE89C937FA2AC4: 1734816344060L
+		3DE6F4146002BC79: 1734816344060L
+		696D00666E5E4EFE: 1734816344060L
+		0000000000000001: 1734816344060L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
