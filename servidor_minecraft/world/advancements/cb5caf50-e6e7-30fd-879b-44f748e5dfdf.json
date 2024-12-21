@@ -23,7 +23,8 @@
       "minecraft:jungle": "2024-12-20 23:20:02 +0000",
       "minecraft:ocean": "2024-12-21 00:42:47 +0000",
       "minecraft:frozen_peaks": "2024-12-21 05:02:03 +0000",
-      "minecraft:meadow": "2024-12-21 00:38:00 +0000"
+      "minecraft:meadow": "2024-12-21 00:38:00 +0000",
+      "minecraft:plains": "2024-12-21 05:24:42 +0000"
     },
     "done": false
   },
@@ -105,6 +106,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 23:14:34 +0000",
+      "minecraft:spider": "2024-12-21 05:28:29 +0000",
       "minecraft:creeper": "2024-12-21 04:20:36 +0000",
       "minecraft:evoker": "2024-12-21 04:06:02 +0000",
       "minecraft:endermite": "2024-12-21 04:28:07 +0000",
@@ -11728,17 +11730,17 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-21 05:12:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chorus_fruit": "2024-12-21 05:03:51 +0000"
     },
     "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-21 05:12:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

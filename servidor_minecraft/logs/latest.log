@@ -2210,3 +2210,85 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 05:18:18.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
 [21Dec2024 05:19:14.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
 [21Dec2024 05:19:14.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:20:46.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC lost connection: Timed out
+[21Dec2024 05:20:46.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheHollowKingMC
+[21Dec2024 05:20:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC left the game.
+[21Dec2024 05:20:46.446] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 05:22:28.481] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheHollowKingMC is cb5caf50-e6e7-30fd-879b-44f748e5dfdf
+[21Dec2024 05:22:29.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheHollowKingMC[/127.163.100.60:54715] logged in with entity id 10789 at (-482.23295215578713, 202.0, -244.9170166971373)
+[21Dec2024 05:22:29.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheHollowKingMC joined the game
+[21Dec2024 05:22:30.273] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheHollowKingMC (18)
+[21Dec2024 05:22:30.273] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheHollowKingMC
+[21Dec2024 05:22:33.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cb5caf50-e6e7-30fd-879b-44f748e5dfdf
+[21Dec2024 05:22:34.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cb5caf50-e6e7-30fd-879b-44f748e5dfdf
+[21Dec2024 05:22:34.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheHollowKingMC (cb5caf50-e6e7-30fd-879b-44f748e5dfdf) successfully connected to voice chat
+[21Dec2024 05:24:15.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary day
+[21Dec2024 05:24:41.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:overworld run tp @s 2204.03 64.00 -1014.70 1711.81 18.30
+[21Dec2024 05:24:41.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 2204.030000, 64.000000, -1014.700000]
+[21Dec2024 05:24:46.398] [Async Chat Thread - #14/INFO] [Console/]: <TheHollowKingMC> tp
+[21Dec2024 05:24:56.495] [Async Chat Thread - #13/INFO] [Console/]: <TheHollowKingMC> tp
+[21Dec2024 05:24:59.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[21Dec2024 05:24:59.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[21Dec2024 05:25:04.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute in minecraft:overworld run tp @s 2204.03 64.00 -1014.70 1711.81 18.30
+[21Dec2024 05:25:04.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Teleported TheHollowKingMC to 2204.030000, 64.000000, -1014.700000]
+[21Dec2024 05:25:09.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC
+[21Dec2024 05:25:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[21Dec2024 05:27:10.530] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Jesse is e806c28f-7d91-398b-ba77-65a0310587f9
+[21Dec2024 05:27:12.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jesse[/127.241.36.105:53653] logged in with entity id 12346 at (-610.2649972712624, 88.0, -307.48983022020155)
+[21Dec2024 05:27:12.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jesse joined the game
+[21Dec2024 05:27:12.741] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jesse (18)
+[21Dec2024 05:27:12.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jesse
+[21Dec2024 05:27:14.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e806c28f-7d91-398b-ba77-65a0310587f9
+[21Dec2024 05:27:15.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e806c28f-7d91-398b-ba77-65a0310587f9
+[21Dec2024 05:27:15.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Jesse (e806c28f-7d91-398b-ba77-65a0310587f9) successfully connected to voice chat
+[21Dec2024 05:27:18.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jesse lost connection: Disconnected
+[21Dec2024 05:27:18.905] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jesse
+[21Dec2024 05:27:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jesse left the game
+[21Dec2024 05:28:10.993] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:28:12.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:43951] logged in with entity id 12805 at (-3140.3335715594176, 166.25313711779816, -2996.458400210742)
+[21Dec2024 05:28:12.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[21Dec2024 05:28:13.195] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[21Dec2024 05:28:13.195] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[21Dec2024 05:28:14.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:28:15.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:28:15.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheStranger (18a829d5-be55-37d2-82e3-fffe14ee9f12) successfully connected to voice chat
+[21Dec2024 05:28:21.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /tp Roberto_RS
+[21Dec2024 05:28:21.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Teleported TheStranger to Roberto_RS]
+[21Dec2024 05:28:29.219] [Async Chat Thread - #16/INFO] [Console/]: <TheStranger> por que tenes mi skin
+[21Dec2024 05:28:33.290] [Async Chat Thread - #15/INFO] [Console/]: <TheHollowKingMC> ajajaja
+[21Dec2024 05:28:38.299] [Async Chat Thread - #16/INFO] [Console/]: <TheStranger> quitatelaaa
+[21Dec2024 05:28:44.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin cl
+[21Dec2024 05:28:46.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a subtitle /nam Thestranger
+[21Dec2024 05:28:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.subtitle' to 3 entities
+[21Dec2024 05:28:50.796] [Async Chat Thread - #15/INFO] [Console/]: <TheStranger> la sigo viendo
+[21Dec2024 05:28:53.378] [Async Chat Thread - #16/INFO] [Console/]: <TheStranger> malooooo
+[21Dec2024 05:29:08.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ban TheStranger
+[21Dec2024 05:29:08.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Banned TheStranger: Banned by an operator.]
+[21Dec2024 05:29:08.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: You are banned from this server
+[21Dec2024 05:29:08.477] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheStranger
+[21Dec2024 05:29:08.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[21Dec2024 05:29:08.499] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 05:29:16.756] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:29:18.406] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4f0b57ea[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33293): You are banned from this server.
+[21Dec2024 05:29:18.406] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f0b57ea[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33293) lost connection: You are banned from this server.
+[21Dec2024 05:29:18.449] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 05:29:19.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /skin clear
+[21Dec2024 05:29:26.704] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:29:28.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@40c2b46b[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33845): You are banned from this server.
+[21Dec2024 05:29:28.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40c2b46b[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33845) lost connection: You are banned from this server.
+[21Dec2024 05:29:28.196] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 05:29:49.012] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:29:53.096] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b4ec76b[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:60685) lost connection: Disconnected
+[21Dec2024 05:29:59.487] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:30:17.646] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75f91984[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:33217) lost connection: Disconnected
+[21Dec2024 05:30:23.646] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:30:25.197] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6d58be20[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:52971): You are banned from this server.
+[21Dec2024 05:30:25.197] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d58be20[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:52971) lost connection: You are banned from this server.
+[21Dec2024 05:30:25.247] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 05:30:27.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[21Dec2024 05:30:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned TheStranger]
+[21Dec2024 05:30:32.649] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:30:34.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:51247] logged in with entity id 13571 at (2222.4972598686463, 142.0, -1002.8694927515462)
+[21Dec2024 05:30:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[21Dec2024 05:30:34.668] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[21Dec2024 05:30:34.669] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger

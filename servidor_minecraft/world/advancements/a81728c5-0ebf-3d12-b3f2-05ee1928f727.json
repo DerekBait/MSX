@@ -20,7 +20,8 @@
       "minecraft:cold_ocean": "2024-12-20 22:55:29 +0000",
       "minecraft:jungle": "2024-12-20 22:50:08 +0000",
       "minecraft:ocean": "2024-12-21 00:42:58 +0000",
-      "minecraft:meadow": "2024-12-21 00:38:27 +0000"
+      "minecraft:meadow": "2024-12-21 00:38:27 +0000",
+      "minecraft:plains": "2024-12-21 05:25:09 +0000"
     },
     "done": false
   },
@@ -507,7 +508,8 @@
       "minecraft:creeper": "2024-12-21 04:50:49 +0000",
       "minecraft:evoker": "2024-12-21 04:09:36 +0000",
       "minecraft:enderman": "2024-12-21 04:23:13 +0000",
-      "minecraft:zombie": "2024-12-21 01:30:43 +0000"
+      "minecraft:zombie": "2024-12-21 01:30:43 +0000",
+      "minecraft:zombie_villager": "2024-12-21 05:29:31 +0000"
     },
     "done": false
   },
@@ -865,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-21 05:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 04:23:07 +0000"
@@ -874,6 +882,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-21 05:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-21 05:29:24 +0000"
     },
     "done": true
   },
@@ -907,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-21 05:29:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-21 05:04:35 +0000"
@@ -916,6 +936,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-21 05:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-21 05:29:24 +0000"
     },
     "done": true
   },
@@ -991,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-21 05:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-21 05:04:35 +0000"
@@ -1018,6 +1050,24 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-21 04:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-21 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-21 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-21 05:29:24 +0000"
     },
     "done": true
   },
