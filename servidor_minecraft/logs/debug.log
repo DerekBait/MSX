@@ -9770,3 +9770,143 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 04:19:14.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /dedsafio3 cambios
 [21Dec2024 04:19:27.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /dedsafio3 cambios
 [21Dec2024 04:19:31.143] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> yessir
+[21Dec2024 04:19:53.161] [Async Chat Thread - #6/INFO] [Console/]: <bosteritomop> me toco doble triple alv
+[21Dec2024 04:19:53.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC Roberto_RS
+[21Dec2024 04:19:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported TheHollowKingMC to Roberto_RS]
+[21Dec2024 04:20:14.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[21Dec2024 04:20:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[21Dec2024 04:20:18.826] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> aburrido
+[21Dec2024 04:20:23.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 04:20:23.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 04:20:23.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[21Dec2024 04:20:23.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[21Dec2024 04:20:30.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[21Dec2024 04:20:30.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[21Dec2024 04:20:36.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp 0 -100 0
+[21Dec2024 04:20:37.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to 0.500000, -100.000000, 0.500000]
+[21Dec2024 04:20:37.928] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/SnowLayerBlock$1
+[21Dec2024 04:20:39.138] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/AbstractMinecart$1
+[21Dec2024 04:20:39.144] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/damagesource/DamageSource$1
+[21Dec2024 04:20:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:20:44.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:20:47.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:20:49.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:20:52.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:20:54.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:20:56.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[21Dec2024 04:20:56.853] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[21Dec2024 04:20:58.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:00.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:04.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:06.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:08.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:10.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:12.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give TheHollowKingMC minecraft:command_block
+[21Dec2024 04:21:12.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Command Block] to TheHollowKingMC]
+[21Dec2024 04:21:12.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:14.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:16.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:20.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:30.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:34.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:36.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:38.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:38.898] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.brain.BrainUtilMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[21Dec2024 04:21:38.899] [Server thread/DEBUG] [mixin/]: Mixing compat119plus.LookTargetUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.BehaviorUtils
+[21Dec2024 04:21:40.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:42.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:44.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:48.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:50.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:54.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:21:55.682] [Async Chat Thread - #8/INFO] [Console/]: <bosteritomop> NOOO
+[21Dec2024 04:21:56.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[21Dec2024 04:22:01.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[21Dec2024 04:22:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[21Dec2024 04:22:03.821] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class immersive_paintings/resources/Painting$1
+[21Dec2024 04:22:30.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[21Dec2024 04:22:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[21Dec2024 04:22:51.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /summon dedsafio3:fantasmarojo
+[21Dec2024 04:22:51.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Summoned new Fantasma Rojo]
+[21Dec2024 04:23:03.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[21Dec2024 04:23:03.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[21Dec2024 04:23:09.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[21Dec2024 04:23:09.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[21Dec2024 04:23:40.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode creative
+[21Dec2024 04:23:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Creative Mode]
+[21Dec2024 04:24:47.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /execute as @e[type=enderman] at @s run kill @e[type=boat,distance=..2]
+[21Dec2024 04:24:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:05.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:06.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:06.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:13.084] [Async Chat Thread - #10/INFO] [Console/]: <bosteritomop> para la serie quiero la armor naranja eh
+[21Dec2024 04:25:14.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:15.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:17.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:18.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Roberto_RS) moved wrongly! 1.375
+[21Dec2024 04:25:18.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Roberto_RS) moved wrongly! 1.375
+[21Dec2024 04:25:18.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Roberto_RS) moved wrongly! 1.4004271666229897
+[21Dec2024 04:25:19.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Roberto_RS) moved wrongly! 1.4156834672029959
+[21Dec2024 04:25:23.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 04:25:23.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 04:25:23.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[21Dec2024 04:25:23.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[21Dec2024 04:25:23.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:25.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:25:51.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /damage @e[type=minecraft:boat] 10
+[21Dec2024 04:25:59.883] [Async Chat Thread - #9/INFO] [Console/]: <bosteritomop> asd
+[21Dec2024 04:26:00.797] [Async Chat Thread - #10/INFO] [Console/]: <bosteritomop> ?
+[21Dec2024 04:26:13.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ban bosteritomop
+[21Dec2024 04:26:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Banned bosteritomop: Banned by an operator.]
+[21Dec2024 04:26:13.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You are banned from this server
+[21Dec2024 04:26:13.732] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of bosteritomop
+[21Dec2024 04:26:13.733] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[21Dec2024 04:26:13.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[21Dec2024 04:26:13.758] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 04:26:13.884] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player eabd3787-e73f-3841-adc8-1f6960b8266a does not have a secret
+[21Dec2024 04:26:32.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /damage @r
+[21Dec2024 04:26:42.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta naranja @a subtitle Como mi primer mandato los evokers no dropearan totems
+[21Dec2024 04:26:42.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
+[21Dec2024 04:27:07.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Enderman: Killed Boat]
+[21Dec2024 04:27:48.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta naranja @a subtitle Ahora el nether estara desabilitado
+[21Dec2024 04:27:48.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
+[21Dec2024 04:27:52.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC
+[21Dec2024 04:27:52.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[21Dec2024 04:28:30.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta naranja @a subtitile Ahora los endermans no podran subirse a un barco
+[21Dec2024 04:28:30.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitile' to 2 entities
+[21Dec2024 04:28:42.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta naranja @a subtitle Ahora los endermans no podran subirse a un barco
+[21Dec2024 04:28:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja.mini.subtitle' to 2 entities
+[21Dec2024 04:28:44.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC
+[21Dec2024 04:28:44.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
