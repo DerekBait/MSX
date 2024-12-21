@@ -2798,3 +2798,5 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 06:17:41.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS lost connection: Disconnected
 [21Dec2024 06:17:41.249] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_RS
 [21Dec2024 06:17:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_RS left the game
+[21Dec2024 06:31:28.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[21Dec2024 06:31:28.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
