@@ -34,6 +34,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-20 23:07:29 +0000",
       "minecraft:bamboo_jungle": "2024-12-20 23:03:57 +0000",
+      "minecraft:beach": "2024-12-21 03:35:18 +0000",
       "minecraft:sparse_jungle": "2024-12-20 23:20:23 +0000",
       "minecraft:river": "2024-12-21 01:09:01 +0000",
       "minecraft:jungle": "2024-12-20 23:17:10 +0000",
@@ -844,6 +845,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-21 03:28:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-21 03:36:36 +0000"
     },
     "done": true
   },

@@ -4,9 +4,20 @@
 	name: "bosteritomop#eabd3787"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
+	task_progress: {
+		696D00666E5E4EFE: 1
+	}
+	started: {
+		3FEE89C937FA2AC4: 1734752118591L
+		3DE6F4146002BC79: 1734752118591L
+		696D00666E5E4EFE: 1734752118591L
+		0000000000000001: 1734752118591L
+	}
 	completed: { }
 	claimed_rewards: { }
-	player_data: { }
+	player_data: {
+		eabd3787e73f3841adc81f6960b8266a: {
+			can_edit: 1b
+		}
+	}
 }
