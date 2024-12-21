@@ -207,5 +207,5 @@ Events:
     - '%victim_block_world% == DEDSAFIO 3 - By TheNeitorLoL'
     actions:
       default:
-      - 'message: sco'
-    enabled: true
+      - 'console_command: scoreboard players add Contador: MOBS_MUERTOS 1'
+    enabled: false

@@ -2026,3 +2026,73 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 04:38:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Created new objective [mob_pl]]
 [21Dec2024 04:39:03.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay sidebar mob_all
 [21Dec2024 04:39:03.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set display slot sidebar to show objective mob_all]
+[21Dec2024 04:40:17.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players add \uEAA3 mob_all 1
+[21Dec2024 04:40:17.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added 1 to [mob_all] for \uEAA3 (now 1)]
+[21Dec2024 04:40:30.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players remove \uEAA3 mob_all 1
+[21Dec2024 04:40:30.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Removed 1 from [mob_all] for \uEAA3 (now 0)]
+[21Dec2024 04:40:50.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives add MOBS_MUERTOS dummy
+[21Dec2024 04:40:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Created new objective [MOBS_MUERTOS]]
+[21Dec2024 04:41:08.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players remove Contador: MOBS_MUERTOSl 1
+[21Dec2024 04:41:21.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay sidebar
+[21Dec2024 04:41:21.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Cleared any objectives in display slot sidebar]
+[21Dec2024 04:41:25.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard objectives setdisplay sidebar MOBS_MUERTOS
+[21Dec2024 04:41:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set display slot sidebar to show objective MOBS_MUERTOS]
+[21Dec2024 04:41:27.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players remove Contador: MOBS_MUERTOSl 1
+[21Dec2024 04:41:31.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players remove Contador: MOBS_MUERTOS 1
+[21Dec2024 04:41:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Removed 1 from [MOBS_MUERTOS] for Contador: (now -1)]
+[21Dec2024 04:41:38.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players add Contador: MOBS_MUERTOS 1
+[21Dec2024 04:41:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added 1 to [MOBS_MUERTOS] for Contador: (now 0)]
+[21Dec2024 04:43:04.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce reload
+[21Dec2024 04:43:12.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 1)
+[21Dec2024 04:43:16.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 2)
+[21Dec2024 04:43:23.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 3)
+[21Dec2024 04:43:40.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players remove Contador: MOBS_MUERTOS 3
+[21Dec2024 04:43:40.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Removed 3 from [MOBS_MUERTOS] for Contador: (now 0)]
+[21Dec2024 04:43:55.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /debug stop
+[21Dec2024 04:44:03.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce debug revil1
+[21Dec2024 04:44:11.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[21Dec2024 04:45:05.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta roja @a subtitle Todos Los jugadores deberan matar a 1000 entidades o de lo contrario 10 personas a alazar iran a un paekur de la muerte
+[21Dec2024 04:45:05.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.subtitle' to 2 entities
+[21Dec2024 04:45:32.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 1)
+[21Dec2024 04:45:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 2)
+[21Dec2024 04:45:46.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 3)
+[21Dec2024 04:45:46.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 4)
+[21Dec2024 04:45:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 5)
+[21Dec2024 04:45:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 6)
+[21Dec2024 04:45:51.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 7)
+[21Dec2024 04:45:53.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 8)
+[21Dec2024 04:45:54.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 9)
+[21Dec2024 04:45:55.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer set 10
+[21Dec2024 04:45:57.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 10)
+[21Dec2024 04:46:00.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 11)
+[21Dec2024 04:46:01.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 12)
+[21Dec2024 04:46:02.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer set 00:10:00
+[21Dec2024 04:46:03.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 13)
+[21Dec2024 04:46:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 14)
+[21Dec2024 04:46:08.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer set 00:10:00 RED
+[21Dec2024 04:46:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 15)
+[21Dec2024 04:46:09.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 16)
+[21Dec2024 04:46:11.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 17)
+[21Dec2024 04:46:14.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 18)
+[21Dec2024 04:46:15.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 19)
+[21Dec2024 04:46:16.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 20)
+[21Dec2024 04:46:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 21)
+[21Dec2024 04:46:18.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 22)
+[21Dec2024 04:46:19.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 23)
+[21Dec2024 04:46:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 24)
+[21Dec2024 04:46:26.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 25)
+[21Dec2024 04:46:26.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 26)
+[21Dec2024 04:46:30.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 27)
+[21Dec2024 04:46:31.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 28)
+[21Dec2024 04:46:35.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 29)
+[21Dec2024 04:46:41.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 30)
+[21Dec2024 04:46:41.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 31)
+[21Dec2024 04:46:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 32)
+[21Dec2024 04:46:46.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added 1 to [MOBS_MUERTOS] for Contador: (now 33)
+[21Dec2024 04:47:00.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scoreboard players remove Contador: MOBS_MUERTOS 33
+[21Dec2024 04:47:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Removed 33 from [MOBS_MUERTOS] for Contador: (now 0)]
+[21Dec2024 04:47:12.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ce disable revil1
+[21Dec2024 04:47:40.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer remove
+[21Dec2024 04:48:00.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /stoptimer all
+[21Dec2024 04:48:38.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /stoptimer all
+[21Dec2024 04:48:52.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer remove RED
