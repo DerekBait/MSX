@@ -21,16 +21,8 @@
 			id: "3FEE89C937FA2AC4"
 			rewards: [{
 				count: 3
-				id: "6023D04270EC1151"
-				item: {
-					Count: 1
-					id: "dedsafio3:dedita"
-					tag: {
-						display: {
-							Name: "{\"text\":\"Dedita\",\"color\":\"blue\"}"
-						}
-					}
-				}
+				id: "419188B7D1459CD2"
+				item: "voltymod:deditaazul"
 				type: "item"
 			}]
 			subtitle: "Mata a 100 Zombies"
@@ -64,16 +56,8 @@
 			id: "749374827207B081"
 			rewards: [{
 				count: 5
-				id: "53F04B1D020BACB1"
-				item: {
-					Count: 1
-					id: "dedsafio3:dedita"
-					tag: {
-						display: {
-							Name: "{\"text\":\"Dedita\",\"color\":\"blue\"}"
-						}
-					}
-				}
+				id: "7D6AE76A8A742E0E"
+				item: "voltymod:deditaazul"
 				type: "item"
 			}]
 			subtitle: "Mata a 500 Zombies"

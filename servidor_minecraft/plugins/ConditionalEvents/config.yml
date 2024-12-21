@@ -144,7 +144,8 @@ Events:
     - '%item_name% == Dedita Día 1'
     actions:
       default:
-      - 'console_command: tellraw @a {"text":"⚙ El Jugador %player% Ha Completado la Mision Diaria","color":"aqua"}'
+      - 'console_command: tellraw @a {"text":"⚙ El Jugador %player% Ha Completado
+        la Mision Diaria","color":"aqua"}'
       - 'console_command: give %player% voltymod:deditaazul 5'
       - 'console_command: clear %player% dedsafio3:dedita_mision'
     enabled: true
@@ -160,4 +161,43 @@ Events:
     actions:
       default:
       - 'console_command: shopkeeper open altar1 %player%'
+    enabled: true
+  event10:
+    type: block_interact
+    conditions:
+    - '%block_x% == -592'
+    - '%block_y% == 141'
+    - '%block_z% == -290'
+    - '%block_world% == DEDSAFIO 3 - By TheNeitorLoL'
+    - '%block% == VOLTYMOD_PILAR_CELESTE'
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:
+      - 'console_command: shopkeeper open altar3 %player%'
+    enabled: true
+  event11:
+    type: block_interact
+    conditions:
+    - '%block_x% == -598'
+    - '%block_y% == 141'
+    - '%block_z% == -290'
+    - '%block_world% == DEDSAFIO 3 - By TheNeitorLoL'
+    - '%block% == VOLTYMOD_PILAR_ROJO'
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:
+      - 'console_command: shopkeeper open altar4 %player%'
+    enabled: true
+  event12:
+    type: block_interact
+    conditions:
+    - '%block_x% == -600'
+    - '%block_y% == 141'
+    - '%block_z% == -287'
+    - '%block_world% == DEDSAFIO 3 - By TheNeitorLoL'
+    - '%block% == VOLTYMOD_PILARA_AMARILLO'
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:
+      - 'console_command: shopkeeper open altar2 %player%'
     enabled: true

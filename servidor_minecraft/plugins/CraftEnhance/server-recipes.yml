@@ -37,7 +37,6 @@ disabled:
 - cataclysm:cursed_bow
 - casinocraft:arcade_slot_lime
 - casinocraft:cardtable_base_lime
-- securitycraft:mine
 - casinocraft:cardtable_wide_light_blue
 - casinocraft:cardtable_base_blue
 - casinocraft:cardtable_wide_orange
@@ -245,3 +244,6 @@ disabled:
 - dedsafio3:casco_n
 - cataclysm:smithing/ignitium_leggings
 - cataclysm:amethyst_bless/blessed_amethyst_crab_meat
+- securitycraft:reinforced_granite_wall
+- securitycraft:mine
+- securitycraft:track_mine

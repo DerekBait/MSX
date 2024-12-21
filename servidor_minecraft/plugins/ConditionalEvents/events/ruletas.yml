@@ -68,26 +68,30 @@ Events:
       - 'cancel_event: true'
       - 'console_command: tag %arg_2% add anim.ruleta.naranja'
       - 'wait: 14'
-      - 'console_command: tellraw %arg_2% [{"text":"\n\uEA9F"},{"text":" ‣ CAMBIO DE DIFICULTAD:\n","color":"gold","bold":true}]'
+      - 'console_command: tellraw %arg_2% [{"text":"\n\uEA9F"},{"text":" ‣ CAMBIO
+        DE DIFICULTAD:\n","color":"gold","bold":true}]'
       - 'console_command: tellraw %arg_2% {"text":"%args_substring_4-999%","color":"#ffdcc4"}'
       mini_naranja:
       - 'cancel_event: true'
       - 'console_command: tag %arg_2% add anim.ruleta.naranja.mini.%arg_3%'
       - 'wait: 14'
-      - 'console_command: tellraw %arg_2% [{"text":"\n\uEA9F"},{"text":" ‣ CAMBIO DE DIFICULTAD:\n","color":"gold","bold":true}]'
+      - 'console_command: tellraw %arg_2% [{"text":"\n\uEA9F"},{"text":" ‣ CAMBIO
+        DE DIFICULTAD:\n","color":"gold","bold":true}]'
       - 'console_command: tellraw %arg_2% {"text":"%args_substring_4-999%","color":"#ffdcc4"}'
       roja:
       - 'cancel_event: true'
       - 'console_command: tag %arg_2% add anim.ruleta.roja'
       - 'wait: 25'
       - 'to_all: playsound: BLOCK_NOTE_BLOCK_BIT;10;2.0'
-      - 'console_command: tellraw %arg_2% [{"text":"\n\uEAA0"},{"text":" ‣ MOMENTO REVIIL:\n","color":"red","bold":true}]'
+      - 'console_command: tellraw %arg_2% [{"text":"\n\uEAA0"},{"text":" ‣ MOMENTO
+        REVIIL:\n","color":"red","bold":true}]'
       - 'console_command: tellraw %arg_2% {"text":"%args_substring_4-999%","color":"#ffc3c3"}'
       mini_roja:
       - 'cancel_event: true'
       - 'console_command: tag %arg_2% add anim.ruleta.roja.mini.%arg_3%'
       - 'wait: 14'
-      - 'console_command: tellraw %arg_2% [{"text":"\n\uEAA0"},{"text":" ‣ MOMENTO REVIIL:\n","color":"red","bold":true}]'
+      - 'console_command: tellraw %arg_2% [{"text":"\n\uEAA0"},{"text":" ‣ MOMENTO
+        REVIIL:\n","color":"red","bold":true}]'
       - 'console_command: tellraw %arg_2% {"text":"%args_substring_4-999%","color":"#ffc3c3"}'
       rosada:
       - 'cancel_event: true'
@@ -126,3 +130,4 @@ Events:
       - 'wait: 14'
       - 'console_command: tellraw %arg_2% [{"text":"\uEAA3"},{"text":" ‣ PASO DE VERDE:\n","color":"green","bold":true}]'
       - 'console_command: tellraw %arg_2% {"text":"%args_substring_4-999%","color":"#d4ffda"}'
+    enabled: true
