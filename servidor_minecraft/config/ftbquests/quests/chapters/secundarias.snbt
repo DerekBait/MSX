@@ -123,20 +123,24 @@
 			y: 0.0d
 		}
 		{
-			id: "755443535F870597"
+			id: "696FD2C48E4EC9FA"
 			rewards: [{
-				id: "1A9830C9E0FC0845"
-				item: "minecraft:stripped_oak_wood"
+				count: 2
+				id: "2C396B202726F5F1"
+				item: "voltymod:deditaazul"
 				type: "item"
 			}]
+			subtitle: "Encanta 15 Objetos"
 			tasks: [{
-				id: "484A02C641FD14A4"
-				stat: "minecraft:interact_with_anvil"
+				icon: "minecraft:enchanting_table"
+				id: "733E11D507D34298"
+				stat: "minecraft:enchant_item"
 				type: "stat"
-				value: 50
+				value: 15
 			}]
-			x: 3.5d
-			y: -3.5d
+			title: "Entrenamiento"
+			x: -7.0d
+			y: -2.5d
 		}
 	]
 	title: "SECUNDARIAS"
