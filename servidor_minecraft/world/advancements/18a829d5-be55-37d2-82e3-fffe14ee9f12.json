@@ -211,30 +211,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-20 23:30:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-20 23:30:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-20 23:30:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2024-12-20 23:30:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-20 23:41:09 +0000"
@@ -344,60 +320,6 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-21 00:03:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/birch_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2024-12-21 00:12:14 +0000"
     },
     "done": true
   },
@@ -671,12 +593,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2024-12-21 01:24:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2024-12-21 01:26:08 +0000"
@@ -755,18 +671,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_key_changer": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/alarm": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-21 01:30:58 +0000"
@@ -774,36 +678,6 @@
     "done": true
   },
   "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_piston": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-21 01:30:58 +0000"
     },
@@ -827,49 +701,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_frame": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/portable_radar": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/claymore": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/panic_button": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-12-21 01:30:58 +0000"
     },
@@ -881,39 +713,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_modifier": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dropper": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cage_trap": {
-    "criteria": {
-      "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-21 01:30:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-21 06:28:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2024-12-21 06:29:04 +0000"
     },
     "done": true
   },
@@ -929,21 +731,129 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "golden_apple": "2024-12-21 06:12:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-21 06:12:05 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2024-12-21 06:12:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-21 06:28:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-21 06:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-21 06:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-21 07:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-21 07:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-21 07:19:13 +0000"
     },
     "done": true
   },
