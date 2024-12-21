@@ -2424,3 +2424,23 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 05:50:32.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b5c412e[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:50485) lost connection: Disconnected
 [21Dec2024 05:50:37.782] [User Authenticator #39/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
 [21Dec2024 05:50:56.646] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61348526[id=18a829d5-be55-37d2-82e3-fffe14ee9f12,name=TheStranger,properties={},legacy=false] (/127.241.36.105:43569) lost connection: Disconnected
+[21Dec2024 05:51:02.776] [User Authenticator #40/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:51:04.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:45559] logged in with entity id 17896 at (2232.7818469488993, 149.36813634836992, -1033.1681149547874)
+[21Dec2024 05:51:04.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[21Dec2024 05:51:04.665] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[21Dec2024 05:51:04.665] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[21Dec2024 05:51:05.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:51:06.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:51:06.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheStranger (18a829d5-be55-37d2-82e3-fffe14ee9f12) successfully connected to voice chat
+[21Dec2024 05:56:33.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /effect give Roberto_RS minecraft:night_vision infinite
+[21Dec2024 05:56:33.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Applied effect Night Vision to Roberto_RS]
+[21Dec2024 05:58:54.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /weather clear
+[21Dec2024 05:58:54.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set the weather to clear]
+[21Dec2024 05:59:29.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[21Dec2024 05:59:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[21Dec2024 05:59:30.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[21Dec2024 05:59:30.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[21Dec2024 05:59:32.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[21Dec2024 05:59:32.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[21Dec2024 05:59:34.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[21Dec2024 05:59:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
