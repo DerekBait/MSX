@@ -1733,3 +1733,159 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 04:09:28.149] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
 [21Dec2024 04:09:28.149] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
 [21Dec2024 04:09:28.149] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[21Dec2024 04:10:18.004] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:10:42.598] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41765[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:42969) lost connection: Disconnected
+[21Dec2024 04:10:43.751] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:10:45.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:45813] logged in with entity id 1583 at (-548.4282079642247, 138.0, -265.08292353414464)
+[21Dec2024 04:10:45.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[21Dec2024 04:10:45.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[21Dec2024 04:10:45.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[21Dec2024 04:10:46.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:10:47.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:10:47.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bosteritomop (eabd3787-e73f-3841-adc8-1f6960b8266a) successfully connected to voice chat
+[21Dec2024 04:10:50.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /tp Roberto_RS
+[21Dec2024 04:10:50.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Teleported bosteritomop to Roberto_RS]
+[21Dec2024 04:11:05.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kick bosteritomop
+[21Dec2024 04:11:05.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Kicked by an operator
+[21Dec2024 04:11:05.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[21Dec2024 04:11:05.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[21Dec2024 04:11:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Kicked bosteritomop: Kicked by an operator]
+[21Dec2024 04:11:05.600] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 04:11:07.549] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:11:19.897] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@218ad0c5[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:41359) lost connection: Disconnected
+[21Dec2024 04:11:20.915] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:11:28.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@432f265e[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:60533) lost connection: Disconnected
+[21Dec2024 04:11:30.084] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:11:31.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:40611] logged in with entity id 1667 at (-595.0660460876758, 143.54572756313755, -280.6330472886425)
+[21Dec2024 04:11:31.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[21Dec2024 04:11:31.902] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[21Dec2024 04:11:31.906] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[21Dec2024 04:11:32.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:11:33.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:11:33.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bosteritomop (eabd3787-e73f-3841-adc8-1f6960b8266a) successfully connected to voice chat
+[21Dec2024 04:11:51.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /kick bosteritomop
+[21Dec2024 04:11:51.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Kicked by an operator
+[21Dec2024 04:11:51.411] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[21Dec2024 04:11:51.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[21Dec2024 04:11:51.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Kicked bosteritomop: Kicked by an operator]
+[21Dec2024 04:11:51.447] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 04:11:53.402] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:11:58.246] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@138065c1[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:57915) lost connection: Disconnected
+[21Dec2024 04:11:59.960] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:12:16.817] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_RS> asd{
+[21Dec2024 04:12:20.596] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@763fe17e[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:60011) lost connection: Disconnected
+[21Dec2024 04:12:23.499] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[21Dec2024 04:12:47.546] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[21Dec2024 04:12:47.547] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[21Dec2024 04:12:47.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26f46769[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:55299) lost connection: Disconnected
+[21Dec2024 04:12:50.713] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:13:20.498] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cdddc91[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:35511) lost connection: Disconnected
+[21Dec2024 04:13:26.965] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:13:42.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:13:46.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:13:48.046] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4070497e[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:39839) lost connection: Disconnected
+[21Dec2024 04:13:49.632] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:13:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:13:55.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:14:18.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:14:19.397] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65ea9e61[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:39423) lost connection: Disconnected
+[21Dec2024 04:14:23.902] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:14:27.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:14:53.700] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cef99f4[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:57699) lost connection: Disconnected
+[21Dec2024 04:14:58.799] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:15:28.597] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4332f3d3[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:41337) lost connection: Disconnected
+[21Dec2024 04:15:34.651] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:15:55.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:16:00.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:16:04.447] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b0387ad[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.40.149.19:41941) lost connection: Disconnected
+[21Dec2024 04:16:07.785] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:16:09.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.40.149.19:37339] logged in with entity id 2217 at (-589.2486233112452, 142.79619771833848, -285.1817878077136)
+[21Dec2024 04:16:09.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[21Dec2024 04:16:09.527] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[21Dec2024 04:16:09.527] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[21Dec2024 04:16:10.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:16:11.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player eabd3787-e73f-3841-adc8-1f6960b8266a
+[21Dec2024 04:16:11.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bosteritomop (eabd3787-e73f-3841-adc8-1f6960b8266a) successfully connected to voice chat
+[21Dec2024 04:16:18.593] [Async Chat Thread - #2/INFO] [Console/]: <bosteritomop> no veo
+[21Dec2024 04:16:19.846] [Async Chat Thread - #2/INFO] [Console/]: <bosteritomop> me muteo
+[21Dec2024 04:16:39.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:16:39.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /gamemode survival
+[21Dec2024 04:16:39.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bosteritomop: Set own game mode to Survival Mode]
+[21Dec2024 04:16:49.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:16:55.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:17:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Totem of Undying]
+[21Dec2024 04:17:22.998] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[21Dec2024 04:17:22.998] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[21Dec2024 04:17:22.999] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[21Dec2024 04:17:36.079] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> lpm
+[21Dec2024 04:17:47.030] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> SII
+[21Dec2024 04:18:27.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /msg Roberto_RS me desmutee un cacho y hay un cambio /dedsafio3 cambios lavamortal
+[21Dec2024 04:18:37.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /msg Roberto_RS ya me muteo de vuelta
+[21Dec2024 04:18:49.432] [Async Chat Thread - #6/INFO] [Console/]: <bosteritomop> te ando diciendo un comando pndj
+[21Dec2024 04:19:14.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /dedsafio3 cambios
+[21Dec2024 04:19:27.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /dedsafio3 cambios
+[21Dec2024 04:19:31.143] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> yessir

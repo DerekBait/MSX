@@ -502,6 +502,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:evoker": "2024-12-21 04:09:36 +0000",
       "minecraft:zombie": "2024-12-21 01:30:43 +0000"
     },
     "done": false
@@ -839,6 +840,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-12-21 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-21 04:06:09 +0000"
     },
     "done": true
   },

@@ -93,22 +93,8 @@ data-version: 3|2|3465
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: TOTEM_OF_UNDYING
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3465
         type: VOLTYMOD_DEDITAAZUL
-        amount: 3
-    '2':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3465
-        type: DEDSAFIO3_NUTRI_TOTEM
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3465
-        type: VOLTYMOD_DEDITAAZUL
-        amount: 10
+        amount: 8
   snapshots: []
 '14':
   uniqueId: ee250c6b-84e8-4271-97b5-6e09caeedfe1

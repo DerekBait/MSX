@@ -854,7 +854,19 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2024-12-21 03:41:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-21 03:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_mushroom_stew": "2024-12-21 03:41:58 +0000"
     },
@@ -865,18 +877,6 @@
       "has_snowball": "2024-12-21 03:43:19 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_mushroom_stew": "2024-12-21 03:41:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "golden_apple": "2024-12-21 03:41:41 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
