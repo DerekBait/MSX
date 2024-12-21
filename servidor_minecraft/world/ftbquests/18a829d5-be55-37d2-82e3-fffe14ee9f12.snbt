@@ -5,8 +5,8 @@
 	lock: false
 	rewards_blocked: false
 	task_progress: {
-		4525EB9D579BD956: 2
-		696D00666E5E4EFE: 2
+		4525EB9D579BD956: 10
+		696D00666E5E4EFE: 8
 	}
 	started: {
 		0645CB3CF7A22F7A: 1734668303354L

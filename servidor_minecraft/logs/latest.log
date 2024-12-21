@@ -2292,3 +2292,68 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 05:30:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
 [21Dec2024 05:30:34.668] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
 [21Dec2024 05:30:34.669] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[21Dec2024 05:30:35.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:30:36.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:30:36.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheStranger (18a829d5-be55-37d2-82e3-fffe14ee9f12) successfully connected to voice chat
+[21Dec2024 05:30:42.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ruleta roja @a subtitle /ban Thestranger
+[21Dec2024 05:30:42.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja.mini.subtitle' to 3 entities
+[21Dec2024 05:30:46.901] [Async Chat Thread - #18/INFO] [Console/]: <TheStranger> quitate mi skiiiiiiiiiin
+[21Dec2024 05:30:53.603] [Async Chat Thread - #18/INFO] [Console/]: <TheStranger> ese we
+[21Dec2024 05:30:58.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ban TheStranger
+[21Dec2024 05:30:58.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Banned TheStranger: Banned by an operator.]
+[21Dec2024 05:30:58.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger lost connection: You are banned from this server
+[21Dec2024 05:30:58.077] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheStranger
+[21Dec2024 05:30:58.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger left the game.
+[21Dec2024 05:30:58.099] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 05:31:19.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /pardon TheStranger
+[21Dec2024 05:31:19.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Unbanned TheStranger]
+[21Dec2024 05:31:27.288] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheStranger is 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:31:29.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheStranger[/127.241.36.105:56143] logged in with entity id 13673 at (2243.314470118004, 142.0, -1014.0439332426333)
+[21Dec2024 05:31:29.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheStranger joined the game
+[21Dec2024 05:31:29.975] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheStranger (18)
+[21Dec2024 05:31:29.975] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheStranger
+[21Dec2024 05:31:33.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:31:34.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 18a829d5-be55-37d2-82e3-fffe14ee9f12
+[21Dec2024 05:31:34.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheStranger (18a829d5-be55-37d2-82e3-fffe14ee9f12) successfully connected to voice chat
+[21Dec2024 05:32:05.183] [Async Chat Thread - #20/INFO] [Console/]: <TheStranger> quitate mi skiiiiiiiin
+[21Dec2024 05:33:30.167] [Async Chat Thread - #22/INFO] [Console/]: <TheStranger> ja
+[21Dec2024 05:33:36.518] [Async Chat Thread - #21/INFO] [Console/]: <TheStranger> por usar la pistola
+[21Dec2024 05:33:42.198] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerPickupItemEvent[37m
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'boolean org.bukkit.persistence.PersistentDataContainer.has(org.bukkit.NamespacedKey)'
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.core.drops.DropExecutor.lambda$new$2(DropExecutor.java:104)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.item.ItemEntity.m_6123_(ItemEntityMixin.java:591)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36277_(PlayerMixin.java:560)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8107_(PlayerMixin.java:527)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntityMixin.java:2298)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(PlayerMixin.java:241)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayerMixin.java:467)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerPlayNetHandlerMixin.java:262)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:263)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:907)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[21Dec2024 05:33:42.199] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[21Dec2024 05:33:46.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[21Dec2024 05:33:46.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[21Dec2024 05:33:51.842] [Async Chat Thread - #22/INFO] [Console/]: <TheStranger> como tu jfa
+[21Dec2024 05:33:53.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[21Dec2024 05:33:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
+[21Dec2024 05:34:07.720] [Async Chat Thread - #21/INFO] [Console/]: <TheStranger> ese we
+[21Dec2024 05:34:43.279] [Async Chat Thread - #22/INFO] [Console/]: <TheStranger> el derek lo borra jaajdha
+[21Dec2024 05:35:09.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /tp TheHollowKingMC
+[21Dec2024 05:35:09.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Teleported Roberto_RS to TheHollowKingMC]
+[21Dec2024 05:35:29.518] [Async Chat Thread - #22/INFO] [Console/]: <TheStranger> yo puse el platano y el puto
+[21Dec2024 05:35:33.450] [Async Chat Thread - #21/INFO] [Console/]: <TheStranger> y la bandera de derek
+[21Dec2024 05:36:13.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[21Dec2024 05:36:57.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode spectator
+[21Dec2024 05:36:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Spectator Mode]
+[21Dec2024 05:36:58.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheStranger issued server command: /gamemode creative
+[21Dec2024 05:36:58.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheStranger: Set own game mode to Creative Mode]
