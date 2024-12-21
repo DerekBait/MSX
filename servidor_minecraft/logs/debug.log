@@ -10195,3 +10195,160 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 05:10:12.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
 [21Dec2024 05:10:14.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
 [21Dec2024 05:10:14.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:21.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:10:21.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:10:23.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:10:23.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:10:23.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[21Dec2024 05:10:23.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[21Dec2024 05:10:25.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:10:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:39.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0042nb3ptce89]: started parsing
+[21Dec2024 05:10:39.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0042nb3ptce89]: Consuming argument ``
+[21Dec2024 05:10:40.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zls9nnoy9at]: started parsing
+[21Dec2024 05:10:40.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zls9nnoy9at]: Consuming argument `9`
+[21Dec2024 05:10:40.097] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zls9nnoy9at]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:10:40.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oecuv6su3ccm]: started parsing
+[21Dec2024 05:10:40.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oecuv6su3ccm]: Consuming argument `90`
+[21Dec2024 05:10:40.196] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oecuv6su3ccm]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:10:40.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //rotate 90
+[21Dec2024 05:10:40.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg1dm0zihzv5]: started parsing
+[21Dec2024 05:10:40.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg1dm0zihzv5]: Consuming argument `90`
+[21Dec2024 05:10:40.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fg1dm0zihzv5]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:10:40.478] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /rotate: /rotate 90
+[21Dec2024 05:10:52.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:10:52.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:10:53.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //copy
+[21Dec2024 05:10:53.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nmw38hyth1tt]: started parsing
+[21Dec2024 05:10:53.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nmw38hyth1tt]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:10:53.947] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /copy: /copy
+[21Dec2024 05:10:54.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:10:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:55.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eikmru5r41mh]: started parsing
+[21Dec2024 05:10:55.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eikmru5r41mh]: Consuming argument `90`
+[21Dec2024 05:10:55.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eikmru5r41mh]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:10:55.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [108ddny1up4ji]: started parsing
+[21Dec2024 05:10:55.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [108ddny1up4ji]: Consuming argument `90`
+[21Dec2024 05:10:55.347] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [108ddny1up4ji]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:10:56.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //rotate 90
+[21Dec2024 05:10:56.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18qdp978xpj5q]: started parsing
+[21Dec2024 05:10:56.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18qdp978xpj5q]: Consuming argument `90`
+[21Dec2024 05:10:56.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18qdp978xpj5q]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:10:56.397] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /rotate: /rotate 90
+[21Dec2024 05:11:02.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:11:02.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:11:05.846] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=true, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:11:07.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:11:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:11:07.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[21Dec2024 05:11:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[21Dec2024 05:11:11.379] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=false, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:11:14.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:11:14.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:11:16.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:11:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:11:18.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 05:11:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 05:11:19.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:11:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:11:21.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //paste
+[21Dec2024 05:11:21.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03cmajrv1crjt]: started parsing
+[21Dec2024 05:11:21.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03cmajrv1crjt]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:21.583] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /paste: /paste - Position: (-643.0, 143.0, -257.0)
+[21Dec2024 05:11:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fbbvd06rmrkn]: started parsing
+[21Dec2024 05:11:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fbbvd06rmrkn]: Consuming argument `90`
+[21Dec2024 05:11:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fbbvd06rmrkn]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lmraaxdil1db]: started parsing
+[21Dec2024 05:11:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lmraaxdil1db]: Consuming argument `90`
+[21Dec2024 05:11:55.138] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lmraaxdil1db]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:55.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3u3tgvdj4nr]: started parsing
+[21Dec2024 05:11:55.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3u3tgvdj4nr]: Consuming argument `90`
+[21Dec2024 05:11:55.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3u3tgvdj4nr]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:55.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t6c705drofqt]: started parsing
+[21Dec2024 05:11:55.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t6c705drofqt]: Consuming argument `90`
+[21Dec2024 05:11:55.967] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t6c705drofqt]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:56.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [154hovcg1sm6j]: started parsing
+[21Dec2024 05:11:56.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [154hovcg1sm6j]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:11:56.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [154hovcg1sm6j]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:56.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bt4uxku7yks]: started parsing
+[21Dec2024 05:11:56.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bt4uxku7yks]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:11:56.299] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bt4uxku7yks]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:56.464] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cq46e6vl9sjb]: started parsing
+[21Dec2024 05:11:56.464] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cq46e6vl9sjb]: Consuming argument `minecraft:end_portal`
+[21Dec2024 05:11:56.464] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cq46e6vl9sjb]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:56.464] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f4sm00nrpgnv]: started parsing
+[21Dec2024 05:11:56.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f4sm00nrpgnv]: Consuming argument `minecraft:end_portal`
+[21Dec2024 05:11:56.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f4sm00nrpgnv]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:56.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13p4dnva0x7j9]: started parsing
+[21Dec2024 05:11:56.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13p4dnva0x7j9]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:11:56.938] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13p4dnva0x7j9]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:56.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01p7g7wrkdusg]: started parsing
+[21Dec2024 05:11:56.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01p7g7wrkdusg]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:11:56.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01p7g7wrkdusg]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:58.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set minecraft:nether_portal
+[21Dec2024 05:11:58.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lo2ytbzg827c]: started parsing
+[21Dec2024 05:11:58.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lo2ytbzg827c]: Consuming argument `minecraft:nether_portal`
+[21Dec2024 05:11:58.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lo2ytbzg827c]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:11:58.026] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set minecraft:nether_portal - Region: (-644, 143, -257) - (-644, 145, -256)
+[21Dec2024 05:13:02.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f284nrryz25v]: started parsing
+[21Dec2024 05:13:02.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f284nrryz25v]: Consuming argument ``
+[21Dec2024 05:13:04.359] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eacspc0texb3]: started parsing
+[21Dec2024 05:13:04.359] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eacspc0texb3]: Consuming argument `g`
+[21Dec2024 05:13:04.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oihdqtte7c9y]: started parsing
+[21Dec2024 05:13:04.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oihdqtte7c9y]: Consuming argument `gr`
+[21Dec2024 05:13:04.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjyttpl9642l]: started parsing
+[21Dec2024 05:13:04.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qjyttpl9642l]: Consuming argument `gra`
+[21Dec2024 05:13:04.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fwlzb8k8kb7d]: started parsing
+[21Dec2024 05:13:04.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fwlzb8k8kb7d]: Consuming argument `gras`
+[21Dec2024 05:13:05.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m7tt0pvgyx3h]: started parsing
+[21Dec2024 05:13:05.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m7tt0pvgyx3h]: Consuming argument `grass`
+[21Dec2024 05:13:05.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m7tt0pvgyx3h]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:13:05.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t567raxf81hr]: started parsing
+[21Dec2024 05:13:05.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t567raxf81hr]: Consuming argument `grass:`
+[21Dec2024 05:13:06.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ran405e3z42]: started parsing
+[21Dec2024 05:13:06.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ran405e3z42]: Consuming argument `grass`
+[21Dec2024 05:13:06.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ran405e3z42]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:13:06.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qf0lkd1xru5m]: started parsing
+[21Dec2024 05:13:06.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qf0lkd1xru5m]: Consuming argument `grass_`
+[21Dec2024 05:13:07.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set grass_block
+[21Dec2024 05:13:07.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dut6nyqwp4ar]: started parsing
+[21Dec2024 05:13:07.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dut6nyqwp4ar]: Consuming argument `grass_block`
+[21Dec2024 05:13:07.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dut6nyqwp4ar]: Finished looking at arguments. Finalizing command.
+[21Dec2024 05:13:07.760] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set grass_block - Region: (-644, 142, -257) - (-644, 142, -256)
+[21Dec2024 05:13:26.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary day
+[21Dec2024 05:13:34.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:13:34.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:13:37.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:13:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:13:44.486] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=true, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:13:44.634] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=false, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:13:45.241] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=true, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:13:45.397] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=false, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:13:45.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=true, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:13:45.740] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_RS: {disabled=false, disconnected=false, uuid=a81728c5-0ebf-3d12-b3f2-05ee1928f727, name=Roberto_RS, group=null}
+[21Dec2024 05:15:23.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:15:23.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:15:23.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[21Dec2024 05:15:23.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[21Dec2024 05:17:11.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[21Dec2024 05:17:11.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Unbanned bosteritomop]
+[21Dec2024 05:17:32.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:17:32.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:17:40.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:17:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:17:42.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:17:42.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:17:52.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:17:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:17:55.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:17:55.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:18:17.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:18:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:18:18.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:18:18.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:19:14.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:19:14.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:20:23.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:20:23.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[21Dec2024 05:20:23.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[21Dec2024 05:20:23.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo

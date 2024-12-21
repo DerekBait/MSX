@@ -2153,3 +2153,60 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [21Dec2024 05:10:12.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
 [21Dec2024 05:10:14.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
 [21Dec2024 05:10:14.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:21.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:10:21.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:10:25.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:10:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:40.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //rotate 90
+[21Dec2024 05:10:40.478] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /rotate: /rotate 90
+[21Dec2024 05:10:52.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:10:52.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:10:53.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //copy
+[21Dec2024 05:10:53.947] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /copy: /copy
+[21Dec2024 05:10:54.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:10:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:10:56.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //rotate 90
+[21Dec2024 05:10:56.397] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /rotate: /rotate 90
+[21Dec2024 05:11:02.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:11:02.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:11:07.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:11:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:11:07.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[21Dec2024 05:11:07.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[21Dec2024 05:11:14.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:11:14.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:11:16.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:11:16.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:11:18.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[21Dec2024 05:11:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[21Dec2024 05:11:19.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:11:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:11:21.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //paste
+[21Dec2024 05:11:21.583] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /paste: /paste - Position: (-643.0, 143.0, -257.0)
+[21Dec2024 05:11:58.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set minecraft:nether_portal
+[21Dec2024 05:11:58.026] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set minecraft:nether_portal - Region: (-644, 143, -257) - (-644, 145, -256)
+[21Dec2024 05:13:07.759] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: //set grass_block
+[21Dec2024 05:13:07.760] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: TheHollowKingMC (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set grass_block - Region: (-644, 142, -257) - (-644, 142, -256)
+[21Dec2024 05:13:26.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /ftblibrary day
+[21Dec2024 05:13:34.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:13:34.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:13:37.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:13:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:17:11.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /pardon bosteritomop
+[21Dec2024 05:17:11.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Unbanned bosteritomop]
+[21Dec2024 05:17:32.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:17:32.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:17:40.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:17:40.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:17:42.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:17:42.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:17:52.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:17:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:17:55.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:17:55.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:18:17.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:18:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
+[21Dec2024 05:18:18.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode spectator
+[21Dec2024 05:18:18.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Spectator Mode]
+[21Dec2024 05:19:14.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_RS issued server command: /gamemode creative
+[21Dec2024 05:19:14.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_RS: Set own game mode to Creative Mode]
