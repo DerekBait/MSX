@@ -6,6 +6,14 @@
 	group: "7D49A4E4372F4AD9"
 	icon: "dedsafio3:dedita_mision"
 	id: "52493A0F5B5F90FE"
+	images: [{
+		height: 2.0d
+		image: "cataclysm:textures/entity/soul_flame_strike_sigil.png"
+		rotation: 0.0d
+		width: 2.0d
+		x: 1.5d
+		y: -5.0d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -146,6 +154,23 @@
 			}]
 			x: -9.5d
 			y: -11.0d
+		}
+		{
+			id: "2A899CBB8EB361A3"
+			rewards: [{
+				id: "2BC362EF04D3F444"
+				item: "dedsafio3:totem_espacial"
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:limbo"
+				icon: "cataclysm:abyss_eye"
+				id: "79A4E7583280D80C"
+				type: "dimension"
+			}]
+			title: "ENTRA AL LIMBO"
+			x: 1.5d
+			y: -5.0d
 		}
 	]
 	title: "DIARIAS"
