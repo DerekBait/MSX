@@ -24,6 +24,7 @@
       "minecraft:lukewarm_ocean": "2024-12-21 21:19:04 +0000",
       "minecraft:river": "2024-12-21 21:07:43 +0000",
       "minecraft:stony_shore": "2024-12-21 21:18:00 +0000",
+      "minecraft:cold_ocean": "2024-12-22 20:30:57 +0000",
       "minecraft:forest": "2024-12-21 20:45:49 +0000",
       "minecraft:desert": "2024-12-21 21:07:45 +0000",
       "minecraft:windswept_forest": "2024-12-21 22:48:50 +0000",
@@ -1945,6 +1946,18 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2024-12-22 20:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-22 20:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-22 20:23:13 +0000"
     },
     "done": true
   },

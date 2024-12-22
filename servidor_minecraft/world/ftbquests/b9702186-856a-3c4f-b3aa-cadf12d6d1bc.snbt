@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b9702186856a3c4fb3aacadf12d6d1bc"
+	name: "eloyurs1#b9702186"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

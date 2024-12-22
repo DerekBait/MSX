@@ -1,0 +1,17 @@
+{
+	id: "b9702186-856a-3c4f-b3aa-cadf12d6d1bc"
+	type: "player"
+	player_name: "eloyurs1"
+	ranks: {
+		b9702186-856a-3c4f-b3aa-cadf12d6d1bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "eloyurs1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

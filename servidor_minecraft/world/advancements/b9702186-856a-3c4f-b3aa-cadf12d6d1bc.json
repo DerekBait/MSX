@@ -1,0 +1,55 @@
+{
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-22 20:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-22 20:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-22 20:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-22 20:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-12-22 20:28:09 +0000",
+      "minecraft:bamboo_jungle": "2024-12-22 20:23:06 +0000",
+      "minecraft:beach": "2024-12-22 20:27:51 +0000",
+      "minecraft:dark_forest": "2024-12-22 20:24:09 +0000",
+      "minecraft:cold_ocean": "2024-12-22 20:27:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-22 20:28:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-22 20:28:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-22 20:23:05 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -8,14 +8,6 @@
     "reason": "Has sido baneado por morir."
   },
   {
-    "uuid": "44c0f692-2bdc-313b-a961-084931d30571",
-    "name": "luchooos",
-    "created": "2024-12-22 19:55:47 +0000",
-    "source": "Server",
-    "expires": "forever",
-    "reason": "Has sido baneado por morir."
-  },
-  {
     "uuid": "8b0c1f8f-9f83-39e3-b47f-c3e2f4c03491",
     "name": "crmoll1",
     "created": "2024-12-22 02:09:03 +0000",
@@ -27,6 +19,14 @@
     "uuid": "9aa4b5e0-32a3-30dd-87ac-8514ea7c7001",
     "name": "TezzT",
     "created": "2024-12-21 22:50:40 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  },
+  {
+    "uuid": "ad2d4e31-a487-3e14-aef6-16925f70333c",
+    "name": "ItzMeNob",
+    "created": "2024-12-22 20:19:41 +0000",
     "source": "Server",
     "expires": "forever",
     "reason": "Has sido baneado por morir."
