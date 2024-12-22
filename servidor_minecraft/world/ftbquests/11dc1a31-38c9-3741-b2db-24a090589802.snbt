@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "11dc1a3138c93741b2db24a090589802"
+	name: "sk_ferom#11dc1a31"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -4,9 +4,21 @@
 	name: "kox_1920#04b837f8"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
-	claimed_rewards: { }
+	task_progress: {
+		4770B27B9E89E458: 1
+	}
+	started: {
+		52493A0F5B5F90FE: 1734902726907L
+		0000000000000001: 1734902726907L
+		4770B27B9E89E458: 1734902726907L
+		58670FCD87E4200B: 1734902726907L
+	}
+	completed: {
+		4770B27B9E89E458: 1734902726907L
+		58670FCD87E4200B: 1734902726907L
+	}
+	claimed_rewards: {
+		"04b837f82694344794cea5b7f94f9a36:11695FE589459B84": 1734902744263L
+	}
 	player_data: { }
 }

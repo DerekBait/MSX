@@ -1,0 +1,17 @@
+{
+	id: "11dc1a31-38c9-3741-b2db-24a090589802"
+	type: "player"
+	player_name: "sk_ferom"
+	ranks: {
+		11dc1a31-38c9-3741-b2db-24a090589802: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sk_ferom"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

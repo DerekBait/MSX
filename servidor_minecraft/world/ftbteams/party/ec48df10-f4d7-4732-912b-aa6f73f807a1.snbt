@@ -1,0 +1,17 @@
+{
+	id: "ec48df10-f4d7-4732-912b-aa6f73f807a1"
+	type: "party"
+	owner: "496b7ed4-bb93-30a5-9369-e74975a04527"
+	ranks: {
+		496b7ed4-bb93-30a5-9369-e74975a04527: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CORRUPtos"
+		"ftbteams:description": "si"
+		"ftbteams:color": "#202020"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1734902949504L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Dropped_by_Parca\"}]}" }]
+	extra: { }
+}
