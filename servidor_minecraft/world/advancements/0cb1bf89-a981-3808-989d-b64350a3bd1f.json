@@ -13,17 +13,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-21 23:35:38 +0000",
       "minecraft:bamboo_jungle": "2024-12-21 21:08:25 +0000",
       "minecraft:beach": "2024-12-21 21:26:16 +0000",
       "minecraft:dark_forest": "2024-12-21 22:45:53 +0000",
       "minecraft:sparse_jungle": "2024-12-21 21:30:49 +0000",
       "minecraft:river": "2024-12-21 21:14:14 +0000",
+      "minecraft:cold_ocean": "2024-12-21 23:33:39 +0000",
       "minecraft:forest": "2024-12-21 21:17:33 +0000",
       "minecraft:desert": "2024-12-21 21:19:57 +0000",
       "minecraft:jungle": "2024-12-21 21:22:56 +0000",
       "minecraft:ocean": "2024-12-21 21:22:15 +0000",
       "minecraft:windswept_savanna": "2024-12-21 23:13:54 +0000",
       "minecraft:flower_forest": "2024-12-21 23:19:09 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-21 23:37:45 +0000",
       "minecraft:savanna": "2024-12-21 21:14:18 +0000",
       "minecraft:plains": "2024-12-21 21:12:37 +0000"
     },
@@ -352,6 +355,7 @@
       "cooked_porkchop": "2024-12-21 21:53:53 +0000",
       "cooked_mutton": "2024-12-21 22:55:04 +0000",
       "cooked_beef": "2024-12-21 22:21:37 +0000",
+      "mutton": "2024-12-21 23:34:49 +0000",
       "bread": "2024-12-21 21:16:53 +0000",
       "rotten_flesh": "2024-12-21 22:39:12 +0000",
       "cooked_chicken": "2024-12-21 22:18:45 +0000"
@@ -1577,6 +1581,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-21 23:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-21 23:34:39 +0000"
     },
     "done": true
   },

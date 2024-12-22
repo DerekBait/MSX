@@ -1,0 +1,17 @@
+{
+	id: "08cc891c-8acf-32c2-95a2-ef06afdb73f2"
+	type: "player"
+	player_name: "FiveteenR"
+	ranks: {
+		08cc891c-8acf-32c2-95a2-ef06afdb73f2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FiveteenR"
+		"ftbteams:description": ""
+		"ftbteams:color": "#84FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

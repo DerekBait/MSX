@@ -1,0 +1,17 @@
+{
+	id: "20292079-c4b9-3ab8-9c68-2dd56db63b16"
+	type: "player"
+	player_name: "Whistar"
+	ranks: {
+		20292079-c4b9-3ab8-9c68-2dd56db63b16: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Whistar"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -4,7 +4,11 @@
   "__COMMENT3": "with the following name: cpm-server-default.json",
   "player_scaling": {
     "543f71ef-3421-486f-a6b5-480af57bf183": {},
-    "cb5caf50-e6e7-30fd-879b-44f748e5dfdf": {
+    "cb5caf50-e6e7-30fd-879b-44f748e5dfdf": {},
+    "18a829d5-be55-37d2-82e3-fffe14ee9f12": {},
+    "a81728c5-0ebf-3d12-b3f2-05ee1928f727": {},
+    "eabd3787-e73f-3841-adc8-1f6960b8266a": {},
+    "e806c28f-7d91-398b-ba77-65a0310587f9": {
       "scale": 1.0,
       "eyeHeight": 1.0,
       "hitboxW": 1.0,
@@ -30,10 +34,6 @@
       "exp_dmg": 1.0,
       "kbr": 1.0
     },
-    "18a829d5-be55-37d2-82e3-fffe14ee9f12": {},
-    "a81728c5-0ebf-3d12-b3f2-05ee1928f727": {},
-    "eabd3787-e73f-3841-adc8-1f6960b8266a": {},
-    "e806c28f-7d91-398b-ba77-65a0310587f9": {},
     "813e1d0a-789c-371b-93b4-7d2907be81ed": {},
     "c7c19ff6-d004-360d-bee3-9b557af1d49a": {},
     "9aa4b5e0-32a3-30dd-87ac-8514ea7c7001": {},
@@ -83,11 +83,13 @@
     "69132248-0a7b-3a93-bab9-c3ebffc90def": {},
     "b1a6cf57-ec2b-350c-9deb-2875675be5de": {},
     "6e8c5557-aa53-3329-94f8-2ffd8e289d5d": {},
-    "322314c0-fabe-3e9e-9ffd-7ee418ee8f10": {}
+    "322314c0-fabe-3e9e-9ffd-7ee418ee8f10": {},
+    "08cc891c-8acf-32c2-95a2-ef06afdb73f2": {},
+    "20292079-c4b9-3ab8-9c68-2dd56db63b16": {}
   },
   "skins": {
     "18a829d5-be55-37d2-82e3-fffe14ee9f12": {},
-    "5e2beb9c-5a5e-3d7e-8c9b-8281596a57e9": {}
+    "44c0f692-2bdc-313b-a961-084931d30571": {}
   },
   "player_scaling_settings": {},
   "scaling_settings": {

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "20292079c4b93ab89c682dd56db63b16"
+	name: "Whistar#20292079"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

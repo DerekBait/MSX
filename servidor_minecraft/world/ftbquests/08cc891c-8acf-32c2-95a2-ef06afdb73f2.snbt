@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "08cc891c8acf32c295a2ef06afdb73f2"
+	name: "FiveteenR#08cc891c"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		696D00666E5E4EFE: 2
+	}
+	started: {
+		3FEE89C937FA2AC4: 1734828782247L
+		3DE6F4146002BC79: 1734828782247L
+		696D00666E5E4EFE: 1734828782247L
+		0000000000000001: 1734828782247L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

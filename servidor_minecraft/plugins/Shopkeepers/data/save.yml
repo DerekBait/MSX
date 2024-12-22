@@ -58,11 +58,11 @@ data-version: 3|2|3465
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: DEDSAFIO3_ESPADA
+        type: VOLTYMOD_ESPADA_FANTASMAL
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: DEDSAFIO3_ESPADA_INANIMADA
+        type: VOLTYMOD_ESPADA_INANIMADA
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
@@ -145,6 +145,39 @@ data-version: 3|2|3465
         v: 3465
         type: VOLTYMOD_AMPLIFICADOR_ENERGIA
         amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 3
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_AMPLIFICADOR_VIDA
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 3
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_AGUACATE
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 3
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_BROCOLI
+        amount: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465

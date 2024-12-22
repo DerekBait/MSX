@@ -209,3 +209,11 @@ Events:
       default:
       - 'console_command: scoreboard players add Contador: MOBS_MUERTOS 1'
     enabled: false
+  nutria1:
+    type: player_kill
+    conditions:
+    - '%victim% == COW'
+    actions:
+      default:
+      - 'console_command: scoreboard players add %player% TABLA 1'
+    enabled: false
