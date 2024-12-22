@@ -14949,3 +14949,691 @@ Caused by: java.lang.NullPointerException: Cannot invoke "com.onarandombox.Multi
 [22Dec2024 20:35:10.066] [Async Chat Thread - #37/INFO] [Console/]: <Elganglybruh> no duerman hoy plox :,v
 [22Dec2024 20:35:11.721] [Async Chat Thread - #36/INFO] [Console/]: <kox_1920> yo?
 [22Dec2024 20:35:14.697] [Async Chat Thread - #36/INFO] [Console/]: <Dropped_by_Parca> q
+[22Dec2024 20:35:25.260] [Async Chat Thread - #37/INFO] [Console/]: <pocoquesoMB> nutria 23
+[22Dec2024 20:35:26.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:35:26.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:35:26.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:35:26.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:35:27.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:35:27.999] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:35:32.497] [Async Chat Thread - #36/INFO] [Console/]: <pocoquesoMB> viajesito al spawn
+[22Dec2024 20:35:32.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22Dec2024 20:35:35.736] [Async Chat Thread - #36/INFO] [Console/]: <luchooos> casi me mata una rana xd
+[22Dec2024 20:35:41.727] [Async Chat Thread - #36/INFO] [Console/]: <bosteritomop> momento nutria!!!
+[22Dec2024 20:35:51.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4315ms or 86 ticks behind
+[22Dec2024 20:35:53.290] [Async Chat Thread - #37/INFO] [Console/]: <eloyurs1> quien para unirse a mi team?
+[22Dec2024 20:36:00.231] [Async Chat Thread - #37/INFO] [Console/]: <Elganglybruh> hijos de puta
+[22Dec2024 20:36:02.968] [Async Chat Thread - #36/INFO] [Console/]: <TGgohan_YT> Ya voy a ir a la casa
+[22Dec2024 20:36:04.291] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[22Dec2024 20:36:04.291] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:36:04.292] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:36:05.361] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:36:06.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:36:06.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:36:06.915] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:36:07.114] [Async Chat Thread - #37/INFO] [Console/]: <eloyurs1> pobre Elganglybruh xd
+[22Dec2024 20:36:07.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:36:08.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:36:08.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:36:11.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC moved too quickly! -16.090610878237214,0.7439534119621101,-8.443069185638137
+[22Dec2024 20:36:21.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Dec2024 20:36:39.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode creative
+[22Dec2024 20:36:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Creative Mode]
+[22Dec2024 20:36:45.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode spectator
+[22Dec2024 20:36:45.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Spectator Mode]
+[22Dec2024 20:36:47.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:36:47.080] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:36:47.081] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:36:48.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:36:49.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:36:49.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:37:02.257] [Async Chat Thread - #36/INFO] [Console/]: <luchooos> las ranas son re rapidas xd
+[22Dec2024 20:37:15.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[22Dec2024 20:37:17.166] [Async Chat Thread - #36/INFO] [Console/]: <ElMartinz> tienen polvora?
+[22Dec2024 20:37:19.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elganglybruh lost connection: Timed out
+[22Dec2024 20:37:19.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elganglybruh
+[22Dec2024 20:37:19.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elganglybruh left the game.
+[22Dec2024 20:37:19.678] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 20:37:22.251] [Async Chat Thread - #36/INFO] [Console/]: <TheHollowKingMC> andres vem
+[22Dec2024 20:37:22.616] [Async Chat Thread - #37/INFO] [Console/]: <luchooos> asd
+[22Dec2024 20:37:22.949] [Async Chat Thread - #37/INFO] [Console/]: <TheHollowKingMC> andres vem
+[22Dec2024 20:37:23.309] [Async Chat Thread - #36/INFO] [Console/]: <TheHollowKingMC> andres vem
+[22Dec2024 20:37:23.682] [Async Chat Thread - #36/INFO] [Console/]: <TheHollowKingMC> andres vem
+[22Dec2024 20:37:27.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode creative
+[22Dec2024 20:37:27.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Creative Mode]
+[22Dec2024 20:37:28.100] [User Authenticator #60/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elganglybruh is 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:37:30.636] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19ad3320[id=38be6371-84c1-367c-856c-7ef744ee76fc,name=Elganglybruh,properties={},legacy=false] (/127.79.53.215:59863) lost connection: Disconnected
+[22Dec2024 20:37:37.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /scale set 1
+[22Dec2024 20:37:42.797] [User Authenticator #61/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elganglybruh is 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:37:44.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elganglybruh[/127.79.53.215:52703] logged in with entity id 168366 at (-1607.8614997954874, 72.5625, -821.7894478477795)
+[22Dec2024 20:37:44.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elganglybruh joined the game
+[22Dec2024 20:37:44.884] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elganglybruh (18)
+[22Dec2024 20:37:44.932] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:37:45.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:37:46.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:37:46.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:38:06.247] [Async Chat Thread - #37/INFO] [Console/]: <pocoquesoMB> nutria
+[22Dec2024 20:38:06.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta
+[22Dec2024 20:38:06.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /give Andr9z minecraft:barrier
+[22Dec2024 20:38:06.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Gave 1 [Barrier] to Andr9z]
+[22Dec2024 20:38:14.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elganglybruh lost connection: Timed out
+[22Dec2024 20:38:14.444] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elganglybruh
+[22Dec2024 20:38:14.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elganglybruh left the game.
+[22Dec2024 20:38:14.500] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 20:38:18.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB
+[22Dec2024 20:38:18.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to pocoquesoMB]
+[22Dec2024 20:38:31.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /scale set 0.5
+[22Dec2024 20:38:43.169] [User Authenticator #62/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elganglybruh is 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:38:45.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elganglybruh[/127.79.53.215:53847] logged in with entity id 170738 at (-1608.1947131431436, 72.5625, -821.6123038595865)
+[22Dec2024 20:38:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elganglybruh joined the game
+[22Dec2024 20:38:45.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /msg Roberto_mc1 pongo barriers para q la gente no se caiga ?
+[22Dec2024 20:38:45.727] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elganglybruh (18)
+[22Dec2024 20:38:45.727] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:38:45.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:38:46.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:38:46.958] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:38:53.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /msg Andr9z si
+[22Dec2024 20:39:02.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[22Dec2024 20:39:02.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMartinz moved too quickly! -2.2209635136645147,-1.127890238205481,9.792420242366916
+[22Dec2024 20:39:02.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TGgohan_YT moved too quickly! 1.0003622280560194,0.42355929454303975,12.148748446217724
+[22Dec2024 20:39:03.915] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> q
+[22Dec2024 20:39:05.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TGgohan_YT moved too quickly! -3.3943105567319662,-1.018571334211245,10.890576896397192
+[22Dec2024 20:39:05.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB -400 70 -300
+[22Dec2024 20:39:05.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported pocoquesoMB to -399.500000, 70.000000, -299.500000]
+[22Dec2024 20:39:07.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 44c0f692-2bdc-313b-a961-084931d30571 timed out
+[22Dec2024 20:39:07.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player luchooos
+[22Dec2024 20:39:07.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[22Dec2024 20:39:09.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TGgohan_YT moved too quickly! 0.3514398669711909,0.7967356006687112,11.728914742169735
+[22Dec2024 20:39:10.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB
+[22Dec2024 20:39:10.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to pocoquesoMB]
+[22Dec2024 20:39:10.915] [Async Chat Thread - #38/INFO] [Console/]: <bosteritomop> ?
+[22Dec2024 20:39:12.114] [Async Chat Thread - #38/INFO] [Console/]: <ElMartinz> lucho
+[22Dec2024 20:39:15.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elganglybruh lost connection: Timed out
+[22Dec2024 20:39:15.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elganglybruh
+[22Dec2024 20:39:15.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elganglybruh left the game.
+[22Dec2024 20:39:15.923] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 20:39:22.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5728ms or 114 ticks behind
+[22Dec2024 20:39:23.932] [User Authenticator #63/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elganglybruh is 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:39:24.915] [Async Chat Thread - #37/INFO] [Console/]: <luchooos> asd
+[22Dec2024 20:39:24.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:39:26.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:39:26.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luchooos (44c0f692-2bdc-313b-a961-084931d30571) successfully connected to voice chat
+[22Dec2024 20:39:26.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elganglybruh[/127.79.53.215:57651] logged in with entity id 172120 at (-1606.0420551343777, 72.0, -820.7341760370091)
+[22Dec2024 20:39:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elganglybruh joined the game
+[22Dec2024 20:39:27.416] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elganglybruh (18)
+[22Dec2024 20:39:27.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:39:27.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta rosada @a subtitle Todos los jugadores se les hara tp en 10 minutos guarden spawn quitense la armadura y totems este momento nutria al ganador se le dara 1 CUCHARA DE LA RESURECCION
+[22Dec2024 20:39:27.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.rosada.mini.subtitle' to 15 entities
+[22Dec2024 20:39:29.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:39:30.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:39:30.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:39:30.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta rosada @a subtitle Todos los jugadores se les hara tp en 10 minutos guarden spawn quitense la armadura y totems este momento nutria al ganador se le dara 1 CUCHARA DE LA RESURECCION
+[22Dec2024 20:39:30.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.rosada.mini.subtitle' to 15 entities
+[22Dec2024 20:39:32.359] [Async Chat Thread - #38/INFO] [Console/]: <ElMartinz> tienes polvora
+[22Dec2024 20:39:34.443] [Async Chat Thread - #37/INFO] [Console/]: <eloyurs1> uy
+[22Dec2024 20:39:35.311] [Async Chat Thread - #37/INFO] [Console/]: <kox_1920> no mames
+[22Dec2024 20:39:36.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 44c0f692-2bdc-313b-a961-084931d30571 timed out
+[22Dec2024 20:39:36.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player luchooos
+[22Dec2024 20:39:36.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[22Dec2024 20:39:40.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos lost connection: Timed out
+[22Dec2024 20:39:40.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luchooos
+[22Dec2024 20:39:40.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos left the game.
+[22Dec2024 20:39:40.206] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 20:39:43.911] [Async Chat Thread - #38/INFO] [Console/]: <eloyurs1> no veo la ruleta xd
+[22Dec2024 20:39:44.671] [Async Chat Thread - #38/INFO] [Console/]: <bosteritomop> what?
+[22Dec2024 20:39:50.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:39:50.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:39:51.487] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> no vi la ruleta
+[22Dec2024 20:39:52.886] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> a q
+[22Dec2024 20:39:54.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /ruleta rosada @a subtitle Todos los jugadores se les hara tp en 10 minutos guarden spawn quitense la armadura y totems este momento nutria al ganador se le dara 1 CUCHARA DE LA RESURECCION
+[22Dec2024 20:39:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.rosada.mini.subtitle' to 14 entities
+[22Dec2024 20:39:55.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:39:55.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:39:59.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:39:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:40:00.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:00.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:40:00.942] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:40:01.592] [Async Chat Thread - #38/INFO] [Console/]: <bosteritomop> uh re bug
+[22Dec2024 20:40:01.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:02.744] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> PARA
+[22Dec2024 20:40:02.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:40:02.947] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:40:03.085] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:03.505] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> JAJAJA
+[22Dec2024 20:40:03.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:04.047] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:04.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:04.354] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:04.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:04.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:40:04.659] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:04.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:04.947] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:05.208] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:05.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:05.505] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:05.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:05.797] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:05.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:06.080] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> prueba
+[22Dec2024 20:40:06.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:40:07.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /tag @a add anim.ruleta.rosada
+[22Dec2024 20:40:07.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Added tag 'anim.ruleta.rosada' to 14 entities]
+[22Dec2024 20:40:07.945] [Async Chat Thread - #37/INFO] [Console/]: <DudMat> bugeadisimaa
+[22Dec2024 20:40:09.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pocoquesoMB moved too quickly! 4.600698718384365,2.0,9.127149725359232
+[22Dec2024 20:40:10.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:40:10.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:40:10.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:40:12.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:40:13.044] [Async Chat Thread - #38/INFO] [Console/]: <eloyurs1> god
+[22Dec2024 20:40:13.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:40:13.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:40:14.921] [User Authenticator #64/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:40:18.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luchooos[/127.181.162.33:46985] logged in with entity id 173158 at (-481.56089168236235, 64.0, 655.8199456374535)
+[22Dec2024 20:40:18.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos joined the game
+[22Dec2024 20:40:19.004] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luchooos (18)
+[22Dec2024 20:40:19.004] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[22Dec2024 20:40:20.438] [Async Chat Thread - #37/INFO] [Console/]: <Dropped_by_Parca> de que va a tratar?
+[22Dec2024 20:40:25.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer set
+[22Dec2024 20:40:28.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:40:29.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:40:29.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luchooos (44c0f692-2bdc-313b-a961-084931d30571) successfully connected to voice chat
+[22Dec2024 20:40:38.164] [Async Chat Thread - #38/INFO] [Console/]: <Dropped_by_Parca> de que va a tratar?
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:40:38.284] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:40:38.425] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:40:38.426] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:40:40.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /simpletimer set 00:10:00 d PINK
+[22Dec2024 20:40:45.588] [Async Chat Thread - #37/INFO] [Console/]: <luchooos> q
+[22Dec2024 20:40:47.649] [Async Chat Thread - #38/INFO] [Console/]: <bosteritomop> ah o sea es verdad
+[22Dec2024 20:40:51.922] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> si xc
+[22Dec2024 20:40:53.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:40:53.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:40:53.318] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:40:53.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:40:54.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:40:54.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:41:01.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[22Dec2024 20:41:01.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[22Dec2024 20:41:02.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[22Dec2024 20:41:02.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[22Dec2024 20:41:04.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pocoquesoMB moved too quickly! 3.909836637927924,0.0,-9.39237372379921
+[22Dec2024 20:41:08.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 44c0f692-2bdc-313b-a961-084931d30571 timed out
+[22Dec2024 20:41:08.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player luchooos
+[22Dec2024 20:41:08.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[22Dec2024 20:41:08.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:41:09.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:41:09.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luchooos (44c0f692-2bdc-313b-a961-084931d30571) successfully connected to voice chat
+[22Dec2024 20:41:11.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[22Dec2024 20:41:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[22Dec2024 20:41:13.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[22Dec2024 20:41:13.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[22Dec2024 20:41:15.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[22Dec2024 20:41:15.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos moved too quickly! -1.5315481194712675,1.1661092609382138,-10.034230136438737
+[22Dec2024 20:41:15.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ronalrope moved too quickly! -5.122364510908824,1.7508129212553172,8.50089371256422
+[22Dec2024 20:41:15.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TGgohan_YT moved too quickly! 5.401229346467574,0.41999998688697815,-13.909861153575434
+[22Dec2024 20:41:15.841] [Async Chat Thread - #38/INFO] [Console/]: <bosteritomop> q
+[22Dec2024 20:41:16.718] [User Authenticator #65/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player UrielXD1123 is 1fa20113-834c-3deb-8400-816ba399a88d
+[22Dec2024 20:41:21.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UrielXD1123[/127.223.177.3:46711] logged in with entity id 174411 at (71.69819612379669, 72.0, -1671.2423926854403)
+[22Dec2024 20:41:21.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UrielXD1123 joined the game
+[22Dec2024 20:41:24.989] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UrielXD1123 (18)
+[22Dec2024 20:41:24.989] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UrielXD1123
+[22Dec2024 20:41:27.127] [Async Chat Thread - #38/INFO] [Console/]: <bosteritomop> que no sea de preguntas
+[22Dec2024 20:41:27.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1fa20113-834c-3deb-8400-816ba399a88d
+[22Dec2024 20:41:28.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1fa20113-834c-3deb-8400-816ba399a88d
+[22Dec2024 20:41:28.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UrielXD1123 (1fa20113-834c-3deb-8400-816ba399a88d) successfully connected to voice chat
+[22Dec2024 20:41:33.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: its_Duran25 lost connection: Disconnected
+[22Dec2024 20:41:33.818] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client its_Duran25
+[22Dec2024 20:41:33.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: its_Duran25 left the game
+[22Dec2024 20:41:34.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:41:34.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:41:34.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:41:40.557] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> roberto
+[22Dec2024 20:41:43.434] [Async Chat Thread - #37/INFO] [Console/]: <TheHollowKingMC> ven
+[22Dec2024 20:41:44.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:41:45.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:41:45.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:41:46.385] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> xq te vas
+[22Dec2024 20:41:47.152] [Async Chat Thread - #37/INFO] [Console/]: <Dropped_by_Parca> de que va a tratar?
+[22Dec2024 20:41:48.356] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> lptm
+[22Dec2024 20:41:49.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 44c0f692-2bdc-313b-a961-084931d30571 timed out
+[22Dec2024 20:41:49.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player luchooos
+[22Dec2024 20:41:49.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[22Dec2024 20:41:49.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:41:50.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 44c0f692-2bdc-313b-a961-084931d30571
+[22Dec2024 20:41:50.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luchooos (44c0f692-2bdc-313b-a961-084931d30571) successfully connected to voice chat
+[22Dec2024 20:41:51.275] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> roberto
+[22Dec2024 20:41:54.836] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> roberto ven
+[22Dec2024 20:41:55.437] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> roberto ven
+[22Dec2024 20:41:55.778] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> roberto ven
+[22Dec2024 20:41:56.092] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> roberto ven
+[22Dec2024 20:41:56.442] [Async Chat Thread - #37/INFO] [Console/]: <TheHollowKingMC> roberto ven
+[22Dec2024 20:41:56.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TheHollowKingMC
+[22Dec2024 20:41:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to TheHollowKingMC]
+[22Dec2024 20:41:56.646] [Async Chat Thread - #38/INFO] [Console/]: <TheHollowKingMC> roberto ven
+[22Dec2024 20:42:00.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 8 [DEDita] to pocoquesoMB
+[22Dec2024 20:42:00.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player pocoquesoMB
+[22Dec2024 20:42:00.836] [Async Chat Thread - #37/INFO] [Console/]: <luchooos> tengo hierro si alguien del team necesita
+[22Dec2024 20:42:07.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /scale set 1
+[22Dec2024 20:42:07.645] [Async Chat Thread - #38/INFO] [Console/]: <Dropped_by_Parca> yo
+[22Dec2024 20:42:09.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give @p minecraft:<nombre_del_item>{display:{Name:'{"text":"Nombre del Ítem","color":"gold"}',Lore:['{"text":"Primer línea del lore","color":"gray"}','{"text":"Segunda línea del lore","color":"gray"}']}}
+[22Dec2024 20:42:13.551] [Async Chat Thread - #37/INFO] [Console/]: <luchooos> donde tas
+[22Dec2024 20:42:17.434] [Async Chat Thread - #38/INFO] [Console/]: <pocoquesoMB> che nutria y el viaje de vuelta
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:42:23.183] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:42:25.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:42:25.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:42:25.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:42:25.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:42:26.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:42:26.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:42:27.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB bosteritomop
+[22Dec2024 20:42:27.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported pocoquesoMB to bosteritomop]
+[22Dec2024 20:42:30.082] [Async Chat Thread - #37/INFO] [Console/]: <bosteritomop> q lag
+[22Dec2024 20:42:31.967] [Async Chat Thread - #38/INFO] [Console/]: <eloyurs1> como veo la mision diaria?
+[22Dec2024 20:42:32.658] [Async Chat Thread - #38/INFO] [Console/]: <pocoquesoMB> gracias
+[22Dec2024 20:42:33.983] [Async Chat Thread - #37/INFO] [Console/]: <TGgohan_YT> Ya podemios tradear???
+[22Dec2024 20:42:54.553] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> elo en el inventario arriba sale un libro de quest
+[22Dec2024 20:42:56.905] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> si gohan
+[22Dec2024 20:42:57.294] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> si gohan
+[22Dec2024 20:43:03.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode spectator
+[22Dec2024 20:43:03.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Spectator Mode]
+[22Dec2024 20:43:05.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:43:05.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:43:05.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:43:06.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:43:07.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:43:07.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:43:10.082] [Async Chat Thread - #37/INFO] [Console/]: <TGgohan_YT> Gracias
+[22Dec2024 20:43:11.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /scale set 2
+[22Dec2024 20:43:11.644] [Async Chat Thread - #38/INFO] [Console/]: <TGgohan_YT> Okk
+[22Dec2024 20:43:14.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode creative
+[22Dec2024 20:43:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Creative Mode]
+[22Dec2024 20:43:16.330] [Async Chat Thread - #37/INFO] [Console/]: <Dropped_by_Parca> grax
+[22Dec2024 20:43:17.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode spectator
+[22Dec2024 20:43:17.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Spectator Mode]
+[22Dec2024 20:43:19.752] [Async Chat Thread - #37/INFO] [Console/]: <eloyurs1> dale gracias
+[22Dec2024 20:43:19.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /scale set 2
+[22Dec2024 20:43:22.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /scale set 0.5
+[22Dec2024 20:43:23.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode creative
+[22Dec2024 20:43:23.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Creative Mode]
+[22Dec2024 20:43:24.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode spectator
+[22Dec2024 20:43:24.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Spectator Mode]
+[22Dec2024 20:43:26.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode creative
+[22Dec2024 20:43:26.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Creative Mode]
+[22Dec2024 20:43:31.739] [Async Chat Thread - #38/INFO] [Console/]: <DudMat> asd
+[22Dec2024 20:43:33.915] [Async Chat Thread - #38/INFO] [Console/]: <luchooos> ns hace falta el coso este solo
+[22Dec2024 20:43:36.352] [Async Chat Thread - #37/INFO] [Console/]: <luchooos> el alma de golem
+[22Dec2024 20:43:36.756] [User Authenticator #66/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Its_JosiasX7 is c7c19ff6-d004-360d-bee3-9b557af1d49a
+[22Dec2024 20:43:38.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Its_JosiasX7[/127.46.178.27:37743] logged in with entity id 177639 at (49.69999998807907, 79.0, -1630.762499988079)
+[22Dec2024 20:43:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Its_JosiasX7 joined the game
+[22Dec2024 20:43:39.666] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Its_JosiasX7 (18)
+[22Dec2024 20:43:39.666] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Its_JosiasX7
+[22Dec2024 20:43:41.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /give @p dedsafio3:cuchara_r{display:{Name:'{"text":"Cuchara Dela Resureccion","color":"gold"}',Lore:['{"text":"Esta cuchara solo se podra usar el dia:","color":"gray"}','{"text":"2","color":"gray"}']}}
+[22Dec2024 20:43:41.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Gave 1 [Cuchara Dela Resureccion] to TheHollowKingMC]
+[22Dec2024 20:43:41.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c7c19ff6-d004-360d-bee3-9b557af1d49a
+[22Dec2024 20:43:42.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c7c19ff6-d004-360d-bee3-9b557af1d49a
+[22Dec2024 20:43:42.826] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Its_JosiasX7 (c7c19ff6-d004-360d-bee3-9b557af1d49a) successfully connected to voice chat
+[22Dec2024 20:43:46.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:43:46.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:43:46.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:43:46.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:43:47.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:43:47.335] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:43:47.564] [Async Chat Thread - #38/INFO] [Console/]: <Elganglybruh> Its_JosiasX7 hay momento nutria
+[22Dec2024 20:43:52.582] [Async Chat Thread - #38/INFO] [Console/]: <Its_JosiasX7> ya y
+[22Dec2024 20:43:55.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b9702186-856a-3c4f-b3aa-cadf12d6d1bc timed out
+[22Dec2024 20:43:55.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player eloyurs1
+[22Dec2024 20:43:55.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to eloyurs1
+[22Dec2024 20:43:55.421] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b9702186-856a-3c4f-b3aa-cadf12d6d1bc
+[22Dec2024 20:43:56.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b9702186-856a-3c4f-b3aa-cadf12d6d1bc
+[22Dec2024 20:43:56.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player eloyurs1 (b9702186-856a-3c4f-b3aa-cadf12d6d1bc) successfully connected to voice chat
+[22Dec2024 20:43:56.836] [Async Chat Thread - #37/INFO] [Console/]: <eloyurs1> Roberto_mc1
+[22Dec2024 20:43:57.410] [Async Chat Thread - #37/INFO] [Console/]: <Elganglybruh> eso :v
+[22Dec2024 20:43:59.628] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:43:59.984] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres}
+[22Dec2024 20:44:00.708] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> andres}}
+[22Dec2024 20:44:01.159] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres}}
+[22Dec2024 20:44:01.535] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres}}
+[22Dec2024 20:44:03.386] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:03.812] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:04.156] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:04.450] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:04.747] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:05.051] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:05.336] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:05.663] [Async Chat Thread - #37/INFO] [Console/]: <Roberto_mc1> andres
+[22Dec2024 20:44:08.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode spectator
+[22Dec2024 20:44:08.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Spectator Mode]
+[22Dec2024 20:44:11.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode spectator
+[22Dec2024 20:44:11.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Spectator Mode]
+[22Dec2024 20:44:13.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /gamemode creative
+[22Dec2024 20:44:13.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheHollowKingMC: Set own game mode to Creative Mode]
+[22Dec2024 20:44:13.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[22Dec2024 20:44:13.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[22Dec2024 20:44:14.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[22Dec2024 20:44:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[22Dec2024 20:44:14.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andr9z issued server command: /gamemode creative
+[22Dec2024 20:44:14.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andr9z: Set own game mode to Creative Mode]
+[22Dec2024 20:44:16.207] [Async Chat Thread - #38/INFO] [Console/]: <eloyurs1> Roberto_mc1
+[22Dec2024 20:44:17.544] [Async Chat Thread - #37/INFO] [Console/]: <eloyurs1> tp
+[22Dec2024 20:44:22.026] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> perame
+[22Dec2024 20:44:22.247] [Async Chat Thread - #37/INFO] [Console/]: <eloyurs1> o tengo que esperar?
+[22Dec2024 20:44:22.380] [Async Chat Thread - #38/INFO] [Console/]: <Roberto_mc1> perame
+[22Dec2024 20:44:26.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:44:26.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:44:26.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:44:27.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:44:28.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:44:28.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:44:35.061] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:44:35.175] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[22Dec2024 20:44:35.175] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdb47746$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[22Dec2024 20:44:35.176] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[22Dec2024 20:44:37.817] [Async Chat Thread - #37/INFO] [Console/]: <ElMartinz> reparacion
+[22Dec2024 20:44:38.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /scale set 0.5
+[22Dec2024 20:44:44.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp eloyurs1
+[22Dec2024 20:44:44.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to eloyurs1]
+[22Dec2024 20:44:47.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.6
+[22Dec2024 20:45:07.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:45:07.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:45:07.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:45:07.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:45:08.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:45:08.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:45:21.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp eloyurs1 -400 70 -300
+[22Dec2024 20:45:21.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported eloyurs1 to -399.500000, 70.000000, -299.500000]
+[22Dec2024 20:45:31.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TheHollowKingMC
+[22Dec2024 20:45:31.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to TheHollowKingMC]
+[22Dec2024 20:45:38.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElMartinz lost connection: Disconnected
+[22Dec2024 20:45:38.439] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElMartinz
+[22Dec2024 20:45:38.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMartinz left the game
+[22Dec2024 20:45:44.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /scale set 1
+[22Dec2024 20:45:47.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 38be6371-84c1-367c-856c-7ef744ee76fc timed out
+[22Dec2024 20:45:47.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Elganglybruh
+[22Dec2024 20:45:47.651] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Elganglybruh
+[22Dec2024 20:45:47.916] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:45:48.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 38be6371-84c1-367c-856c-7ef744ee76fc
+[22Dec2024 20:45:48.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Elganglybruh (38be6371-84c1-367c-856c-7ef744ee76fc) successfully connected to voice chat
+[22Dec2024 20:45:49.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b9702186-856a-3c4f-b3aa-cadf12d6d1bc timed out
+[22Dec2024 20:45:49.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player eloyurs1
+[22Dec2024 20:45:49.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to eloyurs1
+[22Dec2024 20:45:49.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b9702186-856a-3c4f-b3aa-cadf12d6d1bc
+[22Dec2024 20:45:51.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b9702186-856a-3c4f-b3aa-cadf12d6d1bc
+[22Dec2024 20:45:51.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player eloyurs1 (b9702186-856a-3c4f-b3aa-cadf12d6d1bc) successfully connected to voice chat
+[22Dec2024 20:45:57.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /scale set 0.5
+[22Dec2024 20:45:59.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elganglybruh lost connection: Disconnected
+[22Dec2024 20:45:59.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elganglybruh
+[22Dec2024 20:45:59.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elganglybruh left the game
+[22Dec2024 20:46:00.425] [Async Chat Thread - #40/INFO] [Console/]: <luchooos> las ranas aparecen solo de noche?
+[22Dec2024 20:46:00.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheHollowKingMC issued server command: /scale set 0.4
