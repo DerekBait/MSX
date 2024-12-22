@@ -1936,5 +1936,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-22 20:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-22 20:08:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
