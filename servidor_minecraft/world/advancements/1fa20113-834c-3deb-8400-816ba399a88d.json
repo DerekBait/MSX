@@ -929,6 +929,7 @@
       "minecraft:spider": "2024-12-21 21:24:34 +0000",
       "minecraft:creeper": "2024-12-22 01:59:17 +0000",
       "minecraft:phantom": "2024-12-22 01:50:53 +0000",
+      "minecraft:enderman": "2024-12-22 20:59:26 +0000",
       "minecraft:zombie": "2024-12-21 21:24:52 +0000",
       "minecraft:drowned": "2024-12-22 01:51:05 +0000",
       "minecraft:zombie_villager": "2024-12-21 22:10:33 +0000"
@@ -1913,6 +1914,42 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-22 19:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 21:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 21:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 21:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-22 20:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-22 21:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-22 21:03:36 +0000"
     },
     "done": true
   },

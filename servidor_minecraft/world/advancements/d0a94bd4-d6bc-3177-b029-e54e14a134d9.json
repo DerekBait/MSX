@@ -408,9 +408,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-22 20:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-12-22 20:55:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-22 20:21:43 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_pink": {
+    "criteria": {
+      "has_wool": "2024-12-22 20:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-12-22 20:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-12-22 20:55:37 +0000"
     },
     "done": true
   },
