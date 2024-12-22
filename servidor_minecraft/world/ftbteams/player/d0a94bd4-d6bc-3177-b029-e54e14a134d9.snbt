@@ -1,0 +1,17 @@
+{
+	id: "d0a94bd4-d6bc-3177-b029-e54e14a134d9"
+	type: "player"
+	player_name: "Andr9z"
+	ranks: {
+		d0a94bd4-d6bc-3177-b029-e54e14a134d9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Andr9z"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5972FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -20,19 +20,6 @@
 		{
 			description: ["{@pagebreak}"]
 			id: "100329D529858C6C"
-			rewards: [{
-				id: "0533A98EB8923D3C"
-				item: {
-					Count: 1
-					id: "dedsafio3:dedita_mision"
-					tag: {
-						display: {
-							Name: "{\"text\":\"Dedita Día 1\",\"color\":\"aqua\",\"bold\":true}"
-						}
-					}
-				}
-				type: "item"
-			}]
 			tasks: [
 				{
 					id: "4F52CB52DC64A1BB"
@@ -85,19 +72,32 @@
 		}
 		{
 			id: "58670FCD87E4200B"
-			tasks: [{
-				id: "40683219F88D062B"
+			rewards: [{
+				id: "11695FE589459B84"
 				item: {
 					Count: 1
-					id: "voltymod:barrierslab"
+					id: "dedsafio3:dedita_mision"
 					tag: {
 						display: {
-							Name: "{\"text\":\"???\"}"
+							Name: "{\"text\":\"Dedita Día 2\"}"
 						}
 					}
 				}
 				type: "item"
 			}]
+			subtitle: "espada fantasmal"
+			tasks: [{
+				id: "4770B27B9E89E458"
+				item: {
+					Count: 1
+					id: "dedsafio3:espada"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Consigue la espada fantasmal mision dia 2"
 			x: -12.5d
 			y: -11.0d
 		}
@@ -157,11 +157,19 @@
 		}
 		{
 			id: "2A899CBB8EB361A3"
-			rewards: [{
-				id: "2BC362EF04D3F444"
-				item: "dedsafio3:totem_espacial"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "2BC362EF04D3F444"
+					item: "dedsafio3:totem_espacial"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1D4356E71BB39B89"
+					item: "dedsafio3:corazon"
+					type: "item"
+				}
+			]
 			tasks: [{
 				dimension: "minecraft:limbo"
 				icon: "cataclysm:abyss_eye"

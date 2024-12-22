@@ -62,12 +62,11 @@ data-version: 3|2|3465
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_ESPADA_INANIMADA
+        type: DEDSAFIO3_ESPADA_INANIMADA
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_DEDITAAZUL
-        amount: 5
+        type: DEDSAFIO3_ALMADE_GOLEM
   snapshots: []
 '13':
   uniqueId: 3a5bf3f8-ebc6-42f0-add1-4b7df697e9ac
@@ -116,11 +115,13 @@ data-version: 3|2|3465
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: DEDSAFIO3_CHOCOLATE
+        type: COOKED_BEEF
+        amount: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_DEDITAAZUL
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 3
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
@@ -143,24 +144,23 @@ data-version: 3|2|3465
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_AMPLIFICADOR_ENERGIA
-        amount: 2
+        type: GOLDEN_APPLE
+        amount: 3
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_DEDITANARANJA
-        amount: 3
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 2
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_AMPLIFICADOR_VIDA
-        amount: 2
+        type: ENCHANTED_GOLDEN_APPLE
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_DEDITANARANJA
-        amount: 3
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 15
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
@@ -178,6 +178,28 @@ data-version: 3|2|3465
         v: 3465
         type: VOLTYMOD_BROCOLI
         amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 3
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_AMPLIFICADOR_ENERGIA
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 3
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_AMPLIFICADOR_VIDA
+        amount: 2
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465

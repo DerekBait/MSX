@@ -1,0 +1,17 @@
+{
+	id: "68534620-3082-3f2d-a81e-9613ceaf1af4"
+	type: "player"
+	player_name: "ElnuelitoXD"
+	ranks: {
+		68534620-3082-3f2d-a81e-9613ceaf1af4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ElnuelitoXD"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

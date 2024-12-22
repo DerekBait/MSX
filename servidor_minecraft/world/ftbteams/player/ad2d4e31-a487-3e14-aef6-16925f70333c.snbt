@@ -1,0 +1,17 @@
+{
+	id: "ad2d4e31-a487-3e14-aef6-16925f70333c"
+	type: "player"
+	player_name: "ItzMeNob"
+	ranks: {
+		ad2d4e31-a487-3e14-aef6-16925f70333c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ItzMeNob"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B1FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

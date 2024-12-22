@@ -46,9 +46,7 @@
 		29813C1011B91013: 1734724676144L
 		100329D529858C6C: 1734724676144L
 	}
-	claimed_rewards: {
-		"a81728c50ebf3d12b3f205ee1928f727:0533A98EB8923D3C": 1734724681852L
-	}
+	claimed_rewards: { }
 	player_data: {
 		a81728c50ebf3d12b3f205ee1928f727: {
 			can_edit: 1b

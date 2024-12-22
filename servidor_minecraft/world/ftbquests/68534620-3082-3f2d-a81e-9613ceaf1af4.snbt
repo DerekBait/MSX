@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "6853462030823f2da81e9613ceaf1af4"
+	name: "ElnuelitoXD#68534620"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4525EB9D579BD956: 1
+	}
+	started: {
+		3DE6F4146002BC79: 1734895209231L
+		0000000000000001: 1734895209231L
+		4525EB9D579BD956: 1734895209231L
+		28717D173D8CB6D3: 1734895209231L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

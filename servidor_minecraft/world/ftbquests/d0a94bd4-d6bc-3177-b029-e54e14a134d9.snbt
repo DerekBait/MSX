@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d0a94bd4d6bc3177b029e54e14a134d9"
+	name: "Andr9z#d0a94bd4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

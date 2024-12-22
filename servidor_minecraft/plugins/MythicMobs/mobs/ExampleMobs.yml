@@ -72,3 +72,15 @@ AngrySludge:
   Skills:
   - skill{s=AngrySludgePoison} 0.2
   - blockmask{material=SLIME_BLOCK;r=1;duration=100} @self ~onTimer:20
+LMVaca:
+  Type: COW
+  Display: 'LM'
+  Health: 1
+  Damage: 1
+  Drops: []
+  Equipment: []
+  AIGoalSelectors:
+    - 0 randomstroll
+  Conditions:
+    - world:world
+    - time:day

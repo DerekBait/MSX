@@ -1,0 +1,15 @@
+recipe1:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.FurnaceRecipe
+  result: DEDSAFIO3_METALRECOCIDO
+  duration: 160
+  oncraftcommand: null
+  hidden: false
+  matchtype: MATCH_META
+  recipe:
+  - IRON_INGOT
+  permission: null
+  page: -1
+  slot: -1
+  result_slot: 1
+  category: furnace
+  exp: 0.0

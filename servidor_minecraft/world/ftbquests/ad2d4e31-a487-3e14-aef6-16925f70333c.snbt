@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ad2d4e31a4873e14aef616925f70333c"
+	name: "ItzMeNob#ad2d4e31"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

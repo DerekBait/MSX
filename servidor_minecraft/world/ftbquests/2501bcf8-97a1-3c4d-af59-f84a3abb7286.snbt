@@ -36,8 +36,6 @@
 		4CAB746D71B64E71: 1734822917415L
 		100329D529858C6C: 1734822917415L
 	}
-	claimed_rewards: {
-		"2501bcf897a13c4daf59f84a3abb7286:0533A98EB8923D3C": 1734822920417L
-	}
+	claimed_rewards: { }
 	player_data: { }
 }

@@ -142,6 +142,372 @@
 			x: -7.0d
 			y: -2.5d
 		}
+		{
+			id: "0F3FBFB73C1A8075"
+			rewards: [
+				{
+					count: 8
+					id: "4C8087AACC0F98D5"
+					item: "voltymod:deditaazul"
+					type: "item"
+				}
+				{
+					id: "05D64CBCD51C5B57"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: "minecraft:warden_spawn_egg"
+				id: "36E23C93DD68BAF2"
+				title: "Mata a un warden"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			icon: "minecraft:bone"
+			id: "17AB6FDB63DBB18A"
+			rewards: [{
+				count: 5
+				id: "026243742DFC0149"
+				item: "voltymod:deditaazul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "47CBBE3C12FB59D3"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Mata a 100 skeletos"
+			x: -10.0d
+			y: -5.0d
+		}
+		{
+			id: "129C51A03519F8EF"
+			rewards: [
+				{
+					count: 20
+					id: "3BB734A7ACCA6554"
+					item: "voltymod:deditaazul"
+					type: "item"
+				}
+				{
+					id: "6D432D12A7EE0B48"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					id: "5AEB01D6E74F09B1"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: { Count: 10, id: "minecraft:warden_spawn_egg" }
+				id: "0C9B8080C0241A35"
+				title: "Mata a 10 wardens"
+				type: "kill"
+				value: 10L
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			id: "3294FF32BEC393AF"
+			rewards: [{
+				count: 3
+				id: "55310D143DECBA4B"
+				item: "voltymod:deditaazul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: { Count: 100, id: "minecraft:spider_eye" }
+				id: "39FBD72B503C39A4"
+				title: "Mata a 100 arañas"
+				type: "kill"
+				value: 100L
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			id: "61E5F8BD0F978739"
+			rewards: [{
+				count: 10
+				id: "21CA5989942E5252"
+				item: "voltymod:deditaazul"
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "5CF8E62F2EF370FE"
+				item: { Count: 2, id: "dedsafio3:nutri_totem" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			id: "0549B7BE410B34A3"
+			rewards: [{
+				id: "346E968CD1455CD3"
+				item: "dedsafio3:nutri_totem"
+				type: "item"
+			}]
+			subtitle: "Gana 1 raid"
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:white_banner"
+					tag: {
+						BlockEntityTag: {
+							Patterns: [
+								{
+									Color: 9
+									Pattern: "mr"
+								}
+								{
+									Color: 8
+									Pattern: "bs"
+								}
+								{
+									Color: 7
+									Pattern: "cs"
+								}
+								{
+									Color: 8
+									Pattern: "bo"
+								}
+								{
+									Color: 15
+									Pattern: "ms"
+								}
+								{
+									Color: 8
+									Pattern: "hh"
+								}
+								{
+									Color: 8
+									Pattern: "mc"
+								}
+								{
+									Color: 15
+									Pattern: "bo"
+								}
+							]
+						}
+						HideFlags: 32
+						display: {
+							Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+						}
+					}
+				}
+				id: "2278FB662A56D739"
+				stat: "minecraft:raid_win"
+				type: "stat"
+				value: 1
+			}]
+			title: "Entrenamiento"
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0549B7BE410B34A3"]
+			id: "6AD0246A27DD8394"
+			rewards: [{
+				count: 3
+				id: "1B8CC9A28FA1BF40"
+				item: "dedsafio3:nutri_totem"
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:white_banner"
+					tag: {
+						BlockEntityTag: {
+							Patterns: [
+								{
+									Color: 9
+									Pattern: "mr"
+								}
+								{
+									Color: 8
+									Pattern: "bs"
+								}
+								{
+									Color: 7
+									Pattern: "cs"
+								}
+								{
+									Color: 8
+									Pattern: "bo"
+								}
+								{
+									Color: 15
+									Pattern: "ms"
+								}
+								{
+									Color: 8
+									Pattern: "hh"
+								}
+								{
+									Color: 8
+									Pattern: "mc"
+								}
+								{
+									Color: 15
+									Pattern: "bo"
+								}
+							]
+						}
+						HideFlags: 32
+						display: {
+							Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+						}
+					}
+				}
+				id: "71D5E133B9CB345F"
+				stat: "minecraft:raid_win"
+				type: "stat"
+				value: 5
+			}]
+			title: "Gana 5 Raids"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6AD0246A27DD8394"]
+			id: "6DC55F614918D47C"
+			rewards: [
+				{
+					count: 3
+					id: "30EE076D55164076"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "523CABE35681B15B"
+					item: "dedsafio3:corazon"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2974B0557605ACF5"
+					item: "voltymod:deditaazul"
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					Count: 1
+					id: "minecraft:white_banner"
+					tag: {
+						BlockEntityTag: {
+							Patterns: [
+								{
+									Color: 9
+									Pattern: "mr"
+								}
+								{
+									Color: 8
+									Pattern: "bs"
+								}
+								{
+									Color: 7
+									Pattern: "cs"
+								}
+								{
+									Color: 8
+									Pattern: "bo"
+								}
+								{
+									Color: 15
+									Pattern: "ms"
+								}
+								{
+									Color: 8
+									Pattern: "hh"
+								}
+								{
+									Color: 8
+									Pattern: "mc"
+								}
+								{
+									Color: 15
+									Pattern: "bo"
+								}
+							]
+						}
+						HideFlags: 32
+						display: {
+							Name: "{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}"
+						}
+					}
+				}
+				id: "38007C0812E1CFFD"
+				stat: "minecraft:raid_win"
+				type: "stat"
+				value: 10
+			}]
+			title: "Gana 10 Raids"
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6DC55F614918D47C"]
+			id: "666DC113D3EA6766"
+			rewards: [
+				{
+					count: 5
+					id: "278EBF9EC167DF4B"
+					item: "voltymod:deditaazul"
+					type: "item"
+				}
+				{
+					id: "484E9451D61203C1"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ravager"
+				id: "648D3177A43D775C"
+				type: "kill"
+				value: 50L
+			}]
+			title: "Mata A 50 Devastadores"
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			icon: { Count: 100, id: "dedsafio3:pata_rana" }
+			id: "3792D1680354AB8D"
+			rewards: [{
+				count: 3
+				id: "0F031D984776034F"
+				item: "voltymod:deditaazul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "dedsafio3:rana"
+				icon: "dedsafio3:pata_rana"
+				id: "105BA01BFD15681B"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Mata 100 Ranas"
+			x: -9.0d
+			y: -2.0d
+		}
 	]
 	title: "SECUNDARIAS"
 }
