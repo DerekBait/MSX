@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "04b837f82694344794cea5b7f94f9a36"
+	name: "kox_1920#04b837f8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

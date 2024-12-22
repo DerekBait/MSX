@@ -2631,5 +2631,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-22 19:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-22 19:37:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
