@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c0a8f02c74dd304f929a18d05b7ea0cf"
+	name: "DerekBaitMC#c0a8f02c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
