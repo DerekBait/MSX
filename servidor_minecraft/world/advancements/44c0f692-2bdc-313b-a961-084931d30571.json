@@ -3111,21 +3111,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-12-24 21:27:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2024-12-24 21:24:19 +0000"
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_platinum_chunk": "2024-12-24 21:40:31 +0000"
+      "has_diamond_block": "2024-12-24 21:27:50 +0000"
     },
     "done": true
   },
@@ -3135,9 +3129,21 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-24 21:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-12-24 21:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-24 22:32:57 +0000"
     },
     "done": true
   },

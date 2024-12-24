@@ -691,7 +691,8 @@
       "bread": "2024-12-21 21:38:47 +0000",
       "golden_apple": "2024-12-24 05:29:22 +0000",
       "rotten_flesh": "2024-12-21 21:37:07 +0000",
-      "melon_slice": "2024-12-22 01:54:44 +0000"
+      "melon_slice": "2024-12-22 01:54:44 +0000",
+      "golden_carrot": "2024-12-24 21:59:06 +0000"
     },
     "done": false
   },
@@ -2739,6 +2740,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2024-12-24 21:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-24 22:17:49 +0000"
     },
     "done": true
   },
