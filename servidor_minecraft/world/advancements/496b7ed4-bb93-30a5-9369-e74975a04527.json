@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2024-12-24 22:40:03 +0000",
       "minecraft:deep_ocean": "2024-12-21 21:15:16 +0000",
       "minecraft:sunflower_plains": "2024-12-22 00:32:06 +0000",
       "minecraft:birch_forest": "2024-12-21 21:06:10 +0000",
@@ -899,6 +900,7 @@
       "cooked_beef": "2024-12-21 21:22:02 +0000",
       "mutton": "2024-12-21 22:32:33 +0000",
       "bread": "2024-12-21 21:57:28 +0000",
+      "golden_apple": "2024-12-24 22:51:38 +0000",
       "golden_carrot": "2024-12-24 02:21:34 +0000",
       "carrot": "2024-12-21 22:43:21 +0000"
     },
@@ -1033,8 +1035,10 @@
       "minecraft:vindicator": "2024-12-24 21:40:17 +0000",
       "minecraft:magma_cube": "2024-12-24 21:31:52 +0000",
       "minecraft:spider": "2024-12-21 21:28:36 +0000",
+      "minecraft:piglin_brute": "2024-12-24 22:51:31 +0000",
       "minecraft:creeper": "2024-12-21 21:36:32 +0000",
       "minecraft:zombified_piglin": "2024-12-24 19:11:05 +0000",
+      "minecraft:piglin": "2024-12-24 22:52:43 +0000",
       "minecraft:enderman": "2024-12-24 22:12:48 +0000",
       "minecraft:zombie": "2024-12-22 19:06:15 +0000"
     },
@@ -2602,6 +2606,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/decorations/imbuing_table": {
+    "criteria": {
+      "has_primal_essence": "2024-12-24 22:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-24 22:26:05 +0000"
@@ -2638,6 +2648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-24 22:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-24 22:24:09 +0000"
@@ -2665,6 +2681,18 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-24 22:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-24 22:44:55 +0000"
     },
     "done": true
   },

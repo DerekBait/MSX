@@ -2084,6 +2084,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-24 04:46:39 +0000",
+      "golden_apple": "2024-12-24 22:51:53 +0000",
       "golden_carrot": "2024-12-24 04:38:52 +0000"
     },
     "done": false
@@ -2382,6 +2383,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/decorations/imbuing_table": {
+    "criteria": {
+      "has_primal_essence": "2024-12-24 22:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-24 22:17:37 +0000"
@@ -2427,6 +2434,12 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-24 22:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-24 22:50:09 +0000"
     },
     "done": true
   },

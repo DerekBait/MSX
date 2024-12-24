@@ -2054,6 +2054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-24 21:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-24 21:12:22 +0000"
@@ -2063,12 +2069,6 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-24 21:12:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-24 21:08:50 +0000"
     },
     "done": true
   },
