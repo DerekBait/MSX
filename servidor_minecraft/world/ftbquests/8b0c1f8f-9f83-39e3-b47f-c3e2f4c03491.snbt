@@ -51,6 +51,8 @@
 		3989C9F034DB0D95: 1735065871747L
 		4168483D9E6C6CC0: 1735065871747L
 	}
-	claimed_rewards: { }
+	claimed_rewards: {
+		"8b0c1f8f9f8339e3b47fc3e2f4c03491:227F556D1CF04490": 1735066429411L
+	}
 	player_data: { }
 }

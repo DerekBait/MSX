@@ -2463,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-24 02:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-24 02:31:00 +0000"
@@ -2481,9 +2487,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_warped_fungus": "2024-12-24 02:25:21 +0000"
+      "has_enchanted_golden_apple": "2024-12-24 18:50:34 +0000"
     },
     "done": true
   },

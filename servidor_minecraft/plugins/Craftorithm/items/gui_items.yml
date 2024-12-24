@@ -1,0 +1,114 @@
+ca04fe6a-073e-4fc3-8280-62202cd6b6d7:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: POTION
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    display-name: '"Panic Potion"'
+    custom-color:
+      ==: Color
+      ALPHA: 255
+      RED: 239
+      BLUE: 62
+      GREEN: 227
+    custom-effects:
+    - ==: PotionEffect
+      effect: 1
+      duration: 300
+      amplifier: 2
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 10
+      duration: 300
+      amplifier: 3
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 11
+      duration: 300
+      amplifier: 2
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 18
+      duration: 300
+      amplifier: 9
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 21
+      duration: 300
+      amplifier: 4
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 28
+      duration: 600
+      amplifier: 0
+      ambient: true
+      has-particles: true
+      has-icon: true
+e10dadde-771a-4f75-ab01-17bb778b8420:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3465
+  type: SPLASH_POTION
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    display-name: '"Panic Potion"'
+    custom-color:
+      ==: Color
+      ALPHA: 255
+      RED: 239
+      BLUE: 62
+      GREEN: 227
+    custom-effects:
+    - ==: PotionEffect
+      effect: 1
+      duration: 300
+      amplifier: 2
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 10
+      duration: 300
+      amplifier: 3
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 11
+      duration: 300
+      amplifier: 2
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 18
+      duration: 300
+      amplifier: 9
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 21
+      duration: 300
+      amplifier: 4
+      ambient: true
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 28
+      duration: 600
+      amplifier: 0
+      ambient: true
+      has-particles: true
+      has-icon: true

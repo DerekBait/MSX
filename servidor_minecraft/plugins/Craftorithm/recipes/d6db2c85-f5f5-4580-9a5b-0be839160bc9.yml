@@ -1,0 +1,7 @@
+source:
+  copy_nbt: false
+  base: minecraft:glass_bottle
+  addition: minecraft:netherite_scrap
+  cost_level: 0
+type: anvil
+result: items:gui_items:e10dadde-771a-4f75-ab01-17bb778b8420
