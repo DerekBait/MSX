@@ -101,3 +101,12 @@ ZOMBIFIED_PIGLIN:
   - players
   Skills:
   - potion{type=SPEED;duration=10000;level=1} @self ~onSpawn
+PIGLIN:
+  Type: PIGLIN
+  Skills:
+  - potion{type=SPEED;duration=100000;level=0} @self ~onSpawn
+  - potion{type=STRENGTH;duration=100000;level=2} @self ~onSpawn
+PIGLIN_BRUTE:
+  Type: PIGLIN_BRUTE
+  Skills:
+  - potion{type=SPEED;duration=100000;level=2} @self ~onSpawn

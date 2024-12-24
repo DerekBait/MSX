@@ -1066,6 +1066,7 @@
       "porkchop": "2024-12-21 22:34:38 +0000",
       "apple": "2024-12-23 23:52:24 +0000",
       "mutton": "2024-12-21 22:30:07 +0000",
+      "golden_apple": "2024-12-24 06:25:36 +0000",
       "salmon": "2024-12-22 01:48:24 +0000",
       "melon_slice": "2024-12-22 19:15:10 +0000",
       "golden_carrot": "2024-12-24 02:24:02 +0000",
@@ -2476,9 +2477,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-24 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
     },
     "done": true
   },
@@ -2494,6 +2513,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2024-12-24 05:51:00 +0000"
@@ -2503,6 +2534,18 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-24 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
     },
     "done": true
   },
@@ -2539,6 +2582,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
     },
     "done": true
   },
@@ -2590,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2024-12-24 05:54:53 +0000"
@@ -2602,9 +2657,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-24 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-24 06:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 06:32:55 +0000"
     },
     "done": true
   },
