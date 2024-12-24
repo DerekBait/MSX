@@ -818,6 +818,7 @@
       "minecraft:creeper": "2024-12-24 04:41:32 +0000",
       "minecraft:phantom": "2024-12-21 23:22:37 +0000",
       "minecraft:zombified_piglin": "2024-12-23 23:04:34 +0000",
+      "minecraft:wither_skeleton": "2024-12-24 23:11:08 +0000",
       "minecraft:piglin": "2024-12-23 22:15:11 +0000",
       "minecraft:enderman": "2024-12-22 00:17:23 +0000",
       "minecraft:zombie": "2024-12-22 00:11:56 +0000"
@@ -3147,6 +3148,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-24 22:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-24 23:21:37 +0000"
     },
     "done": true
   },

@@ -1120,6 +1120,7 @@
       "bread": "2024-12-21 21:20:04 +0000",
       "golden_apple": "2024-12-21 22:20:12 +0000",
       "cookie": "2024-12-24 21:11:48 +0000",
+      "suspicious_stew": "2024-12-24 23:30:59 +0000",
       "golden_carrot": "2024-12-24 18:56:56 +0000",
       "enchanted_golden_apple": "2024-12-24 04:08:53 +0000"
     },
@@ -1146,6 +1147,7 @@
       "minecraft:phantom": "2024-12-23 23:49:03 +0000",
       "minecraft:zombified_piglin": "2024-12-23 23:26:32 +0000",
       "minecraft:witch": "2024-12-23 21:17:23 +0000",
+      "minecraft:wither_skeleton": "2024-12-24 23:13:19 +0000",
       "minecraft:piglin": "2024-12-24 22:53:35 +0000",
       "minecraft:enderman": "2024-12-23 22:58:55 +0000",
       "minecraft:vex": "2024-12-24 03:10:17 +0000",
@@ -2992,6 +2994,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-12-24 23:24:08 +0000"
+    },
+    "done": false
+  },
   "illagerinvasion:recipes/decorations/imbuing_table": {
     "criteria": {
       "has_primal_essence": "2024-12-24 22:52:18 +0000"
@@ -3052,6 +3060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-24 23:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-24 22:39:26 +0000"
@@ -3106,6 +3120,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-24 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-12-24 23:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-24 22:39:26 +0000"
@@ -3127,6 +3153,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-24 22:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-24 23:07:13 +0000"
     },
     "done": true
   },
