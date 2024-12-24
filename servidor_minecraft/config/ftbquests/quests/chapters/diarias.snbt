@@ -90,19 +90,27 @@
 		}
 		{
 			id: "3989C9F034DB0D95"
-			tasks: [{
-				id: "1EFE054D70E5C61C"
+			rewards: [{
+				id: "227F556D1CF04490"
 				item: {
 					Count: 1
-					id: "voltymod:barrierslab"
+					id: "dedsafio3:dedita_mision"
 					tag: {
+						RepairCost: 0
 						display: {
-							Name: "{\"text\":\"???\"}"
+							Name: "{\"text\":\"Dedita Día 4\"}"
 						}
 					}
 				}
 				type: "item"
 			}]
+			tasks: [{
+				count: 16L
+				id: "4168483D9E6C6CC0"
+				item: { Count: 16, id: "minecraft:golden_apple" }
+				type: "item"
+			}]
+			title: "Consigue 16 Manzanas Doradas"
 			x: -11.5d
 			y: -11.0d
 		}
@@ -169,20 +177,6 @@
 		}
 		{
 			id: "3E5B311808935F83"
-			rewards: [{
-				id: "2406C83C641F0269"
-				item: {
-					Count: 1
-					id: "dedsafio3:dedita_mision"
-					tag: {
-						RepairCost: 0
-						display: {
-							Name: "{\"text\":\"Dedita Día 3\"}"
-						}
-					}
-				}
-				type: "item"
-			}]
 			tasks: [{
 				id: "6925E024F8B37239"
 				item: {

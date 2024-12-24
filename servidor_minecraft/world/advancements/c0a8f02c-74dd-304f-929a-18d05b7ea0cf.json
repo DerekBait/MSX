@@ -179,6 +179,7 @@
       "bread": "2024-12-23 23:04:38 +0000",
       "suspicious_stew": "2024-12-23 20:57:21 +0000",
       "rotten_flesh": "2024-12-24 03:41:14 +0000",
+      "golden_carrot": "2024-12-24 18:34:13 +0000",
       "cooked_chicken": "2024-12-23 23:47:47 +0000",
       "enchanted_golden_apple": "2024-12-23 22:34:30 +0000"
     },
@@ -1484,6 +1485,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-24 06:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-24 18:34:42 +0000"
     },
     "done": true
   },
