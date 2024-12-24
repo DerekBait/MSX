@@ -2929,9 +2929,9 @@
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/hallowed_gem": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_unusual_dust_and_illusionary_dust": "2024-12-24 03:10:24 +0000"
+      "has_iron_nugget": "2024-12-24 03:04:51 +0000"
     },
     "done": true
   },
@@ -2953,21 +2953,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2024-12-24 03:14:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-24 03:08:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "illagerinvasion:recipes/misc/hallowed_gem": {
     "criteria": {
-      "has_iron_nugget": "2024-12-24 03:04:51 +0000"
+      "has_unusual_dust_and_illusionary_dust": "2024-12-24 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-24 03:14:41 +0000"
     },
     "done": true
   },

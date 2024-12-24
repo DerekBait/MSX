@@ -141,13 +141,12 @@ Events:
     - '%block% == VOLTYMOD_PILAR_VERDE_GORDO'
     - '%action_type% == RIGHT_CLICK'
     - '%item% == DEDSAFIO3_DEDITA_MISION'
-    - '%item_name% == Dedita Día 3'
+    - '%item_name% == Dedita Día 4'
     actions:
       default:
       - 'console_command: tellraw @a {"text":"⚙ El Jugador %player% Ha Completado
         la Mision Diaria","color":"aqua"}'
-      - 'console_command: give %player% voltymod:deditaazul 10'
-      - 'console_command: give %player% modminds:nutritotem 1'
+      - 'console_command: give %player% voltymod:deditaazul 5'
       - 'console_command: clear %player% dedsafio3:dedita_mision'
     enabled: true
   event9:
