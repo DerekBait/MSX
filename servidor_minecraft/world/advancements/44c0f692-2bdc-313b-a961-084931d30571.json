@@ -2807,5 +2807,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-24 06:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-24 05:30:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

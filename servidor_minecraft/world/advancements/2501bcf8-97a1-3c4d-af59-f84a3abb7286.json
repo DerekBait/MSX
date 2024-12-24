@@ -1065,12 +1065,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-21 21:21:03 +0000",
+      "minecraft:ghast": "2024-12-24 05:43:33 +0000",
       "minecraft:magma_cube": "2024-12-24 03:00:19 +0000",
       "minecraft:spider": "2024-12-21 21:20:19 +0000",
       "minecraft:creeper": "2024-12-22 01:53:29 +0000",
       "minecraft:slime": "2024-12-21 21:51:32 +0000",
       "minecraft:zombified_piglin": "2024-12-24 02:56:21 +0000",
       "minecraft:piglin": "2024-12-24 03:47:47 +0000",
+      "minecraft:enderman": "2024-12-24 05:59:15 +0000",
       "minecraft:zombie": "2024-12-21 21:20:25 +0000"
     },
     "done": false
@@ -2355,7 +2357,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-24 02:55:39 +0000"
+      "minecraft:nether_wastes": "2024-12-24 02:55:39 +0000",
+      "minecraft:soul_sand_valley": "2024-12-24 05:30:24 +0000"
     },
     "done": false
   },
@@ -2554,6 +2557,18 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-24 04:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-24 05:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-24 05:36:11 +0000"
     },
     "done": true
   },

@@ -2080,18 +2080,18 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-24 04:43:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-24 04:46:39 +0000",
       "golden_carrot": "2024-12-24 04:38:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-24 04:43:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

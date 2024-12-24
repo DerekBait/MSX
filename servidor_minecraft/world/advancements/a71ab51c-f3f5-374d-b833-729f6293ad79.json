@@ -2129,7 +2129,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-24 02:55:31 +0000",
-      "minecraft:soul_sand_valley": "2024-12-24 03:57:56 +0000"
+      "minecraft:soul_sand_valley": "2024-12-24 03:57:56 +0000",
+      "minecraft:basalt_deltas": "2024-12-24 05:38:54 +0000"
     },
     "done": false
   },

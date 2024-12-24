@@ -33,6 +33,7 @@
 		{ from: "9aa4b5e0-32a3-30dd-87ac-8514ea7c7001", date: 1734991245956L, text: "{\"text\":\"tu puta madre\"}" }
 		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1734999019776L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Iam_Fer\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1734999024222L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Iam_Fer\"}]}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1735017910173L, text: "{\"text\":\"dud tezt entren a vc, asi hablamos un rato pq me salgo, voy a subir mi trailer y me voy\"}" }
 	]
 	extra: { }
 }
