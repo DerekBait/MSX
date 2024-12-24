@@ -2,9 +2,7 @@
 	id: "38be6371-84c1-367c-856c-7ef744ee76fc"
 	type: "player"
 	player_name: "Elganglybruh"
-	ranks: {
-		38be6371-84c1-367c-856c-7ef744ee76fc: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Elganglybruh"
 		"ftbteams:description": ""

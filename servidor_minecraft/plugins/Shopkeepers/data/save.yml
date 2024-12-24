@@ -417,15 +417,91 @@ data-version: 3|2|3465
         v: 3465
         type: VOLTYMOD_DEDITANARANJA
         amount: 3
-    '9':
+  snapshots: []
+'15':
+  uniqueId: c33f77a8-d1c6-4a4e-8d7e-946f4af963ab
+  world: casino
+  x: 38
+  y: 65
+  z: 28
+  yaw: 186.5948
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_AMPLIFICADOR_VIDA
-        amount: 2
+        type: VOLTYMOD_DEDITAAZUL
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
         type: VOLTYMOD_DEDITANARANJA
+        amount: 5
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITANARANJA
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_TOTEMEON
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_CORAZON
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_AMPLIFICADOR_VIDA
+        amount: 3
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_PALTA
+        amount: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CREEPER_HEAD
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_PALTA
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_BROCOLI
+        amount: 15
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_PALTA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_AGUACATE
         amount: 3
   snapshots: []

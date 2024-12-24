@@ -55,6 +55,7 @@
       "minecraft:skeleton": "2024-12-24 02:50:39 +0000",
       "minecraft:ghast": "2024-12-23 23:22:29 +0000",
       "minecraft:vindicator": "2024-12-24 03:10:32 +0000",
+      "minecraft:magma_cube": "2024-12-24 20:26:44 +0000",
       "minecraft:piglin_brute": "2024-12-24 06:24:56 +0000",
       "minecraft:creeper": "2024-12-22 19:49:28 +0000",
       "minecraft:evoker": "2024-12-24 03:14:39 +0000",
@@ -62,7 +63,8 @@
       "minecraft:zombified_piglin": "2024-12-23 22:57:00 +0000",
       "minecraft:piglin": "2024-12-24 06:16:40 +0000",
       "minecraft:enderman": "2024-12-22 19:36:41 +0000",
-      "minecraft:zombie": "2024-12-24 18:36:52 +0000"
+      "minecraft:zombie": "2024-12-24 18:36:52 +0000",
+      "minecraft:drowned": "2024-12-24 19:12:18 +0000"
     },
     "done": false
   },
@@ -1128,7 +1130,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2024-12-23 23:04:26 +0000"
+      "chorus_fruit": "2024-12-24 20:08:05 +0000",
+      "golden_apple": "2024-12-23 23:04:26 +0000",
+      "suspicious_stew": "2024-12-24 20:09:40 +0000"
     },
     "done": false
   },
@@ -1630,15 +1634,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 18:49:07 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2024-12-24 18:58:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_log": "2024-12-24 18:49:07 +0000"
+      "has_book": "2024-12-24 19:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-24 19:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-24 19:41:25 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/misc/item_book": {
+    "criteria": {
+      "has_paper": "2024-12-24 19:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-24 19:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-24 19:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-24 20:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 20:32:34 +0000"
     },
     "done": true
   },

@@ -7,6 +7,8 @@
 		a71ab51c-f3f5-374d-b833-729f6293ad79: "member"
 		1fa20113-834c-3deb-8400-816ba399a88d: "member"
 		2501bcf8-97a1-3c4d-af59-f84a3abb7286: "member"
+		38be6371-84c1-367c-856c-7ef744ee76fc: "member"
+		b1a6cf57-ec2b-350c-9deb-2875675be5de: "member"
 		9aa4b5e0-32a3-30dd-87ac-8514ea7c7001: "member"
 	}
 	properties: {
@@ -35,6 +37,10 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1734999024222L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Iam_Fer\"}]}" }
 		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1735017910173L, text: "{\"text\":\"dud tezt entren a vc, asi hablamos un rato pq me salgo, voy a subir mi trailer y me voy\"}" }
 		{ from: "2501bcf8-97a1-3c4d-af59-f84a3abb7286", date: 1735065162196L, text: "{\"text\":\"XDDDD\"}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1735067527300L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"YoungVex\"}]}" }
+		{ from: "c7c19ff6-d004-360d-bee3-9b557af1d49a", date: 1735067527300L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Elganglybruh\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735067531493L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"YoungVex\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1735067533302L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Elganglybruh\"}]}" }
 	]
 	extra: { }
 }

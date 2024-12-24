@@ -1014,6 +1014,7 @@
       "minecraft:phantom": "2024-12-24 02:49:49 +0000",
       "minecraft:zombified_piglin": "2024-12-24 02:56:39 +0000",
       "minecraft:witch": "2024-12-22 00:43:20 +0000",
+      "minecraft:piglin": "2024-12-24 21:40:12 +0000",
       "minecraft:enderman": "2024-12-22 00:15:13 +0000",
       "minecraft:zombie": "2024-12-21 21:31:07 +0000"
     },
@@ -2523,6 +2524,42 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-24 19:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-24 21:31:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-24 21:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-24 21:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-24 21:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-24 21:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-24 21:43:04 +0000"
     },
     "done": true
   },

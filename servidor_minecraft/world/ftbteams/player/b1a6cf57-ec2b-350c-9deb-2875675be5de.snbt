@@ -2,9 +2,7 @@
 	id: "b1a6cf57-ec2b-350c-9deb-2875675be5de"
 	type: "player"
 	player_name: "YoungVex"
-	ranks: {
-		b1a6cf57-ec2b-350c-9deb-2875675be5de: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "YoungVex"
 		"ftbteams:description": ""
