@@ -16,6 +16,14 @@
     "reason": "Has sido baneado por morir."
   },
   {
+    "uuid": "496b7ed4-bb93-30a5-9369-e74975a04527",
+    "name": "Dropped_by_Parca",
+    "created": "2024-12-24 23:02:25 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  },
+  {
     "uuid": "bff740fa-1162-312c-921e-a79d17c02fc7",
     "name": "brayanz78",
     "created": "2024-12-24 02:54:53 +0000",
@@ -27,6 +35,14 @@
     "uuid": "1f1cf208-9822-31d5-b484-55f14bb3b1a2",
     "name": "its_Duran25",
     "created": "2024-12-24 03:37:02 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  },
+  {
+    "uuid": "5e2beb9c-5a5e-3d7e-8c9b-8281596a57e9",
+    "name": "TGgohan_YT",
+    "created": "2024-12-24 23:07:57 +0000",
     "source": "Server",
     "expires": "forever",
     "reason": "Has sido baneado por morir."
