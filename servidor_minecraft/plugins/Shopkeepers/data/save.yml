@@ -37,6 +37,201 @@ data-version: 3|2|3465
         ==: org.bukkit.inventory.ItemStack
         v: 3465
         type: VOLTYMOD_LANA_ARCOIRIS
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            LOOT_BONUS_BLOCKS: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DAMAGE_ALL: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            LOOT_BONUS_MOBS: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            PROTECTION_FIRE: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            SOUL_SPEED: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_DAMAGE: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_INFINITE: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            FIRE_ASPECT: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '14':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_FIRE: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
+    '15':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            SWIFT_SNEAK: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
   snapshots: []
 '12':
   uniqueId: d4021d5f-34d5-42ef-9565-1b273c63c811
@@ -67,6 +262,34 @@ data-version: 3|2|3465
         ==: org.bukkit.inventory.ItemStack
         v: 3465
         type: DEDSAFIO3_ALMADE_GOLEM
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: '"raid"'
+          custom-color:
+            ==: Color
+            ALPHA: 255
+            RED: 123
+            BLUE: 144
+            GREEN: 147
+          custom-effects:
+          - ==: PotionEffect
+            effect: 31
+            duration: 1200
+            amplifier: 0
+            ambient: true
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
   snapshots: []
 '13':
   uniqueId: 3a5bf3f8-ebc6-42f0-add1-4b7df697e9ac
@@ -88,7 +311,7 @@ data-version: 3|2|3465
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: DEDSAFIO3_NUTRI_TOTEM
+        type: MODMINDS_NUTRITOTEM
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465

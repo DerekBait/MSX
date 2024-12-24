@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "uuid": "9d763be7-481e-387c-a572-3d99c35363dd",
+    "name": "nob_master08",
+    "created": "2024-12-23 23:47:21 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  },
+  {
+    "uuid": "0cb1bf89-a981-3808-989d-b64350a3bd1f",
+    "name": "mine1430",
+    "created": "2024-12-24 00:07:42 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  },
+  {
+    "uuid": "bff740fa-1162-312c-921e-a79d17c02fc7",
+    "name": "brayanz78",
+    "created": "2024-12-24 02:54:53 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  },
+  {
+    "uuid": "1f1cf208-9822-31d5-b484-55f14bb3b1a2",
+    "name": "its_Duran25",
+    "created": "2024-12-24 03:37:02 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Has sido baneado por morir."
+  }
+]

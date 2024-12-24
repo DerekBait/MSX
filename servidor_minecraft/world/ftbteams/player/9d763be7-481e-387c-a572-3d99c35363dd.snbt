@@ -1,0 +1,17 @@
+{
+	id: "9d763be7-481e-387c-a572-3d99c35363dd"
+	type: "player"
+	player_name: "nob_master08"
+	ranks: {
+		9d763be7-481e-387c-a572-3d99c35363dd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "nob_master08"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

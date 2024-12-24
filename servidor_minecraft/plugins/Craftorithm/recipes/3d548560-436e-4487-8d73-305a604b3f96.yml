@@ -1,0 +1,11 @@
+type: shaped
+shape:
+- aba
+- bcb
+- aba
+source:
+  a: minecraft:netherite_scrap
+  b: minecraft:diamond
+  c: dedsafio3:almade_golem
+unlock: false
+result: minecraft:netherite_upgrade_smithing_template

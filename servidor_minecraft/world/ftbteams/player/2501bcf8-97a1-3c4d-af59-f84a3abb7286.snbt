@@ -2,9 +2,7 @@
 	id: "2501bcf8-97a1-3c4d-af59-f84a3abb7286"
 	type: "player"
 	player_name: "Iam_Fer"
-	ranks: {
-		2501bcf8-97a1-3c4d-af59-f84a3abb7286: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Iam_Fer"
 		"ftbteams:description": ""

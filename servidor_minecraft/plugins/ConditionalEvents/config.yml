@@ -141,12 +141,13 @@ Events:
     - '%block% == VOLTYMOD_PILAR_VERDE_GORDO'
     - '%action_type% == RIGHT_CLICK'
     - '%item% == DEDSAFIO3_DEDITA_MISION'
-    - '%item_name% == Dedita Día 2'
+    - '%item_name% == Dedita Día 3'
     actions:
       default:
       - 'console_command: tellraw @a {"text":"⚙ El Jugador %player% Ha Completado
         la Mision Diaria","color":"aqua"}'
-      - 'console_command: give %player% voltymod:deditaazul 8'
+      - 'console_command: give %player% voltymod:deditaazul 10'
+      - 'console_command: give %player% modminds:nutritotem 1'
       - 'console_command: clear %player% dedsafio3:dedita_mision'
     enabled: true
   event9:
@@ -217,3 +218,12 @@ Events:
       default:
       - 'console_command: scoreboard players add %player% TABLA 1'
     enabled: false
+  door1:
+    type: block_interact
+    conditions:
+    - '%block_world% == DEDSAFIO 3 - By TheNeitorLoL'
+    - '%block% == VOLTYMOD_PILARA_AMARILLO'
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:
+      - 'console_command: shopkeeper open altar2 %player%'

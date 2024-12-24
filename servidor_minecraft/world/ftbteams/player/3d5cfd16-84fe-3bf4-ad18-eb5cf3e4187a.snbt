@@ -1,0 +1,17 @@
+{
+	id: "3d5cfd16-84fe-3bf4-ad18-eb5cf3e4187a"
+	type: "player"
+	player_name: "narxi01"
+	ranks: {
+		3d5cfd16-84fe-3bf4-ad18-eb5cf3e4187a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "narxi01"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B2FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

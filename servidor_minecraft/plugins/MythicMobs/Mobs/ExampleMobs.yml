@@ -94,3 +94,10 @@ LMVaca:
         - plains
         - forest
         - meadow
+ZOMBIFIED_PIGLIN:
+  Type: ZOMBIFIED_PIGLIN
+  AITargetSelectors:
+  - clear
+  - players
+  Skills:
+  - potion{type=SPEED;duration=10000;level=1} @self ~onSpawn

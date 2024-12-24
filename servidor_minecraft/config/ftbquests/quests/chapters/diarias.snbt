@@ -72,19 +72,6 @@
 		}
 		{
 			id: "58670FCD87E4200B"
-			rewards: [{
-				id: "11695FE589459B84"
-				item: {
-					Count: 1
-					id: "dedsafio3:dedita_mision"
-					tag: {
-						display: {
-							Name: "{\"text\":\"Dedita Día 2\"}"
-						}
-					}
-				}
-				type: "item"
-			}]
 			subtitle: "espada fantasmal"
 			tasks: [{
 				id: "4770B27B9E89E458"
@@ -179,6 +166,36 @@
 			title: "ENTRA AL LIMBO"
 			x: 1.5d
 			y: -5.0d
+		}
+		{
+			id: "3E5B311808935F83"
+			rewards: [{
+				id: "2406C83C641F0269"
+				item: {
+					Count: 1
+					id: "dedsafio3:dedita_mision"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Dedita Día 3\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6925E024F8B37239"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -13.0d
+			y: -10.0d
 		}
 	]
 	title: "DIARIAS"
